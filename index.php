@@ -30,7 +30,7 @@
                              <!---->
                              <div class="about__element__desc">
                                  <p>
-                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
                                  </p>
                              </div>
                          </div>
@@ -47,8 +47,8 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                             <p>
-                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 <p>
+                                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
                                  </p>
                              </div>
                          </div>
@@ -65,8 +65,8 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                             <p>
-                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 <p>
+                                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
                                  </p>
                              </div>
                          </div>
@@ -83,8 +83,8 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                             <p>
-                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 <p>
+                                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
                                  </p>
                              </div>
                          </div>
@@ -101,8 +101,8 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                             <p>
-                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 <p>
+                                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
                                  </p>
                              </div>
                          </div>
@@ -119,8 +119,8 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                             <p>
-                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 <p>
+                                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
                                  </p>
                              </div>
                          </div>
@@ -178,11 +178,53 @@
              <!--------------->
              <!---our__clients__block---->
              <div class="main__clients__block">
-                <div class="main__clients__name">
-                <p>A-QROUP<span>-UN</span> MÜŞTƏRİLƏRİ</p>
-                </div>
-                
+                 <div class="main__clients__name">
+                     <p>A-QROUP<span>-UN</span> MÜŞTƏRİLƏRİ</p>
+                 </div>
+                 <div class="main__clients__wrapper">
+                     <div class="owl-carousel owl-theme clients-carousel">
+                         <div class="item box"><img alt="client logo" class="client-img" src="https://res.cloudinary.com/oralyildiz/image/upload/v1629776533/1_befu7u.png"></div>
+                         <div class="item box"><img alt="client logo" class="client-img" src="https://res.cloudinary.com/oralyildiz/image/upload/v1629776542/2_hmnhbj.png"></div>
+                         <div class="item box"><img alt="client logo" class="client-img" src="https://res.cloudinary.com/oralyildiz/image/upload/v1629776563/3_nkeq4k.png"></div>
+                         <div class="item box"><img alt="client logo" class="client-img" src="https://res.cloudinary.com/oralyildiz/image/upload/v1629776586/4_kocpoi.png"></div>
+                         <div class="item box"><img alt="client logo" class="client-img" src="https://res.cloudinary.com/oralyildiz/image/upload/v1629776603/5_n711f2.png"></div>
+                         <div class="item box"><img alt="client logo" class="client-img" src="https://res.cloudinary.com/oralyildiz/image/upload/v1629776612/6_jxhirl.png"></div>
+                         <div class="item box"><img alt="client logo" class="client-img" src="https://res.cloudinary.com/oralyildiz/image/upload/v1629776627/7_xc8ala.png"></div>
+                         <div class="item box"><img alt="client logo" class="client-img" src="https://res.cloudinary.com/oralyildiz/image/upload/v1629776646/8_paofta.png"></div>
+                     </div>
+                 </div>
+
              </div>
+
+             <script>
+                 $(".clients-carousel").owlCarousel({
+                     autoplay: true,
+                     loop: true,
+                     margin: 15,
+                     dots: false,
+                     slideTransition: "linear",
+                     autoplayTimeout: 4500,
+                     autoplayHoverPause: true,
+                     autoplaySpeed: 3000,
+                     responsive: {
+                         0: {
+                             items: 2
+                         },
+                         500: {
+                             items: 3
+                         },
+                         600: {
+                             items: 4
+                         },
+                         800: {
+                             items: 4
+                         },
+                         1200: {
+                             items: 4
+                         }
+                     }
+                 });
+             </script>
 
              <!---footer---->
              <?php include './include/footer.php' ?>
