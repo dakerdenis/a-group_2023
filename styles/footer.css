@@ -7,7 +7,7 @@
     display: flex;
 }
 .foter__block:first-child {
-width: 35%;
+width: 30%;
 height: 100%;
 background-color: #BC1A1A;
 display: flex;
@@ -18,7 +18,7 @@ color: #fff;
 
 }
 .footer__block:nth-child(2) {
-    width: 65%;
+    width: 70%;
 
     background-color:  rgba(255, 255, 255, 1);
     padding: 15px 35px;
@@ -42,6 +42,7 @@ color: #fff;
     font-size: 25px;
     line-height: 120%;
     margin-top: 25px;
+    margin-bottom: 1.2em;
 }
 .footer__block_1_contact {
     margin-top: 25px;
