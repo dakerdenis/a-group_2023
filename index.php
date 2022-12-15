@@ -178,8 +178,18 @@
              <!--------------->
              <!---our__clients__block---->
              <div class="main__clients__block">
-                 Нaши клиенты блок
+                <div class="main__clients__name">
+                <p>A-QROUP<span>-UN</span> MÜŞTƏRİLƏRİ</p>
+                </div>
+                
              </div>
 
              <!---footer---->
              <?php include './include/footer.php' ?>
+
+             <!----FRONT CREATED BY DENIS AKERSHTEYN
+  ///////////////////////////////////
+https://github.com/dakerdenis/a-group_2023
+  ///////////////////////////////////
+  for connecting https://daker.website/ 
+  -------->
