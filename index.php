@@ -29,7 +29,9 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                                 <p>
+                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 </p>
                              </div>
                          </div>
                      </div>
@@ -45,7 +47,9 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             <p>
+                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 </p>
                              </div>
                          </div>
                      </div>
@@ -61,7 +65,9 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             <p>
+                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 </p>
                              </div>
                          </div>
                      </div>
@@ -77,7 +83,9 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             <p>
+                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 </p>
                              </div>
                          </div>
                      </div>
@@ -93,7 +101,9 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             <p>
+                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 </p>
                              </div>
                          </div>
                      </div>
@@ -109,7 +119,9 @@
                              </div>
                              <!---->
                              <div class="about__element__desc">
-                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             <p>
+                                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+                                 </p>
                              </div>
                          </div>
                      </div>
