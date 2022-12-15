@@ -130,10 +130,32 @@
     align-items: center;
     justify-content: space-around;
     font-size: 30px;
-    height: 60vh;
+    height: 650px;
     background-color: white;
     overflow: hidden;
 
+}
+.main__mobile__block {
+}
+.mobile__block__wrapper {
+}
+.mobile__block__text__wrapper {
+}
+.mobile__text__name {
+}
+.mobile__text___text {
+}
+.mobile__links__block {
+}
+.mobile__images__block {
+}
+.mobile__images__wrapper {
+}
+.mobile__sparcles__block {
+}
+.mobile__rectaangel__block {
+}
+.mobile__mobile__block {
 }
 /**********Стили раздела наши клиенты************************/
 /**********Стили раздела наши клиенты************************/
