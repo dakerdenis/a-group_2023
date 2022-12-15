@@ -12,10 +12,108 @@
              </div>
              <!---about__block---->
              <div class="main__ablout__block">
-                 A-GROUP
-                 NƏ ÜÇÜN SEÇİLİR
-                 <br>
-                 раздел о нас на сайте,почему нас выбирают
+                 <div class="about__block__name">
+                     <img src="./styles/imgs/about_name.svg" alt="">
+                     <p>NƏ ÜÇÜN SEÇİLİR</p>
+                 </div>
+                 <div class="about__block__content__wrapper">
+                     <!----->
+                     <div class="about__content__element">
+                         <div class="about__content__element__wrapper">
+                             <div class="about__element__img">
+                                 <img src="./styles/imgs/about1.svg" alt="">
+                             </div>
+                             <!----->
+                             <div class="about__element__name">
+                                 <p>BİRİNCİ DƏRƏCƏLİ SERVİS</p>
+                             </div>
+                             <!---->
+                             <div class="about__element__desc">
+                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             </div>
+                         </div>
+                     </div>
+                     <!----->
+                     <div class="about__content__element">
+                         <div class="about__content__element__wrapper">
+                             <div class="about__element__img">
+                                 <img src="./styles/imgs/about2.svg" alt="">
+                             </div>
+                             <!----->
+                             <div class="about__element__name">
+                                 <p>MÜŞTƏRİ YÖNÜMLÜ</p>
+                             </div>
+                             <!---->
+                             <div class="about__element__desc">
+                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             </div>
+                         </div>
+                     </div>
+                     <!----->
+                     <div class="about__content__element">
+                         <div class="about__content__element__wrapper">
+                             <div class="about__element__img">
+                                 <img src="./styles/imgs/about3.svg" alt="">
+                             </div>
+                             <!----->
+                             <div class="about__element__name">
+                                 <p>QAZANILMIŞ ETİBAR</p>
+                             </div>
+                             <!---->
+                             <div class="about__element__desc">
+                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             </div>
+                         </div>
+                     </div>
+                     <!----->
+                     <div class="about__content__element">
+                         <div class="about__content__element__wrapper">
+                             <div class="about__element__img">
+                                 <img src="./styles/imgs/about4.svg" alt="">
+                             </div>
+                             <!----->
+                             <div class="about__element__name">
+                                 <p>PEŞƏKARLAR KOMANDASI</p>
+                             </div>
+                             <!---->
+                             <div class="about__element__desc">
+                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             </div>
+                         </div>
+                     </div>
+                     <!----->
+                     <div class="about__content__element">
+                         <div class="about__content__element__wrapper">
+                             <div class="about__element__img">
+                                 <img src="./styles/imgs/about5.svg" alt="">
+                             </div>
+                             <!----->
+                             <div class="about__element__name">
+                                 <p>İNDİVİDUAL YANAŞMA</p>
+                             </div>
+                             <!---->
+                             <div class="about__element__desc">
+                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             </div>
+                         </div>
+                     </div>
+                     <!----->
+                     <div class="about__content__element">
+                         <div class="about__content__element__wrapper">
+                             <div class="about__element__img">
+                                 <img src="./styles/imgs/about6.svg" alt="">
+                             </div>
+                             <!----->
+                             <div class="about__element__name">
+                                 <p>27 İL YANINIZDA</p>
+                             </div>
+                             <!---->
+                             <div class="about__element__desc">
+                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae exercitationem omnis ipsa vitae amet ducimus dolorum facere natus, cupiditate rem in ratione ullam nulla modi laboriosam cum mollitia ex reiciendis.
+                             </div>
+                         </div>
+                     </div>
+                 </div>
              </div>
              <!--------------->
              <!---Mobile__app__block---->
