@@ -11,7 +11,7 @@
 
         <!----Ferdi sexslere--->
         <div class="navigation__ferdi__sexslere">
-            <a href="#">Ferdi sexslere</a>
+            <button id="stalker">Ferdi sexslere</button>
         </div>
         <!---Korporativ sexslere---->
         <div class="navigation__korporativ__sexslere">
@@ -44,7 +44,13 @@
                 <a href="#">RU</a>
                 <a href="#">EN</a>
             </div>
-        </div>
+        </div>  
         </div>
     </div>
+    <div class="dropdown__content_ferdi">
+        asdasd
+        <br><br><br><br>
+        fasf
+    </div>
 </div>
+
