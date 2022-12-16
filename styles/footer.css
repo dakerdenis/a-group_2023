@@ -8,7 +8,6 @@
 }
 .foter__block:first-child {
 width: 30%;
-height: 100%;
 background-color: #BC1A1A;
 display: flex;
 flex-direction: column;
@@ -163,3 +162,34 @@ text-transform: uppercase;
     height: 35px;
 
 }
+@media only screen and (max-width: 1380px) {
+    .footer__block_1_desc{
+      font-size: 19px;
+    }
+    .footer__block__info_block_elements a {
+      font-size: 18px;
+      line-height: 26px;
+      margin-top: 8px;
+    }
+    .footer__block__info__name {
+      font-size: 32px;
+    }
+    .footer__block__rights_infobank p {
+        font-size: 14px;
+    }
+    .footer__block_1_contact_info{
+        font-size: 20px;
+    }
+    .footer__block_1_contact_desc {
+        font-size: 15px;
+    }
+    .footer__block_1_name{
+        font-size: 30px;
+    }
+    .footer__block__additional_info_logo {
+        height: 100%;
+    }
+    .footer__block__additional_info {
+        margin-top: 15px;
+    }
+  }
