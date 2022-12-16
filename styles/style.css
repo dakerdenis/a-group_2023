@@ -114,6 +114,34 @@
     font-size: 30px;
     margin-top: 90px;
 }
+
+.slider__content__block {
+  width: 100%;
+  height: 100%;
+}
+.slider__content__wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.slider__content__desc {
+}
+.slider__content__desc__wrapper {
+}
+.__desc__wrapper__name {
+}
+.__desc__wrapper__desc {
+}
+.__desc__wrapper__link {
+}
+.__desc__wrapper__rectangel {
+}
+.__desc__wrapper__krug {
+}
+.slider__content__photo {
+}
 /***************Стили раздела о нас *******************/
 /***************Стили раздела о нас *******************/
 .main__ablout__block {
