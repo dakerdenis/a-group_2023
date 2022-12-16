@@ -550,6 +550,7 @@ letter-spacing: 0em;
   }
   .mobile__sparcles__block {
     left: 4.5%;
+    top: -16%;
   }
 }
 @media only screen and (max-width: 640px) {}
