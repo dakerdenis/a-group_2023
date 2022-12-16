@@ -193,3 +193,10 @@ text-transform: uppercase;
         margin-top: 15px;
     }
   }
+  @media only screen and (max-width: 1285px) {
+    .footer__block__info_block_elements a {
+        font-size: 17px;
+        line-height: 24px;
+      }
+  }
+
