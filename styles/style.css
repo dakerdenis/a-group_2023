@@ -440,8 +440,8 @@ letter-spacing: 0em;
 }
 @media only screen and (max-width: 1285px) {
   .__desc__wrapper__name p{
-    font-size: 40px;
-    line-height: 58px;
+    font-size: 35px;
+    line-height: 52px;
   }
   .__desc__wrapper__desc p{
     font-size: 20px;
@@ -465,8 +465,42 @@ letter-spacing: 0em;
 .about__block__name img {
   width: 19.5%;
 }
+.main__mobile__block {
+  height: 540px;
 }
-@media only screen and (max-width: 1024px) {}
+.mobile__rectaangel__block {
+  right: 0%;
+}
+.mobile__sparcles__block {
+  left: -8.5%;
+  transform: scale(0.7);
+}
+.mobile__text__name{
+  font-size: 33px;
+  line-height: 44px;
+}
+.mobile__text___text p {
+  font-size: 18px;
+  line-height: 29px;
+}
+.mobile__links__block a img{
+  height: 47px;
+  width: 163px;
+}
+.__desc__wrapper__link a{
+  font-size: 20px;
+}
+.slider__content__photo{
+  width: 46%;
+}
+.slider__content__desc{
+  width: 54%;
+}
+
+}
+@media only screen and (max-width: 1025px) {
+
+}
 @media only screen and (max-width: 769px) {}
 @media only screen and (max-width: 640px) {}
 @media only screen and (max-width: 450px) {}
