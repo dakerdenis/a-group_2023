@@ -100,18 +100,24 @@
 
 </div>
 
+
     <!-- Swiper JS -->
     <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+
     <!-- Initialize Swiper -->
     <script>
       var swiper = new Swiper(".mySwiper", {
-        slidesPerView: 3,
-        spaceBetween: 30,
-        speed: 1800,
-        autoplay: {
-          delay: 1000,
-          disableOnInteraction: false
-        }
+        slidesPerView: 1,
+        spaceBetween: 0,
+        loop: true,
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+        },
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
       });
     </script>
 </body>
