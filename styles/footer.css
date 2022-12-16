@@ -211,26 +211,5 @@ text-transform: uppercase;
     .footer__block__info_block_{
         width: 50%;
     }
-    .main__mobile__block {
-        height: 540px;
-    }
-    .mobile__rectaangel__block {
-        right: 0%;
-    }
-    .mobile__sparcles__block {
-        left: -8.5%;
-        transform: scale(0.7);
-    }
-    .mobile__text__name{
-        font-size: 33px;
-        line-height: 44px;
-    }
-    .mobile__text___text p {
-        font-size: 18px;
-        line-height: 29px;
-    }
-    .mobile__links__block a img{
-        height: 47px;
-        width: 163px;
-    }
+
   }
