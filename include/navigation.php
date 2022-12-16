@@ -17,6 +17,10 @@
         <div class="navigation__korporativ__sexslere">
             <a href="#">korporativ sexslere</a>
         </div>
+        <!---Icbari sigorta---->
+        <div class="navigation__korporativ__sexslere">
+            <a href="#">Icbari</a>
+        </div>
         <!---online payment---->
         <div class="navigation__payment">
             <a href="#">Onlayn Ödəniş</a>
@@ -25,7 +29,7 @@
         <div class="navigation__login">
             <a href="#">
                 <div class="login__link__text">
-                Şəxsi Kabinet
+                    Şəxsi Kabinet
                 </div>
                 <div class="login__link__foto">
                     <img src="" alt="">
@@ -34,17 +38,13 @@
         </div>
         <!---language--->
         <div class="navigation__language">
-            <div class="dropdown">
-                <button onclick="myFunction()" class="dropbtn">
-                        AZ <img src="./styles/imgs/arrow.svg" alt="">
-                </button>
-
-                <div id="myDropdown" class="dropdown-content">
-                    <a href="#">RU</a>
-                    <a href="#">EN</a>
-                </div>
-
+        <div class="dropdown">
+            <a class="dropbtn">AZ</a>
+            <div class="dropdown-content">
+                <a href="#">RU</a>
+                <a href="#">EN</a>
             </div>
+        </div>
         </div>
     </div>
 </div>
