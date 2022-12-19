@@ -43,13 +43,15 @@
         </div>
         <!---language--->
         <div class="navigation__language">
-            <!---  <div class="dropdown">
+          <!----    <div class="dropdown">
                 <a class="dropbtn">AZ</a>
                 <div class="dropdown-content">
                     <a href="#">RU</a>
                     <a href="#">EN</a>
                 </div>
-            </div> -->
+            </div> 
+
+-->
         </div>
     </div>
     <!---ferdi sehslere---->
