@@ -85,7 +85,7 @@
   transform: rotate(-225deg);
 }
 */
-/****************ferdi sehslere************************/
+/****************ferdi korporativ sehslere************************/
 .dropbtn {
     background-color: rgba(217, 217, 217, 1);
     color: rgba(87, 86, 86, 1);
@@ -134,7 +134,37 @@
   .dropdown a:hover {background-color: #ddd;}
   
   .show {display: block;}
-/****************Korporativ sehslere************************/
+
+  .dropdown__block {
+    width: 100%;
+    height: 100%;
+}
+.dropdown__wrapper {
+    width: 92%;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dropdown__element {
+    width: 25%;
+    background-color: blue;
+}
+.dropdown__element__wrapper {
+}
+.dropdown__element__image {
+}
+.dropdown__element__name {
+}
+.dropdown__element__desc {
+}
+
+
+
+
+
+
 
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child),

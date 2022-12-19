@@ -61,7 +61,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="" alt="">
+                            <img src="./styles/imgs/tibbi.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -73,12 +73,29 @@
                         </div>
                     </div>
                 </div>
-                                <!----------------------------->
+                <!----------------------------->
                 <div class="dropdown__element">
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="" alt="">
+                            <img src="./styles/imgs/avtomobil.svg" alt="">
+                        </div>
+                        <!---->
+                        <div class="dropdown__element__name">
+                            <p>Avtomobil sigorta</p>
+                        </div>
+                        <!---->
+                        <div class="dropdown__element__desc">
+                            Lorem ipsum dolor sit amet consectur adispiscing elit
+                        </div>
+                    </div>
+                </div>
+                <!----------------------------->
+                <div class="dropdown__element">
+                    <div class="dropdown__element__wrapper">
+                        <!----->
+                        <div class="dropdown__element__image">
+                            <img src="./styles/imgs/triangle.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -90,29 +107,12 @@
                         </div>
                     </div>
                 </div>
-                                <!----------------------------->
+                <!----------------------------->
                 <div class="dropdown__element">
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="" alt="">
-                        </div>
-                        <!---->
-                        <div class="dropdown__element__name">
-                            <p>Tibbi sigorta</p>
-                        </div>
-                        <!---->
-                        <div class="dropdown__element__desc">
-                            Lorem ipsum dolor sit amet consectur adispiscing elit
-                        </div>
-                    </div>
-                </div>
-                                <!----------------------------->
-                <div class="dropdown__element">
-                    <div class="dropdown__element__wrapper">
-                        <!----->
-                        <div class="dropdown__element__image">
-                            <img src="" alt="">
+                            <img src="./styles/imgs/hexagon.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
