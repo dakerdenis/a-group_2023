@@ -54,11 +54,14 @@
     </div>
     <!---ferdi sehslere---->
     <div id="myDropdown" class="dropdown-content">
-        dafsasfasf
-        assafas
-        <br>
-        asdasdasd
-        <br>sodium_crypto_kx_client_session_keys
+        <div class="dropdown__block">
+            <div class="dropdown__wrapper">
+                <div class="dropdown__element"></div>
+                <div class="dropdown__element"></div>
+                <div class="dropdown__element"></div>
+                <div class="dropdown__element"></div>
+            </div>
+        </div>
     </div>
     <!---korporativ sehslere---->
     <div id="myDropdown2" class="dropdown-content">
