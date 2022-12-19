@@ -332,7 +332,8 @@ letter-spacing: 0em;
 text-align: left;
 
 }
-.mobile__links__block {
+.mobile__links__block a:nth-child(2){
+    margin-left: 1em;
 }
 /********/
 .mobile__images__block {
@@ -379,6 +380,8 @@ text-align: left;
 
     padding-top: 40px;
     background-image: url('./imgs/25.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .main__clients__name{
   width: 100%;
