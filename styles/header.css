@@ -36,7 +36,22 @@
 }
 .navigation__ferdi__sexslere {
 }
-.navigation__korporativ__sexslere {
+.navigation__korporativ__sexslere a {
+    background-color: rgba(217, 217, 217, 1);
+
+    color: rgba(87, 86, 86, 1);
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    padding: 10px 45px;
+    border-radius: 15px;
+    transition: ease-in-out 0.3s;
+}
+.navigation__korporativ__sexslere a:hover{
+    background-color: #bc1a1a;
+    color: rgb(255, 255, 255);
 }
 .navigation__payment a {
   background-color: rgba(217, 217, 217, 1);
