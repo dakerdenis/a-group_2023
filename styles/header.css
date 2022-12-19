@@ -112,6 +112,7 @@
 .dropdown {
   position: relative;
   display: inline-block;
+  transition: ease-in-out 0.3s;
 }
 
 .dropdown-content {
@@ -123,6 +124,7 @@
   overflow: auto;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
+  transition: ease-in-out 0.3s;
 }
 
 .dropdown-content a {
@@ -138,6 +140,7 @@
 
 .show {
   display: block;
+  transition: ease-in-out 0.3s;
 }
 
 .dropdown__block {
@@ -195,7 +198,12 @@ letter-spacing: 0em;
 text-align: left;
 
 }
+.dropdown__element_none{
+    width: 25%;
 
+    height: 100%;
+    border: none;
+}
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child),
   .dropdown .dropbtn {
