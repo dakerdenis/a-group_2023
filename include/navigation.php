@@ -12,14 +12,14 @@
         <!----Ferdi sexslere--->
         <div class="navigation__ferdi__sexslere">
             <div class="dropdown">
-                <button onclick="myFunction()" class="dropbtn">Ferdi sehslere</button>
+                <button onclick="myFunction()" class="dropbtn">Fərdi Şəxslərə</button>
             </div>
 
         </div>
         <!---Korporativ sexslere---->
         <div class="navigation__korporativ__sexslere">
             <div class="dropdown">
-                <button onclick="myFunction2()" class="dropbtn">Korporaiv sehslere</button>
+                <button onclick="myFunction2()" class="dropbtn">Korporativ Müştərilərə</button>
             </div>
         </div>
         <!---Icbari sigorta---->
@@ -63,7 +63,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="./styles/imgs/tibbi.svg" alt="">
+                            <img src="../styles/imgs/tibbi.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -80,7 +80,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="./styles/imgs/avtomobil.svg" alt="">
+                            <img src="../styles/imgs/avtomobil.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -97,7 +97,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="./styles/imgs/triangle.svg" alt="">
+                            <img src="../styles/imgs/triangle.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -114,7 +114,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="./styles/imgs/hexagon.svg" alt="">
+                            <img src="../styles/imgs/hexagon.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -138,7 +138,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="./styles/imgs/tibbi.svg" alt="">
+                            <img src="../styles/imgs/tibbi.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -155,7 +155,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="./styles/imgs/avtomobil.svg" alt="">
+                            <img src="../styles/imgs/avtomobil.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -172,7 +172,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="./styles/imgs/triangle.svg" alt="">
+                            <img src="../styles/imgs/triangle.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
