@@ -87,84 +87,114 @@
 */
 /****************ferdi korporativ sehslere************************/
 .dropbtn {
-    background-color: rgba(217, 217, 217, 1);
-    color: rgba(87, 86, 86, 1);
-    font-family: "Roboto", sans-serif;
-    
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 21px;
-    letter-spacing: 0em;
-    padding: 10px 45px;
-    border-radius: 15px;
-    transition: ease-in-out 0.3s;
+  background-color: rgba(217, 217, 217, 1);
+  color: rgba(87, 86, 86, 1);
+  font-family: "Roboto", sans-serif;
 
-    border: none;
-    cursor: pointer;
-  }
-  
-  .dropbtn:hover, .dropbtn:focus {
-    background-color: #bc1a1a;
-    color: #fff;
-  }
-  
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #fff;
-    width: 100vw;
-    height: 200px;
-    overflow: auto;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-  
-  .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-  
-  .dropdown a:hover {background-color: #ddd;}
-  
-  .show {display: block;}
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  padding: 10px 45px;
+  border-radius: 15px;
+  transition: ease-in-out 0.3s;
 
-  .dropdown__block {
-    width: 100%;
-    height: 100%;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover,
+.dropbtn:focus {
+  background-color: #bc1a1a;
+  color: #fff;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  width: 100vw;
+  height: 200px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {
+  background-color: #ddd;
+}
+
+.show {
+  display: block;
+}
+
+.dropdown__block {
+  width: 100%;
+  height: 100%;
+  border-top: 1px solid rgba(87, 86, 86, 1);
 }
 .dropdown__wrapper {
-    width: 92%;
-    margin: 0 auto;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  width: 92%;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 .dropdown__element {
-    width: 25%;
-    background-color: blue;
+  width: 25%;
+
+  height: 100%;
+
+}
+.dropdown__element:nth-child(2){
+    border-left: 1px solid rgba(87, 86, 86, 1);
+    border-right: 1px solid rgba(87, 86, 86, 1); 
+}
+.dropdown__element:nth-child(3){
+    border-right: 1px solid rgba(87, 86, 86, 1); 
 }
 .dropdown__element__wrapper {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+
 }
 .dropdown__element__image {
 }
 .dropdown__element__name {
+    margin-top: 10px;
+    font-family: "Roboto", sans-serif;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 .dropdown__element__desc {
+    font-family: "Roboto", sans-serif;
+    color: rgba(87, 86, 86, 1);
+font-size: 20px;
+font-weight: 300;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
 }
-
-
-
-
-
-
 
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child),
