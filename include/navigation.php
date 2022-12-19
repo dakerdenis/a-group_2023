@@ -11,11 +11,16 @@
 
         <!----Ferdi sexslere--->
         <div class="navigation__ferdi__sexslere">
-            <button id="stalker">Ferdi sexslere</button>
+            <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">Ferdi sehslere</button>
+            </div>
+
         </div>
         <!---Korporativ sexslere---->
         <div class="navigation__korporativ__sexslere">
-            <a href="#">korporativ sexslere</a>
+            <div class="dropdown">
+                <button onclick="myFunction2()" class="dropbtn">Korporaiv sehslere</button>
+            </div>
         </div>
         <!---Icbari sigorta---->
         <div class="navigation__korporativ__sexslere">
@@ -38,19 +43,25 @@
         </div>
         <!---language--->
         <div class="navigation__language">
-        <div class="dropdown">
-            <a class="dropbtn">AZ</a>
-            <div class="dropdown-content">
-                <a href="#">RU</a>
-                <a href="#">EN</a>
-            </div>
-        </div>  
+            <!---  <div class="dropdown">
+                <a class="dropbtn">AZ</a>
+                <div class="dropdown-content">
+                    <a href="#">RU</a>
+                    <a href="#">EN</a>
+                </div>
+            </div> -->
         </div>
     </div>
-    <div class="dropdown__content_ferdi">
-        asdasd
-        <br><br><br><br>
-        fasf
+    <!---ferdi sehslere---->
+    <div id="myDropdown" class="dropdown-content">
+        dafsasfasf
+        assafas
+        <br>
+        asdasdasd
+        <br>sodium_crypto_kx_client_session_keys
+    </div>
+    <!---korporativ sehslere---->
+    <div id="myDropdown2" class="dropdown-content">
+        asdasdasd
     </div>
 </div>
-
