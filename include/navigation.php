@@ -63,7 +63,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="../styles/imgs/tibbi.svg" alt="">
+                            <img src="./styles/imgs/health.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -80,7 +80,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="../styles/imgs/avtomobil.svg" alt="">
+                            <img src="./styles/imgs/car.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -97,7 +97,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="../styles/imgs/triangle.svg" alt="">
+                            <img src="./styles/imgs/home.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -114,7 +114,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="../styles/imgs/hexagon.svg" alt="">
+                            <img src="./styles/imgs/travel.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -138,7 +138,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="../styles/imgs/tibbi.svg" alt="">
+                            <img src="./styles/imgs/health.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -155,7 +155,7 @@
                     <div class="dropdown__element__wrapper">
                         <!----->
                         <div class="dropdown__element__image">
-                            <img src="../styles/imgs/avtomobil.svg" alt="">
+                            <img src="./styles/imgs/car.svg" alt="">
                         </div>
                         <!---->
                         <div class="dropdown__element__name">
@@ -168,23 +168,6 @@
                     </div>
                 </div>
                 <!----------------------------->
-                <div class="dropdown__element_none">
-                    <div class="dropdown__element__wrapper">
-                        <!----->
-                        <div class="dropdown__element__image">
-                            <img src="../styles/imgs/triangle.svg" alt="">
-                        </div>
-                        <!---->
-                        <div class="dropdown__element__name">
-                            <p>Tibbi sigorta</p>
-                        </div>
-                        <!---->
-                        <div class="dropdown__element__desc">
-                            Lorem ipsum dolor sit amet consectur adispiscing elit
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
     </div>

@@ -37,26 +37,28 @@
 .navigation__ferdi__sexslere {
 }
 .navigation__korporativ__sexslere a {
-    background-color: rgba(217, 217, 217, 1);
-
-    color: rgba(87, 86, 86, 1);
+    background-color: #bc1a1a;
+    border: 3px solid #bc1a1a;
+    color: #fff;
     font-family: "Roboto", sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 21px;
     letter-spacing: 0em;
-    padding: 10px 45px;
+    padding: 8px 45px;
     border-radius: 15px;
     transition: ease-in-out 0.3s;
 }
 .navigation__korporativ__sexslere a:hover{
-    background-color: #bc1a1a;
-    color: rgb(255, 255, 255);
+    background-color: #fff;
+    color: #bc1a1a;
+    border: 3px solid #bc1a1a;
 }
 .navigation__payment a {
-  background-color: rgba(217, 217, 217, 1);
+  background-color: rgba(0, 156, 166, 1);
 
-  color: rgba(87, 86, 86, 1);
+color: #fff;
+
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 400;
@@ -67,8 +69,7 @@
   transition: ease-in-out 0.3s;
 }
 .navigation__payment a:hover {
-  background-color: #bc1a1a;
-  color: rgb(255, 255, 255);
+
 }
 .navigation__login {
 }
@@ -102,26 +103,24 @@
 */
 /****************ferdi korporativ sehslere************************/
 .dropbtn {
-  background-color: rgba(217, 217, 217, 1);
-  color: rgba(87, 86, 86, 1);
+  background-color: #bc1a1a;
+  border: 3px solid #bc1a1a;
+  color: #fff;
   font-family: "Roboto", sans-serif;
-
   font-size: 20px;
   font-weight: 400;
   line-height: 21px;
   letter-spacing: 0em;
-  padding: 10px 45px;
+  padding: 8px 45px;
   border-radius: 15px;
   transition: ease-in-out 0.3s;
-
-  border: none;
   cursor: pointer;
 }
 
 .dropbtn:hover,
 .dropbtn:focus {
-  background-color: #bc1a1a;
-  color: #fff;
+  background-color: #fff;
+  color: #bc1a1a;
 }
 
 .dropdown {
@@ -201,7 +200,7 @@ font-weight: 500;
 line-height: 28px;
 letter-spacing: 0em;
 text-align: left;
-
+color: rgba(0, 156, 166, 1);
 }
 .dropdown__element__desc {
     font-family: "Roboto", sans-serif;
