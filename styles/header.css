@@ -71,9 +71,21 @@ color: #fff;
 .navigation__payment a:hover {
 
 }
-.navigation__login {
+.navigation__login a {
+display: flex;
+
+  align-items: center;
 }
 .login__link__text {
+  font-family: "Roboto", sans-serif;
+font-size: 18px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(188, 26, 26, 1);
+margin-right: 10.75px;
+
 }
 .login__link__foto {
 }
@@ -179,16 +191,20 @@ color: #fff;
 }
 .dropdown__element:nth-child(2){
     border-left: 1px solid rgba(87, 86, 86, 1);
-    border-right: 1px solid rgba(87, 86, 86, 1); 
+
 }
 .dropdown__element:nth-child(3){
     border-right: 1px solid rgba(87, 86, 86, 1); 
+    border-left: 1px solid rgba(87, 86, 86, 1); 
 }
 .dropdown__element__wrapper {
     width: 100%;
     height: 100%;
     padding: 30px;
 
+}
+.dropdown__element2{
+  border: none;
 }
 .dropdown__element__image {
 }
