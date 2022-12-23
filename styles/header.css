@@ -253,6 +253,7 @@ text-align: left;
   width: 100%;
 }
 .dropdown-container .dropdown-toggle {
+  font-family: "Roboto", sans-serif;
   color: #fff;
   background-color: #bc1a1a;
   font-size: 17px;
@@ -264,6 +265,7 @@ text-align: left;
   position: relative;
   transition: all ease-in-out 0.3s;
 }
+
 .dropdown-container .dropdown-toggle label {
   cursor: pointer;
   width: 100%;

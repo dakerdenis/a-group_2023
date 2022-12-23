@@ -146,7 +146,7 @@
         <!---Icbari sigorta---->
         <div class="navigation__korporativ__sexslere">
             <div class="dropdown-container">
-                <div class="dropdown-toggle click-dropdown">
+                <div class="dropdown-toggle click-dropdown dropdown-toggle-icbari">
                     İcbari
                 </div>
                 <div class="dropdown-menu">
