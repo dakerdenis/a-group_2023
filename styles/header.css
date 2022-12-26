@@ -36,24 +36,8 @@
 }
 .navigation__ferdi__sexslere {
 }
-.navigation__korporativ__sexslere a {
-    background-color: #bc1a1a;
-    border: 3px solid #bc1a1a;
-    color: #fff;
-    font-family: "Roboto", sans-serif;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 21px;
-    letter-spacing: 0em;
-    padding: 8px 45px;
-    border-radius: 15px;
-    transition: ease-in-out 0.3s;
-}
-.navigation__korporativ__sexslere a:hover{
-    background-color: #fff;
-    color: #bc1a1a;
-    border: 3px solid #bc1a1a;
-}
+
+
 .navigation__payment a {
   background-color: rgba(0, 156, 166, 1);
 
@@ -187,6 +171,13 @@ margin-right: 10.75px;
   width: 25%;
 
   height: 100%;
+  background-color: green;
+}
+.dropdown__element__wrapper {
+  display: block;
+    width: 100%;
+    height: 100%;
+    padding: 30px;
 
 }
 .dropdown__element:nth-child(2){
@@ -197,12 +188,7 @@ margin-right: 10.75px;
     border-right: 1px solid rgba(87, 86, 86, 1); 
     border-left: 1px solid rgba(87, 86, 86, 1); 
 }
-.dropdown__element__wrapper {
-    width: 100%;
-    height: 100%;
-    padding: 30px;
 
-}
 .dropdown__element2{
   border: none;
 }
