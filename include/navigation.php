@@ -20,7 +20,7 @@
                         <div class="dropdown__wrapper">
                             <!----------------------------->
                             <div class="dropdown__element">
-                                <div class="dropdown__element__wrapper">
+                                <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
                                         <img src="./styles/imgs/health.svg" alt="">
@@ -33,11 +33,11 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                </div>
+                                </a>
                             </div>
                             <!----------------------------->
                             <div class="dropdown__element">
-                                <div class="dropdown__element__wrapper">
+                                <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
                                         <img src="./styles/imgs/car.svg" alt="">
@@ -50,11 +50,11 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                </div>
+</a>
                             </div>
                             <!----------------------------->
                             <div class="dropdown__element">
-                                <div class="dropdown__element__wrapper">
+                                <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
                                         <img src="./styles/imgs/home.svg" alt="">
@@ -67,11 +67,11 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                </div>
+</a>
                             </div>
                             <!----------------------------->
                             <div class="dropdown__element">
-                                <div class="dropdown__element__wrapper">
+                                <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
                                         <img src="./styles/imgs/travel.svg" alt="">
@@ -84,7 +84,7 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                </div>
+</a>
                             </div>
                         </div>
                     </div>
@@ -119,7 +119,7 @@
                             </div>
                             <!----------------------------->
                             <div class="dropdown__element">
-                                <div class="dropdown__element__wrapper">
+                                <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
                                         <img src="./styles/imgs/car.svg" alt="">
@@ -132,7 +132,7 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                </div>
+                                </a>
                             </div>
                             <!----------------------------->
 
