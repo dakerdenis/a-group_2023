@@ -99,15 +99,15 @@ margin-right: 10.75px;
 */
 /****************ferdi korporativ sehslere************************/
 .dropbtn {
-  background-color: #bc1a1a;
-  border: 3px solid #bc1a1a;
-  color: #fff;
+  background-color: #fff;
+  border: 3px solid #000;
+  color: #000;
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 21px;
   letter-spacing: 0em;
-  padding: 8px 45px;
+  padding: 8px 8px;
   border-radius: 15px;
   transition: ease-in-out 0.3s;
   cursor: pointer;
@@ -116,7 +116,7 @@ margin-right: 10.75px;
 .dropbtn:hover,
 .dropbtn:focus {
   background-color: #fff;
-  color: #bc1a1a;
+
 }
 
 .dropdown {
@@ -129,12 +129,13 @@ margin-right: 10.75px;
   display: none;
   position: absolute;
   background-color: #fff;
-  width: 100vw;
-  height: 200px;
+  border-radius: 5px;
   overflow: auto;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
+  width: 100%;
   transition: ease-in-out 0.3s;
+  left: 5%;
 }
 
 .dropdown-content a {
@@ -142,6 +143,8 @@ margin-right: 10.75px;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
 }
 
 .dropdown a:hover {

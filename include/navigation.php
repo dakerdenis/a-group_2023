@@ -245,7 +245,7 @@
         <!---language--->
         <div class="navigation__language">
             <div class="dropdown">
-                <button onclick="myFunction1()" class="dropbtn">AZ</button>
+                <div onclick="myFunction1()" class="dropbtn">AZ <img src="./styles/imgs/arrow.svg" alt=""></div>
                 <div id="myDropdown1" class="dropdown-content">
                     <a href="#">RU</a>
                     <a href="#">EN</a>
