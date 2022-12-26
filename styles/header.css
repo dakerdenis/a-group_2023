@@ -227,8 +227,10 @@ text-align: left;
 
 
 
-
-/* Dropdown menu css */
+/*! Dropdown menu css */
+/*! Dropdown menu css */
+/*! Dropdown menu css */
+/*! Dropdown menu css */
 .dropdown-container {
 
   width: 100%;
@@ -236,7 +238,7 @@ text-align: left;
 .dropdown-container .dropdown-toggle {
   font-family: "Roboto", sans-serif;
   color: #fff;
-  width: 215px;
+/*  width: 215px;*/
   text-align: center;
   background-color: #bc1a1a;
   font-size: 17px;
