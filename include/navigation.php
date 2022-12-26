@@ -75,8 +75,8 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                                                        <!------->
-                                                                        <div class="dorpdown__element__arrow">
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
                                         <img src="./styles/imgs/arrow_red.svg" alt="">
                                     </div>
                                 </a>
@@ -96,8 +96,8 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                                                        <!------->
-                                                                        <div class="dorpdown__element__arrow">
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
                                         <img src="./styles/imgs/arrow_red.svg" alt="">
                                     </div>
                                 </a>
@@ -131,8 +131,8 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                                                        <!------->
-                                                                        <div class="dorpdown__element__arrow">
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
                                         <img src="./styles/imgs/arrow_red.svg" alt="">
                                     </div>
                                 </a>
@@ -152,8 +152,8 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                                                        <!------->
-                                                                        <div class="dorpdown__element__arrow">
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
                                         <img src="./styles/imgs/arrow_red.svg" alt="">
                                     </div>
                                 </a>
@@ -193,8 +193,8 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                                                        <!------->
-                                                                        <div class="dorpdown__element__arrow">
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
                                         <img src="./styles/imgs/arrow_red.svg" alt="">
                                     </div>
                                 </a>
@@ -214,8 +214,8 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-                                                                        <!------->
-                                                                        <div class="dorpdown__element__arrow">
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
                                         <img src="./styles/imgs/arrow_red.svg" alt="">
                                     </div>
                                 </a>
@@ -244,15 +244,16 @@
         </div>
         <!---language--->
         <div class="navigation__language">
-            <!----    <div class="dropdown">
-                <a class="dropbtn">AZ</a>
-                <div class="dropdown-content">
+            <div class="dropdown">
+                <button onclick="myFunction1()" class="dropbtn">AZ</button>
+                <div id="myDropdown1" class="dropdown-content">
                     <a href="#">RU</a>
                     <a href="#">EN</a>
                 </div>
-            </div> 
-
--->
+            </div>
         </div>
+
+
     </div>
+</div>
 </div>
