@@ -54,6 +54,10 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
                                 </a>
                             </div>
                             <!----------------------------->
@@ -71,6 +75,10 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
+                                                                        <!------->
+                                                                        <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
                                 </a>
                             </div>
                             <!----------------------------->
@@ -87,6 +95,10 @@
                                     <!---->
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                                                        <!------->
+                                                                        <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
                                     </div>
                                 </a>
                             </div>
@@ -119,6 +131,10 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
+                                                                        <!------->
+                                                                        <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
                                 </a>
                             </div>
                             <!----------------------------->
@@ -135,6 +151,10 @@
                                     <!---->
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                                                        <!------->
+                                                                        <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
                                     </div>
                                 </a>
                             </div>
@@ -173,6 +193,10 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
+                                                                        <!------->
+                                                                        <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
                                 </a>
                             </div>
                             <!----------------------------->
@@ -189,6 +213,10 @@
                                     <!---->
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                                                        <!------->
+                                                                        <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
                                     </div>
                                 </a>
                             </div>
