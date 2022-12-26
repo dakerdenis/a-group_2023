@@ -385,17 +385,23 @@ text-align: left;
     width: 100%;
     height: 100%;
     padding: 30px;
-
+    transition: ease-in 0.3s;
 }
 .dropdown__element:hover {
   border-bottom: 4px solid rgba(188, 26, 26, 1);
 
 }
-.dropdown__element:hover  .dropdown__element__wrapper{
-
-  padding: 10px 30px 40px 30px;
+.dropdown__element:hover .dropdown__element__wrapper{
+  padding: 10px 30px 50px 30px;
 }
-
+.dorpdown__element__arrow{
+  position: absolute;
+  bottom: 10%;
+  opacity: 0;
+  transition: ease-in 0.3s;
+}
+.dropdown__element:hover .dorpdown__element__arrow {
+  opacity: 1;
 }
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child),
