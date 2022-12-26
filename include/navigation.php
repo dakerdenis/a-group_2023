@@ -50,7 +50,7 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-</a>
+                                </a>
                             </div>
                             <!----------------------------->
                             <div class="dropdown__element">
@@ -67,7 +67,7 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-</a>
+                                </a>
                             </div>
                             <!----------------------------->
                             <div class="dropdown__element">
@@ -84,7 +84,7 @@
                                     <div class="dropdown__element__desc">
                                         Lorem ipsum dolor sit amet consectur adispiscing elit
                                     </div>
-</a>
+                                </a>
                             </div>
                         </div>
                     </div>
