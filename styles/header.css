@@ -369,6 +369,7 @@ text-align: left;
   }
   .navigation__call_number p {
     font-size: 30px;
+    padding: 0px 15px;
   }
   .navigation__logo {
     height: 60px;

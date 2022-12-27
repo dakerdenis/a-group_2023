@@ -440,6 +440,10 @@ letter-spacing: 0em;
   .mobile__mobile__block {
     right: 20%;
   }
+  .__desc__wrapper__name p{
+    font-size: 40px;
+    line-height: 70px;
+  }
 }
 @media only screen and (max-width: 1285px) {
   .__desc__wrapper__name p{
