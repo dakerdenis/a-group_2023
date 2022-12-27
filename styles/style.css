@@ -681,6 +681,16 @@ letter-spacing: 0em;
     width: 70%;
 
   }
+  .__desc__wrapper__krug{
+    right: -8%;
+    bottom: 0px;
+    top: initial;
+    transform: rotate(180deg);
+  }
+  .mobile__mobile__block {
+    width: 50%;
+    height: 50%;
+  }
 }
 @media only screen and (max-width: 380px) {}
 @media only screen and (max-width: 350px) {}
