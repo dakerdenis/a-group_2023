@@ -582,13 +582,21 @@ letter-spacing: 0em;
   .about__element__name{
     height: 50px;
     margin-bottom: 5px;
+    
 }
 .__desc__wrapper__name {
   width: 83%;
 }
 .__desc__wrapper__name p{
-  font-size: 30px;
+  font-size: 25px;
   line-height: 40px;
+}
+.__desc__wrapper__name{
+  margin-bottom: 0px;
+}
+.__desc__wrapper__desc p {
+  font-size: 19px;
+  line-height: 28px;
 }
 .__desc__wrapper__desc {
   width: 85%;
@@ -625,9 +633,17 @@ letter-spacing: 0em;
 .slider__content__desc__wrapper{
   padding-top: 10px;
 }
-
+.__desc__wrapper__krug{
+  right: -8%;
+}
 }
 
+@media only screen and (max-width: 680px){
+  .about__element__name {
+    height: 65px;
+    line-height: 29px;
+  }
+}
 @media only screen and (max-width: 450px) {}
 @media only screen and (max-width: 380px) {}
 @media only screen and (max-width: 350px) {}
