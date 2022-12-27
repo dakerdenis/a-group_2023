@@ -257,6 +257,11 @@
 
     </div>
         <!---mobile-->
-    .navigation__container__mobile
+    <div class="navigation__container__mobile">
+                <!---navigation logo---->
+        <div class="navigation__logo">
+            <img src="./styles/imgs/nav_logo.svg" alt="">
+        </div>
+    </div>
 </div>
 </div>
