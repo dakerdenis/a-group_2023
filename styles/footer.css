@@ -162,6 +162,11 @@ text-transform: uppercase;
     height: 35px;
 
 }
+@media only screen and (max-width: 1450px){
+    .footer__block__additional_info_symbols {
+        width: 30%;
+    }
+}
 @media only screen and (max-width: 1380px) {
     .footer__block_1_desc{
       font-size: 19px;

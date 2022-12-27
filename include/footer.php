@@ -58,10 +58,10 @@
             </div>
             <div class="footer__block__additional_info">
                 <div class="footer__block__additional_info_logo">
-                    <img src="./styles/imgs/footer__logo.png" alt="">
+                    <img src="./styles/imgs/nav_logo.svg" alt="">
                 </div>
                 <div class="footer__block__additional_info__line">
-                    <img src="./styles/imgs/footer__line.png" alt="">
+                   
                 </div>
                 <div class="footer__block__additional_info_symbols">
                     <a href="#">
