@@ -580,7 +580,8 @@ letter-spacing: 0em;
     top: -16%;
   }
   .about__element__name{
-    height: 70px;
+    height: 50px;
+    margin-bottom: 5px;
 }
 .__desc__wrapper__name {
   width: 83%;
@@ -624,8 +625,9 @@ letter-spacing: 0em;
 .slider__content__desc__wrapper{
   padding-top: 10px;
 }
+
 }
-@media only screen and (max-width: 640px) {}
+
 @media only screen and (max-width: 450px) {}
 @media only screen and (max-width: 380px) {}
 @media only screen and (max-width: 350px) {}
