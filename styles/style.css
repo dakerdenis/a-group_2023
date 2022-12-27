@@ -655,25 +655,31 @@ letter-spacing: 0em;
 @media only screen and (max-width: 585px) {
   .about__content__element:nth-child(1){
     border: none;
+    border-bottom: 0.2px solid rgba(87, 86, 86, 0.589);
   }
   .about__content__element:nth-child(2){
     border: none;
+    border-bottom: 0.2px solid rgba(87, 86, 86, 0.589);
   }
   .about__content__element:nth-child(3){
     border: none;
+    border-bottom: 0.2px solid rgba(87, 86, 86, 0.589);
   }
   .about__content__element:nth-child(4){
     border: none;
+    border-bottom: 0.2px solid rgba(87, 86, 86, 0.589);
   }
   .about__content__element:nth-child(5){
     border: none;
+    border-bottom: 0.2px solid rgba(87, 86, 86, 0.589);
   }
   .about__content__element:nth-child(6){
     border: none;
+    border-bottom: 0.2px solid rgba(87, 86, 86, 0.589);
   }
-  .about__content__element {
+  .about__content__element{
     width: 70%;
-    border: 0.2px solid rgba(87, 86, 86, 0.589);
+
   }
 }
 @media only screen and (max-width: 380px) {}
