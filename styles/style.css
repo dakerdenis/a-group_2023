@@ -428,22 +428,42 @@ letter-spacing: 0em;
     width: 54%;
   }
   .about__block__name p {
-    font-size: 37px;
+    font-size: 35px;
   }
   .about__element__name {
     font-size: 24px;
-    line-height: 34px;
+    line-height: 20px;
   }
   .about__element__desc {
     font-size: 18px;
   }
   .mobile__mobile__block {
     right: 20%;
+    height: 64%;
+    width: 64%;
   }
   .__desc__wrapper__name p{
     font-size: 40px;
     line-height: 70px;
   }
+  .__desc__wrapper__desc p{
+    font-size: 20px;
+    line-height: 37px;
+  }
+  .__desc__wrapper__link a{
+    font-size: 20px;
+  }
+  .main__slider__block {
+    height: calc(100vh - 80px);
+    margin-top: 80px;
+  }
+  .about__block__name img {
+    width: 20%;
+  }
+  .main__mobile__block {
+    height: 620px;
+  }
+
 }
 @media only screen and (max-width: 1285px) {
   .__desc__wrapper__name p{

@@ -1,4 +1,5 @@
 <div class="navigation__wrapper">
+    <!---pc-->
     <div class="navigation__container">
         <!---navigation logo---->
         <div class="navigation__logo">
@@ -255,5 +256,7 @@
 
 
     </div>
+        <!---mobile-->
+    .navigation__container__mobile
 </div>
 </div>
