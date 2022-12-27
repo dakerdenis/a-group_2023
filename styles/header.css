@@ -100,8 +100,8 @@ margin-right: 10.75px;
 /****************ferdi korporativ sehslere************************/
 .dropbtn {
   background-color: #fff;
-  border: 3px solid #000;
-  color: #000;
+  border: 3px solid rgba(87, 86, 86, 1);
+  color: rgba(87, 86, 86, 1);
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 400;
@@ -118,7 +118,13 @@ margin-right: 10.75px;
   background-color: #fff;
 
 }
-
+.dropdown_arrow{
+  margin-top: 5px;
+  transition: ease-in 0.3s;
+}
+.rotateimage{
+  transform: rotate(180deg);
+}
 .dropdown {
   position: relative;
   display: inline-block;
@@ -262,14 +268,19 @@ text-align: left;
   background-color: #ffffff;
   color: #bc1a1a;
 }
+.dropdown-container .dropdown-toggle:hover .dropdown-menu{
+  display: block;
+}
+
+
 .dropdown-container .dropdown-menu {
   width: 100vw;
   border-radius: 10px;
-  box-shadow: 0px 0px 4px -2px rgba(0, 0, 0, 0.5);
-  margin-top: 17px;
+
+  padding-top: 17px;
   position: absolute;
   left: 0;
-
+  box-shadow: 0 4px 5px -2px rgba(0, 0, 0, 0.2);
   display: none;
   background-color: #ffffff;
   z-index: 10;
@@ -285,19 +296,6 @@ text-align: left;
   position: relative;
 }
 
-.dropdown-toggle::before {
-/* content: "";
-//* position: absolute;
-//* right: 5px;
-//* top: 50%;
-//* transform: translateY(-50%) rotate(45deg);
-//* border: 5px solid;
-//* border-top-color: rgba(0, 0, 0, 0);
-//* border-left-color: rgba(0, 0, 0, 0);
-//* margin-top: -2.5px;
-//* background-color: rgba(0, 0, 0, 0);
-//* transition: all ease-in-out 0.2s; */
-}
 
 .dropdown-menu {
   z-index: 10;
@@ -312,79 +310,11 @@ text-align: left;
   background-color: #ffffff;
   color: #bc1a1a;
 }
-.dropdown-container.dropdown-open .dropdown-toggle:before {
-  transform: rotate(-135deg);
-}
-
 .dropdown-bordered .dropdown-toggle {
   border: 2px solid #000000;
   border-radius: 10px;
 }
-.dropdown-bordered .dropdown-toggle:hover, .dropdown-bordered .dropdown-toggle:active, .dropdown-bordered .dropdown-toggle:focus {
-  background-color: #ffffff;
-  color: #bc1a1a;
 
-}
-.dropdown-bordered .dropdown-menu {
-  border: 2px solid #000000;
-  border-radius: 10px;
-}
-.dropdown-bordered .dropdown-menu::before {
-  border-color: #000000;
-}
-.dropdown-bordered .dropdown-menu a {
-  box-shadow: none;
-  border-bottom: 2px solid #000000;
-}
-.dropdown-bordered .dropdown-menu li:last-child a {
-  border-bottom: 0;
-}
-
-.dropdown-gradient .dropdown-toggle,
-.dropdown-gradient .dropdown-menu,
-.dropdown-gradient a {
-  background: #ff3131;
-  background: -moz-linear-gradient(262deg, #ff3131 11%, #5400ff 100%);
-  background: -webkit-linear-gradient(262deg, #ff3131 11%, #5400ff 100%);
-  background: linear-gradient(262deg, #ff3131 11%, #5400ff 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff3131",endColorstr="#5400ff",GradientType=1);
-  color: #ffffff;
-}
-.dropdown-gradient .dropdown-toggle::before {
-  color: #ffffff;
-}
-.dropdown-gradient .dropdown-menu a {
-  background: none;
-  box-shadow: none;
-  color: #ffffff;
-}
-.dropdown-gradient .dropdown-menu a:hover, .dropdown-gradient .dropdown-menu a:active, .dropdown-gradient .dropdown-menu a:focus {
-  background: #ff3131;
-  background: -moz-linear-gradient(66deg, #ff3131 11%, #5400ff 100%);
-  background: -webkit-linear-gradient(66deg, #ff3131 11%, #5400ff 100%);
-  background: linear-gradient(66deg, #ff3131 11%, #5400ff 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff3131",endColorstr="#5400ff",GradientType=1);
-}
-.dropdown-gradient .dropdown-menu::before {
-  box-shadow: none;
-  border-color: #ff3131;
-}
-
-.dropdown-solid .dropdown-toggle,
-.dropdown-solid .dropdown-menu {
-  background-color: #0979CE;
-  color: #ffffff;
-}
-.dropdown-solid .dropdown-menu a {
-  color: #ffffff;
-}
-.dropdown-solid .dropdown-menu a:hover, .dropdown-solid .dropdown-menu a:active, .dropdown-solid .dropdown-menu a:focus {
-  background-color: #ffffff;
-  color: #000000;
-}
-.dropdown-solid .dropdown-menu::before {
-  border-color: #0979CE;
-}
 
 
 .dropdown__element__wrapper {
@@ -410,6 +340,7 @@ text-align: left;
 .dropdown__element:hover .dorpdown__element__arrow {
   opacity: 1;
 }
+.dropdown-container:hover .dropdown-menu {display: block;}
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child),
   .dropdown .dropbtn {
