@@ -44,11 +44,11 @@
 color: #fff;
 
   font-family: "Roboto", sans-serif;
-  font-size: 20px;
-  font-weight: 400;
+  font-size: 17px;
+  font-weight: 600;
   line-height: 21px;
   letter-spacing: 0em;
-  padding: 10px 45px;
+  padding: 12px 45px;
   border-radius: 15px;
   transition: ease-in-out 0.3s;
 }
@@ -343,6 +343,41 @@ text-align: left;
   opacity: 1;
 }
 .dropdown-container:hover .dropdown-menu {display: block;}
+@media screen and (max-width: 1380px){
+  .dropdown-container .dropdown-toggle{
+    font-size: 15px;
+    padding: 9px 15px 9px 15px;
+  }
+  .navigation__payment a {
+    padding: 9px 30px;
+    font-size: 15px;
+    border-radius: 12px;
+  }
+  .login__link__text {
+    font-size: 17px;
+  }
+  .login__link__foto{
+    width: 25px;
+    height: 25px;
+  }
+  .login__link__foto img {
+    width: 100%;
+  }
+  .dropbtn{
+    font-size: 17px;
+    padding: 6px 8px;
+  }
+  .navigation__call_number p {
+    font-size: 30px;
+  }
+  .navigation__logo {
+    height: 60px;
+    width: 60px;
+  }
+  .navigation__logo img {
+    width: 100%;
+  }
+}
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child),
   .dropdown .dropbtn {
