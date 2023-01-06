@@ -51,7 +51,7 @@
                         <a href="#"> KLİNİKALARIN, APTEKLƏRİN VƏ OPTİKLƏRİN SİYAHISI</a>
                         <a href="#"> DƏRMANLARIN AXTARIŞI</a>
                         <a href="#"> XƏBƏRLƏR</a>
-                        <a href="#"> ƏLAQƏ</a>
+                        <a href="./contact.php"> ƏLAQƏ</a>
                         <a href="#"> ŞIKAYƏTLƏR</a>
                     </div>
                 </div>
