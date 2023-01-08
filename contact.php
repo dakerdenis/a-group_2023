@@ -3,6 +3,13 @@ include './include/header.php';
 
 ?>
 
+<!----!----СТИЛИ СТРАНИЦЫ КОНТАКТОВ--->
+<style>
+    <?php
+        include './styles/contact.css'
+    ?>
+</style>
+
 
 <div class="main__wrapper">
     <?php
@@ -13,6 +20,7 @@ include './include/header.php';
         <div class="contact__page__mainblock">
             <!---блок с приветствием и картинкой--->
             <div class="contact__page__mainblock__hello">
+                <!---Блок с приветствием--->
                 <div class="contact__page__mainblock__hellotext">
                     <div class="contact__page__hello">
                         <p>Salam</p>
@@ -24,7 +32,7 @@ include './include/header.php';
                         </p>
                     </div>
                 </div>
-                <!----->
+                <!--Главная картинка--->
                 <div class="contact__page__mainblock__image">
                     <img src="./styles/imgs/contact_img.svg" alt="">
                 </div>
@@ -116,6 +124,7 @@ include './include/header.php';
                 </div>
                 <!---Контактные данные--->
                 <div class="contact__page__info_wrapper">
+                    <!----BAKU--->
                     <div class="contact__page__info__element">
                         <div class="contact__page__info__element_name">
                             <p>Name1</p>
@@ -136,6 +145,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
+                    <!----GANCA--->
                     <div class="contact__page__info__element">
                         <div class="contact__page__info__element_name">
                             <p>Name1</p>
