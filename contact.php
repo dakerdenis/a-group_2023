@@ -77,7 +77,7 @@ include './include/header.php';
                     </div>
                     <!----связаться с нами popup---->
                     <div class="contact__page__social__element__popup">
-                        <button>Email</button>
+                        <a href="#">Email</a>
                     </div>
                 </div>
                 <div class="contact__page__social__element">

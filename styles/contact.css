@@ -9,6 +9,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding-bottom: 100px;
 }
 
 /********блок с приветствием **********/
@@ -56,30 +57,104 @@
 
 /***связь с нами и текст и соц сети*****/
 .contact__page__social__wrapper {
-    background-color: red;
+
     position: relative;
     width: 88%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
-.contact__page__social__element {}
+.contact__page__social__element {
+    width: 32%;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
 
-.contact__page__social__element_name {}
+}
 
-.contact__page__social__element__desc {}
+.contact__page__social__element:nth-child(1) {
+    border-right: 2px solid #FFFFFF;
+}
 
-.contact__page__social__element__popup {}
+.contact__page__social__element:nth-child(2) {
+    border-right: 2px solid #FFFFFF;
+}
 
-.contact__page__social__element__social {}
+.contact__page__social__element_name {
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 25px;
+
+}
+
+.contact__page__social__element__desc {
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 17px;
+    width: 80%;
+}
+
+.contact__page__social__element__desc span {
+    font-weight: 700;
+}
+
+.contact__page__social__element__popup {
+    position: absolute;
+    bottom: 15%;
+}
+
+.contact__page__social__element__popup a {
+
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+
+    height: 42px;
+    width: 150px;
+    border-radius: 15px;
+    border: 1px solid #FFFFFF;
+    border-radius: 15px;
+    padding: 7px 45px;
+
+    transition: ease-in-out 0.2s;
+
+}
+.contact__page__social__element__popup a:hover{
+    background-color: #fff;
+    color: #009CA6;
+}
+
+.contact__page__social__element__social {
+    position: absolute;
+    bottom: 10%;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
 
 .contact__page__social__element__social_link {}
+
 /***связь с нами и текст и соц сети - Треугольник*****/
 .contact__page__social__element__rectangle {
     position: absolute;
-    left: 50px ;
+    left: 50px;
     bottom: 50px;
 }
 
