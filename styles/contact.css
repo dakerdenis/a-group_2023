@@ -31,16 +31,17 @@
     letter-spacing: 0em;
     text-align: left;
 
+
 }
 
 .contact__page__hellotext {
     font-family: 'Roboto', sans-serif;
-font-size: 24px;
-font-weight: 300;
-line-height: 28px;
-letter-spacing: 0em;
-text-align: left;
-
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 40%;
 }
 
 /*********Главная картинка***********/
@@ -51,7 +52,10 @@ text-align: left;
 }
 
 /***связь с нами и текст и соц сети*****/
-.contact__page__social__wrapper {}
+.contact__page__social__wrapper {
+    background-color: red;
+    position: relative;
+}
 
 .contact__page__social__element {}
 
@@ -64,7 +68,7 @@ text-align: left;
 .contact__page__social__element__social {}
 
 .contact__page__social__element__social_link {}
-
+/***связь с нами и текст и соц сети - Треугольник*****/
 .contact__page__social__element__rectangle {}
 
 .contact_page__map_info {}
