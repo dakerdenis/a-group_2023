@@ -3,7 +3,9 @@
     <div class="navigation__container">
         <!---navigation logo---->
         <div class="navigation__logo">
+            <a href="./index.php">
             <img src="./styles/imgs/nav_logo.svg" alt="">
+            </a>
         </div>
         <!---nav call number 0909--->
         <div class="navigation__call_number">
