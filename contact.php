@@ -60,6 +60,10 @@ include './include/header.php';
                             cavablandırmağa çalışırıq
                         </p>
                     </div>
+                    <!----связаться с нами popup---->
+                    <div class="contact__page__social__element__popup">
+                        <button>Email</button>
+                    </div>
                 </div>
                 <div class="contact__page__social__element">
                     <div class="contact__page__social__element_name">
@@ -72,6 +76,29 @@ include './include/header.php';
                         <p>
                             Daimə yanınızdayıq
                         </p>
+                    </div>
+                    <!----социальные сети---->
+                    <div class="contact__page__social__element__social">
+                        <div class="contact__page__social__element__social_link">
+                            <a href="#">
+                                <img src="./styles/imgs/facebook_cntct.svg" alt="" srcset="">
+                            </a>
+                        </div>
+                        <div class="contact__page__social__element__social_link">
+                            <a href="#">
+                                <img src="./styles/imgs/instagram_cntct.svg" alt="" srcset="">
+                            </a>
+                        </div>
+                        <div class="contact__page__social__element__social_link">
+                            <a href="#">
+                                <img src="./styles/imgs/linkedin_cntct.svg" alt="" srcset="">
+                            </a>
+                        </div>
+                        <div class="contact__page__social__element__social_link">
+                            <a href="#">
+                                <img src="./styles/imgs/youtube_cntct.svg" alt="" srcset="">
+                            </a>
+                        </div>
                     </div>
                 </div>
 
