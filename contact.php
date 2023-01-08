@@ -6,7 +6,7 @@ include './include/header.php';
 <!----!----СТИЛИ СТРАНИЦЫ КОНТАКТОВ--->
 <style>
     <?php
-        include './styles/contact.css'
+    include './styles/contact.css'
     ?>
 </style>
 
@@ -19,12 +19,12 @@ include './include/header.php';
         <!---главный блок на странице---->
         <div class="contact__page__mainblock">
 
-                <!--Главная картинка--->
-                <div class="contact__page__mainblock__image">
-                    <img src="./styles/imgs/contact_img.svg" alt="">
-                </div>
+            <!--Главная картинка--->
+            <div class="contact__page__mainblock__image">
+                <img src="./styles/imgs/contact_img.svg" alt="">
+            </div>
 
-            <!---блок с приветствием и картинкой--->
+            <!---блок с приветствием --->
             <div class="contact__page__mainblock__hello">
                 <!---Блок с приветствием--->
                 <div class="contact__page__mainblock__hellotext">
@@ -117,9 +117,11 @@ include './include/header.php';
                     </div>
                 </div>
 
-                <div class="contact__page__social__element__rectangle">
-                    <img src="./styles/imgs/contact_rect.svg" alt="">
-                </div>
+
+            </div>
+            <!----Треугольник--->
+            <div class="contact__page__social__element__rectangle">
+                <img src="./styles/imgs/contact_rect.svg" alt="">
             </div>
         </div>
         <!---блок с инфой и картами--->
