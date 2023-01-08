@@ -18,6 +18,12 @@ include './include/header.php';
     <div class="contact__page__wrapper">
         <!---главный блок на странице---->
         <div class="contact__page__mainblock">
+
+                <!--Главная картинка--->
+                <div class="contact__page__mainblock__image">
+                    <img src="./styles/imgs/contact_img.svg" alt="">
+                </div>
+
             <!---блок с приветствием и картинкой--->
             <div class="contact__page__mainblock__hello">
                 <!---Блок с приветствием--->
@@ -32,11 +38,12 @@ include './include/header.php';
                         </p>
                     </div>
                 </div>
-                <!--Главная картинка--->
-                <div class="contact__page__mainblock__image">
-                    <img src="./styles/imgs/contact_img.svg" alt="">
-                </div>
             </div>
+
+
+
+
+
             <!--связь с нами и текст и соц сети------->
             <div class="contact__page__social__wrapper">
                 <div class="contact__page__social__element">

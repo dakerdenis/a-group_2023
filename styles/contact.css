@@ -1,49 +1,84 @@
 .contact__page__wrapper {
     padding-top: 90px;
 }
+
 .contact__page__mainblock {
     background-color: #009CA6;
     min-height: calc(100vh - 90px);
+    width: 100%;
 }
+
+/********блок с приветствием **********/
 .contact__page__mainblock__hello {
+    width: 88%;
+    height: 100%;
+
+    position: relative;
+    margin: 0 auto;
 }
+
+/********Блок с приветствием**********/
 .contact__page__mainblock__hellotext {
+    padding-top: 200px;
+    color: rgba(255, 255, 255, 1);
 }
+
 .contact__page__hello {
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: left;
+
 }
+
 .contact__page__hellotext {
+    font-family: 'Roboto', sans-serif;
+font-size: 24px;
+font-weight: 300;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
 }
+
+/*********Главная картинка***********/
 .contact__page__mainblock__image {
+    position: absolute;
+    right: 0;
+
 }
-.contact__page__social__wrapper {
-}
-.contact__page__social__element {
-}
-.contact__page__social__element_name {
-}
-.contact__page__social__element__desc {
-}
-.contact__page__social__element__popup {
-}
-.contact__page__social__element__social {
-}
-.contact__page__social__element__social_link {
-}
-.contact__page__social__element__rectangle {
-}
-.contact_page__map_info {
-}
-.contact__page__map__info__wrapper {
-}
-.contact__page__map {
-}
-.contact__page__info_wrapper {
-}
-.contact__page__info__element {
-}
-.contact__page__info__element_name {
-}
-.contact__page__info__element__desc {
-}
-.contact__page__info__element__desc_desc {
-}
+
+/***связь с нами и текст и соц сети*****/
+.contact__page__social__wrapper {}
+
+.contact__page__social__element {}
+
+.contact__page__social__element_name {}
+
+.contact__page__social__element__desc {}
+
+.contact__page__social__element__popup {}
+
+.contact__page__social__element__social {}
+
+.contact__page__social__element__social_link {}
+
+.contact__page__social__element__rectangle {}
+
+.contact_page__map_info {}
+
+.contact__page__map__info__wrapper {}
+
+.contact__page__map {}
+
+.contact__page__info_wrapper {}
+
+.contact__page__info__element {}
+
+.contact__page__info__element_name {}
+
+.contact__page__info__element__desc {}
+
+.contact__page__info__element__desc_desc {}
