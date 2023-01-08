@@ -109,7 +109,56 @@ include './include/header.php';
         </div>
         <!---блок с инфой и картами--->
         <div class="contact_page__map_info">
+            <div class="contact__page__map__info__wrapper">
+                <!---КАРТА-->
+                <div class="contact__page__map">
 
+                </div>
+                <!---Контактные данные--->
+                <div class="contact__page__info_wrapper">
+                    <div class="contact__page__info__element">
+                        <div class="contact__page__info__element_name">
+                            <p>Name1</p>
+                        </div>
+                        <div class="contact__page__info__element__desc">
+                            <div class="contact__page__info__element__desc_desc">
+                                <img src="./styles/imgs/location.svg" alt="">
+                                <p>R.Behbudov küç., 87A</p>
+                            </div>
+                            <div class="contact__page__info__element__desc_desc">
+                                <img src="./styles/imgs/email.svg" alt="">
+                                <p>insurance@a-group.az</p>
+                            </div>
+                            <div class="contact__page__info__element__desc_desc">
+                                <img src="./styles/imgs/phone.svg" alt="">
+                                <p>(+994 12) 377-09-09</p>
+                                <p>*0909</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="contact__page__info__element">
+                        <div class="contact__page__info__element_name">
+                            <p>Name1</p>
+                        </div>
+                        <div class="contact__page__info__element__desc">
+                            <div class="contact__page__info__element__desc_desc">
+                                <img src="./styles/imgs/location.svg" alt="">
+                                <p> Hedər Əliyev 494 A. (Zərrabi küç. 54)</p>
+                            </div>
+                            <div class="contact__page__info__element__desc_desc">
+                                <img src="./styles/imgs/email.svg" alt="">
+                                <p>tbayramov@a-group.az</p>
+                            </div>
+                            <div class="contact__page__info__element__desc_desc">
+                                <img src="./styles/imgs/phone.svg" alt="">
+                                <p>(+994 22) 266-88-49</p>
+                                <p>(+994 22) 266-03-86</p>
+                                <p>*0909</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <?php
