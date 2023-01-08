@@ -136,7 +136,7 @@ include './include/header.php';
                     <!----BAKU--->
                     <div class="contact__page__info__element">
                         <div class="contact__page__info__element_name">
-                            <p>Name1</p>
+                            <p>Bakı</p>
                         </div>
                         <div class="contact__page__info__element__desc">
                             <div class="contact__page__info__element__desc_desc">
@@ -149,15 +149,17 @@ include './include/header.php';
                             </div>
                             <div class="contact__page__info__element__desc_desc">
                                 <img src="./styles/imgs/phone.svg" alt="">
-                                <p>(+994 12) 377-09-09</p>
-                                <p>*0909</p>
+                                <p>(+994 12) 377-09-09
+                                    <br>
+                                    *0909
+                                </p>
                             </div>
                         </div>
                     </div>
                     <!----GANCA--->
                     <div class="contact__page__info__element">
-                        <div class="contact__page__info__element_name">
-                            <p>Name1</p>
+                        <div class="contact__page__info__element_name contact__page__info__element_name_2">
+                            <p>Gəncə</p>
                         </div>
                         <div class="contact__page__info__element__desc">
                             <div class="contact__page__info__element__desc_desc">
@@ -170,9 +172,10 @@ include './include/header.php';
                             </div>
                             <div class="contact__page__info__element__desc_desc">
                                 <img src="./styles/imgs/phone.svg" alt="">
-                                <p>(+994 22) 266-88-49</p>
-                                <p>(+994 22) 266-03-86</p>
-                                <p>*0909</p>
+                                <p>(+994 22) 266-88-49 <br>
+                                (+994 22) 266-03-86 <br>
+                                *0909
+                            </p>
                             </div>
                         </div>
                     </div>

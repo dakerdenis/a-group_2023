@@ -158,18 +158,79 @@
     bottom: 50px;
 }
 
-.contact_page__map_info {}
+.contact_page__map_info {
+    width: 100%;
+    height: 100%;
+}
 
-.contact__page__map__info__wrapper {}
+.contact__page__map__info__wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
 
-.contact__page__map {}
+.contact__page__map {
+    width: 30%;
+    min-height: 690px;
+    background-color: red;
+    background-image: url('./imgs/MapsicleMap.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
-.contact__page__info_wrapper {}
+.contact__page__info_wrapper {
+    width: 70% ;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
 
-.contact__page__info__element {}
+.contact__page__info__element {
+    min-height: 382px;
+    width: 46%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contact__page__info__element:nth-child(1){
+    border-right:rgba(0, 156, 166, 1) 1px solid ;
+}
+.contact__page__info__element_name {
+    font-family: 'Roboto', sans-serif;
+    color: rgba(188, 26, 26, 1);
+font-size: 40px;
+font-weight: 700;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: left;
 
-.contact__page__info__element_name {}
+}
+.contact__page__info__element_name_2{
+    color: rgba(87, 86, 86, 1);
+}
+.contact__page__info__element__desc {
+    display: flex;
+    flex-direction: column;
 
-.contact__page__info__element__desc {}
 
-.contact__page__info__element__desc_desc {}
+    font-family: 'Roboto', sans-serif;
+font-size: 24px;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.contact__page__info__element__desc_desc {
+    margin-top: 25px;
+    display: flex;
+    align-items: flex-start;
+}
+.contact__page__info__element__desc_desc img{
+    margin-right: 15px;
+}
