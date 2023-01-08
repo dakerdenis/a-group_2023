@@ -173,8 +173,8 @@
 .contact__page__map {
     width: 30%;
     min-height: 690px;
-    background-color: red;
-    background-image: url('./imgs/MapsicleMap.png');
+    background-color: green;
+    background-image: url("./imgs/MapsicleMap.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
