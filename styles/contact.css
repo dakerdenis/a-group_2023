@@ -234,7 +234,7 @@
 }
 
 .contact__page__info__element {
-  min-height: 382px;
+  height: 382px;
   width: 46%;
   padding: 30px;
   display: flex;
@@ -489,5 +489,27 @@
   }
   .contact__page__info__element__desc {
     font-size: 19px;
+  }
+}
+@media only screen and (max-width: 769px) {
+  .contact__page__map__info__wrapper{
+    flex-direction: column;
+  }
+  .contact__page__map{
+    min-height: 340px;
+    width: 100%;
+  }
+  .contact__page__map__rectangle{
+    display: none;
+    visibility: hidden;
+  }
+  .contact__page__info_wrapper{
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .contact__page__info__element {
+    height: 300px;
+    width: 50%;
   }
 }
