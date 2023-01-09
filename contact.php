@@ -187,14 +187,16 @@ include './include/header.php';
 
    <!------popup тело---->
    <div id="popup" class="popup">
-      <div class="popup__body">
+    <a href="" class="popup__area">    </a>
+    <div class="popup__body">
          <div class="popup__content">
-            <a href="#header" class="popup__close close-popup">&#10006;</a>
+            <a href="" class="popup__close close-popup">&#10006;</a>
             <div class="popup__content__container">
-                asdasdas
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, voluptatem. Deserunt quaerat adipisci sit velit iste asperiores et. Dolorum dolorem amet autem, est repellendus vel pariatur consequatur possimus reprehenderit corrupti.
             </div>
          </div>
       </div>
+
    </div>
 
 
