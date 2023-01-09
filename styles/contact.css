@@ -467,4 +467,27 @@
   .contact__page__hellotext {
     font-size: 22px;
   }
+  .contact__page__social__element__popup {
+    bottom: 10%;
+  }
+  .contact__page__social__element__social {
+    bottom: 4%;
+  }
+  .contact__page__social__element__desc {
+    width: 96%;
+  }
+}
+@media only screen and (max-width: 1370px) {
+  .contact__page__wrapper{
+    padding-top: 80px;
+  }
+  .contact__page__mainblock {
+    min-height: calc(100vh - 80px);
+  }
+  .contact__page__mainblock__image{
+    top: -7.7%;
+  }
+  .contact__page__info__element__desc {
+    font-size: 19px;
+  }
 }
