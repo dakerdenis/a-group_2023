@@ -77,7 +77,7 @@ include './include/header.php';
                     </div>
                     <!----связаться с нами popup---->
                     <div class="contact__page__social__element__popup">
-                        <a href="#">Email</a>
+                        <a href="#popup" class="popup-link">Email</a>
                     </div>
                 </div>
                 <div class="contact__page__social__element">
@@ -183,6 +183,38 @@ include './include/header.php';
             </div>
         </div>
     </div>
+
+
+   <!------popup тело---->
+   <div id="popup" class="popup">
+      <div class="popup__body">
+         <div class="popup__content">
+            <a href="#header" class="popup__close close-popup">&#10006;</a>
+            <div class="popup__content__container">
+                asdasdas
+            </div>
+         </div>
+      </div>
+   </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <?php
     include './include/footer.php';
     ?>
