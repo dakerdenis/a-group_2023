@@ -129,7 +129,26 @@ include './include/header.php';
             <div class="contact__page__map__info__wrapper">
                 <!---КАРТА-->
                 <div class="contact__page__map">
-
+                    <div class="contact__page__map__container">
+                        <!---навигация---->
+                        <div class="contact__page__map__navigation">
+                            <div class="tab">
+                                <button class="tablinks" onclick="openCity(event, 'Baku')" id="defaultOpen">Bakı</button>
+                                <button class="tablinks" onclick="openCity(event, 'Ganca')">Gəncə</button>
+                            </div>
+                        </div>
+                        <!---карта--->
+                        <div class="contact__page__map__map">
+                            <div id="Baku" class="tabcontent">
+                                <p>Baku is the capital city of Baku.</p>
+                            </div>
+                            <div id="Ganca" class="tabcontent">
+                                <p>Ganca . asfasfasf</p>
+                            </div>
+                        </div>
+                        <!---circle map--->
+                        <div class="contact__page__map__rectangle"></div>
+                    </div>
                 </div>
                 <!---Контактные данные--->
                 <div class="contact__page__info_wrapper">
@@ -221,7 +240,7 @@ include './include/header.php';
                         <textarea name="" id="" placeholder="Mesaj"></textarea>
                     </div>
                     <div class="popup__content__submit">
-                        <button type="submit" >Göndər</button>
+                        <button type="submit">Göndər</button>
                     </div>
                 </form>
             </div>
@@ -245,7 +264,24 @@ include './include/header.php';
 
 
 
+    <script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
 
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
 
     <?php
     include './include/footer.php';
