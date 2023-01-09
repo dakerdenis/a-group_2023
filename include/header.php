@@ -24,4 +24,7 @@
     <link rel="stylesheet" href="./styles/swiper.css">
     <!---all styles---->
     <link rel="stylesheet" href="./styles/style.css">
+
+
+    <link rel="stylesheet" href="./styles/contact.css?v=<?php echo time(); ?>">
 </head>

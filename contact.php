@@ -3,12 +3,8 @@ include './include/header.php';
 
 ?>
 
-<!----!----СТИЛИ СТРАНИЦЫ КОНТАКТОВ--->
-<style>
-    <?php
-    include './styles/contact.css'
-    ?>
-</style>
+
+
 
 
 <div class="main__wrapper">
