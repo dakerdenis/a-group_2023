@@ -401,11 +401,7 @@ text-align: left;
     align-items: center;
     justify-content: space-between;
   }
-  .swiper-slide img{
-    width: initial;
-    height: initial;
-    object-fit: contain;
-  }
+
 }
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child),

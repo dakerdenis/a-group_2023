@@ -132,6 +132,8 @@ include './include/header.php';
                 <!---КАРТА-->
                 <div class="contact__page__map">
                     <div class="contact__page__map__container">
+
+
                         <!---навигация---->
                         <div class="contact__page__map__navigation">
                             <div class="tab">
@@ -139,13 +141,33 @@ include './include/header.php';
                                 <button class="tablinks" onclick="openCity(event, 'Ganca')">Gəncə</button>
                             </div>
                         </div>
+
+
                         <!---карта--->
                         <div class="contact__page__map__map">
                             <div id="Baku" class="tabcontent">
-                                <p>Baku is the capital city of Baku.</p>
+                                
+                            <iframe
+                             width="90%" 
+                             height="300" 
+                             frameborder="0" 
+                             scrolling="no"
+                              marginheight="0"
+                              marginwidth="0" 
+                              src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=40.38436563160357,%2049.84188935267776+(A-Group)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+                              
+                            </iframe>
                             </div>
                             <div id="Ganca" class="tabcontent">
-                                <p>Ganca . asfasfasf</p>
+                            <iframe 
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.944383130408!2d46.35611691540381!3d40.67519437933591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQwJzMwLjciTiA0NsKwMjEnMjkuOSJF!5e0!3m2!1sen!2s!4v1583846767311!5m2!1sen!2s" 
+                            width="90%" 
+                             height="300" 
+                             frameborder="0" 
+                             scrolling="no"
+                              marginheight="0"
+                              marginwidth="0" 
+                              allowfullscreen=""></iframe>
                             </div>
                         </div>
                         <!---circle map--->
@@ -154,6 +176,11 @@ include './include/header.php';
                         </div>
                     </div>
                 </div>
+
+
+
+
+
                 <!---Контактные данные--->
                 <div class="contact__page__info_wrapper">
                     <!----BAKU--->
