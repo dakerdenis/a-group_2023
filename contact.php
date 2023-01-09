@@ -173,9 +173,9 @@ include './include/header.php';
                             <div class="contact__page__info__element__desc_desc">
                                 <img src="./styles/imgs/phone.svg" alt="">
                                 <p>(+994 22) 266-88-49 <br>
-                                (+994 22) 266-03-86 <br>
-                                *0909
-                            </p>
+                                    (+994 22) 266-03-86 <br>
+                                    *0909
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -185,19 +185,46 @@ include './include/header.php';
     </div>
 
 
-   <!------popup тело---->
-   <div id="popup" class="popup">
-    <a href="" class="popup__area">    </a>
-    <div class="popup__body">
-         <div class="popup__content">
-            <a href="" class="popup__close close-popup">&#10006;</a>
-            <div class="popup__content__container">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, voluptatem. Deserunt quaerat adipisci sit velit iste asperiores et. Dolorum dolorem amet autem, est repellendus vel pariatur consequatur possimus reprehenderit corrupti.
-            </div>
-         </div>
-      </div>
+    <!------popup тело---->
+    <div id="popup" class="popup">
+        <a href="" class="popup__area"> </a>
+        <div class="popup__body">
+            <div class="popup__content">
+                <a href="" class="popup__close close-popup">&#10006;</a>
+                <div class="popup__content__container">
+                    <div class="popup__content__name">
+                        <p>Email</p>
+                    </div>
+                    <div class="popup__content__desc">
+                        <p>
+                            Sizin mesajları mümkün qədər tez
+                            cavablandırmağa çalışırıq
+                        </p>
+                    </div>
 
-   </div>
+                    <div class="popup__content__input">
+                        <input name="name" type="text" placeholder="Ad">
+                    </div>
+                    <div class="popup__content__input">
+                        <input name="surname" type="text" placeholder="Soyad">
+                    </div>
+                    <div class="popup__content__input">
+                        <input name="father_name" type="text" placeholder="Ata adı">
+                    </div>
+                    <div class="popup__content__input">
+                        <input name="email" type="email" placeholder="Email">
+                    </div>
+                    <div class="popup__content__input">
+                        <input name="number" type="number" placeholder="Əlaqə nömrəsi">
+                    </div>
+                    <div class="popup__content__textarea">
+                        <textarea name="" id="" cols="30" rows="10"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
 
 
 
