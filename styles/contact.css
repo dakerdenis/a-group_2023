@@ -66,7 +66,7 @@
 
 .contact__page__social__element {
   width: 32%;
-  min-height: 280px;
+  height: 280px;
   display: flex;
   flex-direction: column;
   position: relative;
@@ -167,11 +167,7 @@
 
 .contact__page__map {
   width: 30%;
-  min-height: 690px;
-  background-image: url("./imgs/MapsicleMap.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  height: 690px;
 }
 
 .contact__page__map__container {
@@ -419,11 +415,13 @@
 @media only screen and (max-width: 1500px) {
     .contact__page__map {
         height: 450px;
+
     }
 }
 @media only screen and (max-width: 1450px) {
     .contact__page__social__element{
         height: 230px;
+
     }
     .contact__page__social__element__desc {
         font-size: 20px;
@@ -434,4 +432,30 @@
     .contact__page__info__element__desc_desc {
       margin-top: 22px;
     }
+    .tab{
+      height: 85%;
+    }
+    .contact__page__mainblock__image {
+      top: 2%;
+    }
+    .tablinks {
+    font-size: 17px;
+    }
+    .contact__page__info__element_name{
+      font-size: 34px;
+    }
+}
+@media only screen and (max-width: 1390px) {
+  .contact__page__info__element{
+    padding: 10px;
+  }
+  .contact__page__info__element__desc{
+    font-size: 21px;
+  }
+  .contact__page__mainblock__hellotext {
+    padding-top: 145px;
+  }
+  .contact__page__social__element__social {
+    width: 70%;
+  }
 }
