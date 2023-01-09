@@ -401,3 +401,31 @@
   padding: 10px 50px;
   border-radius: 17px;
 }
+@media only screen and (max-width: 1601px) {
+    .contact__page__map {
+        height: 580px;
+    }
+    .popup__content__input input {
+        padding: 8px 10px;
+    }
+    .popup__content__desc{
+        margin-top: 0;
+    }
+    .contact__page__social__element__rectangle {
+        left: 20px;
+        bottom: 20px;
+    }
+}
+@media only screen and (max-width: 1500px) {
+    .contact__page__map {
+        height: 450px;
+    }
+}
+@media only screen and (max-width: 1450px) {
+    .contact__page__social__element{
+        height: 230px;
+    }
+    .contact__page__social__element__desc {
+        font-size: 20px;
+    }
+}
