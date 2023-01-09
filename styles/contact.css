@@ -512,4 +512,15 @@
     height: 300px;
     width: 50%;
   }
+  .contact__page__mainblock__image {
+    top: -16.7%;
+    right: -27%;
+  }
+  .contact__page__hellotext {
+    width: 70%;
+  }
+  .contact__page__social__element {
+    height: 216px;
+    margin-bottom: 41px;
+  }
 }
