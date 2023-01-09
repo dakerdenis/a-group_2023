@@ -436,7 +436,7 @@
       height: 85%;
     }
     .contact__page__mainblock__image {
-      top: 2%;
+      top: 2.3%;
     }
     .tablinks {
     font-size: 17px;
@@ -457,5 +457,14 @@
   }
   .contact__page__social__element__social {
     width: 70%;
+  }
+  .contact__page__hello {
+    font-size: 53px;
+  }
+  .contact__page__social__element_name {
+    font-size: 32px;
+  }
+  .contact__page__hellotext {
+    font-size: 22px;
   }
 }
