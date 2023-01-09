@@ -239,7 +239,7 @@ include './include/header.php';
 
     <!------popup тело---->
     <div id="popup" class="popup">
-        <a href="" class="popup__area"> </a>
+        <a  class="popup__area"> </a>
         <div class="popup__body">
             <div class="popup__content">
                 <a href="" class="popup__close close-popup">&#10006;</a>

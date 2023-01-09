@@ -34,6 +34,8 @@
   line-height: 75px;
   letter-spacing: 0em;
   text-align: left;
+
+  margin-bottom: 20px;
 }
 
 .contact__page__hellotext {
@@ -153,6 +155,7 @@
 .contact_page__map_info {
   width: 100%;
   height: 100%;
+  background-color: #FDE9D1;
 }
 
 .contact__page__map__info__wrapper {
