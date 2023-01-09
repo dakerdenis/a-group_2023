@@ -191,7 +191,7 @@ include './include/header.php';
         <div class="popup__body">
             <div class="popup__content">
                 <a href="" class="popup__close close-popup">&#10006;</a>
-                <div class="popup__content__container">
+                <form class="popup__content__container">
                     <div class="popup__content__name">
                         <p>Email</p>
                     </div>
@@ -218,9 +218,12 @@ include './include/header.php';
                         <input name="number" type="number" placeholder="Əlaqə nömrəsi">
                     </div>
                     <div class="popup__content__textarea">
-                        <textarea name="" id="" cols="30" rows="10"></textarea>
+                        <textarea name="" id="" placeholder="Mesaj"></textarea>
                     </div>
-                </div>
+                    <div class="popup__content__submit">
+                        <button type="submit" >Göndər</button>
+                    </div>
+                </form>
             </div>
         </div>
 
