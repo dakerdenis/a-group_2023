@@ -2,9 +2,6 @@
      <?php include './include/header.php' ?>
 
      <body>
-         <style>
-             <?php include './styles/swiper.css' ?>
-         </style>
          <div class="main__wrapper">
              <!---Navigation---->
              <?php include './include/navigation.php' ?>
