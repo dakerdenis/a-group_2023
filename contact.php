@@ -29,7 +29,9 @@ include './include/header.php';
                 <!---Блок с приветствием--->
                 <div class="contact__page__mainblock__hellotext">
                     <div class="contact__page__hello">
-                        <p>Salam</p>
+                        <p>
+                            <span id="words" class="words">Salam</span> 
+                        </p>
                     </div>
                     <div class="contact__page__hellotext">
                         <p>
@@ -147,7 +149,9 @@ include './include/header.php';
                             </div>
                         </div>
                         <!---circle map--->
-                        <div class="contact__page__map__rectangle"></div>
+                        <div class="contact__page__map__rectangle">
+                            <img src="./styles/imgs/circle.png" alt="">
+                        </div>
                     </div>
                 </div>
                 <!---Контактные данные--->
@@ -202,6 +206,8 @@ include './include/header.php';
             </div>
         </div>
     </div>
+
+
 
 
     <!------popup тело---->
@@ -281,6 +287,25 @@ function openCity(evt, cityName) {
 
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
+
+
+
+(function(){
+    var words = [
+    "Hello",
+    "Guten Tag",
+    "Здравствуйте",
+    "Hi",
+],
+    i = 0;
+    setInterval(function(){
+        $('#words').fadeOut(function(){
+            $(this).html(words[(i = (i + 1) % words.length)]).fadeIn(); 
+        });
+    }, 1500)
+})();
+
+
 </script>
 
     <?php

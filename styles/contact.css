@@ -172,6 +172,42 @@
   background-size: cover;
 }
 
+.contact__page__map__container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.contact__page__map__navigation {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    right: 10px;
+    top: 20px;
+}
+.tab {
+}
+.tablinks {
+}
+.contact__page__map__map {
+}
+.tabcontent {
+}
+.contact__page__map__rectangle {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+
+
 .contact__page__info_wrapper {
   width: 70%;
   display: flex;
