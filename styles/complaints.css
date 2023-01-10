@@ -43,14 +43,38 @@
 .complaints__info__wrapper {
     width: 60%;
     margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: antiquewhite;
 }
 .complaints__info__element {
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 250px;
 }
 .complaints__info__element__img {
 }
 .complaints__info__element__name {
+    font-family: "Roboto", sans-serif;
+font-size: 32px;
+font-weight: 500;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: center;
+
 }
 .complaints__info__element__desc {
+    font-family: "Roboto", sans-serif;
+font-size: 24px;
+font-weight: 300;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+
 }
 .complaints__info__element__desc_p {
 }
