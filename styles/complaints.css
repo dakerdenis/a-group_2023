@@ -130,6 +130,20 @@ letter-spacing: 0em;
 text-align: left;
 
 }
+.complaints__form__textarea{
+    height: 100px;
+}
+.complaints__form__input__container_textarea{
+    align-items: initial;
+}
+.complaints__form__input textarea{
+    width: 100%;
+    height: 100%;
+
+}
+textarea {
+    resize: none;
+  }
 .complaints__form__submit {
   width: 100%;
   text-align: center;
@@ -147,10 +161,38 @@ text-align: left;
   border-radius: 17px;
 }
 .complaints__check__form {
+
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 6em;
+}
+.complaints__name_check{
+    width: initial;
+}
+.complaints__name_check img{
+    position: absolute;
+right: 27%;
 }
 .complaints__check__result {
+    width: 30%;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 .complaints__check__result__element {
+    
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.complaints__check__result__element:first-child{
+    background-color: #009ca6;
+    color: #fff;
+}
+.complaints__check__result__element:nth-child(3) {
+    background-color: #009ca6;
+    color: #fff;
 }
 .complaints__check__result__final {
 }

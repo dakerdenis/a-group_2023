@@ -140,11 +140,11 @@ include './include/header.php';
                     </div>
                 </div>
                 <!----textarea-->
-                <div class="complaints__form__input__container">
+                <div class="complaints__form__input__container complaints__form__input__container_textarea">
                     <div class="complaints__form__input__desc">
                         <p>Sizin mesaj</p>
                     </div>
-                    <div class="complaints__form__input">
+                    <div class="complaints__form__input complaints__form__textarea">
                         <textarea name="" id="" placeholder="Sizin mesaj"></textarea>
                     </div>
                 </div>
@@ -165,7 +165,7 @@ include './include/header.php';
 
 
 
-        <div class="complaints__name">
+        <div class="complaints__name complaints__name_check">
             <p>Şikayətin statusunun izlənilməsi</p>
             <img src="./styles/imgs/complaints_green.svg" alt="">
         </div>
