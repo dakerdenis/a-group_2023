@@ -139,7 +139,11 @@ text-align: left;
 .complaints__form__input textarea{
     width: 100%;
     height: 100%;
-
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
 }
 textarea {
     resize: none;
@@ -147,6 +151,7 @@ textarea {
 .complaints__form__submit {
   width: 100%;
   text-align: center;
+  margin-top: 2em;
 }
 .complaints__form__submit button {
   background-color: #bc1a1a;
@@ -185,16 +190,18 @@ right: 27%;
     display: flex;
     width: 100%;
     justify-content: space-between;
-    padding: 10px;
+    padding: 15px;
     font-size: 20px;
 }
 .complaints__check__result__element:first-child{
     background-color: #009ca6;
     color: #fff;
+    border-radius: 5px 5px 0px 0px;
 }
 .complaints__check__result__element:nth-child(3) {
     background-color: #009ca6;
     color: #fff;
+    border-radius: 0px 0px 5px 5px;
 }
 .complaints__check__result__final {
     margin-top: 2.5em;
@@ -209,4 +216,60 @@ right: 27%;
     font-size: 20px;
 
     border-radius: 10px;
+}
+@media only screen and (max-width: 1450px){
+    .compliants__desc_text {
+        width: 87%;
+        font-size: 21px;
+    }
+    .complaints__form__wrapper {
+        width: 45%;
+    }
+    .complaints__name_check img{
+        right: 19%;
+    }
+    .complaints__info__wrapper {
+        width: 80%;
+    }
+    .complaints__info__element__desc {
+        font-size: 22px;
+    }
+    .complaints__info__element__name{
+        margin-bottom: 0.5em;
+    }
+    .complaints__check__form {
+        width: 45%;
+    }
+    .complaints__check__result{
+        width: 45%;
+    }
+}
+@media only screen and (max-width: 1380px){
+    .complaints__name p{
+        font-size: 50px;
+    }
+    .complaints__name img {
+        transform: scale(0.7);
+    }
+}
+@media only screen and (max-width: 768px){
+    .complaints__info__wrapper{
+        flex-direction: column;
+    }
+    .complaints__info__element{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .complaints__form__wrapper {
+        width: 80%;
+    }
+    .complaints__name p {
+        font-size: 38px;
+    }
+    .complaints__name img{
+        right: 18%;
+    }
+    .complaints__check__result {
+        width: 80%;
+    }
 }
