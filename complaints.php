@@ -83,6 +83,18 @@ include './include/header.php';
         </div>
 
 
+        <div class="complaints__form__container">
+            <form action="" class="complaints__form__wrapper">
+
+            </form>
+        </div>
+
+
+        <div class="compliants__desc_text">
+            <p>
+            Müraciətin nəticələri ilə razılaşmadığınız təqdirdə 966 “Qaynar xətt” vasitəsilə və ya rəsmi qaydada (yazılı (poçt, elektron müraciət, telegram və digər vasitələrdən istifadə edərək) olaraq) Azərbaycan Respublikasının Mərkəzi Bankına müraciət edə bilərsiniz. Mərkəzi Bank və ya şirkətimizin cavabları sizi qane etməzsə, mediator və (və ya) məhkəməyə müraciət edə bilərsiniz. 
+            </p>
+        </div>
     </div>
 
 
