@@ -33,50 +33,52 @@ include './include/header.php';
             <div class="complaints__info__wrapper">
                 <div class="complaints__info__element">
                     <div class="complaints__info__element__img">
-                        <img src="" alt="">
+                        <img src="./styles/imgs/map-pin.svg" alt="">
                     </div>
                     <div class="complaints__info__element__name">
-                        <p>Name Element 1</p>
+                        <p>1. Ünvan</p>
                     </div>
 
                     <div class="complaints__info__element__desc">
-                        <p>Element Desc content</p>
+                        <p>Bakı şəhəri,
+                            R. Behbudov küçəsi 87A</p>
                     </div>
                 </div>
                 <div class="complaints__info__element">
                     <div class="complaints__info__element__img">
-                        <img src="" alt="">
+                        <img src="./styles/imgs/phone-call.svg" alt="">
                     </div>
                     <div class="complaints__info__element__name">
-                        <p>Name Element 1</p>
+                        <p>2. Telefon</p>
                     </div>
 
                     <div class="complaints__info__element__desc">
-                        <p>Element Desc content</p>
+                        <p>*0909</p>
                     </div>
                 </div>
                 <div class="complaints__info__element">
                     <div class="complaints__info__element__img">
-                        <img src="" alt="">
+                        <img src="./styles/imgs/map-pin.svg" alt="">
                     </div>
                     <div class="complaints__info__element__name">
-                        <p>Name Element 1</p>
+                        <p>3. E-mail</p>
                     </div>
 
                     <div class="complaints__info__element__desc">
-                        <p>Element Desc content</p>
+                        <p class="complaints__info__element__desc_p">complaints@a-group.az</p>
                     </div>
                 </div>
                 <div class="complaints__info__element">
                     <div class="complaints__info__element__img">
-                        <img src="" alt="">
+                        <img src="./styles/imgs/user.svg" alt="">
                     </div>
                     <div class="complaints__info__element__name">
-                        <p>Name Element 1</p>
+                        <p>4. Koordinator</p>
                     </div>
 
                     <div class="complaints__info__element__desc">
-                        <p>Element Desc content</p>
+                        <p>Quliyev Fuad
+                            Gülağa oğlu</p>
                     </div>
                 </div>
             </div>
@@ -85,15 +87,115 @@ include './include/header.php';
 
         <div class="complaints__form__container">
             <form action="" class="complaints__form__wrapper">
+                <div class="complaints__form__name">
+                    <p>Formanı doldurun</p>
+                </div>
+                <div class="complaints__form__input__container">
+                    <div class="complaints__form__input__desc">
+                        <p>Ad</p>
+                    </div>
+                    <div class="complaints__form__input">
+                        <input type="text" placeholder="Ad">
+                    </div>
+                </div>
 
+                <div class="complaints__form__input__container">
+                    <div class="complaints__form__input__desc">
+                        <p>Soyad</p>
+                    </div>
+                    <div class="complaints__form__input">
+                        <input type="text" placeholder="Soyad">
+                    </div>
+                </div>
+                <div class="complaints__form__input__container">
+                    <div class="complaints__form__input__desc">
+                        <p>Ata adı</p>
+                    </div>
+                    <div class="complaints__form__input">
+                        <input type="text" placeholder="Ata adı">
+                    </div>
+                </div>
+                <div class="complaints__form__input__container">
+                    <div class="complaints__form__input__desc">
+                        <p>FİN kod</p>
+                    </div>
+                    <div class="complaints__form__input">
+                        <input type="text" placeholder="FİN kod">
+                    </div>
+                </div>
+                <div class="complaints__form__input__container">
+                    <div class="complaints__form__input__desc">
+                        <p>E-mail</p>
+                    </div>
+                    <div class="complaints__form__input">
+                        <input type="text" placeholder=">E-mail">
+                    </div>
+                </div>
+                <div class="complaints__form__input__container">
+                    <div class="complaints__form__input__desc">
+                        <p>Əlaqə nömrəsi</p>
+                    </div>
+                    <div class="complaints__form__input">
+                        <input type="text" placeholder="Əlaqə nömrəsi">
+                    </div>
+                </div>
+                <!----textarea-->
+                <div class="complaints__form__input__container">
+                    <div class="complaints__form__input__desc">
+                        <p>Sizin mesaj</p>
+                    </div>
+                    <div class="complaints__form__input">
+                        <textarea name="" id="" placeholder="Sizin mesaj"></textarea>
+                    </div>
+                </div>
+
+                <!---SUBMIT FORM--->
+                <div class="complaints__form__submit">
+                    <button type="submit">Göndər</button>
+                </div>
             </form>
         </div>
 
 
         <div class="compliants__desc_text">
             <p>
-            Müraciətin nəticələri ilə razılaşmadığınız təqdirdə 966 “Qaynar xətt” vasitəsilə və ya rəsmi qaydada (yazılı (poçt, elektron müraciət, telegram və digər vasitələrdən istifadə edərək) olaraq) Azərbaycan Respublikasının Mərkəzi Bankına müraciət edə bilərsiniz. Mərkəzi Bank və ya şirkətimizin cavabları sizi qane etməzsə, mediator və (və ya) məhkəməyə müraciət edə bilərsiniz. 
+                Müraciətin nəticələri ilə razılaşmadığınız təqdirdə 966 “Qaynar xətt” vasitəsilə və ya rəsmi qaydada (yazılı (poçt, elektron müraciət, telegram və digər vasitələrdən istifadə edərək) olaraq) Azərbaycan Respublikasının Mərkəzi Bankına müraciət edə bilərsiniz. Mərkəzi Bank və ya şirkətimizin cavabları sizi qane etməzsə, mediator və (və ya) məhkəməyə müraciət edə bilərsiniz.
             </p>
+        </div>
+
+
+
+        <div class="complaints__name">
+            <p>Şikayətin statusunun izlənilməsi</p>
+            <img src="./styles/imgs/complaints_green.svg" alt="">
+        </div>
+
+        <div class="complaints__form__container">
+            <form action="" class="complaints__check__form">
+                <div class="complaints__form__input__container">
+                    <div class="complaints__form__input__desc">
+                        <p>FİN kod</p>
+                    </div>
+                    <div class="complaints__form__input">
+                        <input type="text" placeholder="FİN kod">
+                    </div>
+                </div>
+
+                <div class="complaints__form__input__container">
+                    <div class="complaints__form__input__desc">
+                        <p>Şikayət nömrəsi</p>
+                    </div>
+                    <div class="complaints__form__input">
+                        <input type="text" placeholder="Şikayət nömrəsi">
+                    </div>
+                </div>
+
+                <!---SUBMIT FORM--->
+                <div class="complaints__form__submit">
+                    <button type="submit">Göndər</button>
+                </div>
+
+            </form>
         </div>
     </div>
 
