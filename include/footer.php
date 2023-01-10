@@ -52,7 +52,7 @@
                         <a href="#"> DƏRMANLARIN AXTARIŞI</a>
                         <a href="#"> XƏBƏRLƏR</a>
                         <a href="./contact.php"> ƏLAQƏ</a>
-                        <a href="#"> ŞIKAYƏTLƏR</a>
+                        <a href="./complaints.php"> ŞIKAYƏTLƏR</a>
                     </div>
                 </div>
             </div>

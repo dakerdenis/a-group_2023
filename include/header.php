@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A-Group Sığorta Şirkəti</title>
+    <title><?php
+      if(isset($title_name)){
+        echo $title_name;
+      }
+    ?></title>
 
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -25,6 +29,9 @@
     <!---all styles---->
     <link rel="stylesheet" href="./styles/style.css">
 
+    <!--contact page styles--->
+    <link rel="stylesheet" href="./styles/contact.css">
 
-    <link rel="stylesheet" href="./styles/contact.css?v=<?php echo time(); ?>">
+      <!---complaints styles--->
+      <link rel="stylesheet" href="./styles/contact.css">
 </head>

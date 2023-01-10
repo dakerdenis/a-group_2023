@@ -1,4 +1,5 @@
 <?php
+$title_name = "Əlaqə";
 include './include/header.php';
 
 ?>

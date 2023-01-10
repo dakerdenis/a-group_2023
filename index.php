@@ -1,5 +1,7 @@
      <!---header---->
-     <?php include './include/header.php' ?>
+     <?php 
+     $title_name = "A-Group Sığorta Şirkəti";
+     include './include/header.php' ?>
 
      <body>
          <div class="main__wrapper">
