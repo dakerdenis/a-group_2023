@@ -523,4 +523,24 @@
     height: 216px;
     margin-bottom: 41px;
   }
+  .contact__page__social__wrapper{
+    flex-direction: column;
+    margin-top: 2em;
+  }
+  .contact__page__social__element {
+    width: 90%;
+  }
+  .contact__page__social__element__rectangle{
+    display: none;
+    visibility: hidden;
+  }
+  .contact__page__social__element{
+    border-right: 2px solid #fff;
+  }
+  .contact__page__mainblock{
+    padding-bottom: 0px;
+  }
+  .contact__page__mainblock__hellotext{
+    padding-top: 25em;
+  }
 }
