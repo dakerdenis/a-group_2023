@@ -334,7 +334,7 @@ right: 27%;
         right: 9%;
     }
 }
-@media only screen and (max-width: 450px){
+@media only screen and (max-width: 380px){
     .complaints__name p{
         font-size: 33px;
 
@@ -343,5 +343,26 @@ right: 27%;
         transform: scale(0.5);
         right: -12%;
     }
-
+    .complaints__form__wrapper {
+        width: 95%;
+    }
+    .complaints__form__input input {
+        font-size: 16px;
+    }
+    .complaints__form__input textarea {
+        font-size: 17px;
+    }
+    .compliants__desc_text{
+        width: 90%;
+        text-align: left;
+    }
+    .complaints__check__result__final a {
+        font-size: 16px;
+    }
+    .complaints__check__result {
+        width: 95%;
+    }
+    .complaints__check__result__element {
+        font-size: 18px;
+    }
 }
