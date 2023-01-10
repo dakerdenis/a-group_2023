@@ -37,58 +37,83 @@
   margin-bottom: 2em;
 }
 .compliants__info__container {
-    width: 100%;
-
+  width: 100%;
+  margin-bottom: 3em;
 }
 .complaints__info__wrapper {
-    width: 60%;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: antiquewhite;
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
 }
 .complaints__info__element {
-    background-color: cadetblue;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
-    width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 250px;
 }
 .complaints__info__element__img {
+  margin-bottom: 1.5em;
 }
 .complaints__info__element__name {
-    font-family: "Roboto", sans-serif;
-font-size: 32px;
-font-weight: 500;
-line-height: 38px;
-letter-spacing: 0em;
-text-align: center;
-
+  font-family: "Roboto", sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-bottom: 1em;
 }
 .complaints__info__element__desc {
-    font-family: "Roboto", sans-serif;
-font-size: 24px;
-font-weight: 300;
-line-height: 28px;
-letter-spacing: 0em;
-text-align: center;
-
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: center;
 }
 .complaints__info__element__desc_p {
+  color: rgba(188, 26, 26, 1);
 }
 .complaints__form__container {
+  width: 100%;
 }
 .complaints__form__wrapper {
+  width: 30%;
+  background-color: aquamarine;
+  margin: 0 auto;
 }
 .complaints__form__name {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: center;
+margin-bottom: 2em;
 }
 .complaints__form__input__container {
+    width: 100%;
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
 }
 .complaints__form__input__desc {
+    width: 10%;
 }
 .complaints__form__input {
+    width: 85%;
+    padding: 4px 5px;
+    border: 1px solid rgba(87, 86, 86, 1);
+    border-radius: 12px;
+    height: 50px;
+}
+.complaints__form__input input {
+    width: 100%;
+    height: 100%;
 }
 .complaints__form__submit {
 }

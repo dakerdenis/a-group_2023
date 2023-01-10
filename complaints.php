@@ -128,7 +128,7 @@ include './include/header.php';
                         <p>E-mail</p>
                     </div>
                     <div class="complaints__form__input">
-                        <input type="text" placeholder=">E-mail">
+                        <input type="text" placeholder="E-mail">
                     </div>
                 </div>
                 <div class="complaints__form__input__container">
