@@ -1,0 +1,78 @@
+.complaints__main__wrappper {
+  margin-top: 90px;
+  padding-top: 5em;
+}
+.complaints__name {
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+.complaints__name p {
+  font-family: "Roboto", sans-serif;
+  font-size: 60px;
+  color: rgba(87, 86, 86, 1);
+  font-weight: 700;
+  line-height: 75px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 100%;
+  text-align: center;
+}
+.complaints__name img {
+  position: absolute;
+  bottom: -25%;
+}
+.compliants__desc_text {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(87, 86, 86, 1);
+
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 3em;
+  margin-bottom: 2em;
+}
+.compliants__info__container {
+    width: 100%;
+
+}
+.complaints__info__wrapper {
+    width: 60%;
+    margin: 0 auto;
+}
+.complaints__info__element {
+}
+.complaints__info__element__img {
+}
+.complaints__info__element__name {
+}
+.complaints__info__element__desc {
+}
+.complaints__info__element__desc_p {
+}
+.complaints__form__container {
+}
+.complaints__form__wrapper {
+}
+.complaints__form__name {
+}
+.complaints__form__input__container {
+}
+.complaints__form__input__desc {
+}
+.complaints__form__input {
+}
+.complaints__form__submit {
+}
+.complaints__check__form {
+}
+.complaints__check__result {
+}
+.complaints__check__result__element {
+}
+.complaints__check__result__final {
+}

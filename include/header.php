@@ -33,5 +33,5 @@
     <link rel="stylesheet" href="./styles/contact.css">
 
       <!---complaints styles--->
-      <link rel="stylesheet" href="./styles/contact.css">
+      <link rel="stylesheet" href="./styles/complaints.css">
 </head>

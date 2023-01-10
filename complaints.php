@@ -21,10 +21,10 @@ include './include/header.php';
         </div>
 
         <div class="compliants__desc_text">
-            <p>Hörmətli müştəri,
+            <p>Hörmətli müştəri, <br>
                 Sizə göstərilən xidmətlər, şirkətimiz və ya hər hansı bir əməkdaşımız barədə şikayətiniz olarsa, bizə müraciət etməyinizi xahiş edirik
                 Müraciətlərə ən geci 15 iş günü, əlavə öyrənilmə və yoxlanılma tələb edən müraciətlərə isə ən geci 30 iş günü müddətində baxılır və müvafiq qərar qəbul olunur. Bu qərar bəradə sizə yazılı şəkildə cavab veriləcəkdir.
-                <br>
+                <br> <br>
                 Müraciətinizi yazılı və ya elektron qaydada bizə ünvanlaya bilərsiniz:
             </p>
         </div>
@@ -210,6 +210,9 @@ include './include/header.php';
             <div class="complaints__check__result__element">
                 <p>asdasd</p>
                 <p>21.12.2022</p>
+            </div>
+            <div class="complaints__check__result__final">
+                <a href="#">Dowload</a>
             </div>
         </div>
     </div>
