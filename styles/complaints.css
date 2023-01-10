@@ -26,15 +26,18 @@
   font-family: "Roboto", sans-serif;
   font-size: 24px;
   font-weight: 300;
-  line-height: 28px;
+  line-height: 35px;
   letter-spacing: 0em;
   text-align: center;
   color: rgba(87, 86, 86, 1);
 
-  width: 80%;
+  width: 63%;
   margin: 0 auto;
   margin-top: 3em;
   margin-bottom: 2em;
+}
+.compliants__desc_text_p{
+    font-weight: 500;
 }
 .compliants__info__container {
   width: 100%;
@@ -74,7 +77,7 @@
   text-align: center;
 }
 .complaints__info__element__desc_p {
-  color: rgba(188, 26, 26, 1);
+
 }
 .complaints__form__container {
   width: 100%;
@@ -109,10 +112,11 @@ font-weight: 500;
 line-height: 28px;
 letter-spacing: 0em;
 text-align: left;
-
+    display: none;
+    visibility: hidden;
 }
 .complaints__form__input {
-  width: 70%;
+  width: 100%;
   text-align: right;
   padding: 4px 5px;
   border: 1px solid rgba(87, 86, 86, 1);
@@ -183,7 +187,6 @@ right: 27%;
     margin: 0 auto;
     font-family: "Roboto", sans-serif;
 
-    margin-bottom: 4em;
 }
 .complaints__check__result__element {
     
@@ -197,6 +200,10 @@ right: 27%;
     background-color: #009ca6;
     color: #fff;
     border-radius: 5px 5px 0px 0px;
+}
+.complaints__check__result__element:nth-child(2) {
+    background-color: #fff;
+    border-radius: 0px 0px 5px 5px;
 }
 .complaints__check__result__element:nth-child(3) {
     background-color: #009ca6;
@@ -219,6 +226,13 @@ right: 27%;
 }
 .complaints__form__container{
     padding-bottom: 2em;
+}
+.complaints__grey__block{
+    background-color: rgba(240, 240, 240, 1);
+    padding: 3em 0 4em 0;
+}
+.complaints__form__input{
+    background-color: #fff;
 }
 @media only screen and (max-width: 1450px){
     .compliants__desc_text {
@@ -341,7 +355,10 @@ right: 27%;
     }
     .complaints__name img{
         transform: scale(0.5);
-        right: -12%;
+    }
+    .complaints__name_check img{
+
+        right: 10%;
     }
     .complaints__form__wrapper {
         width: 95%;

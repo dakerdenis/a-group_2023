@@ -24,9 +24,11 @@ include './include/header.php';
             <p>Hörmətli müştəri, <br>
                 Sizə göstərilən xidmətlər, şirkətimiz və ya hər hansı bir əməkdaşımız barədə şikayətiniz olarsa, bizə müraciət etməyinizi xahiş edirik
                 Müraciətlərə ən geci 15 iş günü, əlavə öyrənilmə və yoxlanılma tələb edən müraciətlərə isə ən geci 30 iş günü müddətində baxılır və müvafiq qərar qəbul olunur. Bu qərar bəradə sizə yazılı şəkildə cavab veriləcəkdir.
-                <br> <br>
-                Müraciətinizi yazılı və ya elektron qaydada bizə ünvanlaya bilərsiniz:
+                
+               
             </p>
+            <br> 
+            <p class="compliants__desc_text_p"> Müraciətinizi yazılı və ya elektron qaydada bizə ünvanlaya bilərsiniz:</p>
         </div>
 
         <div class="compliants__info__container">
@@ -165,7 +167,8 @@ include './include/header.php';
 
 
 
-        <div class="complaints__name complaints__name_check">
+    <div class="complaints__grey__block">
+    <div class="complaints__name complaints__name_check">
             <p>Şikayətin statusunun izlənilməsi</p>
             <img src="./styles/imgs/complaints_green.svg" alt="">
         </div>
@@ -215,6 +218,7 @@ include './include/header.php';
                 <a href="#">Şikayətin nəticəsi ( yükləyin )</a>
             </div>
         </div>
+    </div>
     </div>
 
 
