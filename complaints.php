@@ -197,6 +197,21 @@ include './include/header.php';
 
             </form>
         </div>
+
+        <div class="complaints__check__result">
+            <div class="complaints__check__result__element">
+                <p>asdasd</p>
+                <p>21.12.2022</p>
+            </div>
+            <div class="complaints__check__result__element">
+                <p>asdasd</p>
+                <p>21.12.2022</p>
+            </div>
+            <div class="complaints__check__result__element">
+                <p>asdasd</p>
+                <p>21.12.2022</p>
+            </div>
+        </div>
     </div>
 
 
