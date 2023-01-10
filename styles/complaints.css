@@ -177,14 +177,16 @@ right: 27%;
     width: 30%;
     margin: 0 auto;
     font-family: "Roboto", sans-serif;
-    margin-top: 2em;
-    margin-bottom: 2em;
+    margin-top: 4em;
+    margin-bottom: 4em;
 }
 .complaints__check__result__element {
     
     display: flex;
     width: 100%;
     justify-content: space-between;
+    padding: 10px;
+    font-size: 20px;
 }
 .complaints__check__result__element:first-child{
     background-color: #009ca6;
@@ -195,4 +197,16 @@ right: 27%;
     color: #fff;
 }
 .complaints__check__result__final {
+    margin-top: 2.5em;
+
+    text-align: center;
+
+}
+.complaints__check__result__final a {
+    color: #fff;
+    background-color: #bc1a1a;
+    padding: 10px 35px;
+    font-size: 20px;
+
+    border-radius: 10px;
 }

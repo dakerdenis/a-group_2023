@@ -200,19 +200,19 @@ include './include/header.php';
 
         <div class="complaints__check__result">
             <div class="complaints__check__result__element">
-                <p>asdasd</p>
-                <p>21.12.2022</p>
+                <p>Qəbul edildi</p>
+                <p>05.07.2022</p>
             </div>
             <div class="complaints__check__result__element">
-                <p>asdasd</p>
-                <p>21.12.2022</p>
+                <p>İcra edilir</p>
+                <p>05.07.2022</p>
             </div>
             <div class="complaints__check__result__element">
-                <p>asdasd</p>
-                <p>21.12.2022</p>
+                <p>Yekunlaşdı</p>
+                <p>13.07.2022</p>
             </div>
             <div class="complaints__check__result__final">
-                <a href="#">Dowload</a>
+                <a href="#">Şikayətin nəticəsi ( yükləyin )</a>
             </div>
         </div>
     </div>
