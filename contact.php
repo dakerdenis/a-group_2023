@@ -300,7 +300,7 @@ include './include/header.php';
 
         (function() {
             var words = [
-                "Olá",
+                    "Olá",
                     "Здравствуйте",
                     "Merhaba",
                     "Hello",
@@ -310,9 +310,6 @@ include './include/header.php';
                     "Shalom",
                     "Guten Tag",
                     "Hallo",
-
-
-
                 ],
                 i = 0;
             setInterval(function() {
