@@ -1,5 +1,5 @@
 .navigation__wrapper {
-  height: 90px;
+  height: 80px;
   background-color: rgba(255, 255, 255, 1);
   box-shadow: 0px -9px 61px 0px rgba(0, 0, 0, 0.25);
 
@@ -42,7 +42,7 @@
   background-color: rgba(0, 156, 166, 1);
 
 color: #fff;
-
+  width: 215px;
   font-family: "Roboto", sans-serif;
   font-size: 17px;
   font-weight: 600;
@@ -249,7 +249,7 @@ text-align: left;
 .dropdown-container .dropdown-toggle {
   font-family: "Roboto", sans-serif;
   color: #fff;
-/*  width: 215px;*/
+  width: 215px;
   text-align: center;
   background-color: #bc1a1a;
   font-size: 17px;

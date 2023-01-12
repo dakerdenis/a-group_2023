@@ -105,14 +105,14 @@
 /************СТили главного слайдера*********************/
 /************СТили главного слайдера*********************/
 .main__slider__block {
-    height: calc(100vh - 90px);
+    height: calc(100vh - 80px);
     background-color: antiquewhite;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 30px;
-    margin-top: 90px;
+    margin-top: 80px;
 }
 
 .slider__content__block {

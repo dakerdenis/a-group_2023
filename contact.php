@@ -206,7 +206,7 @@ include './include/header.php';
                         <div class="contact__page__info__element__desc">
                             <div class="contact__page__info__element__desc_desc">
                                 <img src="./styles/imgs/location.svg" alt="">
-                                <p> Hedər Əliyev 494 A. (Zərrabi küç. 54)</p>
+                                <p> H.Əliyev 494 A. (Zərrabi küç. 54)</p>
                             </div>
                             <div class="contact__page__info__element__desc_desc">
                                 <img src="./styles/imgs/email.svg" alt="">
