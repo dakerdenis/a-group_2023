@@ -271,7 +271,8 @@
 .contact__page__info__element__desc_desc {
   margin-top: 25px;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
+
 }
 .contact__page__info__element__desc_desc img {
   margin-right: 15px;

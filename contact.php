@@ -27,7 +27,7 @@ include './include/header.php';
                 <div class="contact__page__mainblock__hellotext">
                     <div class="contact__page__hello">
                         <p>
-                            <span id="words" class="words">Salam</span> 
+                            <span id="words" class="words">Salam</span>
                         </p>
                     </div>
                     <div class="contact__page__hellotext">
@@ -143,24 +143,13 @@ include './include/header.php';
                         <!---карта--->
                         <div class="contact__page__map__map">
                             <div id="Baku" class="tabcontent">
-                                
-                            <iframe
 
-                             scrolling="no"
-                              marginheight="0"
-                              marginwidth="0" 
-                              src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=40.38436563160357,%2049.84188935267776+(A-Group)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
-                              
-                            </iframe>
+                                <iframe scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=40.38436563160357,%2049.84188935267776+(A-Group)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+
+                                </iframe>
                             </div>
                             <div id="Ganca" class="tabcontent">
-                            <iframe 
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.944383130408!2d46.35611691540381!3d40.67519437933591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQwJzMwLjciTiA0NsKwMjEnMjkuOSJF!5e0!3m2!1sen!2s!4v1583846767311!5m2!1sen!2s" 
-
-                             scrolling="no"
-                              marginheight="0"
-                              marginwidth="0" 
-                              allowfullscreen=""></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.944383130408!2d46.35611691540381!3d40.67519437933591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQwJzMwLjciTiA0NsKwMjEnMjkuOSJF!5e0!3m2!1sen!2s!4v1583846767311!5m2!1sen!2s" scrolling="no" marginheight="0" marginwidth="0" allowfullscreen=""></iframe>
                             </div>
                         </div>
                         <!---circle map--->
@@ -231,7 +220,7 @@ include './include/header.php';
 
     <!------popup тело---->
     <div id="popup" class="popup">
-        <a  class="popup__area"> </a>
+        <a class="popup__area"> </a>
         <div class="popup__body">
             <div class="popup__content">
                 <a href="" class="popup__close close-popup">&#10006;</a>
@@ -290,42 +279,49 @@ include './include/header.php';
 
 
     <script>
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
+        function openCity(evt, cityName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(cityName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
 
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
-
-
-
-(function(){
-    var words = [
-    "Hello",
-    "Guten Tag",
-    "Здравствуйте",
-    "Hi",
-],
-    i = 0;
-    setInterval(function(){
-        $('#words').fadeOut(function(){
-            $(this).html(words[(i = (i + 1) % words.length)]).fadeIn(); 
-        });
-    }, 1500)
-})();
+        // Get the element with id="defaultOpen" and click on it
+        document.getElementById("defaultOpen").click();
 
 
-</script>
+
+        (function() {
+            var words = [
+                "Olá",
+                    "Здравствуйте",
+                    "Merhaba",
+                    "Hello",
+                    "Aloha",
+                    "¡Hola!",
+                    "Bonjour",
+                    "Shalom",
+                    "Guten Tag",
+                    "Hallo",
+
+
+
+                ],
+                i = 0;
+            setInterval(function() {
+                $('#words').fadeOut(function() {
+                    $(this).html(words[(i = (i + 1) % words.length)]).fadeIn();
+                });
+            }, 1500)
+        })();
+    </script>
 
     <?php
     include './include/footer.php';
