@@ -385,6 +385,9 @@ text-align: left;
     width: 16px;
     height: 8px;
   }
+  .dropdown-content{
+    
+  }
 }
 @media screen and (max-width: 1380px){
   .dropdown-container .dropdown-toggle{
@@ -423,6 +426,10 @@ text-align: left;
   }
   .navigation__wrapper {
     height: 80px;
+  }
+  .login__link__foto img{
+    width: 25px;
+    height: 25px;
   }
 }
 @media screen and (max-width: 800px){
