@@ -84,6 +84,12 @@ color: #fff;
     width: 30%;
     background-color: #BC1A1A;
 }
+.footer__name__undeline1{
+    width: 163px;
+}
+.footer__name__undeline2{
+    width: 242px;
+}
 .footer__block__info_block_elements {
     margin-top: 15px;
 }
@@ -198,7 +204,14 @@ text-transform: uppercase;
         margin-top: 15px;
     }
   }
-  
+  @media only screen and (max-width: 1370px){
+    .footer__name__undeline1{
+        width: 144px;
+    }
+    .footer__name__undeline2 {
+        width: 215px;
+    }
+  }
   @media only screen and (max-width: 1285px) {
     .footer__block__info_block_elements a {
         font-size: 17px;

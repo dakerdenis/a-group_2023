@@ -72,7 +72,7 @@
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
-                                        <p>Tibbi sigorta</p>
+                                        <p>Əmlak Siğortası</p>
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__desc">
@@ -93,7 +93,7 @@
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
-                                        <p>Tibbi sigorta</p>
+                                        <p>Səyahət Sığortası</p>
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__desc">

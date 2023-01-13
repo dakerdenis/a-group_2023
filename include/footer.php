@@ -31,12 +31,11 @@
                 <div class="footer__block__info_block_">
                     <div class="footer__block__info__name">
                         <p>Əsas Bölmə</p>
-                        <div class="footer__name__undeline"></div>
+                        <div class="footer__name__undeline footer__name__undeline1"></div>
                     </div>
                     <div class="footer__block__info_block_elements">
                         <a href="#"> ŞİRKƏT HAQQINDA </a>
                         <a href="#"> MALİYYƏ GÖSTƏRİCİLƏRİ</a>
-                        <a href="#"> MÜŞTƏRİ RƏYLƏRİ</a>
                         <a href="#"> RƏHBƏRLİK</a>
                         <a href="#"> FAQ</a>
                         <a href="#"> SIĞORTA QAYDALARI</a>
@@ -45,7 +44,7 @@
                 <div class="footer__block__info_block_">
                     <div class="footer__block__info__name">
                         <p>Məlumat Mərkəzi</p>
-                        <div class="footer__name__undeline"></div>
+                        <div class="footer__name__undeline footer__name__undeline2"></div>
                     </div>
                     <div class="footer__block__info_block_elements">
                         <a href="#"> KLİNİKALARIN, APTEKLƏRİN VƏ OPTİKLƏRİN SİYAHISI</a>
