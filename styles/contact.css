@@ -245,12 +245,13 @@
   border-right: rgba(0, 156, 166, 1) 1px solid;
 }
 .contact__page__info__element_name {
-  font-family: "Roboto", sans-serif;
+  font-family: "Oswald", sans-serif;
   color: rgba(188, 26, 26, 1);
   font-size: 40px;
   font-weight: 700;
   line-height: 47px;
   letter-spacing: 0em;
+
   text-align: left;
 }
 .contact__page__info__element_name_2 {
