@@ -20,8 +20,22 @@
   justify-content: space-between;
 }
 
-.navigation__logo {}
-
+.navigation__logo {
+  width: 52px;
+  height: 49px;
+  
+}
+.navigation__logo a {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.navigation__logo a img {
+  width: 100%;
+}
 .navigation__call_number {
   display: flex;
   align-items: center;
@@ -386,51 +400,7 @@
   visibility: hidden;
 }
 
-@media screen and (max-width: 1680px) {
-  .dropdown-container .dropdown-toggle {
-    font-size: 15px;
-    width: 187px;
-    padding: 10px;
-  }
 
-  .navigation__payment a {
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 15px;
-    width: 187px;
-    padding: 0px;
-    height: 41px;
-  }
-
-  .navigation__call_number p {
-    font-size: 30px;
-    line-height: 42px;
-    padding: 0px 18px;
-  }
-
-  .login__link__text {
-    font-size: 16px;
-  }
-
-  .login__link__foto img {
-    width: 32px;
-    height: 32px;
-  }
-
-  .dropbtn {
-    font-size: 16px;
-    padding: 6px;
-  }
-
-  .dropdown_arrow {
-    width: 16px;
-    height: 8px;
-  }
-
-  .dropdown-content {}
-}
 
 @media screen and (max-width: 1380px) {
   .dropdown-container .dropdown-toggle {
