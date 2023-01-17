@@ -82,14 +82,14 @@
 
 .contact__page__social__element_name {
   color: #ffffff;
-text-transform: uppercase;
+  text-transform: uppercase;
 
-font-family: Oswald;
-font-size: 28px;
-font-weight: 500;
-line-height: 41px;
-letter-spacing: 0em;
-text-align: left;
+  font-family: Oswald;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 41px;
+  letter-spacing: 0em;
+  text-align: left;
 
 }
 
@@ -131,6 +131,7 @@ text-align: left;
 
   transition: ease-in-out 0.2s;
 }
+
 .contact__page__social__element__popup a:hover {
   background-color: #fff;
   color: #009ca6;
@@ -144,8 +145,7 @@ text-align: left;
   justify-content: space-between;
 }
 
-.contact__page__social__element__social_link {
-}
+.contact__page__social__element__social_link {}
 
 /***связь с нами и текст и соц сети - Треугольник*****/
 .contact__page__social__element__rectangle {
@@ -177,6 +177,7 @@ text-align: left;
   height: 100%;
   position: relative;
 }
+
 .contact__page__map__navigation {
   position: absolute;
   width: 120px;
@@ -186,16 +187,19 @@ text-align: left;
   top: 20px;
   z-index: 30;
 }
+
 .tab {
-    height: 100%;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
+
 .tab button.active {
-    background-color: #BC1A1A;
-  }
+  background-color: #BC1A1A;
+}
+
 .tablinks {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
@@ -205,22 +209,25 @@ text-align: left;
   text-align: center;
   color: #fff;
   background-color: #009ca6;
-    width: 100%;
-    padding: 7px 0px;
-    border-radius: 9px;
+  width: 100%;
+  padding: 7px 0px;
+  border-radius: 9px;
 }
-.contact__page__map__map {
-}
+
+.contact__page__map__map {}
+
 .tabcontent {
-    z-index: 10;
-    position: absolute;
-    width: 100%;
-    height: 100%;
+  z-index: 10;
+  position: absolute;
+  width: 100%;
+  height: 100%;
 }
-.tabcontent iframe{
-    width: 100%;
-    height: 100%;
-} 
+
+.tabcontent iframe {
+  width: 100%;
+  height: 100%;
+}
+
 .contact__page__map__rectangle {
   position: absolute;
   bottom: 0;
@@ -243,9 +250,11 @@ text-align: left;
   flex-direction: column;
   align-items: center;
 }
+
 .contact__page__info__element:nth-child(1) {
   border-right: rgba(0, 156, 166, 1) 1px solid;
 }
+
 .contact__page__info__element_name {
   font-family: "Oswald", sans-serif;
   color: rgba(188, 26, 26, 1);
@@ -256,9 +265,11 @@ text-align: left;
 
   text-align: left;
 }
+
 .contact__page__info__element_name_2 {
   color: rgba(87, 86, 86, 1);
 }
+
 .contact__page__info__element__desc {
   display: flex;
   flex-direction: column;
@@ -277,6 +288,7 @@ text-align: left;
   align-items: center;
 
 }
+
 .contact__page__info__element__desc_desc img {
   margin-right: 15px;
 }
@@ -296,10 +308,12 @@ text-align: left;
   overflow-x: hidden;
   transition: all 0.5s ease 0s;
 }
+
 .popup.open {
   opacity: 1;
   visibility: visible;
 }
+
 .popup__area {
   position: absolute;
   width: 100%;
@@ -307,6 +321,7 @@ text-align: left;
   top: 0;
   left: 0;
 }
+
 .popup__body {
   width: 100%;
   min-height: 100%;
@@ -315,6 +330,7 @@ text-align: left;
   justify-content: center;
   padding: 30px 10px;
 }
+
 .popup__content {
   background-color: #fff;
   border-radius: 25px;
@@ -325,11 +341,13 @@ text-align: left;
 
   /******анимациб открытия тут писать***********/
 }
+
 .popup__close {
   position: absolute;
   right: 13px;
   top: 13px;
 }
+
 .close-popup {
   font-size: 20px;
   color: #2f2f2f;
@@ -339,6 +357,7 @@ text-align: left;
   width: 100%;
   height: 100%;
 }
+
 .popup__content__name {
   font-family: "Roboto", sans-serif;
   font-size: 24px;
@@ -347,6 +366,7 @@ text-align: left;
   letter-spacing: 0em;
   text-align: left;
 }
+
 .popup__content__desc {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
@@ -356,6 +376,7 @@ text-align: left;
   text-align: left;
   margin-top: 10px;
 }
+
 .popup__content__input {
   width: 100%;
   border: 1px solid #575656;
@@ -363,6 +384,7 @@ text-align: left;
   padding: 5px;
   margin-top: 10px;
 }
+
 .popup__content__input input {
   width: 100%;
   height: 100%;
@@ -370,6 +392,7 @@ text-align: left;
   font-family: "Roboto", sans-serif;
   font-size: 19px;
 }
+
 .popup__content__textarea {
   width: 100%;
   border: 1px solid #575656;
@@ -377,6 +400,7 @@ text-align: left;
   padding: 5px;
   margin-top: 10px;
 }
+
 .popup__content__textarea textarea {
   width: 100%;
   height: 100%;
@@ -384,11 +408,13 @@ text-align: left;
   font-family: "Roboto", sans-serif;
   font-size: 17px;
 }
+
 .popup__content__submit {
   width: 100%;
   text-align: center;
   margin-top: 20px;
 }
+
 .popup__content__submit button {
   background-color: rgba(188, 26, 26, 1);
   color: #fff;
@@ -401,162 +427,247 @@ text-align: left;
   padding: 10px 50px;
   border-radius: 17px;
 }
-@media only screen and (max-width: 1601px){
-    .contact__page__map {
-        height: 580px;
-    }
-    .popup__content__input input {
-        padding: 8px 10px;
-    }
-    .popup__content__desc{
-        margin-top: 0;
-    }
-    .contact__page__social__element__rectangle {
-        left: 20px;
-        bottom: 20px;
-    }
+
+@media only screen and (max-width: 1601px) {
+  .contact__page__map {
+    height: 580px;
+  }
+
+  .popup__content__input input {
+    padding: 8px 10px;
+  }
+
+  .popup__content__desc {
+    margin-top: 0;
+  }
+
+  .contact__page__social__element__rectangle {
+    left: 20px;
+    bottom: 20px;
+  }
 }
+
 @media only screen and (max-width: 1500px) {
-    .contact__page__map {
-        height: 450px;
+  .contact__page__map {
+    height: 450px;
 
-    }
+  }
+
+  .contact__page__social__element__social {
+    width: 55%;
+  }
+
+  .contact__page__social__element__social_link {
+    width: 40px;
+    height: 40px;
+  }
+
+  .contact__page__social__element__social_link a {
+    width: 40px;
+    height: 40px;
+  }
+
+  .contact__page__social__element__social_link a IMG {
+    width: 100%;
+  }
+
+  .contact__page__social__element__popup a {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+  }
+  .contact__page__social__element__rectangle{
+    width: 70px;
+    height: 70px;
+  }
+  .contact__page__social__element__rectangle img {
+    width: 100%;
+    left: 55px;
+    bottom: 20px;
+  }
+  .popup__content{
+    width: 400px;
+    padding: 27px 18px;
+  }
 }
+
 @media only screen and (max-width: 1450px) {
-    .contact__page__social__element{
-        height: 230px;
+  .contact__page__social__element {
+    height: 230px;
 
-    }
-    .contact__page__social__element__desc {
-        font-size: 20px;
-    }
-    .contact__page__info__element {
-      padding: 20px;
-    }
-    .contact__page__info__element__desc_desc {
-      margin-top: 22px;
-    }
-    .tab{
-      height: 85%;
-    }
-    .contact__page__mainblock__image {
-      top: 2.3%;
-    }
-    .tablinks {
+  }
+
+  .contact__page__social__element__desc {
+    font-size: 20px;
+  }
+
+  .contact__page__info__element {
+    padding: 20px;
+  }
+
+  .contact__page__info__element__desc_desc {
+    margin-top: 22px;
+  }
+
+  .tab {
+    height: 85%;
+  }
+
+  .contact__page__mainblock__image {
+    top: 2.3%;
+  }
+
+  .tablinks {
     font-size: 17px;
-    }
-    .contact__page__info__element_name{
-      font-size: 34px;
-    }
+  }
+
+  .contact__page__info__element_name {
+    font-size: 34px;
+  }
 }
+
 @media only screen and (max-width: 1390px) {
-  .contact__page__info__element{
+  .contact__page__info__element {
     padding: 10px;
   }
-  .contact__page__info__element__desc{
+
+  .contact__page__info__element__desc {
     font-size: 21px;
   }
+
   .contact__page__mainblock__hellotext {
     padding-top: 145px;
   }
+
   .contact__page__social__element__social {
     width: 70%;
   }
+
   .contact__page__hello {
     font-size: 53px;
   }
+
   .contact__page__social__element_name {
     font-size: 32px;
   }
+
   .contact__page__hellotext {
     font-size: 22px;
   }
+
   .contact__page__social__element__popup {
     bottom: 10%;
   }
+
   .contact__page__social__element__social {
     bottom: 4%;
   }
+
   .contact__page__social__element__desc {
     width: 96%;
   }
 }
+
 @media only screen and (max-width: 1370px) {
-  .contact__page__wrapper{
+  .contact__page__wrapper {
     padding-top: 80px;
   }
+
   .contact__page__mainblock {
     min-height: calc(100vh - 80px);
   }
-  .contact__page__mainblock__image{
+
+  .contact__page__mainblock__image {
     top: -7.7%;
   }
+
   .contact__page__info__element__desc {
     font-size: 19px;
   }
 }
+
 @media only screen and (max-width: 769px) {
-  .contact__page__map__info__wrapper{
+  .contact__page__map__info__wrapper {
     flex-direction: column;
   }
-  .contact__page__map{
+
+  .contact__page__map {
     min-height: 340px;
     width: 100%;
   }
-  .contact__page__map__rectangle{
+
+  .contact__page__map__rectangle {
     display: none;
     visibility: hidden;
   }
-  .contact__page__info_wrapper{
+
+  .contact__page__info_wrapper {
     width: 100%;
     margin-top: 30px;
     margin-bottom: 30px;
     flex-direction: column;
   }
+
   .contact__page__info__element {
     height: 300px;
     width: 92%;
     text-align: left;
   }
-  .contact__page__info__element:nth-child(1){
+
+  .contact__page__info__element:nth-child(1) {
     border: none;
   }
-  .contact__page__info__element__desc{
+
+  .contact__page__info__element__desc {
     display: flex;
     flex-direction: column;
     width: 100%;
   }
+
   .contact__page__mainblock__image {
     top: -11.7%;
     right: 0%;
   }
+
   .contact__page__hellotext {
     width: 70%;
   }
+
   .contact__page__social__element {
     height: 216px;
     margin-bottom: 41px;
   }
-  .contact__page__social__wrapper{
+
+  .contact__page__social__wrapper {
     flex-direction: column;
     margin-top: 2em;
   }
+
   .contact__page__social__element {
     width: 90%;
   }
-  .contact__page__social__element__rectangle{
+
+  .contact__page__social__element__rectangle {
     display: none;
     visibility: hidden;
   }
-  .contact__page__social__element{
+
+  .contact__page__social__element {
     border-right: 2px solid #fff;
   }
-  .contact__page__mainblock{
+
+  .contact__page__mainblock {
     padding-bottom: 0px;
   }
-  .contact__page__mainblock__hellotext{
+
+  .contact__page__mainblock__hellotext {
     padding-top: 25em;
   }
+
   .contact__page__social__wrapper {
     width: 95%;
   }
