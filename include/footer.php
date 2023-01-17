@@ -2,7 +2,8 @@
     <div class="footer__container">
         <div class="foter__block">
             <div class="footer__block_1_name">
-                MİSSİYAMIZ
+                <p>MİSSİYAMIZ</p>
+                <div class="footer__name__undeline footer__name__undeline3"></div>
             </div>
             <div class="footer__block_1_desc">
 
@@ -28,30 +29,34 @@
         </div>
         <div class="footer__block">
             <div class="footer__block__info_block_wrapper">
-                <div class="footer__block__info_block_">
-                    <div class="footer__block__info__name">
-                        <p>Əsas Bölmə</p>
-                        <div class="footer__name__undeline footer__name__undeline1"></div>
-                    </div>
-                    <div class="footer__block__info_block_elements">
-                        <a href="#"> ŞİRKƏT HAQQINDA </a>
-                        <a href="#"> MALİYYƏ GÖSTƏRİCİLƏRİ</a>
-                        <a href="#"> RƏHBƏRLİK</a>
-                        <a href="#"> FAQ</a>
-                        <a href="#"> SIĞORTA QAYDALARI</a>
-                    </div>
-                </div>
+
                 <div class="footer__block__info_block_">
                     <div class="footer__block__info__name">
                         <p>Məlumat Mərkəzi</p>
                         <div class="footer__name__undeline footer__name__undeline2"></div>
                     </div>
                     <div class="footer__block__info_block_elements">
-                        <a href="#"> KLİNİKALARIN, APTEKLƏRİN VƏ OPTİKLƏRİN SİYAHISI</a>
-                        <a href="#"> DƏRMANLARIN AXTARIŞI</a>
-                        <a href="#"> XƏBƏRLƏR</a>
-                        <a href="./contact.php"> ƏLAQƏ</a>
-                        <a href="./complaints.php"> ŞIKAYƏTLƏR</a>
+
+                    <a href="#">Klinikalarin, apteklərin və optiklərin siyahisi</a>
+                    <a href="#">Dərmanlarin axtarişi</a>
+                    <a href="#">    Xəbərlər </a>
+                    <a href="./contact.php">    Əlaqə </a>
+                    <a href="./complaints.php">    Şikayətlər </a>
+                    </div>
+                </div>
+
+
+                <div class="footer__block__info_block_">
+                    <div class="footer__block__info__name">
+                        <p>Əsas Bölmə</p>
+                        <div class="footer__name__undeline footer__name__undeline1"></div>
+                    </div>
+                    <div class="footer__block__info_block_elements">
+                        <a href="#"> Şirkət haqqinda </a>
+                        <a href="#"> Maliyyə göstəriciləri</a>
+                        <a href="#"> Rəhbərlik</a>
+                        <a href="#"> FAQ</a>
+                        <a href="#"> Siğorta qaydalari</a>
                     </div>
                 </div>
             </div>
@@ -60,7 +65,7 @@
                     <img src="./styles/imgs/nav_logo.svg" alt="">
                 </div>
                 <div class="footer__block__additional_info__line">
-                   
+
                 </div>
                 <div class="footer__block__additional_info_symbols">
                     <a href="#">

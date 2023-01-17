@@ -23,7 +23,6 @@
 .navigation__logo {
   width: 71px;
   height: 69px;
-  
 }
 .navigation__logo a {
   width: 100%;
@@ -50,7 +49,6 @@
   background-color: rgba(216, 217, 217, 0.52);
   color: #bc1a1a;
 
-
   padding: 0px 18px;
 
   height: 45px;
@@ -63,9 +61,10 @@
   padding-right: 5px;
 }
 
-.navigation__ferdi__sexslere {}
+.navigation__ferdi__sexslere {
+}
 
-.navigation__payment{
+.navigation__payment {
   background-color: rgba(0, 156, 166, 1);
   display: flex;
   align-items: center;
@@ -87,7 +86,8 @@
   color: #fff;
 }
 
-.navigation__payment a:hover {}
+.navigation__payment a:hover {
+}
 
 .navigation__login a {
   display: flex;
@@ -106,7 +106,7 @@
   margin-right: 10.75px;
 }
 
-.login__link__foto img{
+.login__link__foto img {
   width: 43px;
   height: 43px;
 }
@@ -241,13 +241,14 @@
   border: none;
 }
 
-.dropdown__element__image {}
+.dropdown__element__image {
+}
 
 .dropdown__element__name {
   margin-top: 10px;
   font-family: "Roboto", sans-serif;
   font-size: 24px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 28px;
   letter-spacing: 0em;
   text-align: left;
@@ -257,11 +258,13 @@
 .dropdown__element__desc {
   font-family: "Roboto", sans-serif;
   color: rgba(87, 86, 86, 1);
+
   font-size: 20px;
   font-weight: 300;
   line-height: 23px;
   letter-spacing: 0em;
   text-align: left;
+  
 }
 
 .dropdown__element_none {
@@ -287,8 +290,6 @@
 
   letter-spacing: 0em;
   text-align: left;
-
-
 
   color: #fff;
   width: 215px;
@@ -400,8 +401,6 @@
   visibility: hidden;
 }
 
-
-
 @media screen and (max-width: 1380px) {
   .dropdown-container .dropdown-toggle {
     font-size: 15px;
@@ -475,7 +474,6 @@
 }
 
 @media screen and (max-width: 600px) {
-
   .topnav a:not(:first-child),
   .dropdown .dropbtn {
     display: none;
