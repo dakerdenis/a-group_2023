@@ -309,7 +309,7 @@ include './include/header.php';
                     "Bonjour",
                     "Shalom",
                     "Guten Tag",
-                    "Hallo",
+                    "Hallo",    
                 ],
                 i = 0;
             setInterval(function() {

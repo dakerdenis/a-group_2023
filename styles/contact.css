@@ -155,7 +155,7 @@
 .contact_page__map_info {
   width: 100%;
   height: 100%;
-  background-color: #E6E6E6;
+  background-color: #EAEAEA;
 }
 
 .contact__page__map__info__wrapper {
@@ -247,7 +247,7 @@
 .contact__page__info__element_name {
   font-family: "Oswald", sans-serif;
   color: rgba(188, 26, 26, 1);
-  font-size: 40px;
+  font-size: 48px;
   font-weight: 700;
   line-height: 47px;
   letter-spacing: 0em;
