@@ -24,6 +24,7 @@
   width: 71px;
   height: 69px;
 }
+
 .navigation__logo a {
   width: 100%;
   height: 100%;
@@ -32,9 +33,11 @@
   justify-content: center;
   overflow: hidden;
 }
+
 .navigation__logo a img {
   width: 100%;
 }
+
 .navigation__call_number {
   display: flex;
   align-items: center;
@@ -82,6 +85,7 @@
 
   border-radius: 15px;
 }
+
 .navigation__payment a {
   color: #fff;
 }
@@ -264,7 +268,6 @@
   line-height: 23px;
   letter-spacing: 0em;
   text-align: left;
-  
 }
 
 .dropdown__element_none {
@@ -399,6 +402,74 @@
 .navigation__container__mobile {
   display: none;
   visibility: hidden;
+}
+
+@media screen and (max-width: 1500px) {
+  .navigation__wrapper {
+    height: 55px;
+  }
+
+  .dropdown-container .dropdown-toggle {
+    width: 161px;
+    height: 32.3px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .navigation__call_number {
+    width: 108px;
+    height: 33px;
+    border-radius: 11px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .navigation__payment {
+    width: 161px;
+    height: 32px;
+    border-radius: 10px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .login__link__foto img {
+    width: 33px;
+    height: 33px;
+  }
+  .login__link__text {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .navigation__logo {
+    height: 42.201847076416016px;
+    width: 49.627410888671875px;
+  }
+  .dropbtn{
+font-size: 15px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+  }
+  .dropdown_arrow{
+    margin-top: 5px;
+  }
 }
 
 @media screen and (max-width: 1380px) {

@@ -9,7 +9,7 @@
 }
 .complaints__name p {
   font-family: "Roboto", sans-serif;
-  font-size: 60px;
+  font-size: 64px;
   color: rgba(87, 86, 86, 1);
   font-weight: 700;
   line-height: 75px;
@@ -26,7 +26,7 @@
   font-family: "Roboto", sans-serif;
   font-size: 24px;
   font-weight: 300;
-  line-height: 35px;
+  line-height: 30px;
   letter-spacing: 0em;
   text-align: center;
   color: rgba(87, 86, 86, 1);
@@ -59,9 +59,13 @@
 .complaints__info__element__img {
   margin-bottom: 1.5em;
 }
+.complaints__info__element__img img {
+    width: 68px;
+    height: 68px;
+}
 .complaints__info__element__name {
   font-family: "Roboto", sans-serif;
-  font-size: 28px;
+  font-size: 32px;
   font-weight: 500;
   line-height: 38px;
   letter-spacing: 0em;
@@ -83,7 +87,7 @@
   width: 100%;
 }
 .complaints__form__wrapper {
-  width: 30%;
+  width: 650px;
 
   margin: 0 auto;
 }
@@ -171,7 +175,7 @@ textarea {
 }
 .complaints__check__form {
 
-    width: 30%;
+    width: 650px;
     margin: 0 auto;
     margin-top: 6em;
 }
