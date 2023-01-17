@@ -1,7 +1,7 @@
      <!---header---->
-     <?php 
-     $title_name = "A-Group Sığorta Şirkəti";
-     include './include/header.php' ?>
+     <?php
+        $title_name = "A-Group Sığorta Şirkəti";
+        include './include/header.php' ?>
 
      <body>
          <div class="main__wrapper">
@@ -14,37 +14,46 @@
                  <div class="swiper mySwiper">
                      <div class="swiper-wrapper">
                          <div class="swiper-slide">
-                            <div class="slider__content__block">
-                                <div class="slider__content__wrapper">
-                                    <!----slider content text ------>
-                                    <div class="slider__content__desc">
-                                        <div class="slider__content__desc__wrapper">
-                                            <div class="__desc__wrapper__name">
-                                                <p>Lorem ipsum dolor sit amet, <span>consectetur</span> adipiscing elit</p>
-                                            </div>
-                                            <div class="__desc__wrapper__desc">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-                                            </div>
-                                            <div class="__desc__wrapper__link">
-                                                <a href="#">
-                                                    Hesabla
-                                                
-                                                </a>
-                                            </div>
-                                            <div class="__desc__wrapper__rectangel">
-                                                <img src="./styles/imgs/rectangel_slider.svg" alt="">
-                                            </div>
-                                            <div class="__desc__wrapper__krug">
-                                                <img src="./styles/imgs/krug_slider.svg" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!---slider photo--->
-                                    <div class="slider__content__photo">
-                                        <img src="./styles/imgs/slider1.png" alt="">
-                                    </div>
-                                </div>
-                            </div>
+                             <div class="slider__content__block">
+                                 <div class="slider__content__wrapper">
+                                     <!----slider content text ------>
+                                     <div class="slider__content__desc">
+                                         <div class="slider__content__desc__wrapper">
+                                             <div class="__desc__wrapper__name">
+                                                 <p>Lorem ipsum dolor sit amet, <span>consectetur</span> adipiscing elit</p>
+                                             </div>
+                                             <div class="__desc__wrapper__desc">
+                                                 <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                                             </div>
+                                             <div class="__desc__wrapper__link">
+                                                 <div class="__desc__wrapper__link_a">
+                                                     <a href="#">
+                                                         <p>Hesabla</p>
+
+                                                     </a>
+
+                                                     <div class="button__circle">
+                                                        
+                                                     </div>
+
+                                                     <img class="button__vector" src="./styles/imgs/Vector_button.svg" alt="">
+                                                 </div>
+
+                                             </div>
+                                             <div class="__desc__wrapper__rectangel">
+                                                 <img src="./styles/imgs/rectangel_slider.svg" alt="">
+                                             </div>
+                                             <div class="__desc__wrapper__krug">
+                                                 <img src="./styles/imgs/krug_slider.svg" alt="">
+                                             </div>
+                                         </div>
+                                     </div>
+                                     <!---slider photo--->
+                                     <div class="slider__content__photo">
+                                         <img src="./styles/imgs/slider1.png" alt="">
+                                     </div>
+                                 </div>
+                             </div>
                          </div>
                          <div class="swiper-slide">Slide 2</div>
                          <div class="swiper-slide">Slide 3</div>

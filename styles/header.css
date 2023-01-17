@@ -1,5 +1,5 @@
 .navigation__wrapper {
-  height: 55px;
+  height: 81px;
   background-color: rgba(255, 255, 255, 1);
   box-shadow: 0px -9px 61px 0px rgba(0, 0, 0, 0.25);
 
@@ -12,7 +12,7 @@
 /********Общие стили******************/
 
 .navigation__container {
-  width: 95.5%;
+  width: 96%;
   height: 100%;
   margin: 0 auto;
   display: flex;
@@ -21,8 +21,8 @@
 }
 
 .navigation__logo {
-  width: 52px;
-  height: 49px;
+  width: 71px;
+  height: 69px;
   
 }
 .navigation__logo a {
@@ -41,7 +41,7 @@
   align-items: center;
   justify-content: center;
   font-family: "Roboto", sans-serif;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 700;
 
   letter-spacing: 0em;
@@ -53,10 +53,10 @@
 
   padding: 0px 18px;
 
-  height: 32px;
-  width: 109px;
+  height: 45px;
+  width: 145px;
   top: 15px;
-  border-radius: 39px;
+  border-radius: 15px;
 }
 
 .navigation__call_number p {
@@ -71,17 +71,17 @@
   align-items: center;
   justify-content: center;
 
-  width: 161px;
+  width: 215px;
   font-family: "Roboto", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
-  height: 32px;
+  height: 45px;
   letter-spacing: 0em;
   padding: 12px 10px;
   border-radius: 15px;
   transition: ease-in-out 0.3s;
 
-  border-radius: 10px;
+  border-radius: 15px;
 }
 .navigation__payment a {
   color: #fff;
@@ -97,8 +97,8 @@
 
 .login__link__text {
   font-family: "Roboto", sans-serif;
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 18px;
+  font-weight: 400;
   line-height: 21px;
   letter-spacing: 0em;
   text-align: left;
@@ -107,8 +107,8 @@
 }
 
 .login__link__foto img{
-  width: 32px;
-  height: 32px;
+  width: 43px;
+  height: 43px;
 }
 
 /*******Кнопка ЯЗЫКИ*******/
@@ -138,15 +138,15 @@
 /****************ferdi korporativ sehslere************************/
 .dropbtn {
   background-color: #fff;
-  border: 2px solid rgba(87, 86, 86, 1);
-  color: #bc1a1a;
+  border: 1px solid rgba(87, 86, 86, 1);
+  color: rgba(87, 86, 86, 1);
   font-family: "Roboto", sans-serif;
-  font-size: 15px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 21px;
   letter-spacing: 0em;
-  padding: 5px 5px;
-  border-radius: 8px;
+  padding: 8px 9.8px;
+  border-radius: 15px;
   transition: ease-in-out 0.3s;
   cursor: pointer;
 }
@@ -297,7 +297,7 @@
 
   padding: 11.5px 0px 11.5px 0px;
   border: 2px solid #bc1a1a;
-  border-radius: 10px;
+  border-radius: 15px;
 
   cursor: pointer;
   position: relative;
