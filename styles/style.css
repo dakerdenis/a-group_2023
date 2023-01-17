@@ -302,6 +302,10 @@ body {
   margin-bottom: 18px;
 
 }
+.about__element__img img{
+  width: 52px;
+  height: 52px;
+}
 .about__element__name {
   font-family: "Oswald", sans-serif;
   font-size: 36px;
@@ -330,18 +334,17 @@ body {
 /**********Стили раздела скачать мобилаьное приложение***********************/
 .main__mobile__block {
   font-size: 30px;
-  height: 700px;
+  height: 768px;
   width: 100%;
   background-color: white;
   overflow: hidden;
 }
 .mobile__block__wrapper {
-  width: 92%;
+  width: 1620px;
   margin: 0 auto;
   height: 100%;
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 /********/
 .mobile__block__text__wrapper {
@@ -349,6 +352,7 @@ body {
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  margin-top: 90px;
 }
 .mobile__text__name {
   font-family: "Oswald", sans-serif;
@@ -358,21 +362,26 @@ body {
   line-height: 71px;
   letter-spacing: 0em;
   text-align: left;
-  margin-bottom: 30px;
+  margin-bottom: 46px;
+  color: rgba(87, 86, 86, 1);
 }
+
+
+
 .mobile__text__name p:nth-child(1) {
   color: rgba(173, 41, 41, 1);
 }
 .mobile__text___text {
-  margin-bottom: 2.5em;
+  margin-bottom: 96px;
 }
 .mobile__text___text p {
   font-family: "Roboto", sans-serif;
   font-size: 36px;
-  font-weight: 500;
+  font-weight: 300;
   line-height: 42px;
   letter-spacing: 0em;
   text-align: left;
+  
 }
 .mobile__links__block a:nth-child(2) {
   margin-left: 1em;
@@ -395,8 +404,8 @@ body {
 }
 .mobile__rectaangel__block {
   position: absolute;
-  bottom: 5%;
-  right: 10%;
+  bottom: 29%;
+  right: 4%;
   z-index: 1;
 }
 .mobile__mobile__block {
@@ -406,8 +415,10 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  height: 80%;
-  width: 80%;
+  height: 676.5910034179688px;
+  width: 629px;
+
+  
 }
 .mobile__mobile__block img {
 }
