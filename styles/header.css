@@ -282,7 +282,7 @@
 .dropdown-container .dropdown-toggle {
   font-family: "Roboto", sans-serif;
 
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
 
   letter-spacing: 0em;
@@ -291,11 +291,11 @@
 
 
   color: #fff;
-  width: 161px;
+  width: 215px;
   text-align: center;
   background-color: #bc1a1a;
 
-  padding: 7px 0px 7px 0px;
+  padding: 11.5px 0px 11.5px 0px;
   border: 2px solid #bc1a1a;
   border-radius: 10px;
 

@@ -26,7 +26,10 @@
                                                 <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
                                             </div>
                                             <div class="__desc__wrapper__link">
-                                                <a href="#">Hesabla</a>
+                                                <a href="#">
+                                                    Hesabla
+                                                
+                                                </a>
                                             </div>
                                             <div class="__desc__wrapper__rectangel">
                                                 <img src="./styles/imgs/rectangel_slider.svg" alt="">
