@@ -79,6 +79,7 @@
   letter-spacing: 0em;
   text-align: left;
   margin-bottom: 15px;
+  text-transform: uppercase;
 }
 .footer__name__undeline {
   margin-top: 8px;
@@ -268,10 +269,10 @@
     height: 27px;
 }
 .footer__name__undeline2 {
-    width: 158px;
+    width: 183px;
 }
 .footer__name__undeline1 {
-    width: 107px;
+    width: 122px;
 }
 }
 @media only screen and (max-width: 1370px) {
