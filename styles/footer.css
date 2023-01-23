@@ -196,7 +196,13 @@
     font-size: 32px;
   }
   .footer__block__rights_infobank p {
-    font-size: 14px;
+
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: left;
+    
   }
   .footer__block_1_contact_info {
     font-size: 20px;
@@ -260,6 +266,12 @@
   .footer__block__rights_infobank a img {
     width: 114px;
     height: 27px;
+}
+.footer__name__undeline2 {
+    width: 158px;
+}
+.footer__name__undeline1 {
+    width: 107px;
 }
 }
 @media only screen and (max-width: 1370px) {
