@@ -18,7 +18,7 @@
                     *0909
                 </div>
             </div>
-            <div class="footer__block_1_contact">
+            <div class="footer__block_1_contact footer__block_1_contact_email">
                 <div class="footer__block_1_contact_desc">
                     Bizə yazın
                 </div>
