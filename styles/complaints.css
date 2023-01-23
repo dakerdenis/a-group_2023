@@ -121,10 +121,10 @@
 .complaints__form__input {
   width: 100%;
   text-align: right;
-  padding: 4px 5px;
+  padding: 4px 5px 5px 13px;
   border: 1px solid rgba(87, 86, 86, 1);
   border-radius: 12px;
-  height: 50px;
+  height: 41px;
 }
 .complaints__form__input input {
   width: 100%;
@@ -282,10 +282,23 @@ text-align: center;
   }
   .complaints__name img{
     bottom: -45%;
+    transform: scale(0.7);
   }
   .complaints__info__element__img img{
     width: 40px;
     height: 40px;
+  }
+  .complaints__form__wrapper{
+    width: 410px;
+  }
+  .complaints__form__submit button{
+    color: #fff;
+    padding: 4px 49px;
+    font-size: 20px;
+    border-radius: 10px;
+  }
+  .complaints__check__form {
+    width: 400px;
   }
 }
 @media only screen and (max-width: 1380px) {

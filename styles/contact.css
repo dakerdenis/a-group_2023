@@ -517,8 +517,8 @@
     height: 85%;
   }
 
-  .contact__page__mainblock__image {
-    top: 2.3%;
+  .contact__page__mainblock__image img{
+    width: 412px;
   }
 
   .tablinks {
