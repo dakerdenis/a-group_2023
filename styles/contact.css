@@ -541,6 +541,24 @@
   .contact__page__info__element__desc_desc {
     margin-top: 14px;
   }
+  .tablinks{
+        padding: 2.5px 0px;
+        font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+
+
+  }
+  .tab{
+    height: 73%;
+  }
+  .contact__page__map__navigation {
+    width: 90px;
+    height: 73px;
+
+  }
 }
 
 @media only screen and (max-width: 1390px) {
