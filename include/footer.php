@@ -55,7 +55,7 @@
                         <a href="#"> Şirkət haqqinda </a>
                         <a href="#"> Maliyyə göstəriciləri</a>
                         <a href="#"> Rəhbərlik</a>
-                        <a href="#"> FAQ</a>
+                        <a href="./faq.php"> FAQ</a>
                         <a href="#"> Siğorta qaydalari</a>
                     </div>
                 </div>
