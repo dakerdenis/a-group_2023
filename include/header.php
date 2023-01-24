@@ -38,4 +38,6 @@
       <link rel="stylesheet" href="./styles/faq.css">
       <!---about.php-->
       <link rel="stylesheet" href="./styles/about.css">
+      <!---maliye.php----->
+      <link rel="stylesheet" href="./styles/maliye.php">
 </head>

@@ -53,7 +53,7 @@
                     </div>
                     <div class="footer__block__info_block_elements">
                         <a href="./about.php"> Şirkət haqqinda </a>
-                        <a href="#"> Maliyyə göstəriciləri</a>
+                        <a href="./maliye.php"> Maliyyə göstəriciləri</a>
                         <a href="./about.php"> Rəhbərlik</a>
                         <a href="./faq.php"> FAQ</a>
                         <a href="#"> Siğorta qaydalari</a>
