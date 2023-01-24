@@ -20,7 +20,7 @@ include './include/header.php';
                 <!------>
                 <div class="about__page__information__name">
                     <p>Şirkət haqqında</p>
-                    <img src="./styles/imgs/complaints_red.svg" alt="">
+                    <img src="./styles/imgs/about_red.svg" alt="">
                 </div>
                 <!----->
                 <div class="about__page__information__content">
@@ -54,10 +54,28 @@ include './include/header.php';
                                 <div class="__chef__element__photo">
                                     <img src="./styles/imgs/chef__foto.svg" alt="">
                                 </div>
+
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
 
-                        
+
+
+
                     </div>
                 </div>
             </div>

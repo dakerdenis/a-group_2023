@@ -34,6 +34,8 @@
 
       <!---complaints styles--->
       <link rel="stylesheet" href="./styles/complaints.css">
-      <!--FAQ page--->
+      <!--FAQ page    faq.php--->
       <link rel="stylesheet" href="./styles/faq.css">
+      <!---about.php-->
+      <link rel="stylesheet" href="./styles/about.css">
 </head>
