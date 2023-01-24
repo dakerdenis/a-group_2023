@@ -72,10 +72,270 @@ include './include/header.php';
 
                             </div>
                         </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
 
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
 
+                            </div>
+                        </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
 
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
 
+                            </div>
+                        </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
+
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
+
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
+
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
+
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
+
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
+
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
+
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
+
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!----->
+                        <div class="__chef__element">
+                            <div class="__chef__element__container">
+                                <div class="__chef__element__photo">
+                                    <img src="./styles/imgs/chef__foto.svg" alt="">
+                                </div>
+
+                                <div class="__chef__element__content">
+                                    <div class="__chef__element__name">
+                                        <p>Bayramov Anar Məhərrəm</p>
+                                    </div>
+                                    <div class="__chef__element__position">
+                                        <p>Direktorlar Şurasının üzvü</p>
+                                    </div>
+                                    <div class="__chef__element__email">
+                                        <p>Email: abayramov@a-group.az</p>
+                                    </div>
+                                    <div class="__chef__element__phone">
+                                        <p>Telefon: (012) 377 09 09</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

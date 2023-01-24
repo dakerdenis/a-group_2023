@@ -56,7 +56,7 @@ text-align: center;
     padding-top: 56px;
     text-align: center;
     position: relative;
-    padding-bottom: 52px;
+    padding-bottom: 2px;
 }
 .about__page__chef__name p{
     font-family: "Roboto", sans-serif;
@@ -73,7 +73,7 @@ color: rgba(87, 86, 86, 1);
 }
 .about__page__chef__container {
     width: 100%;
-    background-color: red;
+
 }
 .about__page__chef__wrapper {
     width: 100%;
@@ -81,24 +81,65 @@ color: rgba(87, 86, 86, 1);
     flex-wrap: wrap;
 }
 .__chef__element {
-    
+padding: 0px  10px;
+margin-top: 50px;
 }
 .__chef__element__container {
+    width: 400px;
+
+    display: flex;
 }
 .__chef__element__photo {
+
 }
 .__chef__element__content {
+    margin-left: 21px;
+    color: rgba(87, 86, 86, 1);
+    padding: 15px 0px;
+    font-family: "Roboto", sans-serif;
 }
 .__chef__element__name {
+
+font-size: 20px;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 .__chef__element__position {
+    margin-top: 9px;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 .__chef__element__email {
+    margin-top: 9px;
+font-size: 14px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 .__chef__element__phone {
+    margin-top: 9px;
+font-size: 14px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 @media only screen and (max-width: 1440px) {
     .about__page__block {
         padding-top: 55px;
+    }
+    .about__page__chef__name img {
+        position: absolute;
+        left: calc(100vw - 64.5%);
     }
 }
