@@ -52,9 +52,9 @@
                         <div class="footer__name__undeline footer__name__undeline1"></div>
                     </div>
                     <div class="footer__block__info_block_elements">
-                        <a href="#"> Şirkət haqqinda </a>
+                        <a href="./about.php"> Şirkət haqqinda </a>
                         <a href="#"> Maliyyə göstəriciləri</a>
-                        <a href="#"> Rəhbərlik</a>
+                        <a href="./about.php"> Rəhbərlik</a>
                         <a href="./faq.php"> FAQ</a>
                         <a href="#"> Siğorta qaydalari</a>
                     </div>
