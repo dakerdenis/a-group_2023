@@ -48,8 +48,28 @@ text-align: center;
 
 }
 .about__page__chef {
+    background-color: #EAEAEA;
+    width: 100%;
+    padding: 0px 80px 84px 80px;
 }
 .about__page__chef__name {
+    padding-top: 56px;
+    text-align: center;
+    position: relative;
+    padding-bottom: 52px;
+}
+.about__page__chef__name p{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+font-size: 46px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+color: rgba(87, 86, 86, 1);
+}
+.about__page__chef__name img {
+    position: absolute;
+    left: calc(100vw - 60.5%);
 }
 .about__page__chef__container {
 }
