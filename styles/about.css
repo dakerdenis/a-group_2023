@@ -72,10 +72,16 @@ color: rgba(87, 86, 86, 1);
     left: calc(100vw - 60.5%);
 }
 .about__page__chef__container {
+    width: 100%;
+    background-color: red;
 }
 .about__page__chef__wrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
 }
 .__chef__element {
+    
 }
 .__chef__element__container {
 }
