@@ -11,8 +11,8 @@
   background-color: #bc1a1a;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  padding: 31px;
+
+  padding: 31px 72px;
   color: #fff;
 }
 .footer__block:nth-child(2) {
@@ -45,7 +45,7 @@
 }
 
 .footer__block_1_contact {
-  margin-top: 25px;
+
 }
 .footer__block_1_contact_desc {
   font-family: Oswald;

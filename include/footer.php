@@ -18,14 +18,7 @@
                     *0909
                 </div>
             </div>
-            <div class="footer__block_1_contact footer__block_1_contact_email">
-                <div class="footer__block_1_contact_desc">
-                    Bizə yazın
-                </div>
-                <div class="footer__block_1_contact_info">
-                    support@a-group.az
-                </div>
-            </div>
+
         </div>
         <div class="footer__block">
             <div class="footer__block__info_block_wrapper">

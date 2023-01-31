@@ -154,7 +154,7 @@ include './include/header.php';
                         </div>
                         <!---circle map--->
                         <div class="contact__page__map__rectangle">
-                            <img src="./styles/imgs/circle.png" alt="">
+                            <!--img src="./styles/imgs/circle.png" alt=""-->
                         </div>
                     </div>
                 </div>

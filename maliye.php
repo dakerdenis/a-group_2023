@@ -14,7 +14,16 @@ include './include/header.php';
         <div class="maliye__page__wrapper">
             <!-------->
             <div class="maliye__page_name">
-                <p>MALİYYƏ GÖSTƏRİCİLƏRİ</p>
+                <!------>
+                <div class="page__name_wrapper">
+                    <div class="page_name_block">
+                        MALİYYƏ 
+                    </div>
+                    <div class="page_name_block">
+                        GÖSTƏRİCİLƏRİ
+                    </div>
+                </div>
+                <!------->
                 <img src="./styles/imgs/maliye_blue.svg" alt="">
             </div>
 
