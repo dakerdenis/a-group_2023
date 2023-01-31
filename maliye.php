@@ -1,5 +1,5 @@
 <?php
-$title_name = "Şirkət haqqında";
+$title_name = "MALİYYƏ GÖSTƏRİCİLƏRİ";
 include './include/header.php';
 
 ?>
