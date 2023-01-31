@@ -79,3 +79,93 @@ document.getElementById("defaultOpen").click();
     <?php
     include './include/footer.php';
     ?>
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+.wrapper{
+	background-color: #e3e3e3;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+
+}
+.wrapper .div1 {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+	transform: translateY(200px);
+   -webkit-animation: mymove 2s alternate;
+   -moz-animation: mymove 2s alternate;
+  animation: mymove 2s alternate;
+  margin-left: 10px;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards; 
+
+}
+
+.wrapper .div2 {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+transform: translateY(200px);
+-webkit-animation: mymove 2s alternate;
+   -moz-animation: mymove 2s alternate;
+  margin-left: 10px;
+  animation-delay: 1s;
+  animation-fill-mode: forwards; 
+
+    
+}
+.wrapper .div3 {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+transform: translateY(200px);
+  -webkit-animation: mymove 2s alternate;
+     -moz-animation: mymove 2s alternate;
+  margin-left: 10px;
+  animation-delay: 1.5s;
+  animation-fill-mode: forwards; 
+
+}
+
+
+@keyframes mymove {
+  to{transform: translateY(0px);
+}
+}
+
+</style>
+</head>
+<body>
+
+<h1>The @keyframes Rule</h1>
+
+<div class="wrapper">
+	<div class="div1">We</div>
+    <div class="div2">are the </div>
+    <div class="div3">champions</div>
+</div>
+
+
+</body>
+</html>
