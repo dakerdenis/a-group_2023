@@ -21,8 +21,8 @@
 }
 
 .navigation__logo {
-  width: 71px;
-  height: 69px;
+  width: 52px;
+  height: 49px;
 }
 
 .navigation__logo a {
@@ -43,21 +43,23 @@
   align-items: center;
   justify-content: center;
   font-family: "Roboto", sans-serif;
-  font-size: 30px;
-  font-weight: 700;
 
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23px;
   letter-spacing: 0em;
   text-align: left;
+  
 
   background-color: rgba(216, 217, 217, 0.52);
   color: #bc1a1a;
 
   padding: 0px 18px;
 
-  height: 45px;
-  width: 145px;
+  height: 33px;
+  width: 109px;
   top: 15px;
-  border-radius: 15px;
+  border-radius: 11px;
 }
 
 .navigation__call_number p {
@@ -105,18 +107,21 @@
 
 .login__link__text {
   font-family: "Roboto", sans-serif;
-  font-size: 18px;
+
+  font-family: Roboto;
+  font-size: 14px;
   font-weight: 400;
-  line-height: 21px;
+  line-height: 16px;
   letter-spacing: 0em;
   text-align: left;
+  
   color: rgba(188, 26, 26, 1);
   margin-right: 10.75px;
 }
 
 .login__link__foto img {
-  width: 43px;
-  height: 43px;
+  width: 32px;
+  height: 32px;
 }
 
 /*******Кнопка ЯЗЫКИ*******/
@@ -149,11 +154,14 @@
   border: 1px solid rgba(87, 86, 86, 1);
   color: rgba(87, 86, 86, 1);
   font-family: "Roboto", sans-serif;
-  font-size: 20px;
+
+  font-size: 15px;
   font-weight: 500;
-  line-height: 21px;
+  line-height: 18px;
   letter-spacing: 0em;
-  padding: 8px 9.8px;
+
+  
+  padding: 7px 9.8px;
   border-radius: 15px;
   transition: ease-in-out 0.3s;
   cursor: pointer;
@@ -165,9 +173,9 @@
 }
 
 .dropdown_arrow {
-  margin-top: 7px;
+  margin-top: 4px;
   transition: ease-in 0.3s;
-  width: 15px;
+  width: 12px;
 }
 
 .rotateimage {
