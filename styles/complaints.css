@@ -177,7 +177,7 @@ textarea {
   border-radius: 17px;
 }
 .complaints__check__form {
-  width: 650px;
+  width: 400px;
   margin: 0 auto;
   margin-top: 6em;
 }
@@ -189,7 +189,7 @@ textarea {
   right: 34%;
 }
 .complaints__check__result {
-  width: 30%;
+  width: 400px;
   margin: 0 auto;
   font-family: "Roboto", sans-serif;
 }

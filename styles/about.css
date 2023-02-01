@@ -40,11 +40,13 @@ color: rgba(87, 86, 86, 1);
 }
 .about__page__information__content p {
     font-family: "Roboto", sans-serif;
-font-size: 18px;
-font-weight: 300;
-line-height: 32px;
-letter-spacing: 0em;
-text-align: center;
+
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    
 
 }
 .about__page__chef {

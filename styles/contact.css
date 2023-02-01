@@ -23,7 +23,7 @@
 
 /********Блок с приветствием**********/
 .contact__page__mainblock__hellotext {
-  padding-top: 130px;
+  padding-top: 180px;
   color: rgba(255, 255, 255, 1);
 }
 
@@ -84,13 +84,14 @@
   color: #ffffff;
   text-transform: uppercase;
 
-  font-family: Oswald;
+
+  font-family: "Oswald", sans-serif;
   font-size: 28px;
   font-weight: 500;
   line-height: 41px;
   letter-spacing: 0em;
   text-align: left;
-}
+}  
 
 .contact__page__social__element__desc {
   color: #ffffff;
@@ -259,11 +260,11 @@
 .contact__page__info__element_name {
   font-family: "Oswald", sans-serif;
   color: rgba(188, 26, 26, 1);
-  font-size: 48px;
-  font-weight: 700;
-  line-height: 47px;
-  letter-spacing: 0em;
 
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 53px;
+  letter-spacing: 0em;
   text-align: left;
 }
 
@@ -281,6 +282,8 @@
   line-height: 29px;
   letter-spacing: 0em;
   text-align: left;
+
+  width: 290px;
 }
 
 .contact__page__info__element__desc_desc {

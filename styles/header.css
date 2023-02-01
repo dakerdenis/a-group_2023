@@ -1,5 +1,5 @@
 .navigation__wrapper {
-  height: 81px;
+  height: 55px;
   background-color: rgba(255, 255, 255, 1);
   box-shadow: 0px -9px 61px 0px rgba(0, 0, 0, 0.25);
 
@@ -73,17 +73,21 @@
   align-items: center;
   justify-content: center;
 
-  width: 215px;
+  width: 161px;
+  height: 33px;
+
   font-family: "Roboto", sans-serif;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 400;
-  height: 45px;
+  line-height: 16px;
   letter-spacing: 0em;
+  text-align: left;
+  
   padding: 12px 10px;
   border-radius: 15px;
   transition: ease-in-out 0.3s;
 
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 .navigation__payment a {
@@ -288,20 +292,22 @@
 .dropdown-container .dropdown-toggle {
   font-family: "Roboto", sans-serif;
 
-  font-size: 18px;
-  font-weight: 400;
 
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
   letter-spacing: 0em;
   text-align: left;
+  
 
   color: #fff;
-  width: 215px;
+  width: 160px;
   text-align: center;
   background-color: #bc1a1a;
 
-  padding: 11.5px 0px 11.5px 0px;
+  padding: 6.5px 0px 6.5px 0px;
   border: 2px solid #bc1a1a;
-  border-radius: 15px;
+  border-radius: 10px;
 
   cursor: pointer;
   position: relative;
