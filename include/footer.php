@@ -85,8 +85,30 @@
             <!-----!---!!!!!---->
 
             <div class="footer__rights__bank">
-                <div class="footer__rights"></div>
+                <div class="footer__rights">
+                    <p>© “A-Qroup Sığorta Şirkəti” ASC 1995-2020</p>
+                </div>
+
+                <div class="footer__banks">
+                    <div class="footer__banks__wrapper">
+                        <!----->
+                        <div class="footer__banks__element footer__banks__element-mastercard">
+                            <img src="./styles/imgs/master_card.svg" alt="">
+                        </div>
+                        <!----->
+                        <div class=" footer__banks__element footer__banks__element-visa">
+                            <img src="./styles/imgs/visa.svg" alt="">
+                        </div>
+                        <!----->
+                        <div class=" footer__banks__element footer__banks__element-infobank">
+                            <img src="./styles/imgs/infobank.svg" alt="">
+                        </div>
+                    </div>
+                </div>
             </div>
+
+
+
         </div>
     </div>
 </div>

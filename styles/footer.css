@@ -161,6 +161,47 @@
   background-color: #fff;
 }
 
+
+
+
+.footer__rights__bank {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.footer__rights {
+  width: 40%;
+  font-family: "Roboto", sans-serif;
+font-size: 10px;
+font-weight: 300;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+
+color: #575656;
+text-transform: uppercase;
+}
+.footer__banks {
+  width: 40%;
+}
+.footer__banks__wrapper {
+  display: flex;
+  justify-content: flex-end;
+
+
+}
+.footer__banks__element{
+  margin-right: 15px;
+}
+.footer__banks__element-mastercard {
+}
+.footer__banks__element-visa {
+}
+.footer__banks__element-infobank {
+  margin: 0;
+}
+
 @media only screen and (max-width: 1450px) {
   .footer__block__additional_info_symbols {
     width: 30%;
