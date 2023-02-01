@@ -9,14 +9,13 @@
 }
 .complaints__name p {
   font-family: "Roboto", sans-serif;
-  font-size: 64px;
   color: rgba(87, 86, 86, 1);
+  font-size: 46px;
   font-weight: 700;
-  line-height: 75px;
+  line-height: 54px;
   letter-spacing: 0em;
-  text-align: left;
-  width: 100%;
   text-align: center;
+  
 }
 .complaints__name img {
   position: absolute;
@@ -25,17 +24,19 @@
 }
 .compliants__desc_text {
   font-family: "Roboto", sans-serif;
-  font-size: 24px;
-  font-weight: 300;
-  line-height: 30px;
-  letter-spacing: 0em;
-  text-align: center;
+
   color: rgba(87, 86, 86, 1);
 
   width: 63%;
   margin: 0 auto;
   margin-top: 3em;
   margin-bottom: 2em;
+font-size: 20px;
+font-weight: 300;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: center;
+
 }
 .compliants__desc_text_p {
   font-weight: 500;
@@ -88,7 +89,7 @@
   width: 100%;
 }
 .complaints__form__wrapper {
-  width: 650px;
+  width: 400px;
 
   margin: 0 auto;
 }
@@ -185,7 +186,7 @@ textarea {
 }
 .complaints__name_check img {
   position: absolute;
-  right: 27%;
+  right: 34%;
 }
 .complaints__check__result {
   width: 30%;
