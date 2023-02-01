@@ -19,7 +19,14 @@ include './include/header.php';
             <div class="about__page__information">
                 <!------>
                 <div class="about__page__information__name">
-                    <p>Şirkət haqqında</p>
+                <div class="page__name_wrapper">
+                    <div class="page_name_block1">
+                    Şirkət
+                    </div>
+                    <div class="page_name_block2">
+                    haqqında
+                    </div>
+                </div>
                     <img src="./styles/imgs/about_red.svg" alt="">
                 </div>
                 <!----->
@@ -37,13 +44,15 @@ include './include/header.php';
                         Uzun illərdir ki A-Qroup Sığorta Şirkəti Azərbaycan sığorta bazarında Könüllü Tibbi Sığorta üzrə liderliyi əldə saxlayır. A-Qroup Sığorta Şirkətinin mükafatları: CIBC Award 2005 – dinamik maliyyə inkişafı, UGUR Award 2005 – İlin Sığorta Şirkəti. A-Qroup ISO: 9001/2008 standartlarına uyğ un keyfiyyətə nəzarət sistemi üzrə fəaliyyit göstərir. Sığorta proqramlarının inkişafında müştərilərimizin arzu və tövsiyələri, aparılan araşdırmaların və mütəxəssislərimizin uzun müddətli iş təcrübəsinin nəticələri nəzərə alınmışdır. Müştərilər üçün yüksək səviyyəli tibbi yardım təşkil etmək üçün şirkətimiz Bakı şəhərində və Azərbaycan Respublikasında fəaliyyət göstərən ən qabaqcıl klinikaların daxil olduğu xüsusi tibbi yardım sistemi işləyib hazırlamışdır. Bizimlə tibbi xidmət və xidmət standartları üzrə rəqabət apara biləcək digər bir müəssisənin olmadığından əminik. A-Q roup sığorta şirkəti müştərilərinin rahatlığını təmin etmək və etimadını qazanmaq üçün əlindən gələni əsir gəmir. Respublikamızda fəaliyyət göstərən BP, AZERCELL, EXXON, NOBEL OİL, TOTAL E&P, GÜRCÜSTAN, NIDERLAND, FRANSA, İSRAİL, İSVEÇ səfirlikləri və s. kimi iri şirkətlər öz əməkdaşları və onların ailə üzvlərinin sağlamlığını A-Qroup Sığorta Şirkətinə etibar etmişdir.
                     </p>
                 </div>
-
             </div>
-
             <div class="about__page__chef">
                 <!----chefs----->
                 <div class="about__page__chef__name">
-                    <p>Rəhbərlik</p>
+                <div class="page__name_wrapper">
+                    <div class="page_name_block1">
+                    Rəhbərlik
+                    </div>
+                </div>
                     <img src="./styles/imgs/chef_blue.svg" alt="">
                 </div>
                 <div class="about__page__chef__container">

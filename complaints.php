@@ -16,7 +16,14 @@ include './include/header.php';
 
     <div class="complaints__main__wrappper">
         <div class="complaints__name">
-            <p>Şikayətin Verilməsi</p>
+            <div class="page__name_wrapper">
+                <div class="page_name_block1">
+                    Şikayətin
+                </div>
+                <div class="page_name_block2">
+                    Verilməsi
+                </div>
+            </div>
             <img src="./styles/imgs/complaints_red.svg" alt="">
         </div>
 
@@ -24,10 +31,10 @@ include './include/header.php';
             <p>Hörmətli müştəri, <br>
                 Sizə göstərilən xidmətlər, şirkətimiz və ya hər hansı bir əməkdaşımız barədə şikayətiniz olarsa, bizə müraciət etməyinizi xahiş edirik
                 Müraciətlərə ən geci 15 iş günü, əlavə öyrənilmə və yoxlanılma tələb edən müraciətlərə isə ən geci 30 iş günü müddətində baxılır və müvafiq qərar qəbul olunur. Bu qərar bəradə sizə yazılı şəkildə cavab veriləcəkdir.
-                
-               
+
+
             </p>
-            <br> 
+            <br>
             <p class="compliants__desc_text_p"> Müraciətinizi yazılı və ya elektron qaydada bizə ünvanlaya bilərsiniz:</p>
         </div>
 
@@ -167,58 +174,58 @@ include './include/header.php';
 
 
 
-    <div class="complaints__grey__block">
-    <div class="complaints__name complaints__name_check">
-            <p>Şikayətin statusunun izlənilməsi</p>
-            <img src="./styles/imgs/complaints_green.svg" alt="">
-        </div>
+        <div class="complaints__grey__block">
+            <div class="complaints__name complaints__name_check">
+                <p>Şikayətin statusunun izlənilməsi</p>
+                <img src="./styles/imgs/complaints_green.svg" alt="">
+            </div>
 
-        <div class="complaints__form__container">
-            <form action="" class="complaints__check__form">
-                <div class="complaints__form__input__container">
-                    <div class="complaints__form__input__desc">
-                        <p>FİN kod</p>
+            <div class="complaints__form__container">
+                <form action="" class="complaints__check__form">
+                    <div class="complaints__form__input__container">
+                        <div class="complaints__form__input__desc">
+                            <p>FİN kod</p>
+                        </div>
+                        <div class="complaints__form__input">
+                            <input type="text" placeholder="FİN kod">
+                        </div>
                     </div>
-                    <div class="complaints__form__input">
-                        <input type="text" placeholder="FİN kod">
+
+                    <div class="complaints__form__input__container">
+                        <div class="complaints__form__input__desc">
+                            <p>Şikayət nömrəsi</p>
+                        </div>
+                        <div class="complaints__form__input">
+                            <input type="text" placeholder="Şikayət nömrəsi">
+                        </div>
                     </div>
+
+                    <!---SUBMIT FORM--->
+                    <div class="complaints__form__submit">
+                        <button type="submit">Göndər</button>
+                    </div>
+
+                </form>
+            </div>
+
+            <div class="complaints__check__result">
+                <div class="complaints__check__result__element">
+                    <p>Qəbul edildi</p>
+                    <p>05.07.2022</p>
                 </div>
-
-                <div class="complaints__form__input__container">
-                    <div class="complaints__form__input__desc">
-                        <p>Şikayət nömrəsi</p>
-                    </div>
-                    <div class="complaints__form__input">
-                        <input type="text" placeholder="Şikayət nömrəsi">
-                    </div>
+                <div class="complaints__check__result__element">
+                    <p>İcra edilir</p>
+                    <p>05.07.2022</p>
                 </div>
-
-                <!---SUBMIT FORM--->
-                <div class="complaints__form__submit">
-                    <button type="submit">Göndər</button>
+                <div class="complaints__check__result__element">
+                    <p>Yekunlaşdı</p>
+                    <p>13.07.2022</p>
                 </div>
-
-            </form>
-        </div>
-
-        <div class="complaints__check__result">
-            <div class="complaints__check__result__element">
-                <p>Qəbul edildi</p>
-                <p>05.07.2022</p>
-            </div>
-            <div class="complaints__check__result__element">
-                <p>İcra edilir</p>
-                <p>05.07.2022</p>
-            </div>
-            <div class="complaints__check__result__element">
-                <p>Yekunlaşdı</p>
-                <p>13.07.2022</p>
-            </div>
-            <div class="complaints__check__result__final">
-                <a href="#">Şikayətin nəticəsi ( yükləyin )</a>
+                <div class="complaints__check__result__final">
+                    <a href="#">Şikayətin nəticəsi ( yükləyin )</a>
+                </div>
             </div>
         </div>
-    </div>
     </div>
 
 
