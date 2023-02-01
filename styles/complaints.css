@@ -87,6 +87,7 @@ text-align: center;
 }
 .complaints__form__container {
   width: 100%;
+  position: relative;
 }
 .complaints__form__wrapper {
   width: 400px;
@@ -233,6 +234,7 @@ textarea {
 .complaints__grey__block {
   background-color: rgba(240, 240, 240, 1);
   padding: 3em 0 4em 0;
+  position: relative;
 }
 .complaints__form__input {
   background-color: #fff;
@@ -241,6 +243,21 @@ textarea {
   position: absolute;
   left: 0;
   top: 18%;
+}
+.complaints__semi_circle{
+  position: absolute;
+  right: 0;
+  top: 40%;
+}
+.complaints__red__rectangle{
+  position: absolute;
+  left: 0;
+  top: 60%;
+}
+.complaints__grey_rectangle{
+  position: absolute;
+  right: 0;
+  top: 1px;
 }
 @media only screen and (max-width: 1450px) {
   .compliants__desc_text {

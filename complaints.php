@@ -42,6 +42,10 @@ include './include/header.php';
             <div class="complaints__gold__circle">
                 <img src="./styles/imgs/complain_sircle.svg" alt="">
             </div>
+
+            <div class="complaints__semi_circle">
+                <img src="./styles/imgs/complaint_semi.svg" alt="">
+            </div>
         </div>
 
         <div class="compliants__info__container">
@@ -169,6 +173,10 @@ include './include/header.php';
                     <button type="submit">Göndər</button>
                 </div>
             </form>
+
+            <div class="complaints__red__rectangle">
+                <img src="./styles/imgs/complaints_rectangel.svg" alt="">
+            </div>
         </div>
 
 
@@ -230,6 +238,10 @@ include './include/header.php';
                 <div class="complaints__check__result__final">
                     <a href="#">Şikayətin nəticəsi ( yükləyin )</a>
                 </div>
+            </div>
+
+            <div class="complaints__grey_rectangle">
+                <img src="./styles/imgs/complaints__circle__svg.svg" alt="">
             </div>
         </div>
     </div>
