@@ -111,7 +111,7 @@
   color: #bc1a1a;
 }
 .footer__block__additional_info {
-  margin-top: 81px;
+
   display: flex;
   align-items: center;
   justify-content: flex-end;
@@ -136,7 +136,8 @@
 }
 .footer__block__additional_info_symbols a {
   display: block;
-  font-size: 33px;
+  width: 30px;
+  height: 30px;
   color: #bc1a1a;
 }
 .fa {
@@ -151,33 +152,10 @@
 }
 .fa-whatsapp {
 }
-.footer__block__rights_infobank {
-  margin-top: 5px;
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  margin-bottom: 10px;
-}
-.footer__block__rights_infobank p {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 300;
-  line-height: 19px;
-  letter-spacing: 0em;
-  text-align: left;
-  width: 40%;
-  text-transform: uppercase;
-}
-.footer__block__rights_infobank a {
-  width: 40%;
 
-  display: flex;
-  justify-content: end;
-}
-.footer__block__rights_infobank a img {
-  height: 48px;
-  width: 200px;
-}
+
+
+
 .footer__name__undeline3 {
   color: #fff;
   background-color: #fff;

@@ -30,11 +30,11 @@
                     </div>
                     <div class="footer__block__info_block_elements">
 
-                    <a href="#">Klinikalarin, apteklərin və optiklərin siyahisi</a>
-                    <a href="#">Dərmanlarin axtarişi</a>
-                    <a href="#">    Xəbərlər </a>
-                    <a href="./contact.php">    Əlaqə </a>
-                    <a href="./complaints.php">    Şikayətlər </a>
+                        <a href="#">Klinikalarin, apteklərin və optiklərin siyahisi</a>
+                        <a href="#">Dərmanlarin axtarişi</a>
+                        <a href="#"> Xəbərlər </a>
+                        <a href="./contact.php"> Əlaqə </a>
+                        <a href="./complaints.php"> Şikayətlər </a>
                     </div>
                 </div>
 
@@ -62,34 +62,30 @@
                 </div>
                 <div class="footer__block__additional_info_symbols">
                     <a href="#">
-                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                        <img src="./styles/imgs/facebook.svg" alt="">
                     </a>
 
                     <a href="#">
-                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                        <img src="./styles/imgs/instagram.svg" alt="">
                     </a>
 
                     <a href="#">
-                        <i class="fa fa-youtube"></i>
+                        <img src="./styles/imgs/youtube.svg" alt="">
                     </a>
 
                     <a href="#">
-                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                        <img src="./styles/imgs/twitter.svg" alt="">
                     </a>
 
                     <a href="#">
-                        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                        <img src="./styles/imgs/whatsapp.svg" alt="">
                     </a>
                 </div>
             </div>
-            <div class="footer__block__rights_infobank">
-                <p>
-                    © “A-Qroup Sığorta Şirkəti” ASC 1995-2020
-                </p>
+            <!-----!---!!!!!---->
 
-                <a href="https://infobank.az/">
-                    <img src="./styles/imgs/infobank.svg" alt="">
-                </a>
+            <div class="footer__rights__bank">
+                <div class="footer__rights"></div>
             </div>
         </div>
     </div>
