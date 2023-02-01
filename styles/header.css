@@ -489,13 +489,13 @@ padding: 6.5px 8.8px;
 
 @media screen and (max-width: 1380px) {
   .dropdown-container .dropdown-toggle {
-    font-size: 15px;
-    padding: 9px 15px 9px 15px;
+    font-size: 13px;
+    padding: 9px 7px 9px 7px;
   }
 
   .navigation__payment a {
-    padding: 9px 30px;
-    font-size: 15px;
+    padding: 9px 15px;
+    font-size: 13px;
     border-radius: 12px;
   }
 
@@ -518,13 +518,12 @@ padding: 6.5px 8.8px;
   }
 
   .navigation__call_number p {
-    font-size: 30px;
-    padding: 0px 15px;
+ 
   }
 
   .navigation__logo {
-    height: 60px;
-    width: 60px;
+    height: 35px;
+    width: 35px;
   }
 
   .navigation__logo img {
@@ -532,7 +531,7 @@ padding: 6.5px 8.8px;
   }
 
   .navigation__wrapper {
-    height: 80px;
+    height: 55px;
   }
 
   .login__link__foto img {

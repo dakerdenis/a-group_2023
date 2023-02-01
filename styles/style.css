@@ -769,8 +769,8 @@ width: 282.75px;
   }
 
   .main__slider__block {
-    height: calc(100vh - 80px);
-    margin-top: 80px;
+    height: calc(100vh - 55px);
+    margin-top: 55px;
   }
 
   .about__block__name img {
