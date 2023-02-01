@@ -36,6 +36,12 @@ include './include/header.php';
             </p>
             <br>
             <p class="compliants__desc_text_p"> Müraciətinizi yazılı və ya elektron qaydada bizə ünvanlaya bilərsiniz:</p>
+        
+
+            <!---complaints circle---->
+            <div class="complaints__gold__circle">
+                <img src="./styles/imgs/complain_sircle.svg" alt="">
+            </div>
         </div>
 
         <div class="compliants__info__container">

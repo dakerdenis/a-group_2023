@@ -237,6 +237,11 @@ textarea {
 .complaints__form__input {
   background-color: #fff;
 }
+.complaints__gold__circle{
+  position: absolute;
+  left: 0;
+  top: 18%;
+}
 @media only screen and (max-width: 1450px) {
   .compliants__desc_text {
     width: 87%;
