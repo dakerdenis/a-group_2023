@@ -21,6 +21,7 @@
 .complaints__name img {
   position: absolute;
   bottom: -40%;
+  width: 191px;
 }
 .compliants__desc_text {
   font-family: "Roboto", sans-serif;
@@ -60,17 +61,18 @@
   margin-bottom: 1.5em;
 }
 .complaints__info__element__img img {
-  width: 68px;
-  height: 68px;
+  width: 40px;
+  height: 40px;
 }
 .complaints__info__element__name {
   font-family: "Roboto", sans-serif;
-  font-size: 32px;
+
+  font-size: 24px;
   font-weight: 500;
-  line-height: 38px;
+  line-height: 28px;
   letter-spacing: 0em;
   text-align: center;
-  margin-bottom: 13px;
+  
 }
 .complaints__info__element__desc {
   font-family: "Roboto", sans-serif;
@@ -92,12 +94,14 @@
 }
 .complaints__form__name {
   font-family: "Roboto", sans-serif;
-  font-size: 30px;
+
+  font-size: 32px;
   font-weight: 500;
-  line-height: 42px;
+  line-height: 38px;
   letter-spacing: 0em;
   text-align: center;
-  margin-bottom: 2em;
+  
+  margin-bottom: 60px;
 }
 .complaints__form__input__container {
   width: 100%;
