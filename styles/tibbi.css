@@ -1,10 +1,25 @@
 
 .medical_tibbi__page {
-    margin-top: 55px;
+    margin-top: 125px;
 
 }
 .medical_tibbi__page_name {
-    background-color: red;
+    font-family: "Roboto", sans-serif;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+
+    
+}
+.medical_tibbi__page_name img{
+    position: absolute;
+    left: calc(50% - 215px);
+    transform: scale(0.4);
+    top: 43px;
+}
+.medical_tibbi__page_name  {
+    position: relative;
 }
 .page__name_wrapper {
 }
