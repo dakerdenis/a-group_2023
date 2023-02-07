@@ -4,7 +4,11 @@ include './include/header.php';
 
 ?>
 
-
+<style>
+    <?php
+        include './styles/tibbi.css';
+    ?>
+</style>
 
 
 
@@ -14,18 +18,15 @@ include './include/header.php';
     ?>
     <div class="medical_tibbi__page">
         <div class="medical_tibbi__page_name">
-            <div class="page__name_wrapper">
-                <div class="page_name_block1 page_name_block-faq">
-                    F
+        <div class="page__name_wrapper">
+                <div class="page_name_block1">
+                Tibbi 
                 </div>
-                <div class="page_name_block2 page_name_block-faq">
-                    A
-                </div>
-                <div class="page_name_block3 page_name_block-faq">
-                    Qs
+                <div class="page_name_block2">
+                Sığorta
                 </div>
             </div>
-            <img src="./styles/imgs/faq_vector.svg" alt="">
+            <img src="./styles/imgs/complaints_red.svg" alt="">
         </div>
 
         <div class="medical__blocks__wrapper">
