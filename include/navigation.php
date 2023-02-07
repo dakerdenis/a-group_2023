@@ -23,7 +23,7 @@
                         <div class="dropdown__wrapper">
                             <!----------------------------->
                             <div class="dropdown__element">
-                                <a href="#" class="dropdown__element__wrapper">
+                                <a href="./tibbi.php" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
                                         <img src="./styles/imgs/health.svg" alt="">
