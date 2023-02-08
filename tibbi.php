@@ -35,136 +35,84 @@ include './include/header.php';
                 <div class="medical__element__wrapper">
                     <!--medical element image--->
                     <div class="medical__element__image">
-                        <img src="" alt="">
+                        <img src="./styles/imgs/speed.png" alt="">
                     </div>
                     <!---medical element content--->
-                    <div class="medical__element__content">
+                    <div class="medical__element__content" id="medical__element__content">
+                        <article class="article" id="article">
+                            <!------>
+                            <span id="dots"></span>
+                            <!------>
+                            <p>Hər bir ailəyə əlçatan sığorta!</p>
+                            <p>Tibbi sığorta artıq əlçatan oldu. Hər AILƏ üzvünə görə 333 AZN-dən başlayan sığorta haqqı ödəməklə
+                                Siz öz doğmalarınızı əhəmiyyətli maliyyə xərclərindən qorumuş və xəstəliyin aşkar olunduğu halda sağalmanın
+                                şansını artırmış olursunuz. Bu proqram AILƏ üzvləri 3 nəfər və daha çox olan ailələr üçün nəzərdə tutulub.
+                                Hər sığortalı AILƏ üzvü üçün 10,000 AZN (illik) sığorta təminatı.</p>
+                            <p>✓ Təcili tibbi yardım</p>
+                                <p>✓ Ambulator müalicə</p>
+                            <p>✓ Stasionar müalicə + Cərrahi əməliyyat</p>
+                            <p>✓ Təcili və planlı stomatologiya</p>
+                            <p>✓ Medikamentoz təchizat</p> 
+                            <p>✓ Təcili vaksinasiya və qrip əleyhinə vaksinasiya</p>
+                            <p>✓ Fizioterapiya və tibbi massaj prosedurları</p>
+                            <p>✓ “A-Qroup Mobile Concierge” mobil tətbiqində bircə SOS düyməsini basmaqla
+                                sığorta şirkəti ilə təcili əlaqə ilə təmin olunursunuz.
+                                Bir düyməni basmağınız kifayət edir ki, A-Qroup-un çağrı mərkəzinin operatorları
+                                Sizin köməyə ehtiyyacınızın olduğunu, Sizin geolokasiyanızı görsün və MediClub-ın həkim briqadasını dərhal yanınıza göndərsin</p>
+                            <p>✓ Sualların operativ həlli üçün müasir çağrı mərkəzi (24/7)</p>
+                            <p>✓ Fərdi sığorta ilə müqayisədə 25%-ə qədər qənaət</p> 
+                            <p>✓ AILƏ proqramının alışı zamanı hissəli ödəniş imkanı</p>
+                            <p>✓ Xəstəlikləri ilkin mərhələdə aşkar edən Check-Up:</p>
+                            <p>• Terapevtin müayinəsi</p>
+                            <p>• Qan və sidiyin ümumi analizi</p>
+                            <p>• EKQ • Qarın boşluğu USM</p>
+                            <p>• Döş qəfəsinin rentqen müayinəsi</p>
+                            <p>• Şəkər və xolesterinin analizi (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin etmək məqsədi ilə)</p>
+                            <p>• Hepatit B və C müayinəsi</p>
+                            <p>• Ən çox yayılan xərçəng xəstəliklərini aşkar edən laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
+                            <p>İSTİSNALAR </p>
 
-                        <p>Hər bir ailəyə əlçatan sığorta!</p>
+                            <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
+                            <div class="medical__element__link">
+                                    <a href="#">
+                                        <p>POLİS QİYMƏTİNİ </p>
+                                        <p>HESABLAMAQ VƏ ALMAQ</p>
+                                    </a>
+                            </div>
 
-                        <p>Tibbi sığorta artıq əlçatan oldu. Hər AILƏ üzvünə görə 333 AZN-dən başlayan sığorta haqqı ödəməklə
-                            Siz öz doğmalarınızı əhəmiyyətli maliyyə xərclərindən qorumuş və xəstəliyin aşkar olunduğu halda sağalmanın
-                            şansını artırmış olursunuz. Bu proqram AILƏ üzvləri 3 nəfər və daha çox olan ailələr üçün nəzərdə tutulub.
-                            Hər sığortalı AILƏ üzvü üçün 10,000 AZN (illik) sığorta təminatı.  ✓ Təcili tibbi yardım</p>
-                        <p>✓ Ambulator müalicə</p>
-                        <p>✓ Stasionar müalicə + Cərrahi əməliyyat</p>
-                        <p>✓ Təcili və planlı stomatologiya
-                        <p>✓ Medikamentoz təchizat ✓ Təcili vaksinasiya və qrip əleyhinə vaksinasiya
-                        <p>✓ Fizioterapiya və tibbi massaj prosedurları
-                        <p>✓ “A-Qroup Mobile Concierge” mobil tətbiqində bircə SOS düyməsini basmaqla
-                            sığorta şirkəti ilə təcili əlaqə ilə təmin olunursunuz.
-                            Bir düyməni basmağınız kifayət edir ki, A-Qroup-un çağrı mərkəzinin operatorları
-                            Sizin köməyə ehtiyyacınızın olduğunu, Sizin geolokasiyanızı görsün və MediClub-ın həkim briqadasını dərhal yanınıza göndərsin</p>
-                        <p>✓ Sualların operativ həlli üçün müasir çağrı mərkəzi (24/7)</p>
-                        <p>✓ Fərdi sığorta ilə müqayisədə 25%-ə qədər qənaət</p>
-                        <p>✓ AILƏ proqramının alışı zamanı hissəli ödəniş imkanı</p>
-                        <p>✓ Xəstəlikləri ilkin mərhələdə aşkar edən Check-Up:</p>
-                        <p>• Terapevtin müayinəsi</p>
-                        <p>• Qan və sidiyin ümumi analizi</p>
-                        <p>• EKQ • Qarın boşluğu USM</p>
-                        <p>• Döş qəfəsinin rentqen müayinəsi</p>
-                        <p>• Şəkər və xolesterinin analizi (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin etmək məqsədi ilə)</p>
-                        <p>• Hepatit B və C müayinəsi</p>
-                        <p>• Ən çox yayılan xərçəng xəstəliklərini aşkar edən laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
-
-
-                        <p>İSTİSNALAR </p>
-
-                        <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
-
+                        </article> 
+                        <div class="medical__element__button_show_more">
+                        <button onclick="myFunction()" id="myBtn">DAHA ÇOX</button>
+                    </div>                       
                     </div>
-                </div>
-            </div>
-            <div class="medical__block__element">
-                <div class="medical__element__wrapper">
-                    <!--medical element image--->
-                    <div class="medical__element__image">
-                        <img src="" alt="">
-                    </div>
-                    <!---medical element content--->
-                    <div class="medical__element__content">
 
-                        <p>Hər bir ailəyə əlçatan sığorta!</p>
-
-                        <p>Tibbi sığorta artıq əlçatan oldu. Hər AILƏ üzvünə görə 333 AZN-dən başlayan sığorta haqqı ödəməklə
-                            Siz öz doğmalarınızı əhəmiyyətli maliyyə xərclərindən qorumuş və xəstəliyin aşkar olunduğu halda sağalmanın
-                            şansını artırmış olursunuz. Bu proqram AILƏ üzvləri 3 nəfər və daha çox olan ailələr üçün nəzərdə tutulub.
-                            Hər sığortalı AILƏ üzvü üçün 10,000 AZN (illik) sığorta təminatı.  ✓ Təcili tibbi yardım</p>
-                        <p>✓ Ambulator müalicə</p>
-                        <p>✓ Stasionar müalicə + Cərrahi əməliyyat</p>
-                        <p>✓ Təcili və planlı stomatologiya
-                        <p>✓ Medikamentoz təchizat ✓ Təcili vaksinasiya və qrip əleyhinə vaksinasiya
-                        <p>✓ Fizioterapiya və tibbi massaj prosedurları
-                        <p>✓ “A-Qroup Mobile Concierge” mobil tətbiqində bircə SOS düyməsini basmaqla
-                            sığorta şirkəti ilə təcili əlaqə ilə təmin olunursunuz.
-                            Bir düyməni basmağınız kifayət edir ki, A-Qroup-un çağrı mərkəzinin operatorları
-                            Sizin köməyə ehtiyyacınızın olduğunu, Sizin geolokasiyanızı görsün və MediClub-ın həkim briqadasını dərhal yanınıza göndərsin</p>
-                        <p>✓ Sualların operativ həlli üçün müasir çağrı mərkəzi (24/7)</p>
-                        <p>✓ Fərdi sığorta ilə müqayisədə 25%-ə qədər qənaət</p>
-                        <p>✓ AILƏ proqramının alışı zamanı hissəli ödəniş imkanı</p>
-                        <p>✓ Xəstəlikləri ilkin mərhələdə aşkar edən Check-Up:</p>
-                        <p>• Terapevtin müayinəsi</p>
-                        <p>• Qan və sidiyin ümumi analizi</p>
-                        <p>• EKQ • Qarın boşluğu USM</p>
-                        <p>• Döş qəfəsinin rentqen müayinəsi</p>
-                        <p>• Şəkər və xolesterinin analizi (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin etmək məqsədi ilə)</p>
-                        <p>• Hepatit B və C müayinəsi</p>
-                        <p>• Ən çox yayılan xərçəng xəstəliklərini aşkar edən laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
-
-
-                        <p>İSTİSNALAR </p>
-
-                        <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
-
-                    </div>
-                </div>
-            </div>
-            <div class="medical__block__element">
-                <div class="medical__element__wrapper">
-                    <!--medical element image--->
-                    <div class="medical__element__image">
-                        <img src="" alt="">
-                    </div>
-                    <!---medical element content--->
-                    <div class="medical__element__content">
-
-                        <p>Hər bir ailəyə əlçatan sığorta!</p>
-
-                        <p>Tibbi sığorta artıq əlçatan oldu. Hər AILƏ üzvünə görə 333 AZN-dən başlayan sığorta haqqı ödəməklə
-                            Siz öz doğmalarınızı əhəmiyyətli maliyyə xərclərindən qorumuş və xəstəliyin aşkar olunduğu halda sağalmanın
-                            şansını artırmış olursunuz. Bu proqram AILƏ üzvləri 3 nəfər və daha çox olan ailələr üçün nəzərdə tutulub.
-                            Hər sığortalı AILƏ üzvü üçün 10,000 AZN (illik) sığorta təminatı.  ✓ Təcili tibbi yardım</p>
-                        <p>✓ Ambulator müalicə</p>
-                        <p>✓ Stasionar müalicə + Cərrahi əməliyyat</p>
-                        <p>✓ Təcili və planlı stomatologiya
-                        <p>✓ Medikamentoz təchizat ✓ Təcili vaksinasiya və qrip əleyhinə vaksinasiya
-                        <p>✓ Fizioterapiya və tibbi massaj prosedurları
-                        <p>✓ “A-Qroup Mobile Concierge” mobil tətbiqində bircə SOS düyməsini basmaqla
-                            sığorta şirkəti ilə təcili əlaqə ilə təmin olunursunuz.
-                            Bir düyməni basmağınız kifayət edir ki, A-Qroup-un çağrı mərkəzinin operatorları
-                            Sizin köməyə ehtiyyacınızın olduğunu, Sizin geolokasiyanızı görsün və MediClub-ın həkim briqadasını dərhal yanınıza göndərsin</p>
-                        <p>✓ Sualların operativ həlli üçün müasir çağrı mərkəzi (24/7)</p>
-                        <p>✓ Fərdi sığorta ilə müqayisədə 25%-ə qədər qənaət</p>
-                        <p>✓ AILƏ proqramının alışı zamanı hissəli ödəniş imkanı</p>
-                        <p>✓ Xəstəlikləri ilkin mərhələdə aşkar edən Check-Up:</p>
-                        <p>• Terapevtin müayinəsi</p>
-                        <p>• Qan və sidiyin ümumi analizi</p>
-                        <p>• EKQ • Qarın boşluğu USM</p>
-                        <p>• Döş qəfəsinin rentqen müayinəsi</p>
-                        <p>• Şəkər və xolesterinin analizi (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin etmək məqsədi ilə)</p>
-                        <p>• Hepatit B və C müayinəsi</p>
-                        <p>• Ən çox yayılan xərçəng xəstəliklərini aşkar edən laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
-
-
-                        <p>İSTİSNALAR </p>
-
-                        <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
-
-                    </div>
                 </div>
             </div>
         </div>
     </div>
+
+
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("article");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "DAHA ÇOX"; 
+
+    moreText.style.overflow = "hidden";
+    moreText.style.height = "240px";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "DAHA AZ"; 
+    
+    moreText.style.overflow = "initial";
+    moreText.style.height = "100%";
+  }
+}
+</script>
 
 
 
