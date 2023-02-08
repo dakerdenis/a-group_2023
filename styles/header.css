@@ -232,10 +232,13 @@
   margin: 0 auto;
   height: 100%;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
 }
-
+.dropdown__wrapper_korporate{
+  justify-content: initial;
+}
 .dropdown__element {
   width: 25%;
 
@@ -388,6 +391,7 @@
   height: 100%;
   padding: 30px;
   transition: ease-in 0.3s;
+  position: relative;
 }
 
 .dropdown__element:hover {

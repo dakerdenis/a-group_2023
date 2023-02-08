@@ -118,7 +118,7 @@
                 </div>
                 <div class="dropdown-menu">
                     <div class="dropdown__block">
-                        <div class="dropdown__wrapper">
+                        <div class="dropdown__wrapper dropdown__wrapper_korporate">
                             <!----------------------------->
                             <div class="dropdown__element">
                                 <a href="#" class="dropdown__element__wrapper">
@@ -145,11 +145,11 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/car.svg" alt="">
+                                        <img src="./styles/imgs/placeholder.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
-                                        <p>Avtomobil sigorta</p>
+                                        <p>ƏMLAK SIĞORTASı</p>
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__desc">
@@ -162,8 +162,158 @@
                                 </a>
                             </div>
                             <!----------------------------->
+                            <div class="dropdown__element">
+                                <a href="#" class="dropdown__element__wrapper">
+                                    <!----->
+                                    <div class="dropdown__element__image">
+                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__name">
+                                        <p>Avtonəqliyyat Vasitlələrinin Sığortası</p>
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__desc">
+                                        Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
+                                </a>
+                            </div>
+                            <!----------------------------->
+                            <div class="dropdown__element">
+                                <a href="#" class="dropdown__element__wrapper">
+                                    <!----->
+                                    <div class="dropdown__element__image">
+                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__name">
+                                        <p>Yük Sığortası</p>
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__desc">
+                                        Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
+                                </a>
+                            </div>
 
                             <!----------------------------->
+                            <div class="dropdown__element">
+                                <a href="#" class="dropdown__element__wrapper">
+                                    <!----->
+                                    <div class="dropdown__element__image">
+                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__name">
+                                        <p>Məsuliyyət sığortası</p>
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__desc">
+                                        Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
+                                </a>
+                            </div>
+                            <!----------------------------->
+                            <div class="dropdown__element">
+                                <a href="#" class="dropdown__element__wrapper">
+                                    <!----->
+                                    <div class="dropdown__element__image">
+                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__name">
+                                        <p>Fərdi Qəza Sığortası</p>
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__desc">
+                                        Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
+                                </a>
+                            </div>
+                            <!----------------------------->
+                            <div class="dropdown__element">
+                                <a href="#" class="dropdown__element__wrapper">
+                                    <!----->
+                                    <div class="dropdown__element__image">
+                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__name">
+                                        <p>Tikinti-montaj Risklərin Sığortası</p>
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__desc">
+                                        Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
+                                </a>
+                            </div>
+                            <!----------------------------->
+                            <div class="dropdown__element">
+                                <a href="#" class="dropdown__element__wrapper">
+                                    <!----->
+                                    <div class="dropdown__element__image">
+                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__name">
+                                        <p>Podratçının Maşın və Avadanlıqların Sığortası</p>
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__desc">
+                                        Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
+                                </a>
+                            </div>
+                            <!----------------------------->
+                            <div class="dropdown__element">
+                                <a href="#" class="dropdown__element__wrapper">
+                                    <!----->
+                                    <div class="dropdown__element__image">
+                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__name">
+                                        <p>Digər növlər</p>
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__desc">
+                                        Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
+                                </a>
+                            </div>
+
+
+
+
+
 
                         </div>
                     </div>
