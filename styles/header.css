@@ -240,7 +240,7 @@
   justify-content: initial;
 }
 .dropdown__element {
-  width: 25%;
+  width: 322px;
 
   height: 149px;
   border-bottom: 4px solid rgba(188, 26, 26, 0);
@@ -248,15 +248,15 @@
 
 }
 .dropdown__wrapper_korporate .dropdown__element{
-  border-bottom: 1px solid rgba(87, 86, 86, 1);
+  border-bottom: 1px solid rgba(191, 191, 191, 1);
 }
 .dropdown__element:nth-child(2) {
-  border-left: 1px solid rgba(87, 86, 86, 1);
+  border-left: 1px solid rgba(191, 191, 191, 1);
 }
 
 .dropdown__element:nth-child(3) {
-  border-right: 1px solid rgba(87, 86, 86, 1);
-  border-left: 1px solid rgba(87, 86, 86, 1);
+  border-right: 1px solid rgba(191, 191, 191, 1);
+  border-left: 1px solid rgba(191, 191, 191, 1);
 }
 
 .dropdown__element2 {
@@ -276,9 +276,9 @@
   margin-top: 10px;
   font-family: "Roboto", sans-serif;
 
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
-  line-height: 19px;
+  line-height: 15px;
   letter-spacing: 0em;
   text-align: left;
   
