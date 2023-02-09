@@ -164,52 +164,10 @@ include './include/header.php';
 
                 <!---Контактные данные--->
                 <div class="contact__page__info_wrapper">
-                    <!----BAKU--->
-                    <div class="contact__page__info__element">
-                        <div class="contact__page__info__element_name">
-                            <p>Bakı</p>
-                        </div>
-                        <div class="contact__page__info__element__desc">
-                            <div class="contact__page__info__element__desc_desc">
-                                <img src="./styles/imgs/location.svg" alt="">
-                                <p>R.Behbudov küç., 87A</p>
-                            </div>
-                            <div class="contact__page__info__element__desc_desc">
-                                <img src="./styles/imgs/email.svg" alt="">
-                                <p>insurance@a-group.az</p>
-                            </div>
-                            <div class="contact__page__info__element__desc_desc">
-                                <img src="./styles/imgs/phone.svg" alt="">
-                                <p>(+994 12) 377-09-09
-                                    <br>
-                                    *0909
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <!----GANCA--->
-                    <div class="contact__page__info__element">
-                        <div class="contact__page__info__element_name contact__page__info__element_name_2">
-                            <p>Gəncə</p>
-                        </div>
-                        <div class="contact__page__info__element__desc">
-                            <div class="contact__page__info__element__desc_desc">
-                                <img src="./styles/imgs/location.svg" alt="">
-                                <p> H.Əliyev 494 A. (Zərrabi küç. 54)</p>
-                            </div>
-                            <div class="contact__page__info__element__desc_desc">
-                                <img src="./styles/imgs/email.svg" alt="">
-                                <p>tbayramov@a-group.az</p>
-                            </div>
-                            <div class="contact__page__info__element__desc_desc">
-                                <img src="./styles/imgs/phone.svg" alt="">
-                                <p>(+994 22) 266-88-49 <br>
-                                    (+994 22) 266-03-86 <br>
-                                    *0909
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+
+
+
+                    
                 </div>
             </div>
         </div>
