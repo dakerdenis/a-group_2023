@@ -164,9 +164,13 @@ include './include/header.php';
 
                 <!---Контактные данные--->
                 <div class="contact__page__info_wrapper">
+                    <div class="contact__page_info_block-main">
 
+                    </div>
 
+                    <div class="contact__page_info_block-second">
 
+                    </div>
                     
                 </div>
             </div>
