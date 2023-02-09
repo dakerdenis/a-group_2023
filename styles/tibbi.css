@@ -100,7 +100,9 @@
     overflow: hidden;
 
   }
-
+.page_name_block_tibbi{
+  margin: 0;
+}
 .medical__element__link {
   position: relative;
   width: 100%;

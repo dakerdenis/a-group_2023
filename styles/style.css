@@ -550,6 +550,18 @@ text-align: left;
   animation-fill-mode: forwards; 
   opacity: 0;
 }
+.page_name_block4 {
+
+  position: relative;
+	transform: translateY(200px);
+   -webkit-animation: mymove 0.9s alternate;
+   -moz-animation: mymove 0.9s alternate;
+  animation: mymove 0.9s alternate;
+  margin-left: 10px;
+  animation-delay: 1.7s;
+  animation-fill-mode: forwards; 
+  opacity: 0;
+}
 .page_name_block-faq{
   margin: 0;
   color: #fff;

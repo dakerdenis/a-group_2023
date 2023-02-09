@@ -1,5 +1,5 @@
 <?php
-$title_name = "Şirkət haqqında";
+$title_name = "Tibbi";
 include './include/header.php';
 
 ?>
@@ -19,11 +19,17 @@ include './include/header.php';
     <div class="medical_tibbi__page">
         <div class="medical_tibbi__page_name">
             <div class="page__name_wrapper">
-                <div class="page_name_block1">
-                    Tibbi
+                <div class="page_name_block1 page_name_block_tibbi">
+                    Tib
                 </div>
-                <div class="page_name_block2">
-                    Sığorta
+                <div class="page_name_block2 page_name_block_tibbi">
+                bi 
+                </div>
+                <div class="page_name_block3 ">
+                Sığor
+                </div>
+                <div class="page_name_block4 page_name_block_tibbi">
+                ta
                 </div>
             </div>
             <img src="./styles/imgs/complaints_red.svg" alt="">
@@ -74,7 +80,7 @@ include './include/header.php';
 
                             <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
                             <div class="medical__element__link">
-                                <a href="#">
+                                <a href="./tibbi_calculate/tibbi.php">
                                     <p>POLİS QİYMƏTİNİ </p>
                                     <p>HESABLAMAQ VƏ ALMAQ</p>
                                 </a>
@@ -133,7 +139,7 @@ include './include/header.php';
 
                             <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
                             <div class="medical__element__link">
-                                <a href="#">
+                                <a href="./tibbi_calculate/tibbi.php">
                                     <p>POLİS QİYMƏTİNİ </p>
                                     <p>HESABLAMAQ VƏ ALMAQ</p>
                                 </a>
@@ -191,12 +197,7 @@ include './include/header.php';
                             <p>İSTİSNALAR </p>
 
                             <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
-                            <div class="medical__element__link">
-                                <a href="#">
-                                    <p>POLİS QİYMƏTİNİ </p>
-                                    <p>HESABLAMAQ VƏ ALMAQ</p>
-                                </a>
-                            </div>
+
 
                         </article>
                         <div class="medical__element__button_show_more">
