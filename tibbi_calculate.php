@@ -1,12 +1,12 @@
 <?php
 $title_name = "Tibbi həsabla";
-include '../include/header.php';
+include './include/header.php';
 
 ?>
 
 <style>
     <?php
-    include '../styles/tibbi.css';
+    include './styles/tibbi.css';
     ?>
 </style>
 
@@ -14,7 +14,7 @@ include '../include/header.php';
 
 <div class="main__wrapper">
     <?php
-    include '../include/navigation.php';
+    include './include/navigation.php';
     ?>
 
 
@@ -23,5 +23,5 @@ include '../include/header.php';
 
 
     <?php
-    include '../include/footer.php';
+    include './include/footer.php';
     ?>

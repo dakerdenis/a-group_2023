@@ -169,7 +169,7 @@
 }
 
 .contact__page__map {
-  width: 30%;
+  width: 36.5%;
   height: 690px;
 }
 
@@ -237,12 +237,65 @@
   z-index: 30;
 }
 
+
+
+
 .contact__page__info_wrapper {
   width: 70%;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
+  padding: 28px 82px 28px 50px;
 }
+
+.contact__page__info__container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+
+    
+}
+.contact__page_info_block-main {
+  width: 35.7%;
+  background-color: antiquewhite;
+}
+.contact__main-name {
+}
+.contact__main__contentblock {
+}
+.contentblock__wrapper {
+}
+.contentblock__name {
+}
+.contentblock__adress {
+}
+.contentblock__adress_img {
+}
+.contentblock__adress_text {
+}
+.contentblock__email {
+}
+.contentblock__email_img {
+}
+.contentblock__email_text {
+}
+.contentblock__call {
+}
+.contentblock__call_img {
+}
+.contentblock__call_text {
+}
+.contact__page_info_block-second {
+  width: 64.3%;
+  background-color: yellow;
+}
+.contact__second-name {
+}
+.contact__page_info-second__wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.contact__second__contentblock {
+}
+
 
 
 
