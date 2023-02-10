@@ -255,6 +255,7 @@
 .contact__page_info_block-main {
   width: 35.7%;
   background-color: antiquewhite;
+  border-right: 2px solid rgba(0, 156, 166, 1);
 }
 .contact__main-name {
 }
