@@ -18,13 +18,13 @@ include './include/header.php';
             <div class="faq__page__name">
                 <div class="page__name_wrapper">
                     <div class="page_name_block1 page_name_block-faq">
-                        F
+                        <p>F</p>
                     </div>
                     <div class="page_name_block2 page_name_block-faq">
-                        A
+                        <p>A</p>
                     </div>
                     <div class="page_name_block3 page_name_block-faq">
-                        Qs
+                       <p>Qs</p>
                     </div>
                 </div>
                 <img src="./styles/imgs/faq_vector.svg" alt="">

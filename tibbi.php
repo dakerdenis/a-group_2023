@@ -20,16 +20,16 @@ include './include/header.php';
         <div class="medical_tibbi__page_name">
             <div class="page__name_wrapper">
                 <div class="page_name_block1 page_name_block_tibbi">
-                    Tib
+                    <p>Tib</p>
                 </div>
                 <div class="page_name_block2 page_name_block_tibbi">
-                bi 
+                <p>bi </p>
                 </div>
                 <div class="page_name_block3 ">
-                Sığor
+                <p>Sığor</p>
                 </div>
                 <div class="page_name_block4 page_name_block_tibbi">
-                ta
+                <p>ta</p>
                 </div>
             </div>
             <img src="./styles/imgs/complaints_red.svg" alt="">
