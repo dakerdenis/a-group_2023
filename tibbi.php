@@ -23,13 +23,13 @@ include './include/header.php';
                     <p>Tib</p>
                 </div>
                 <div class="page_name_block2 page_name_block_tibbi">
-                <p>bi </p>
+                    <p>bi </p>
                 </div>
                 <div class="page_name_block3 ">
-                <p>Sığor</p>
+                    <p>Sığor</p>
                 </div>
                 <div class="page_name_block4 page_name_block_tibbi">
-                <p>ta</p>
+                    <p>ta</p>
                 </div>
             </div>
             <img src="./styles/imgs/complaints_red.svg" alt="">
