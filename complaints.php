@@ -18,10 +18,19 @@ include './include/header.php';
         <div class="complaints__name">
             <div class="page__name_wrapper">
                 <div class="page_name_block1">
-                    Şikayətin
+                    <p>Şikayətin</p>
                 </div>
                 <div class="page_name_block2">
-                    Verilməsi
+                    <p>Verilməsi</p>    
+
+                </div>
+                <div class="page_name_block3">
+                    <p>Verilməsi</p>
+
+                </div>
+                <div class="page_name_block4">
+                    <p>Verilməsi</p>
+
                 </div>
             </div>
             <img src="./styles/imgs/complaints_red.svg" alt="">

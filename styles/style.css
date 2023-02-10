@@ -517,54 +517,65 @@ letter-spacing: 0em;
 text-align: left;
 
 }
+
 .page_name_block1 {
 
   position: relative;
 	transform: translateY(50px);
-   -webkit-animation: mymove ease 0.5s alternate;
-   -moz-animation: mymove ease 0.5s alternate;
-  animation: mymove ease 0.5s alternate;
+   -webkit-animation: mymove ease-out 0.5s alternate;
+   -moz-animation: mymove ease-out 0.5s alternate;
+  animation: mymove ease-out 0.5s alternate;
   margin-left: 10px;
   animation-delay: 0.4s;
   animation-fill-mode: forwards; 
   opacity: 0;
+  color: #fff;
+
 }
+
 .page_name_block2 {
 
   position: relative;
 	transform: translateY(50px);
-   -webkit-animation: mymove ease 0.7s alternate;
-   -moz-animation: mymove ease 0.7s alternate;
-  animation: mymove ease 0.7s alternate;
+   -webkit-animation: mymove ease-out 0.7s alternate;
+   -moz-animation: mymove ease-out 0.7s alternate;
+  animation: mymove ease-out 0.7s alternate;
   margin-left: 10px;
-  animation-delay: 0.6s;
+  animation-delay: 0.5s;
   animation-fill-mode: forwards; 
   opacity: 0;
+  color: #fff;
+
 }
+
 .page_name_block3 {
 
   position: relative;
 	transform: translateY(50px);
-   -webkit-animation: mymove ease 0.7s alternate;
-   -moz-animation: mymove ease 0.7s alternate;
-  animation: mymove ease 0.7s alternate;
+   -webkit-animation: mymove ease-out 0.7s alternate;
+   -moz-animation: mymove ease-out 0.7s alternate;
+  animation: mymove ease-out 0.7s alternate;
   margin-left: 10px;
-  animation-delay: 1s;
+  animation-delay: 0.6s;
   animation-fill-mode: forwards; 
   opacity: 0;
+  color: #fff;
 }
+
 .page_name_block4 {
 
   position: relative;
 	transform: translateY(50px);
-   -webkit-animation: ease mymove 0.7s alternate;
-   -moz-animation: ease mymove 0.7s alternate;
-  animation: ease mymove 0.7s alternate;
+   -webkit-animation: ease-out mymove 0.7s alternate;
+   -moz-animation: ease-out mymove 0.7s alternate;
+  animation: ease-out mymove 0.7s alternate;
   margin-left: 10px;
-  animation-delay: 1.3s;
+  animation-delay: 0.7s;
   animation-fill-mode: forwards; 
   opacity: 0;
+  color: #fff;
 }
+
 .page_name_block-faq{
   margin: 0;
   color: #fff;
@@ -573,11 +584,20 @@ text-align: left;
   0%{
     transform: translateY(50px);
     opacity: 0;
+    color: rgba(255, 255, 255, 0);
   }
-  100%{transform: translateY(0px);
+
+  80%{
     opacity: 1;
-}
-}
+    color: rgba(87, 86, 86, 0.534);
+    transform: translateY(0px);
+  }
+  100%{
+    opacity: 1;
+    color: rgba(87, 86, 86, 1);
+    transform: translateY(0px);
+}}
+
 @media only screen and (max-width: 1660px) {}
 
 @media only screen and (max-width: 1500px) {
