@@ -293,6 +293,10 @@ color: rgba(188, 26, 26, 1);
 .contentblock__adress_img {
   margin-right: 10px;
 }
+.contentblock__adress_img img {
+  width: 16.5px;
+  height: 20.25px;
+}
 .contentblock__adress_text {
   font-family: "Roboto", sans-serif;
 font-size: 16px;
@@ -309,6 +313,10 @@ text-align: left;
 .contentblock__email_img {
   margin-right: 10px;
 }
+.contentblock__email_img img{
+  width: 16.5px;
+  height: 13.2px;
+}
 .contentblock__email_text {
   font-family: "Roboto", sans-serif;
 font-size: 16px;
@@ -322,7 +330,14 @@ text-align: left;
   display: flex;
 }
 .contentblock__call_img {
+  margin-top: 5px;
   margin-right: 10px;
+  width: 16.5px;
+  height: 16.5px;
+}
+.contentblock__call_img  img {
+  width: 16.5px;
+  height: 16.5px;
 }
 .contentblock__call_text {
   font-family: "Roboto", sans-serif;
