@@ -254,7 +254,7 @@
 }
 .contact__page_info_block-main {
   width: 35.7%;
-  background-color: antiquewhite;
+
   border-right: 2px solid rgba(0, 156, 166, 1);
   display: flex;
   flex-direction: column;
@@ -350,14 +350,36 @@ text-align: left;
 }
 .contact__page_info_block-second {
   width: 64.3%;
-  background-color: yellow;
+
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
+
 .contact__second-name {
+  position: absolute;
+  top: 0;
+
+  font-family: "Oswald", sans-serif;
+font-size: 32px;
+font-weight: 700;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: left;
+
+color: rgba(87, 86, 86, 1);
+
+}
+.contact__page_info_block-second .contentblock__name{
+  color: rgba(87, 86, 86, 1);
 }
 .contact__page_info-second__wrapper {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 .contact__second__contentblock {
 }
