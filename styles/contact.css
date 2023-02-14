@@ -169,7 +169,7 @@
 }
 
 .contact__page__map {
-  width: 36.5%;
+  width: 37%;
   height: 690px;
 }
 
@@ -256,32 +256,82 @@
   width: 35.7%;
   background-color: antiquewhite;
   border-right: 2px solid rgba(0, 156, 166, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 .contact__main-name {
+  font-family: "Oswald", sans-serif;
+font-size: 32px;
+font-weight: 700;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(188, 26, 26, 1);
+
+
+margin-bottom: 34px;
 }
 .contact__main__contentblock {
 }
 .contentblock__wrapper {
 }
 .contentblock__name {
+  font-family: "Oswald", sans-serif;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(188, 26, 26, 1);
 }
 .contentblock__adress {
+  display: flex;
+  align-items: center;
 }
 .contentblock__adress_img {
+  margin-right: 10px;
 }
 .contentblock__adress_text {
+  font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 300;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 .contentblock__email {
+  display: flex;
+  align-items: center;
 }
 .contentblock__email_img {
+  margin-right: 10px;
 }
 .contentblock__email_text {
+  font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 300;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 .contentblock__call {
+  display: flex;
 }
 .contentblock__call_img {
+  margin-right: 10px;
 }
 .contentblock__call_text {
+  font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 300;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 .contact__page_info_block-second {
   width: 64.3%;
