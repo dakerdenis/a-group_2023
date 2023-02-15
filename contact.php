@@ -384,19 +384,11 @@ include './include/header.php';
                     <div class="popup__content__input">
                         <div class="custom-select">
                             <select name="cars" id="cars" required>
-                                <option value="0">Select car</option>
-                                <option value="1">Audi</option>
-                                <option value="2">BMW</option>
-                                <option value="3">Citroen</option>
-                                <option value="4">Ford</option>
-                                <option value="5">Honda</option>
-                                <option value="6">Jaguasfasfasfasfawfar</option>
-                                <option value="7">Land Rover</option>
-                                <option value="8">Mercedes</option>
-                                <option value="9">Mini</option>
-                                <option value="10">Nissan</option>
-                                <option value="11">Toyota</option>
-                                <option value="12">Volvo</option>
+                                <option value="0">Sorğu növünü seçin</option>
+                                <option value="1">Tibbi</option>
+                                <option value="2">Qeyri tibbi</option>
+                                <option value="3">Şikayət</option>
+                                <option value="4">Texniki</option>
                             </select>
                         </div>
                     </div>

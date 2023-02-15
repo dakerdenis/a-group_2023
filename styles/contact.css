@@ -593,12 +593,12 @@ text-align: left;
   width: 0;
   height: 0;
   border: 6px solid transparent;
-  border-color: #2f2f2f transparent transparent transparent;
+  border-color: #009CA6 transparent transparent transparent;
 }
 
 /*point the arrow upwards when the select box is open (active):*/
 .select-selected.select-arrow-active:after {
-  border-color: transparent transparent #2f2f2f transparent;
+  border-color: transparent transparent #009CA6 transparent;
   top: 7px;
 }
 
@@ -615,11 +615,17 @@ text-align: left;
 /*style items (options):*/
 .select-items {
   position: absolute;
-  background-color: DodgerBlue;
-  top: 100%;
-  left: 0;
+  background-color: #fff;
+  top: 87%;
+  left: -6px;
   right: 0;
   z-index: 99;
+  width: 400px;
+  border: 1px solid #575656;
+  border-top: none;
+  border-radius: 0px 0px 10px 10px;
+
+  padding-top: 10px;
 }
 
 /*hide the items when the select box is closed:*/
@@ -628,6 +634,13 @@ text-align: left;
 }
 .select-items div {
   color: rgba(87, 86, 86, 1);
+  font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 .select-items div:hover, .same-as-selected {
   background-color: rgba(0, 0, 0, 0.1);
