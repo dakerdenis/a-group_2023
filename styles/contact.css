@@ -158,12 +158,22 @@ text-align: left;
   bottom: 10%;
   width: 60%;
   display: flex;
-  justify-content: space-between;
+
 }
 
 .contact__page__social__element__social_link {
+  width: 33px;
+  height: 33px;
+  margin-right: 11px;
 }
-
+.contact__page__social__element__social_link a {
+  display: block;
+  width: 33px;
+  height: 33px;
+}
+.contact__page__social__element__social_link a img{
+  width: 100%;
+}
 /***связь с нами и текст и соц сети - Треугольник*****/
 .contact__page__social__element__rectangle {
   position: absolute;
