@@ -66,7 +66,7 @@
 
 .contact__page__social__element {
   width: 32%;
-  height: 280px;
+  height: 210px;
   display: flex;
   flex-direction: column;
   position: relative;
@@ -96,13 +96,26 @@
 .contact__page__social__element__desc {
   color: #ffffff;
   font-family: "Roboto", sans-serif;
-  font-size: 24px;
+
   font-weight: 300;
-  line-height: 28px;
-  letter-spacing: 0em;
-  text-align: left;
+
+
+
   margin-top: 17px;
   width: 80%;
+
+
+
+
+
+
+font-family: Roboto;
+font-size: 20px;
+font-weight: 300;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 
 .contact__page__social__element__desc span {
@@ -117,16 +130,19 @@
 .contact__page__social__element__popup a {
   color: #ffffff;
   font-family: "Roboto", sans-serif;
-  font-size: 24px;
-  font-weight: 300;
-  line-height: 28px;
-  letter-spacing: 0em;
 
-  height: 42px;
-  width: 150px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  
+
+  height: 31px;
+  width: 112px;
   border-radius: 15px;
   border: 1px solid #ffffff;
-  border-radius: 15px;
+  border-radius: 10px;
   padding: 7px 45px;
 
   transition: ease-in-out 0.2s;
