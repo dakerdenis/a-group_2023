@@ -402,9 +402,6 @@ include './include/header.php';
                         <input name="surname" type="text" placeholder="Soyad">
                     </div>
                     <div class="popup__content__input">
-                        <input name="father_name" type="text" placeholder="Ata adı">
-                    </div>
-                    <div class="popup__content__input">
                         <input name="email" type="email" placeholder="Email">
                     </div>
                     <div class="popup__content__input">
