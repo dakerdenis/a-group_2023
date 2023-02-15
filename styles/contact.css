@@ -207,8 +207,8 @@ text-align: left;
 
 .contact__page__map__navigation {
   position: absolute;
-  width: 120px;
-  height: 100px;
+  width: 82px;
+  height: 30px;
 
   right: 10px;
   top: 20px;
@@ -237,8 +237,15 @@ text-align: left;
   color: #fff;
   background-color: #009ca6;
   width: 100%;
-  padding: 7px 0px;
+  padding: 3px 0px;
   border-radius: 9px;
+
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+
+margin-bottom: 10px;
 }
 
 .contact__page__map__map {
