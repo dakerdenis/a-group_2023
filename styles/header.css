@@ -397,11 +397,13 @@
 .dropdown-menu {
   z-index: 100;
   position: relative;
+  background-color: red;
+
 }
 /** ! **********************/
 /** ! **********************/
 .dropdown-open .dropdown-menu.dropdown-active {
-top: 45px;
+top: 44px;
 transition: ease-in 0.5s;
 }
 /** ! **********************/
@@ -447,7 +449,7 @@ transition: ease-in 0.5s;
 /** ! **********************/
 .dropdown-container:hover .dropdown-menu {
   transition: ease-in 0.5s;
-  top: 45px;
+  top: 44px;
 }
 /** ! **********************/
 /** ! **********************/

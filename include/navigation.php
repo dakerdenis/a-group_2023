@@ -11,7 +11,6 @@
         <div class="navigation__call_number">
             <p>*0909</p>
         </div>
-
         <!----Ferdi sexslere--->
         <div class="navigation__ferdi__sexslere">
             <div class="dropdown-container">
