@@ -155,7 +155,35 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
+                    <!---------Ünvan-------------->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Ünvan</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_input_container">
+                                <input type="text" placeholder="Ünvan">
+                            </div>
+                        </div>
+                    </div>
 
+                    <!---------Email ünvanı-------------->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Email ünvanı</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_input_container">
+                                <input type="text" placeholder="Email ünvanı">
+                            </div>
+                        </div>
+                    </div>
+
+                    
 
                 </form>
             </div>
