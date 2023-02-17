@@ -183,7 +183,27 @@ include './include/header.php';
                         </div>
                     </div>
 
-                    
+
+
+                    <!---radio block- Son 2 ildə müayinədən keçmisiniz?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Son 2 ildə müayinədən keçmisiniz?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+
+
 
                 </form>
             </div>
@@ -191,8 +211,11 @@ include './include/header.php';
     </div>
 
 
-
-
+    <script>
+        $('#other-field').focus(function() {
+            $('#other').prop("checked", true);
+        });
+    </script>
 
     <?php
     include './include/footer.php';
