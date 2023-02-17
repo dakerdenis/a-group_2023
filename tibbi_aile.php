@@ -41,7 +41,7 @@ include './include/header.php';
                 <div class="polis__count__desc_block">
                     <p>
                         <img src="./styles/imgs/alert-circle.svg" alt="">
-                        Diqqət! 
+                        Diqqət!
                     </p>
                     <p> Özəl proqram yalnız 1 şəxs üçün nəzərdə tutulub</p>
                 </div>
@@ -58,7 +58,9 @@ include './include/header.php';
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
-                            <input type="text">
+                            <div class="polis_input_element_input_container">
+                                <input type="text" placeholder="Ad">
+                            </div>
                         </div>
                     </div>
 

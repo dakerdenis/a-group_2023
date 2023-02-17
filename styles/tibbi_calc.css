@@ -78,26 +78,61 @@ text-align: left;
     flex-direction: column;
 }
 .polis__count-form__input_element {
-    background-color: yellow;
+
     display: flex;
     
     align-items: center;
     justify-content: center;
 
     height: 42px;
+
+    margin-bottom: 10px;
 }
 .polis_input_element_desc {
-    background-color: green;
+
     width: 100%;
-    padding-right: 40px ;
+    padding-right: 80px ;
     display: flex;
     justify-content: flex-end;
+
+    font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 .polis_input_element_input {
-    background-color: blue;
+
     width: 100%;
-    padding-left: 40px;
+    padding-left: 0px;
     display: flex;
     justify-content: flex-start;
     height: 100%;
+    
+}
+.polis_input_element_input_container{
+    width: 356px;
+
+    border-radius: 12px;
+    display: flex;
+    align-items: center ;
+    padding: 10px 16px;
+    border: 1px solid  rgba(190, 190, 190, 1);
+    ;
+}
+.polis_input_element_input_container input{
+
+    width: 100%;
+    height: 100%;
+
+    font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+    color:  rgba(190, 190, 190, 1);
+    
 }
