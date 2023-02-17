@@ -65,6 +65,82 @@ include './include/header.php';
                     </div>
 
 
+                    <!---------Soyad-------------->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Soyad</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_input_container">
+                                <input type="text" placeholder="Soyad">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!---------Doğum tarixi-------------->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Doğum tarixi</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_input_container">
+                                <input type="text" placeholder="Doğum tarixi">
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <p>Cins</p>
+
+
+                    <!---------Çəki-------------->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Çəki</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_input_container">
+                                <input type="text" placeholder="Çəki (kg)">
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!---------Boyu-------------->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Boyu</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_input_container">
+                                <input type="text" placeholder="Boyu (kg)">
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!---------Əlaqə nömrəsi-------------->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Əlaqə nömrəsi</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_input_container">
+                                <input type="text" placeholder="Əlaqə nömrəsi">
+                            </div>
+                        </div>
+                    </div>
+
 
                 </form>
             </div>
