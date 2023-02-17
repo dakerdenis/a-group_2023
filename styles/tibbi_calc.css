@@ -63,11 +63,41 @@ text-align: left;
 .polis__count__desc_block p:nth-child(1) img {
     margin-right: 5px;
 }
+.polis__count__desc_block p:nth-child(2){
+    color: rgba(141, 141, 141, 1);
+
+}
 .polis__count-form {
+    width: 100%;
+
+}
+.polis__count-form form{
+    margin-top: 42px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
 }
 .polis__count-form__input_element {
+    background-color: yellow;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+
+    height: 42px;
 }
 .polis_input_element_desc {
+    background-color: green;
+    width: 100%;
+    padding-right: 40px ;
+    display: flex;
+    justify-content: flex-end;
 }
 .polis_input_element_input {
+    background-color: blue;
+    width: 100%;
+    padding-left: 40px;
+    display: flex;
+    justify-content: flex-start;
+    height: 100%;
 }
