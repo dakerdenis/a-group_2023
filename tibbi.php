@@ -80,7 +80,7 @@ include './include/header.php';
 
                             <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
                             <div class="medical__element__link">
-                                <a href="./tibbi_calculate.php">
+                                <a href="./tibbi_aile.php">
                                     <p>POLİS QİYMƏTİNİ </p>
                                     <p>HESABLAMAQ VƏ ALMAQ</p>
                                 </a>
@@ -139,7 +139,7 @@ include './include/header.php';
 
                             <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
                             <div class="medical__element__link">
-                                <a href="./tibbi_calculate.php">
+                                <a href="./tibbi_ozel.php">
                                     <p>POLİS QİYMƏTİNİ </p>
                                     <p>HESABLAMAQ VƏ ALMAQ</p>
                                 </a>
