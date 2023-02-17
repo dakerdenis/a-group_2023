@@ -1,0 +1,45 @@
+.polis__count__container {
+    width: 100%;
+    margin-top: 112px;
+}
+.polis__count__wrapper {
+
+}
+.polis__count__name {
+    width: 100%;
+    position: relative;
+}
+.polis__count__name img {
+    position: absolute;
+    right: calc(50% - 284px);
+
+}
+.page_name_block_tibbi_calc{
+    margin-right: 10px;
+}
+ .page_name_block1 p:nth-child(1){
+    color: rgba(188, 26, 26, 1);
+}
+
+.page__name_wrapper {
+}
+.page_name_block1 {
+}
+.page_name_block_tibbi {
+}
+.page_name_block2 {
+}
+.page_name_block3 {
+}
+.page_name_block4 {
+}
+.polis__count__desc {
+}
+.polis__count-form {
+}
+.polis__count-form__input_element {
+}
+.polis_input_element_desc {
+}
+.polis_input_element_input {
+}
