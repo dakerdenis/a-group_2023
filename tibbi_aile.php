@@ -142,6 +142,21 @@ include './include/header.php';
                     </div>
 
 
+                    <!---------İş yeri-------------->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>İş yeri</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_input_container">
+                                <input type="text" placeholder="İş yeri">
+                            </div>
+                        </div>
+                    </div>
+
+
                 </form>
             </div>
         </div>
