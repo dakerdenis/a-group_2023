@@ -37,16 +37,18 @@ include './include/header.php';
             </div>
 
 
-             <div class="polis__count__desc">
-                <p>
-                    <img src="./styles/imgs/alert-circle.svg" alt="">
-                Diqqət!
-                </p>
-                <p> Özəl proqram yalnız 1 şəxs üçün nəzərdə tutulub</p>
-             </div>   
+            <div class="polis__count__desc">
+                <div class="polis__count__desc_block">
+                    <p>
+                        <img src="./styles/imgs/alert-circle.svg" alt="">
+                        Diqqət! 
+                    </p>
+                    <p> Özəl proqram yalnız 1 şəxs üçün nəzərdə tutulub</p>
+                </div>
+            </div>
 
 
-             <div class="polis__count-form">
+            <div class="polis__count-form">
                 <form action="">
                     <!---------Ad-------------->
                     <div class="polis__count-form__input_element">
@@ -63,7 +65,7 @@ include './include/header.php';
 
 
                 </form>
-             </div>
+            </div>
         </div>
     </div>
 
