@@ -23,7 +23,7 @@ include './include/header.php';
                     <p>Tib</p>
                 </div>
                 <div class="page_name_block2 page_name_block_tibbi">
-                    <p>bi </p>
+                    <p>bi  &nbsp;</p>
                 </div>
                 <div class="page_name_block3 ">
                     <p>Sığor</p>
@@ -108,7 +108,7 @@ include './include/header.php';
                             <!------>
                             <span id="dots2"></span>
                             <!------>
-                            <p>Hər bir ailəyə əlçatan sığorta!</p>
+                            <p>Özəl</p>
                             <p>Tibbi sığorta artıq əlçatan oldu. Hər AILƏ üzvünə görə 333 AZN-dən başlayan sığorta haqqı ödəməklə
                                 Siz öz doğmalarınızı əhəmiyyətli maliyyə xərclərindən qorumuş və xəstəliyin aşkar olunduğu halda sağalmanın
                                 şansını artırmış olursunuz. Bu proqram AILƏ üzvləri 3 nəfər və daha çox olan ailələr üçün nəzərdə tutulub.
