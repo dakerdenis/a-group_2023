@@ -338,7 +338,7 @@ include './include/header.php';
 
 
 
-                    
+
                     <!---radio block- Baş ağrıları, başgicəllənmə və miqren olurmu?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -358,7 +358,7 @@ include './include/header.php';
                     </div>
 
 
-                    
+
                     <!---radio block- Arterial təzyiqin artımı (140/90 yuxarı)?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -376,7 +376,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Revmatizm (əzələlərin, sümüklərin və oynaqların xəstəlikləri) varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -394,7 +394,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Venaların varikozu və başqa damar xəstəlikləri varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -412,7 +412,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Ritmin, keçiriciliyin pozulması və ürək xəstəlikləri varmı?
 -->
                     <div class="polis__count-form__input_element">
@@ -431,7 +431,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Psixi xəstəlik, əsəb pozğunluğu, epilepsiya varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -449,7 +449,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Travmalar, zədələnmələr, defektlər (onların nəticələri) varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -467,7 +467,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Bel nahiyəsində və onurğa sütununda problemlər varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -485,7 +485,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Qaraciyər, dalaq, mədəaltı vəzi xəstəlikləri varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -503,7 +503,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Qan xəstəlikləri varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -521,7 +521,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Şəkərli diabet varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -539,7 +539,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block-Digər endokrinoloji xəstəliklər varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -557,7 +557,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Xoş və ya bəd xassəli şişlər varmı?
 -->
                     <div class="polis__count-form__input_element">
@@ -576,7 +576,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block-Səhhətinizlə bağlı başqa probleminiz varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -594,7 +594,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+
                     <!---radio block- Siz hal-hazırda və ya əvvəl sığortalı olmusunuzmu?--->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
@@ -616,7 +616,12 @@ include './include/header.php';
 
 
 
-
+                    <!---- добавление анкеты следующего члена семьи---->
+                    <div class="add_new__person_tibbi">
+                        <div class="button__add__new_person">
+                            <button><span>2</span>ci ailə üzvü</button>
+                        </div>
+                    </div>
 
                 </form>
             </div>
