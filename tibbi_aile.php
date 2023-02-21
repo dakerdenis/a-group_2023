@@ -577,6 +577,9 @@ include './include/header.php';
                                     <span>₼</span>
                                 </p>
                             </div>
+                            <div class="tibbi_calc_button">
+                                <button>Həsabla</button>
+                            </div>
                         </div>
                     </div>
                     
