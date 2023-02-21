@@ -227,11 +227,18 @@ color: rgba(87, 86, 86, 1);
 .tibbi_calculation__block {
   width: 368px;
   height: 57px;
-  border: 1px solid  rgba(214, 214, 214, 1);
+  border: 1px solid rgba(214, 214, 214, 1);
   border-radius: 15px;
   padding: 10px 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 .tibbi_calc_price {
 }
-.tibbi_calc_button {
+.tibbi_calc_button button{
+  width: 136px;
+  height: 36px;
+  border-radius: 8px;
+  background-color: rgba(188, 26, 26, 1);
 }
