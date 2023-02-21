@@ -204,11 +204,85 @@ include './include/header.php';
                     </div>
 
 
-                                        <!---radio block- Son 2 ildə müayinədən keçmisiniz?-->
-                                        <div class="polis__count-form__input_element">
+                    <!---radio block- Siz hospitalizasiya olunmusunuz?-->
+                    <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Son 2 ildə müayinədən keçmisiniz?</p>
+                            <p>Siz hospitalizasiya olunmusunuz?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat2" name="animal2" value="" />
+                                <label for="cat2">Bəli</label>
+
+                                <input type="radio" id="dog2" name="animal2" value="" />
+                                <label for="dog2">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!---radio block- Hal-hazırda hər hansı bir müalicə və ya dərman qəbul edirsiniz?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Hal-hazırda hər hansı bir müalicə və ya dərman qəbul edirsiniz?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat3" name="animal3" value="" />
+                                <label for="cat3">Bəli</label>
+
+                                <input type="radio" id="dog3" name="animal3" value="" />
+                                <label for="dog3">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!---radio block- Qida borusunun, mədə-bağırsaq sisteminin xəstəlikləri varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Qida borusunun, mədə-bağırsaq sisteminin xəstəlikləri varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!---radio block- Astma, allergiya, ağciyər xəstəlikləri müəyyən olunubmu?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Astma, allergiya, ağciyər xəstəlikləri müəyyən olunubmu?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!---radio block- Böyrəklərin, sidik sisteminin xəstəlikləri varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Böyrəklərin, sidik sisteminin xəstəlikləri varmı?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
@@ -223,11 +297,29 @@ include './include/header.php';
                     </div>
 
 
-                                        <!---radio block- Son 2 ildə müayinədən keçmisiniz?-->
-                                        <div class="polis__count-form__input_element">
+                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Son 2 ildə müayinədən keçmisiniz?</p>
+                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
@@ -242,11 +334,16 @@ include './include/header.php';
                     </div>
 
 
-                                        <!---radio block- Son 2 ildə müayinədən keçmisiniz?-->
-                                        <div class="polis__count-form__input_element">
+
+
+
+
+                    
+                    <!---radio block- Baş ağrıları, başgicəllənmə və miqren olurmu?-->
+                    <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Son 2 ildə müayinədən keçmisiniz?</p>
+                            <p>Baş ağrıları, başgicəllənmə və miqren olurmu?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
@@ -259,6 +356,264 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
+
+
+                    
+                    <!---radio block- Arterial təzyiqin artımı (140/90 yuxarı)?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Arterial təzyiqin artımı (140/90 yuxarı)?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Revmatizm (əzələlərin, sümüklərin və oynaqların xəstəlikləri) varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Revmatizm (əzələlərin, sümüklərin və oynaqların xəstəlikləri) varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Venaların varikozu və başqa damar xəstəlikləri varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Venaların varikozu və başqa damar xəstəlikləri varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Ritmin, keçiriciliyin pozulması və ürək xəstəlikləri varmı?
+-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Ritmin, keçiriciliyin pozulması və ürək xəstəlikləri varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Psixi xəstəlik, əsəb pozğunluğu, epilepsiya varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Psixi xəstəlik, əsəb pozğunluğu, epilepsiya varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Travmalar, zədələnmələr, defektlər (onların nəticələri) varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Travmalar, zədələnmələr, defektlər (onların nəticələri) varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <div class="polis__count-form__input_element">
+                        <!--input desc-->
+                        <div class="polis_input_element_desc">
+                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                        </div>
+                        <!---input data--->
+                        <div class="polis_input_element_input">
+                            <div class="polis_input_element_radio">
+                                <input type="radio" id="cat" name="animal" value="" />
+                                <label for="cat">Bəli</label>
+
+                                <input type="radio" id="dog" name="animal" value="" />
+                                <label for="dog">Xeyr</label>
+                            </div>
+                        </div>
+                    </div>
+
+
+
 
 
 
