@@ -212,3 +212,21 @@ color: rgba(87, 86, 86, 1);
 
 
 }
+
+
+
+/********************************/
+.tibbi__calculation {
+  width: 100%;
+  background-color: red;
+  margin-bottom: 26px;
+}
+.tibbi_calculation__block {
+  width: 368px;
+  height: 57px;
+  border: 1px solid  rgba(214, 214, 214, 1);
+}
+.tibbi_calc_price {
+}
+.tibbi_calc_button {
+}
