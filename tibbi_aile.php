@@ -65,8 +65,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
                         <!---------Soyad-------------->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -80,7 +78,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---------Doğum tarixi-------------->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -93,13 +90,7 @@ include './include/header.php';
                                     <input type="text" placeholder="Doğum tarixi">
                                 </div>
                             </div>
-                        </div>
-
-
-                        <p>Cins</p>
-
-
-                        <!---------Çəki-------------->
+                        </div>                        <!---------Çəki-------------->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
                             <div class="polis_input_element_desc">
@@ -112,8 +103,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
                         <!---------Boyu-------------->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -127,8 +116,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
                         <!---------Əlaqə nömrəsi-------------->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -142,8 +129,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
                         <!---------İş yeri-------------->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -170,7 +155,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---------Email ünvanı-------------->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -184,9 +168,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
-
                         <!---radio block- Son 2 ildə müayinədən keçmisiniz?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -204,8 +185,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
                         <!---radio block- Siz hospitalizasiya olunmusunuz?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -223,8 +202,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
                         <!---radio block- Hal-hazırda hər hansı bir müalicə və ya dərman qəbul edirsiniz?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -242,8 +219,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
                         <!---radio block- Qida borusunun, mədə-bağırsaq sisteminin xəstəlikləri varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -261,7 +236,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Astma, allergiya, ağciyər xəstəlikləri müəyyən olunubmu?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -279,7 +253,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Böyrəklərin, sidik sisteminin xəstəlikləri varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -297,8 +270,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
                         <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -316,7 +287,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -334,13 +304,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
-
-
-
-
-
                         <!---radio block- Baş ağrıları, başgicəllənmə və miqren olurmu?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -358,9 +321,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
-
-
                         <!---radio block- Arterial təzyiqin artımı (140/90 yuxarı)?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -378,7 +338,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Revmatizm (əzələlərin, sümüklərin və oynaqların xəstəlikləri) varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -396,7 +355,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Venaların varikozu və başqa damar xəstəlikləri varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -414,7 +372,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Ritmin, keçiriciliyin pozulması və ürək xəstəlikləri varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -432,7 +389,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Psixi xəstəlik, əsəb pozğunluğu, epilepsiya varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -450,7 +406,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Travmalar, zədələnmələr, defektlər (onların nəticələri) varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -468,7 +423,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Bel nahiyəsində və onurğa sütununda problemlər varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -486,7 +440,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Qaraciyər, dalaq, mədəaltı vəzi xəstəlikləri varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -504,7 +457,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Qan xəstəlikləri varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -522,7 +474,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Şəkərli diabet varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -540,7 +491,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block-Digər endokrinoloji xəstəliklər varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -558,7 +508,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Xoş və ya bəd xassəli şişlər varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -576,7 +525,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block-Səhhətinizlə bağlı başqa probleminiz varmı?-->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
@@ -594,7 +542,6 @@ include './include/header.php';
                                 </div>
                             </div>
                         </div>
-
                         <!---radio block- Siz hal-hazırda və ya əvvəl sığortalı olmusunuzmu?--->
                         <div class="polis__count-form__input_element">
                             <!--input desc-->
