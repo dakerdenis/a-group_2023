@@ -23,7 +23,7 @@
   display: flex;
   flex-direction: column;
 
-  justify-content: space-between;
+
 }
 
 .footer__block_1_name {
@@ -38,14 +38,14 @@
 .footer__block_1_desc {
   font-family: "Roboto", sans-serif;
   font-weight: 200;
-  font-size: 24px;
+  font-size: 21px;
   line-height: 28px;
   margin-top: 25px;
   margin-bottom: 1.2em;
 }
 
 .footer__block_1_contact {
-  margin-top: 50px;
+  margin-top: 30px;
 }
 .footer__block_1_contact_desc {
   font-family: Oswald;
@@ -201,10 +201,14 @@ text-transform: uppercase;
 .footer__banks__element-infobank {
   margin: 0;
 }
-
+@media only screen and (max-width: 1550px) {
+  .footer__block__additional_info_symbols{
+    width: 23%;
+  }
+}
 @media only screen and (max-width: 1450px) {
   .footer__block__additional_info_symbols {
-    width: 30%;
+    width: 24%;
   }
 
   .footer__block__info_block_elements a {
@@ -243,7 +247,7 @@ text-transform: uppercase;
     height: 100%;
   }
   .footer__block__additional_info {
-    margin-top: 15px;
+
   }
   .footer__block_1_desc {
     font-size: 16px;
@@ -290,6 +294,9 @@ text-transform: uppercase;
 }
 .footer__name__undeline1 {
     width: 122px;
+}
+.footer__block_1_contact {
+  margin-top: 60px;
 }
 }
 @media only screen and (max-width: 1370px) {
