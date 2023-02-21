@@ -614,10 +614,7 @@ include './include/header.php';
                         </div>
                     </div>
 
-                    <!---anket ikinci ve basqa---->
-                    <div class="add__new__user__number">
-                        <p>Anket No 2</p>
-                    </div>
+
                     <!---- добавление анкеты следующего члена семьи---->
                     <div class="add_new__person_tibbi">
                         <div class="button__add__new_person">

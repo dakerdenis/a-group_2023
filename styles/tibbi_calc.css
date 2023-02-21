@@ -194,3 +194,21 @@ letter-spacing: 0em;
 text-align: right;
 color: #fff;
 }
+.add__new__user__number{
+  width: 100%;
+  margin-top: 41px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.add__new__user__number p{
+  display: block;
+  font-family: "Oswald", sans-serif;
+font-size: 32px;
+font-weight: 700;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(87, 86, 86, 1);
+
+
+}
