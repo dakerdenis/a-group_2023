@@ -95,7 +95,7 @@
 }
 .footer__block__info_block_elements {
   margin-top: 15px;
-  width: 65%;
+  width:100%;
 }
 .footer__block__info_block_elements a {
   display: block;
@@ -201,9 +201,12 @@ text-transform: uppercase;
 .footer__banks__element-infobank {
   margin: 0;
 }
-@media only screen and (max-width: 1550px) {
+@media only screen and (max-width: 1650px) {
   .footer__block__additional_info_symbols{
     width: 23%;
+  }
+  .footer__block_1_contact {
+    margin-top: 15px;
   }
 }
 @media only screen and (max-width: 1450px) {
