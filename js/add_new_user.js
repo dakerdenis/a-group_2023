@@ -56,10 +56,6 @@ add_new.addEventListener("click", function (event) {
       </div>
   </div>
 
-
-  <p>Cins</p>
-
-
   <!---------Çəki-------------->
   <div class="polis__count-form__input_element">
       <!--input desc-->
