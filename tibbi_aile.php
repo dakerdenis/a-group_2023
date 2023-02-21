@@ -568,7 +568,7 @@ include './include/header.php';
                             <button id="add__new_person"><span>2</span>ci ailə üzvü</button>
                         </div>
                     </div>
-
+                    <!---HESABLA---->
                     <div class="tibbi__calculation">
                         <div class="tibbi_calculation__block">
                             <div class="tibbi_calc_price">
@@ -582,7 +582,7 @@ include './include/header.php';
                             </div>
                         </div>
                     </div>
-                    
+                    <!---sifaris et---->
 
                 </form>
             </div>
