@@ -175,5 +175,20 @@ input[type="radio"]:checked + label {
   text-align: center;
   justify-content: center;
 }
-.button__add__new_person {
+.button__add__new_person button{
+  background-color:  rgba(0, 156, 166, 1);
+  width: 125px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 35px;
+  
+  font-family: "Roboto", sans-serif;
+font-size: 15px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: right;
+color: #fff;
 }
