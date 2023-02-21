@@ -43,7 +43,7 @@ include './include/header.php';
                         <img src="./styles/imgs/alert-circle.svg" alt="">
                         Diqqət!
                     </p>
-                    <p> Özəl proqram yalnız 1 şəxs üçün nəzərdə tutulub</p>
+                    <p>Ailə proqramı yalnız 3 və ya daha artıq şəxs üçün nəzərdə tutulub</p>
                 </div>
             </div>
 
@@ -568,6 +568,18 @@ include './include/header.php';
                             <button id="add__new_person"><span>2</span>ci ailə üzvü</button>
                         </div>
                     </div>
+
+                    <div class="tibbi__calculation">
+                        <div class="tibbi_calculation__block">
+                            <div class="tibbi_calc_price">
+                                <p>
+                                    <span>567</span>
+                                    <span>₼</span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    
 
                 </form>
             </div>
