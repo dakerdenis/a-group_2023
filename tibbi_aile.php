@@ -468,11 +468,11 @@ include './include/header.php';
                         </div>
                     </div>
                     
-                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <!---radio block- Bel nahiyəsində və onurğa sütununda problemlər varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                            <p>Bel nahiyəsində və onurğa sütununda problemlər varmı?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
@@ -486,11 +486,11 @@ include './include/header.php';
                         </div>
                     </div>
                     
-                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <!---radio block- Qaraciyər, dalaq, mədəaltı vəzi xəstəlikləri varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                            <p>Qaraciyər, dalaq, mədəaltı vəzi xəstəlikləri varmı?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
@@ -504,11 +504,11 @@ include './include/header.php';
                         </div>
                     </div>
                     
-                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <!---radio block- Qan xəstəlikləri varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                            <p>Qan xəstəlikləri varmı?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
@@ -522,11 +522,11 @@ include './include/header.php';
                         </div>
                     </div>
                     
-                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <!---radio block- Şəkərli diabet varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                            <p>Şəkərli diabet varmı?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
@@ -540,11 +540,11 @@ include './include/header.php';
                         </div>
                     </div>
                     
-                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <!---radio block-Digər endokrinoloji xəstəliklər varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                            <p>Digər endokrinoloji xəstəliklər varmı?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
@@ -558,11 +558,12 @@ include './include/header.php';
                         </div>
                     </div>
                     
-                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <!---radio block- Xoş və ya bəd xassəli şişlər varmı?
+-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                            <p>Xoş və ya bəd xassəli şişlər varmı?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
@@ -576,11 +577,11 @@ include './include/header.php';
                         </div>
                     </div>
                     
-                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <!---radio block-Səhhətinizlə bağlı başqa probleminiz varmı?-->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                            <p>Səhhətinizlə bağlı başqa probleminiz varmı?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
@@ -594,11 +595,11 @@ include './include/header.php';
                         </div>
                     </div>
                     
-                    <!---radio block- Anadangəlmə və irsi xəstəliklər varmı?-->
+                    <!---radio block- Siz hal-hazırda və ya əvvəl sığortalı olmusunuzmu?--->
                     <div class="polis__count-form__input_element">
                         <!--input desc-->
                         <div class="polis_input_element_desc">
-                            <p>Anadangəlmə və irsi xəstəliklər varmı?</p>
+                            <p>Siz hal-hazırda və ya əvvəl sığortalı olmusunuzmu?</p>
                         </div>
                         <!---input data--->
                         <div class="polis_input_element_input">
