@@ -30,7 +30,7 @@
                     </div>
                     <div class="footer__block__info_block_elements">
 
-                        <a href="#">Klinikalarin, apteklərin və optiklərin siyahisi</a>
+                        <a href="#">Klinikalar, Apteklər və optikalar</a>
                         <a href="#">Dərmanlarin axtarişi</a>
                         <a href="#"> Xəbərlər </a>
                         <a href="./contact.php"> Əlaqə </a>
