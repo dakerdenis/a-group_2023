@@ -585,9 +585,13 @@ include './include/header.php';
                         </div>
                     </div>
 
-                    
-                    <!---sifaris et---->
 
+                    <!---sifaris et---->
+                    <div class="tibbi__order">
+                        <div class="tibbi__order__block">
+                            <a href="">Sifariş et</a>
+                        </div>
+                    </div>
 
                 </form>
             </div>
