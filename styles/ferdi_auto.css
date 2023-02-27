@@ -1,0 +1,11 @@
+.ferdi_auto_name{
+    position: relative;
+    margin-bottom: 50px;
+}
+.ferdi_auto_name .page_name_block2{
+    margin-left: 10px;
+}
+.ferdi_auto_name img{
+    position: absolute;
+    left: calc(50% - 210px);
+}

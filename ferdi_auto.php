@@ -26,6 +26,7 @@ include './include/header.php';
                  Sığortası
                 </div>
             </div>
+            <img src="./styles/imgs/vector_auto.svg" alt="">
         </div>
     </div>
 
