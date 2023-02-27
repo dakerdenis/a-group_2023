@@ -582,7 +582,7 @@ include './include/header.php';
                     <!---sifaris et---->
                     <div class="tibbi__order">
                         <div class="tibbi__order__block">
-                            <a href=""></a>
+                            <a href="">Sifariş et</a>
                         </div>
                     </div>
 
