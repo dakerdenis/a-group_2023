@@ -43,7 +43,7 @@
                             </div>
                             <!----------------------------->
                             <div class="dropdown__element">
-                                <a href="#" class="dropdown__element__wrapper">
+                                <a href="./ferdi_auto.php" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
                                         <img src="./styles/imgs/car.svg" alt="">
