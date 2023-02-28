@@ -185,10 +185,34 @@ color: rgba(87, 86, 86, 1);
 .ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(3){
     background: linear-gradient(180deg, #A5CDD4 0%, #DEEBEE 100%);
 }
+.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(3) .ferdi__auto__images__name{
+    text-transform: uppercase;
+}
 .ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(4){
     background: linear-gradient(180deg, #FFF3E5 0%, #FFFBF7 100%);
 }
 .ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(4) .ferdi__auto__images__more a{
     background: #FFF4E6;
+}
+
+
+.ferdi__auto__additional_desc p:nth-child(1){
+    font-family: "Roboto", sans-serif;
+font-size: 20px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+color:  rgba(188, 26, 26, 1);
+}
+.ferdi__auto__additional_desc p:nth-child(2){
+    display: block;
+    font-family: "Roboto", sans-serif;
+font-size: 20px;
+font-weight: 300;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(87, 86, 86, 1);
 
 }
