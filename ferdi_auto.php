@@ -40,8 +40,8 @@ include './include/header.php';
             <!---ferdi avto text---->
             <div class="ferdi__auto__desc_text">
                 <p> KASKO - avtomobil sığortasının ən populyar və actual növlərindən biridir.</p>
-               <p> A-Qroup aşağıdakı hallarda sığortalanmış avtomobilin və ya onun ayrı-ayrı detallarının,
-                hissələrinin zədələnməsi, tam məhvi v ə ya itkisi nəticəsində yaranmış ziyanı ödəməyə təminat verir:</p>
+                <p> A-Qroup aşağıdakı hallarda sığortalanmış avtomobilin və ya onun ayrı-ayrı detallarının,
+                    hissələrinin zədələnməsi, tam məhvi v ə ya itkisi nəticəsində yaranmış ziyanı ödəməyə təminat verir:</p>
             </div>
 
             <div class="ferdi__auto__desc_text">
@@ -51,9 +51,9 @@ include './include/header.php';
                 <p>Təbii fəlakətlər</p>
                 <p>Nəqliyyat vasitəsinin qaçırılması, qaçırılma vaxtı baş verən zədələr və üçüncü şəxslərin digər qeyri qanuni hərəkətləri</p>
                 <p>Daşların, əşyaların, uçan aparatların düşməsi və digər bədbəxt hadisələr</p>
-            </div>            
-            
-        
+            </div>
+
+
 
             <!---ferdi avto name---->
             <div class="ferdi__auto__desc_name">
@@ -76,7 +76,7 @@ include './include/header.php';
                 <p>Təklif olunan servis mərkəzlərində yüksək keyfiyyətin mövcudluğu</p>
             </div>
 
-            <div class="ferdi__auto__images">                
+            <div class="ferdi__auto__images">
                 <div class="ferdi__auto__images__wrapper">
 
                     <div class="ferdi__auto__images__element">
@@ -88,9 +88,13 @@ include './include/header.php';
                             <p>GÖYDƏNDÜŞMƏ</p>
                         </div>
 
-                        <div class="ferdi_auto__images__desc">
-                            <p>Avtomobilin dəyərinin İldə cəmi 1%-ni ödəməklə A-Qroup Sığorta Şirkətinin müştəriləri öz nəqliyyat vasitələrini onların günahından baş verməyən bütün hadisələrdən qoruya bilərlər: 
-yol-nəqliyyat-hadisələri, atılmış və ya düşmüş əşya nəticəsində zədələr, ücüncü şəxsin qeyri-qanuni hərəkəti, oğurluq, qacirma və başqa gözlənilməyən hadisələr.</p>
+                        <div class="ferdi__auto__images__desc">
+                            <p>Avtomobilin dəyərinin İldə cəmi 1%-ni ödəməklə A-Qroup Sığorta Şirkətinin müştəriləri öz nəqliyyat vasitələrini onların günahından baş verməyən bütün hadisələrdən qoruya bilərlər:
+                                yol-nəqliyyat-hadisələri, atılmış və ya düşmüş əşya nəticəsində zədələr, ücüncü şəxsin qeyri-qanuni hərəkəti, oğurluq, qacirma və başqa gözlənilməyən hadisələr.</p>
+                        </div>
+
+                        <div class="ferdi__auto__images__more">
+                            <a href="#">DAHA ÇOX</a>
                         </div>
 
                     </div>
