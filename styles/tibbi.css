@@ -10,7 +10,7 @@
 }
 .medical_tibbi__page_name img {
   position: absolute;
-  left: calc(50% - 215px);
+  left: calc(50% - 145px);
   transform: scale(0.4);
   top: 43px;
 }
@@ -70,6 +70,18 @@
   align-items: center;
   justify-content: center;
   height: 283px;
+  flex-direction: column;
+}
+.medical__element__image p {
+  font-family: "Oswald", sans-serif;
+color: rgba(87, 86, 86, 1);
+font-size: 32px;
+font-weight: 500;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: left;
+text-transform: uppercase;
+margin-top: 10px;
 }
 .medical__element__image img {
   height: 171px;
@@ -90,6 +102,9 @@
   overflow: hidden;
   
 }
+ .article_aile_name{
+  font-weight: 500;
+}
 .article2 {
     height: 240px;
     overflow: hidden;
@@ -102,6 +117,9 @@
   }
 .page_name_block_tibbi{
   margin: 0;
+}
+.page_name_block_tibbi1{
+  font-weight: 300;
 }
 .medical__element__link {
   position: relative;
@@ -123,8 +141,8 @@
   left: 26%;
   font-family: "Roboto", sans-serif;
   font-size: 13px;
-  font-weight: 700;
-  line-height: 22px;
+  font-weight: 400;
+  line-height: 17px;
   letter-spacing: 0em;
   text-align: center;
   
@@ -143,7 +161,7 @@
   line-height: 22px;
   letter-spacing: 0em;
   text-align: left;
-  color: rgba(87, 86, 86, 1);
+  color: rgba(255, 255, 255, 1);
 
   width: 105px;
   height: 30px;
@@ -164,7 +182,7 @@
     line-height: 22px;
     letter-spacing: 0em;
     text-align: left;
-    color: rgba(87, 86, 86, 1);
+    color: rgba(255, 255, 255, 1);
   
     width: 105px;
     height: 30px;
@@ -186,7 +204,7 @@
     line-height: 22px;
     letter-spacing: 0em;
     text-align: left;
-    color: rgba(87, 86, 86, 1);
+    color: rgba(255, 255, 255, 1);
   
     width: 105px;
     height: 30px;

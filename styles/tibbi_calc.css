@@ -17,6 +17,7 @@
 }
 .page_name_block1 p:nth-child(1) {
   color: rgba(188, 26, 26, 1);
+  font-weight: 300;
 }
 
 .page__name_wrapper {

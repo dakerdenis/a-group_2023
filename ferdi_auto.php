@@ -19,10 +19,13 @@ include './include/header.php';
 
         <div class="ferdi_auto_name">
             <div class="page__name_wrapper">
-                <div class="page_name_block1">
-                    Avtomobil
+                <div class="page_name_block1 page_name_block1_auto">
+                    Fərdi
                 </div>
                 <div class="page_name_block2">
+                Avtomobil &nbsp;
+                </div>
+                <div class="page_name_block3">
                     Sığortası
                 </div>
             </div>
