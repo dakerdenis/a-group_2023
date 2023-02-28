@@ -130,36 +130,38 @@ include './include/header.php';
                             <!------>
                             <span id="dots2"></span>
                             <!------>
-                            <p>Özəl</p>
-                            <p>Tibbi sığorta artıq əlçatan oldu. Hər AILƏ üzvünə görə 333 AZN-dən başlayan sığorta haqqı ödəməklə
-                                Siz öz doğmalarınızı əhəmiyyətli maliyyə xərclərindən qorumuş və xəstəliyin aşkar olunduğu halda sağalmanın
-                                şansını artırmış olursunuz. Bu proqram AILƏ üzvləri 3 nəfər və daha çox olan ailələr üçün nəzərdə tutulub.
-                                Hər sığortalı AILƏ üzvü üçün 10,000 AZN (illik) sığorta təminatı.</p>
-                            <p>✓ Təcili tibbi yardım</p>
-                            <p>✓ Ambulator müalicə</p>
-                            <p>✓ Stasionar müalicə + Cərrahi əməliyyat</p>
-                            <p>✓ Təcili və planlı stomatologiya</p>
-                            <p>✓ Medikamentoz təchizat</p>
-                            <p>✓ Təcili vaksinasiya və qrip əleyhinə vaksinasiya</p>
-                            <p>✓ Fizioterapiya və tibbi massaj prosedurları</p>
-                            <p>✓ “A-Qroup Mobile Concierge” mobil tətbiqində bircə SOS düyməsini basmaqla
-                                sığorta şirkəti ilə təcili əlaqə ilə təmin olunursunuz.
-                                Bir düyməni basmağınız kifayət edir ki, A-Qroup-un çağrı mərkəzinin operatorları
-                                Sizin köməyə ehtiyyacınızın olduğunu, Sizin geolokasiyanızı görsün və MediClub-ın həkim briqadasını dərhal yanınıza göndərsin</p>
-                            <p>✓ Sualların operativ həlli üçün müasir çağrı mərkəzi (24/7)</p>
-                            <p>✓ Fərdi sığorta ilə müqayisədə 25%-ə qədər qənaət</p>
-                            <p>✓ AILƏ proqramının alışı zamanı hissəli ödəniş imkanı</p>
-                            <p>✓ Xəstəlikləri ilkin mərhələdə aşkar edən Check-Up:</p>
-                            <p>• Terapevtin müayinəsi</p>
-                            <p>• Qan və sidiyin ümumi analizi</p>
-                            <p>• EKQ • Qarın boşluğu USM</p>
-                            <p>• Döş qəfəsinin rentqen müayinəsi</p>
-                            <p>• Şəkər və xolesterinin analizi (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin etmək məqsədi ilə)</p>
-                            <p>• Hepatit B və C müayinəsi</p>
-                            <p>• Ən çox yayılan xərçəng xəstəliklərini aşkar edən laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
-                            <p>İSTİSNALAR </p>
+                            <p>Bu Sığortalıların istəklərini nəzərə alınmaqla sığorta proqramı yaratmaq üçün bir fürsətdir.
+                                «ÖZƏL» sığorta haqqı 15 000 manata çatan polis hər ikisi korporativ və fərdi müştərilər üçün nəzərdə tutulmuşdur.
+                                «ÖZƏL» proqramında tibbi xidmətlərin göstərilməsi və ödənişlərin həyata keçirilməsi qaydaları mümkün qədər
+                                sadələşdirilmişdir.</p>
 
-                            <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
+                            <br>
+                            <p>"ÖZƏL" PROQRAMI:</p>
+                            <p>• 15,000 AZN (illik) sığorta təminatı</p>
+                            <p>• Təcili tibbi yardım</p>
+                            <p>• Ambulator müalicə</p>
+                            <p>• Stasionar müalicə</p>
+                            <p>• Təcili və planlı stomatologiya</p>
+                            <p>• Medikamentoz təchizat</p>
+                            <p>• Təcili vaksinasiya və qrip əleyhinə vaksinasiya</p>
+                            <p>• Fizioterapiya və tibbi massaj prosedurları</p>
+                            <br>
+
+                            <p>Və xəstəlikləri ilkin mərhələdə aşkar edən PULSUZ Check-Up:</p>
+
+                            <p>•  Terapevtin müayinəsi</p>
+                           <p> • Qan və sidiyin ümumi analizi  </p>
+                           <p> • EKQ </p>
+                           <p> • Döş qəfəsinin rentqen müayinəsi </p>
+                           <p> • Qarın boşluğu USM </p> 
+                           <p> • Şəkər və xolesterinin analizi
+                             (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin
+                              etmək məqsədi ilə)</p>
+                           <p> • Hepatit B və C müayinəsi</p>
+                           <p> • Ən çox yayılan xərçəng xəstəliklərini aşkar edən
+                             laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
+
+                            
                             <div class="medical__element__link">
                                 <a href="./tibbi_ozel.php">
                                     <p>POLİS QİYMƏTİNİ </p>
