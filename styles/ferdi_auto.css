@@ -1,14 +1,66 @@
-.ferdi__auto{
-    padding-top: 120px;
+.ferdi__auto {
+  padding-top: 120px;
 }
-.ferdi_auto_name{
-    position: relative;
-    margin-bottom: 50px;
+.ferdi_auto_name {
+  position: relative;
+  margin-bottom: 50px;
 }
-.ferdi_auto_name .page_name_block2{
-    margin-left: 10px;
+.ferdi_auto_name .page_name_block2 {
+  margin-left: 10px;
 }
-.ferdi_auto_name img{
-    position: absolute;
-    left: calc(50% - 210px);
+.ferdi_auto_name img {
+  position: absolute;
+  left: calc(50% - 210px);
+}
+.ferdi__auto__desc_container {
+  width: 100%;
+  text-align: center;
+}
+.ferdi__auto__desc_name {
+  width: 100%;
+  text-align: center;
+}
+.ferdi__auto__desc_name p {
+  display: block;
+}
+.ferdi__auto__desc_name p span {
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 47px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(188, 26, 26, 1);
+}
+.ferdi__auto__desc_name p  {
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(87, 86, 86, 1);
+  }
+.ferdi__auto__desc_name_color p span{
+    color: rgba(0, 156, 166, 1);
+}
+
+
+.ferdi__auto__desc_text {
+}
+.ferdi__auto__desc_container {
+}
+.ferdi__auto__images {
+}
+.ferdi__auto__images__wrapper {
+}
+.ferdi__auto__images__element {
+}
+.ferdi_auto__images__image {
+}
+.ferdi__auto__images__name {
+}
+.ferdi__auto__images__desc {
+}
+.ferdi__auto__images__more {
 }

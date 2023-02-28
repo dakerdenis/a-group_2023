@@ -34,9 +34,10 @@ include './include/header.php';
             <div class="ferdi__auto__desc_name">
                 <p>
                     <span> KASKO - </span>
-                    Asan və Sərfəli !
+                Asan və Sərfəli !
                 </p>
             </div>
+
             <!---ferdi avto text---->
             <div class="ferdi__auto__desc_text">
                 <div class="ferdi__auto__desc_container">
@@ -62,7 +63,7 @@ include './include/header.php';
             <!---ferdi avto name---->
             <div class="ferdi__auto__desc_name">
                 <p>
-                    <span> KASKO - </span>
+                    <span> KASKO  </span>
                     üstünlükləri !
                 </p>
             </div>
