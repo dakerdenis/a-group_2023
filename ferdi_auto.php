@@ -40,17 +40,25 @@ include './include/header.php';
             <!---ferdi avto text---->
             <div class="ferdi__auto__desc_text">
                 <p> KASKO - avtomobil sığortasının ən populyar və actual növlərindən biridir.</p>
-                A-Qroup aşağıdakı hallarda sığortalanmış avtomobilin və ya onun ayrı-ayrı detallarının,
-                hissələrinin zədələnməsi, tam məhvi v ə ya itkisi nəticəsində yaranmış ziyanı ödəməyə təminat verir:
+               <p> A-Qroup aşağıdakı hallarda sığortalanmış avtomobilin və ya onun ayrı-ayrı detallarının,
+                hissələrinin zədələnməsi, tam məhvi v ə ya itkisi nəticəsində yaranmış ziyanı ödəməyə təminat verir:</p>
+            </div>
+
+            <div class="ferdi__auto__desc_text">
+                <p>Qəza (toqquşma, qarşılaşma zədəsi, çevrilmə, yuvarlanma)</p>
+                <p>Yanğın, öz-özünə alışma</p>
+                <p>Şüşələrin sınması</p>
+                <p>Təbii fəlakətlər</p>
+                <p>Nəqliyyat vasitəsinin qaçırılması, qaçırılma vaxtı baş verən zədələr və üçüncü şəxslərin digər qeyri qanuni hərəkətləri</p>
+                <p>Daşların, əşyaların, uçan aparatların düşməsi və digər bədbəxt hadisələr</p>
             </div>
 
 
-            Qəza (toqquşma, qarşılaşma zədəsi, çevrilmə, yuvarlanma)
-            Yanğın, öz-özünə alışma
-            Şüşələrin sınması
-            Təbii fəlakətlər
-            Nəqliyyat vasitəsinin qaçırılması, qaçırılma vaxtı baş verən zədələr və üçüncü şəxslərin digər qeyri qanuni hərəkətləri
-            Daşların, əşyaların, uçan aparatların düşməsi və digər bədbəxt hadisələr
+            
+            
+            
+        
+
             <!---ferdi avto name---->
             <div class="ferdi__auto__desc_name">
                 <p>
