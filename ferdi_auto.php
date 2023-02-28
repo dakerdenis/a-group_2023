@@ -29,7 +29,7 @@ include './include/header.php';
             <img src="./styles/imgs/vector_auto.svg" alt="">
         </div>
 
-        <div class="ferdi__auto__desc_container">
+        <div class="ferdi__auto__desc_container_main">
             <!---ferdi avto name---->
             <div class="ferdi__auto__desc_name">
                 <p>
@@ -39,8 +39,8 @@ include './include/header.php';
             </div>
 
             <!---ferdi avto text---->
-            <div class="ferdi__auto__desc_text">
-                <div class="ferdi__auto__desc_container">
+            <div class="ferdi__auto__desc_text_center">
+                <div class="ferdi__auto__desc_text_center_container">
                     <p> KASKO - avtomobil sığortasının ən populyar və actual növlərindən biridir.</p>
                     <p> A-Qroup aşağıdakı hallarda sığortalanmış avtomobilin və ya onun ayrı-ayrı detallarının,
                         hissələrinin zədələnməsi, tam məhvi v ə ya itkisi nəticəsində yaranmış ziyanı ödəməyə təminat verir:</p>
@@ -61,7 +61,7 @@ include './include/header.php';
 
 
             <!---ferdi avto name---->
-            <div class="ferdi__auto__desc_name">
+            <div class="ferdi__auto__desc_name ferdi__auto__desc_name_color">
                 <p>
                     <span> KASKO  </span>
                     üstünlükləri !

@@ -12,13 +12,14 @@
   position: absolute;
   left: calc(50% - 210px);
 }
-.ferdi__auto__desc_container {
+.ferdi__auto__desc_container_main {
   width: 100%;
   text-align: center;
 }
 .ferdi__auto__desc_name {
   width: 100%;
   text-align: center;
+  margin-bottom: 20px;
 }
 .ferdi__auto__desc_name p {
   display: block;
@@ -32,23 +33,62 @@
   text-align: center;
   color: rgba(188, 26, 26, 1);
 }
-.ferdi__auto__desc_name p  {
-    font-family: "Roboto", sans-serif;
-    font-size: 32px;
-    font-weight: 300;
-    line-height: 47px;
-    letter-spacing: 0em;
-    text-align: center;
-    color: rgba(87, 86, 86, 1);
-  }
-.ferdi__auto__desc_name_color p span{
-    color: rgba(0, 156, 166, 1);
+.ferdi__auto__desc_name p {
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 47px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(87, 86, 86, 1);
 }
-
+.ferdi__auto__desc_name_color p span {
+  color: rgba(0, 156, 166, 1);
+}
 
 .ferdi__auto__desc_text {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: center;
 }
 .ferdi__auto__desc_container {
+    max-width: 920px;
+    margin: 0 auto;
+    text-align: left;
+    padding-left: 60px;
+}
+.ferdi__auto__desc_text_center{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    max-width: 920px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+
+.ferdi__auto__desc_text_center_container p:first-child{
+    margin-bottom: 20px;
+}
+.ferdi__auto__desc_container  p:before {
+    content: "";
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background-color: rgba(87, 86, 86, 1);
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+.ferdi__auto__desc_container p {
+    margin-bottom: 15px;
 }
 .ferdi__auto__images {
 }
