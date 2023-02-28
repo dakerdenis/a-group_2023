@@ -15,6 +15,7 @@
 .ferdi__auto__desc_container_main {
   width: 100%;
   text-align: center;
+  padding-bottom: 30px;
 }
 .ferdi__auto__desc_name {
   width: 100%;
@@ -195,6 +196,10 @@ color: rgba(87, 86, 86, 1);
     background: #FFF4E6;
 }
 
+.ferdi__auto__additional_desc{
+    max-width: 840px;
+    margin: 0 auto;
+}
 
 .ferdi__auto__additional_desc p:nth-child(1){
     font-family: "Roboto", sans-serif;
@@ -204,6 +209,7 @@ line-height: 22px;
 letter-spacing: 0em;
 text-align: center;
 color:  rgba(188, 26, 26, 1);
+margin-top: 30px;
 }
 .ferdi__auto__additional_desc p:nth-child(2){
     display: block;
@@ -215,4 +221,36 @@ letter-spacing: 0em;
 text-align: center;
 color: rgba(87, 86, 86, 1);
 
+
+margin-top: 30px;
+}
+.ferdi__auto__additional_desc p:nth-child(3){
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+font-size: 20px;
+font-weight: 300;
+line-height: 23px;
+letter-spacing: 0em;
+margin-top: 20px;
+color: rgba(87, 86, 86, 1);
+}
+.ferdi__auto__additional_desc p:nth-child(4){
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 23px;
+    letter-spacing: 0em;
+    margin-top: 10px;
+    color: rgba(87, 86, 86, 1);
+}
+.ferdi__auto__additional_desc p:nth-child(5){
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 23px;
+    letter-spacing: 0em;
+    margin-top: 10px;
+    color: rgba(87, 86, 86, 1);
 }

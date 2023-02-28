@@ -180,9 +180,9 @@ include './include/header.php';
             <div class="ferdi__auto__additional_desc">
                 <p>ÜÇÜNCÜ ŞƏXSLƏR QARŞISINDA MÜLKİ MƏSULİYYƏTİN SIĞORTASI</p>
 
-    <p>
-    Bu sığorta növünün predmeti Sığortalının nəqliyyat vasitəsindən istifadə etdiyi zaman, üçüncü şəxslərin həyatına, səhhətinə və əmlakına vurduğu ziyana görə mülki məsuliyyətidir. Bu sığorta növünün şərtlərinə görə aşağıdakılar ödənilir:
-    </p>
+                <p>
+                    Bu sığorta növünün predmeti Sığortalının nəqliyyat vasitəsindən istifadə etdiyi zaman, üçüncü şəxslərin həyatına, səhhətinə və əmlakına vurduğu ziyana görə mülki məsuliyyətidir. Bu sığorta növünün şərtlərinə görə aşağıdakılar ödənilir:
+                </p>
                 <p> • Əmlakın məhvi və ya zədələnməsi nəticəsində vurulmuş birbaşa həqiqi ziyan</p>
                 <p>• Üçüncü şəxslərin həyat və səhhətinə vurulmuş zərərin gətirdiyi ziyan</p>
                 <p> • Tibbi xərclər</p>
