@@ -76,6 +76,28 @@ include './include/header.php';
                 <p>Təklif olunan servis mərkəzlərində yüksək keyfiyyətin mövcudluğu</p>
             </div>
 
+            <div class="ferdi__auto__images">                
+                <div class="ferdi__auto__images__wrapper">
+
+                    <div class="ferdi__auto__images__element">
+                        <div class="ferdi_auto__images__image">
+                            <img src="./styles/imgs/ferdi_auto.png" alt="">
+                        </div>
+
+                        <div class="ferdi__auto__images__name">
+                            <p>GÖYDƏNDÜŞMƏ</p>
+                        </div>
+
+                        <div class="ferdi_auto__images__desc">
+                            <p>Avtomobilin dəyərinin İldə cəmi 1%-ni ödəməklə A-Qroup Sığorta Şirkətinin müştəriləri öz nəqliyyat vasitələrini onların günahından baş verməyən bütün hadisələrdən qoruya bilərlər: 
+yol-nəqliyyat-hadisələri, atılmış və ya düşmüş əşya nəticəsində zədələr, ücüncü şəxsin qeyri-qanuni hərəkəti, oğurluq, qacirma və başqa gözlənilməyən hadisələr.</p>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
         </div>
     </div>
 
