@@ -114,6 +114,8 @@
 }
 .ferdi__auto__images {
     width: 100%;
+    margin-top: 30px;
+    margin-bottom: 70px;
 }
 .ferdi__auto__images__wrapper {
     max-width: 1280px;
@@ -154,9 +156,11 @@ text-align: left;
 margin-top: 23px;
 }
 .ferdi__auto__images__more {
-    width: 100%;
+
     position: absolute;
     bottom: 13px;
+    text-align: right;
+    right: 8px;
 }
 .ferdi__auto__images__more a {
     display: block;
@@ -169,9 +173,22 @@ border-radius: 10px;
 font-family: "Roboto", sans-serif;
 font-size: 14px;
 font-weight: 500;
-line-height: 22px;
+line-height: 30px;
 letter-spacing: 0em;
 text-align: center;
 color: rgba(87, 86, 86, 1);
+
+}
+.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(2){
+    background: linear-gradient(180deg, #ECD8B3 0%, #F8EFE0 100%);
+}
+.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(3){
+    background: linear-gradient(180deg, #A5CDD4 0%, #DEEBEE 100%);
+}
+.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(4){
+    background: linear-gradient(180deg, #FFF3E5 0%, #FFFBF7 100%);
+}
+.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(4) .ferdi__auto__images__more a{
+    background: #FFF4E6;
 
 }

@@ -34,7 +34,7 @@ include './include/header.php';
             <div class="ferdi__auto__desc_name">
                 <p>
                     <span> KASKO - </span>
-                Asan və Sərfəli !
+                    Asan və Sərfəli !
                 </p>
             </div>
 
@@ -64,7 +64,7 @@ include './include/header.php';
             <!---ferdi avto name---->
             <div class="ferdi__auto__desc_name ferdi__auto__desc_name_color">
                 <p>
-                    <span> KASKO  </span>
+                    <span> KASKO </span>
                     üstünlüklərİ !
                 </p>
             </div>
@@ -108,10 +108,84 @@ include './include/header.php';
 
 
 
+                    <div class="ferdi__auto__images__element">
+                        <div class="ferdi_auto__images__image">
+                            <img src="./styles/imgs/ferdi_auto.png" alt="">
+                        </div>
+                        <div class="ferdi__auto__images__name">
+                            <p>TAKSİ XİDMƏTİ</p>
+                        </div>
+                        <div class="ferdi__auto__images__desc">
+                            <p>YNH-si nəticəsində nəqliyyat vasitənizin servisdə təmiri zamanı A-Qroup Sizi TAKSİ XİDMƏTİ ilə təmin edir.</p>
+                        </div>
+
+                    </div>
 
 
+
+                    <div class="ferdi__auto__images__element">
+                        <div class="ferdi_auto__images__image">
+                            <img src="./styles/imgs/ferdi_auto.png" alt="">
+                        </div>
+                        <div class="ferdi__auto__images__name">
+                            <p>möhtəşən FİTNES
+                                mərkəzlərində endİrİm</p>
+                        </div>
+                        <div class="ferdi__auto__images__desc">
+                            <p>A-Qroup-dan KASKO əldə etməklə Hyatt Regency, Port Baku, Boulevard Hotel, Fairmont Hotel kimi otellərdə olan ən möhtəşən FİTNES mərkəzlərinin illik abunə haqlarına
+                                45%-dək ENDİRİM əldə etmək mümkündür.</p>
+                        </div>
+
+                    </div>
+
+
+                    <div class="ferdi__auto__images__element">
+                        <div class="ferdi_auto__images__image">
+                            <img src="./styles/imgs/ferdi_auto.png" alt="">
+                        </div>
+                        <div class="ferdi__auto__images__name">
+                            <p>RADİUS-dan ENDİRİM
+                                YIĞIM KARTINI</p>
+                        </div>
+                        <div class="ferdi__auto__images__desc">
+                            <p>
+                                A-Qroup-dan 15% ENDİRİM
+                                A-Qroup-dan KASKO aldıqda Siz RADİUS təkər mərkəzindən hədiyyə olaraq ENDİRİM-YIĞIM KARTINI qazanırsınız. 15% ENDİRİM aşağıda qeyd olunan xidmətlərdən: <br>
+                                1.Yoxlanma <br>
+                                2.Şinlərin montajı <br>
+                                3.Razval <br>
+                                4.Şinlərin təmiri <br>
+                                5.Şin oteli <br>
+
+                            </p>
+                        </div>
+                        <div class="ferdi__auto__images__more">
+                            <a href="#">
+                                <p>DAHA ÇOX</p>
+                            </a>
+                        </div>
+
+                    </div>
 
                 </div>
+            </div>
+
+
+
+            <div class="ferdi__auto__additional_desc">
+                <p>SÜRÜCÜNÜN VƏ SƏRNİŞİNLƏRİN BƏDBƏXT HADİSƏLƏRDƏN SIĞORTASI</p>
+
+                <p>Bu sığorta növünə sığorta hadisəsi zamanı sürücünün və sərnişinlərin həyatına, sağlamlığına vurula bilən ziyanın ödənilməsi daxildir. Sığorta obyekti olaraq sığorta hadisəsi zamanı sığortalanmış nəqliyyat vasitəsində olan şəxslərin həyatı və sağlamlığı qəbul olunur. Göstərilən sığorta növünün şərtlərinə görə ödəniş tibbi xərclər üzrə edilir.</p>
+            </div>
+            <div class="ferdi__auto__additional_desc">
+                <p>ÜÇÜNCÜ ŞƏXSLƏR QARŞISINDA MÜLKİ MƏSULİYYƏTİN SIĞORTASI</p>
+
+    <p>
+    Bu sığorta növünün predmeti Sığortalının nəqliyyat vasitəsindən istifadə etdiyi zaman, üçüncü şəxslərin həyatına, səhhətinə və əmlakına vurduğu ziyana görə mülki məsuliyyətidir. Bu sığorta növünün şərtlərinə görə aşağıdakılar ödənilir:
+    </p>
+                <p> • Əmlakın məhvi və ya zədələnməsi nəticəsində vurulmuş birbaşa həqiqi ziyan</p>
+                <p>• Üçüncü şəxslərin həyat və səhhətinə vurulmuş zərərin gətirdiyi ziyan</p>
+                <p> • Tibbi xərclər</p>
             </div>
 
         </div>
