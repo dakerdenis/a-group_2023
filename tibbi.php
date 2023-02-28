@@ -149,19 +149,19 @@ include './include/header.php';
 
                             <p>Və xəstəlikləri ilkin mərhələdə aşkar edən PULSUZ Check-Up:</p>
 
-                            <p>•  Terapevtin müayinəsi</p>
-                           <p> • Qan və sidiyin ümumi analizi  </p>
-                           <p> • EKQ </p>
-                           <p> • Döş qəfəsinin rentqen müayinəsi </p>
-                           <p> • Qarın boşluğu USM </p> 
-                           <p> • Şəkər və xolesterinin analizi
-                             (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin
-                              etmək məqsədi ilə)</p>
-                           <p> • Hepatit B və C müayinəsi</p>
-                           <p> • Ən çox yayılan xərçəng xəstəliklərini aşkar edən
-                             laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
+                            <p>• Terapevtin müayinəsi</p>
+                            <p> • Qan və sidiyin ümumi analizi </p>
+                            <p> • EKQ </p>
+                            <p> • Döş qəfəsinin rentqen müayinəsi </p>
+                            <p> • Qarın boşluğu USM </p>
+                            <p> • Şəkər və xolesterinin analizi
+                                (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin
+                                etmək məqsədi ilə)</p>
+                            <p> • Hepatit B və C müayinəsi</p>
+                            <p> • Ən çox yayılan xərçəng xəstəliklərini aşkar edən
+                                laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
 
-                            
+
                             <div class="medical__element__link">
                                 <a href="./tibbi_ozel.php">
                                     <p>POLİS QİYMƏTİNİ </p>
@@ -192,37 +192,49 @@ include './include/header.php';
                             <!------>
                             <span id="dots3"></span>
                             <!------>
-                            <p>Hər bir ailəyə əlçatan sığorta!</p>
-                            <p>Tibbi sığorta artıq əlçatan oldu. Hər AILƏ üzvünə görə 333 AZN-dən başlayan sığorta haqqı ödəməklə
-                                Siz öz doğmalarınızı əhəmiyyətli maliyyə xərclərindən qorumuş və xəstəliyin aşkar olunduğu halda sağalmanın
-                                şansını artırmış olursunuz. Bu proqram AILƏ üzvləri 3 nəfər və daha çox olan ailələr üçün nəzərdə tutulub.
-                                Hər sığortalı AILƏ üzvü üçün 10,000 AZN (illik) sığorta təminatı.</p>
-                            <p>✓ Təcili tibbi yardım</p>
-                            <p>✓ Ambulator müalicə</p>
-                            <p>✓ Stasionar müalicə + Cərrahi əməliyyat</p>
-                            <p>✓ Təcili və planlı stomatologiya</p>
-                            <p>✓ Medikamentoz təchizat</p>
-                            <p>✓ Təcili vaksinasiya və qrip əleyhinə vaksinasiya</p>
-                            <p>✓ Fizioterapiya və tibbi massaj prosedurları</p>
-                            <p>✓ “A-Qroup Mobile Concierge” mobil tətbiqində bircə SOS düyməsini basmaqla
-                                sığorta şirkəti ilə təcili əlaqə ilə təmin olunursunuz.
-                                Bir düyməni basmağınız kifayət edir ki, A-Qroup-un çağrı mərkəzinin operatorları
-                                Sizin köməyə ehtiyyacınızın olduğunu, Sizin geolokasiyanızı görsün və MediClub-ın həkim briqadasını dərhal yanınıza göndərsin</p>
-                            <p>✓ Sualların operativ həlli üçün müasir çağrı mərkəzi (24/7)</p>
-                            <p>✓ Fərdi sığorta ilə müqayisədə 25%-ə qədər qənaət</p>
-                            <p>✓ AILƏ proqramının alışı zamanı hissəli ödəniş imkanı</p>
-                            <p>✓ Xəstəlikləri ilkin mərhələdə aşkar edən Check-Up:</p>
-                            <p>• Terapevtin müayinəsi</p>
-                            <p>• Qan və sidiyin ümumi analizi</p>
-                            <p>• EKQ • Qarın boşluğu USM</p>
-                            <p>• Döş qəfəsinin rentqen müayinəsi</p>
-                            <p>• Şəkər və xolesterinin analizi (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin etmək məqsədi ilə)</p>
-                            <p>• Hepatit B və C müayinəsi</p>
-                            <p>• Ən çox yayılan xərçəng xəstəliklərini aşkar edən laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
-                            <p>İSTİSNALAR </p>
+                            <p>«FƏRQLI» dəbdəbəli tibbi sığorta proqramı - eksklüziv bir tibb sistemidir.</p>
+                            <p>Onun mahiyyəti Sığortalının sağlamlığını qorumaq və gücləndirmək üçün fərdi yanaşmasıdır. O müəyyən xəstəliklərin
+                                müalicəsi və müəyyən xidmətlər göstərməklə məhdudlaşmır, Sığortalıların sağlamlığına hərtərəfli qayğı göstərir.
+                                Sığorta haqqı 3000 manata çatan polis hər ikisi korporativ və fərdi müştərilər üçün nəzərdə tutulmuşdur.
+                                “Fərqli” sığorta proqramı 100 000 ABŞ dollar məsuliyyətində tibbi xidmətlərin təminatını əhatə edir.</p>
+                            <!-------------------------------------------->
+                            <br>
+                            <p>"«FƏRQLI»" PROQRAMI:</p>
+                            <p>• 100,000 USD sığorta təminatı</p>
+                            <p>• Təcili tibbi yardım </p>
+                            <p>• Tibbi evakuasiya </p>
+                            <p>• Ambulator müalicə </p>
+                            <p>• Stasionar müalicə </p>
+                            <p>• Təcili və planlı stomatologiya </p>
+                            <p>• Medikamentoz təchizat </p>
+                            <p>• Təcili və planlı vaksinasiya (qrip əleyhinə vaksinasiya) </p>
+                            <p>• Xaricdə planlaşdırılan müayinə </p>
+                            <p>• Xaricdə ortaya çıxan gözlənilməz xəstəliklərin müalicəsi </p>
+                            <p>• Bədbəxt hadisələrdən sığortalanma (ölüm və yaxud əlillik hallarında kompensasiya) </p>
 
-                            <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
-
+                            <!------------------------>
+                            <br>
+                            <p>«FƏRQLI» SIĞORTA PROQRAMININ ÜSTÜNLÜKLƏRİ:</p>
+                            <p>• Yalnız ən yaxşı klinikalarda müalicə</p>
+                            <p>• Yüksək komfortlu palatalar</p>
+                            <p>• Plomb sayı məhdudiyyəti olmadan terapevtik stomatologiya</p>
+                            <p>• İldə 2 dəfə dişlərin planlı təmizlənməsi</p>
+                            <p>• B və C hepatitlərinin müalicəsi</p>
+                            <p>• Bədxassəli və qan xəstəliklərinin müalicəsi</p>
+                            <p>• Diabetin, damarların varikoz genəlməsinin müalicəsi</p>
+                            <p>• Qanın efferent metodlarla təmizlənməsinin tətbiqi</p>
+                            <p>• Dərmanların evə çatdırılması</p>
+                            <p>• Həkimlərin ev şəraitində müayinəsi</p>
+                            <p>• Müalicəvi masaj</p>
+                            <p>• Fizioterapiyaya limitin olmaması</p>
+                            <p>• Refraksiya pozğunluqlarının cərrahi müalicəsi</p>
+                            <p>• Tibbi göstərişlə eynək çərçivələri</p>
+                            <p>• Xarici ölkələrdə tibbi müayinə</p>
+                            <p>• Yalnız 5 milyon $ məbləğində professional sığortası olan həkimlər tərəfindən müalicə</p>
+                            <p>• Bədbəxt hadisələrdən sığortalanma</p>
+                            <p>• Xarici ölkələrə səfər edənlərin illik sığortası</p>
+                            <p>• Qısaldılmış istisnalar siyahısı</p>
+                            <p>• İndividual elektron sağlamlıq kartı</p>
 
                         </article>
                         <div class="medical__element__button_show_more">
@@ -244,36 +256,21 @@ include './include/header.php';
                     <!---medical element content--->
                     <div class="medical__element__content">
                         <article class="article3" id="article3">
-                            <p>Hər bir ailəyə əlçatan sığorta!</p>
-                            <p>Tibbi sığorta artıq əlçatan oldu. Hər AILƏ üzvünə görə 333 AZN-dən başlayan sığorta haqqı ödəməklə
-                                Siz öz doğmalarınızı əhəmiyyətli maliyyə xərclərindən qorumuş və xəstəliyin aşkar olunduğu halda sağalmanın
-                                şansını artırmış olursunuz. Bu proqram AILƏ üzvləri 3 nəfər və daha çox olan ailələr üçün nəzərdə tutulub.
-                                Hər sığortalı AILƏ üzvü üçün 10,000 AZN (illik) sığorta təminatı.</p>
-                            <p>✓ Təcili tibbi yardım</p>
-                            <p>✓ Ambulator müalicə</p>
-                            <p>✓ Stasionar müalicə + Cərrahi əməliyyat</p>
-                            <p>✓ Təcili və planlı stomatologiya</p>
-                            <p>✓ Medikamentoz təchizat</p>
-                            <p>✓ Təcili vaksinasiya və qrip əleyhinə vaksinasiya</p>
-                            <p>✓ Fizioterapiya və tibbi massaj prosedurları</p>
-                            <p>✓ “A-Qroup Mobile Concierge” mobil tətbiqində bircə SOS düyməsini basmaqla
-                                sığorta şirkəti ilə təcili əlaqə ilə təmin olunursunuz.
-                                Bir düyməni basmağınız kifayət edir ki, A-Qroup-un çağrı mərkəzinin operatorları
-                                Sizin köməyə ehtiyyacınızın olduğunu, Sizin geolokasiyanızı görsün və MediClub-ın həkim briqadasını dərhal yanınıza göndərsin</p>
-                            <p>✓ Sualların operativ həlli üçün müasir çağrı mərkəzi (24/7)</p>
-                            <p>✓ Fərdi sığorta ilə müqayisədə 25%-ə qədər qənaət</p>
-                            <p>✓ AILƏ proqramının alışı zamanı hissəli ödəniş imkanı</p>
-                            <p>✓ Xəstəlikləri ilkin mərhələdə aşkar edən Check-Up:</p>
-                            <p>• Terapevtin müayinəsi</p>
-                            <p>• Qan və sidiyin ümumi analizi</p>
-                            <p>• EKQ • Qarın boşluğu USM</p>
-                            <p>• Döş qəfəsinin rentqen müayinəsi</p>
-                            <p>• Şəkər və xolesterinin analizi (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin etmək məqsədi ilə)</p>
-                            <p>• Hepatit B və C müayinəsi</p>
-                            <p>• Ən çox yayılan xərçəng xəstəliklərini aşkar edən laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
-                            <p>İSTİSNALAR </p>
-
-                            <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
+                            <p>
+                            A-Qroup öz müştərilərinə əlavə seçimlər daxil olan müxtəlif
+                             sığorta paketləri təklif edir vəfərqli fors-major vəziyyətlərdən 
+                             sığortalanma imkanı yaradır. «Fors-major» sığorta proqramı ən faydalı 
+                             polisdır. Bu paketin müsbət cəhəti onun qiymətidir – cəmi 80
+                              ABŞ dolları hansı ki 6.000 AZN məbləğində 
+                              tibbi təminat nəzərdə tutur.
+                            
+                            </p>
+                            <p>• Münasib qiymət- 80 ABŞ dolları</p>
+                           <p>• 24/7 Təcili Tibbi yardım</p>
+                           <p>• Təcili Cərrahi Müdaxilə</p>
+                           <p>• Təxirəsalınmaz Hospitalizasiya</p>
+                           <p>• Təcili stomatoloji yardım</p>
+                           <p>• Təcili Peyvənd</p>
                         </article>
                     </div>
 
