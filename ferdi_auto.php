@@ -45,6 +45,7 @@ include './include/header.php';
                     <p> A-Qroup aşağıdakı hallarda sığortalanmış avtomobilin və ya onun ayrı-ayrı detallarının,
                         hissələrinin zədələnməsi, tam məhvi v ə ya itkisi nəticəsində yaranmış ziyanı ödəməyə təminat verir:</p>
                 </div>
+                <img src="./styles/imgs/ferdi_auto_rect.svg" alt="">
             </div>
 
             <div class="ferdi__auto__desc_text">
@@ -64,7 +65,7 @@ include './include/header.php';
             <div class="ferdi__auto__desc_name ferdi__auto__desc_name_color">
                 <p>
                     <span> KASKO  </span>
-                    üstünlükləri !
+                    üstünlüklərİ !
                 </p>
             </div>
 
@@ -81,6 +82,7 @@ include './include/header.php';
                     <p>Hissə-hissə ödəmə imkanı</p>
                     <p>Təklif olunan servis mərkəzlərində yüksək keyfiyyətin mövcudluğu</p>
                 </div>
+                <img src="./styles/imgs/ferdi_auto_circle.svg" alt="">
             </div>
 
             <div class="ferdi__auto__images">
@@ -90,21 +92,24 @@ include './include/header.php';
                         <div class="ferdi_auto__images__image">
                             <img src="./styles/imgs/ferdi_auto.png" alt="">
                         </div>
-
                         <div class="ferdi__auto__images__name">
                             <p>GÖYDƏNDÜŞMƏ</p>
                         </div>
-
                         <div class="ferdi__auto__images__desc">
                             <p>Avtomobilin dəyərinin İldə cəmi 1%-ni ödəməklə A-Qroup Sığorta Şirkətinin müştəriləri öz nəqliyyat vasitələrini onların günahından baş verməyən bütün hadisələrdən qoruya bilərlər:
                                 yol-nəqliyyat-hadisələri, atılmış və ya düşmüş əşya nəticəsində zədələr, ücüncü şəxsin qeyri-qanuni hərəkəti, oğurluq, qacirma və başqa gözlənilməyən hadisələr.</p>
                         </div>
-
                         <div class="ferdi__auto__images__more">
-                            <a href="#">DAHA ÇOX</a>
+                            <a href="#">
+                                <p>DAHA ÇOX</p>
+                            </a>
                         </div>
-
                     </div>
+
+
+
+
+
 
                 </div>
             </div>

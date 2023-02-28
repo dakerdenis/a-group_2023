@@ -42,10 +42,15 @@
   text-align: center;
   color: rgba(87, 86, 86, 1);
 }
+.ferdi__auto__desc_name_color{
+    margin-top: 16px;
+}
 .ferdi__auto__desc_name_color p span {
   color: rgba(0, 156, 166, 1);
 }
-
+.ferdi__auto__desc_name_color p{
+    text-transform: uppercase;
+}
 .ferdi__auto__desc_text {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
@@ -53,6 +58,13 @@
   line-height: 23px;
   letter-spacing: 0em;
   text-align: center;
+  position: relative;
+}
+.ferdi__auto__desc_text img {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 .ferdi__auto__desc_container {
     max-width: 920px;
@@ -61,6 +73,10 @@
     padding-left: 60px;
 }
 .ferdi__auto__desc_text_center{
+    width: 100%;
+    position: relative;
+}
+.ferdi__auto__desc_text_center_container{
     text-align: center;
     font-family: "Roboto", sans-serif;
     font-size: 20px;
@@ -71,8 +87,14 @@
     max-width: 920px;
     margin: 0 auto;
     margin-bottom: 15px;
-}
 
+}
+.ferdi__auto__desc_text_center img {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 15%;
+}
 
 .ferdi__auto__desc_text_center_container p:first-child{
     margin-bottom: 20px;
@@ -91,16 +113,65 @@
     margin-bottom: 15px;
 }
 .ferdi__auto__images {
+    width: 100%;
 }
 .ferdi__auto__images__wrapper {
+    max-width: 1280px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    margin:  0 auto;
 }
 .ferdi__auto__images__element {
+    width: 290px;
+    height: 615px;
+    padding: 37px 8px;
+    background: linear-gradient(180deg, #DE937B 0%, #F2D6CA 100%);
+    color:  rgba(87, 86, 86, 1) ;
+    text-align: center;
+    position: relative;
 }
 .ferdi_auto__images__image {
 }
 .ferdi__auto__images__name {
+
+    font-family: Oswald;
+font-size: 32px;
+font-weight: 500;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 30px;
 }
 .ferdi__auto__images__desc {
+    font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 300;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 23px;
 }
 .ferdi__auto__images__more {
+    width: 100%;
+    position: absolute;
+    bottom: 13px;
+}
+.ferdi__auto__images__more a {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+width: 105px;
+background: #DF957D;
+border-radius: 10px;
+font-family: "Roboto", sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(87, 86, 86, 1);
+
 }
