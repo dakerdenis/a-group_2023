@@ -51,11 +51,7 @@ include './include/header.php';
                 <p>Təbii fəlakətlər</p>
                 <p>Nəqliyyat vasitəsinin qaçırılması, qaçırılma vaxtı baş verən zədələr və üçüncü şəxslərin digər qeyri qanuni hərəkətləri</p>
                 <p>Daşların, əşyaların, uçan aparatların düşməsi və digər bədbəxt hadisələr</p>
-            </div>
-
-
-            
-            
+            </div>            
             
         
 
@@ -66,6 +62,20 @@ include './include/header.php';
                     üstünlükləri !
                 </p>
             </div>
+
+            <div class="ferdi__auto__desc_text">
+                <p>Sərfəli qiymət</p>
+                <p>Müasir çağrı mərkəzi (24/7)</p>
+                <p>Sığorta hadisələrinin tənzimlənməsi üçün minimum şərtlər</p>
+                <p>Sizin günahınız olmadan baş verən hadisələrdə 0 AZN azadolma məbləği</p>
+                <p>“A-Qroup Mobile Concierge” mobil əlavədə SOS düyməsini basmaqla hadisə yerin qeolokasiyası və qəza komissarının dərhal hadisə yerinə çağırılması</p>
+                <p>DYP-də sənədləşmə</p>
+                <p>Sığorta hadisəsi zamanı MediClub-dan Təcili Tibbi yardım xidməti</p>
+                <p>Pulsuz evakuasiya xidməti</p>
+                <p>Hissə-hissə ödəmə imkanı</p>
+                <p>Təklif olunan servis mərkəzlərində yüksək keyfiyyətin mövcudluğu</p>
+            </div>
+
         </div>
     </div>
 
