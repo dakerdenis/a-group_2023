@@ -76,31 +76,30 @@ include './include/header.php';
                             <p>• Sualların operativ həlli üçün müasir çağrı mərkəzi (24/7)</p>
                             <p>• Fərdi sığorta ilə müqayisədə 25%-ə qədər qənaət</p>
                             <p>• Hissə-hissə ödəniş imkanı</p>
-
+                            <br>
                             <!----------------------------->
                             <p>Və xəstəlikləri ilkin mərhələdə aşkar edən PULSUZ Check-Up:</p>
                             <p>• Terapevtin müayinəsi</p>
                             <p>• Qan və sidiyin ümumi analizi</p>
                             <p>• EKQ</p>
                             <p>• Qarın boşluğu USM</p>
-                            • Döş qəfəsinin rentqen müayinəsi
-                            • Şəkər və xolesterinin analizi (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin etmək məqsədi ilə)
-                            • Hepatit B və C müayinəsi
-                            • Ən çox yayılan xərçəng xəstəliklərini aşkar edən laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)
-
-
-
-                            <p>✓ Xəstəlikləri ilkin mərhələdə aşkar edən Check-Up:</p>
-                            <p>• Terapevtin müayinəsi</p>
-                            <p>• Qan və sidiyin ümumi analizi</p>
-                            <p>• EKQ • Qarın boşluğu USM</p>
                             <p>• Döş qəfəsinin rentqen müayinəsi</p>
                             <p>• Şəkər və xolesterinin analizi (şəkər diabeti və ürək-damar xəstəliklərini ilkin mərhələdə təyin etmək məqsədi ilə)</p>
                             <p>• Hepatit B və C müayinəsi</p>
                             <p>• Ən çox yayılan xərçəng xəstəliklərini aşkar edən laborator analizlər (Prostat, yumurtalıqların və uşaqlığın xərçəngi)</p>
-                            <p>İSTİSNALAR </p>
 
-                            <p>Qeydlər: Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
+                            <br>
+                            <!------------------------->
+                            <p>AILƏ SIĞORTA PROQRAMININ ÜSTÜNLÜKLƏRİ:</p>
+                            <p>• Sualların operativ həlli üçün nəzərdə tutulmuş 24 saat məsləhətçi-dispetçer xidməti</p>
+                            <p>• Fərdi sığorta ilə müqayisədə 25%-ə qədər qənaət</p>
+                            <p>• “Ailə” proqramının alışı zamanı hissəli ödəniş imkanı verilir.</p>
+
+                            <!------------------------->
+                            <br>
+                            <p>İSTİSNALAR</p>
+                            <p>Son sığorta haqqı sığortalının yaşı və sağlamlıq vəziyyətinə uyğun doldurulmuş ANKET əsasında müəyyənləşdirilir
+                                “Ailə” proqramı sağlamlığa proqressiv yanaşmadır.</p>
                             <div class="medical__element__link">
                                 <a href="./tibbi_aile.php">
                                     <p>POLİS QİYMƏTİNİ </p>
