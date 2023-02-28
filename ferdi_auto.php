@@ -186,6 +186,12 @@ include './include/header.php';
                 <p> • Əmlakın məhvi və ya zədələnməsi nəticəsində vurulmuş birbaşa həqiqi ziyan</p>
                 <p>• Üçüncü şəxslərin həyat və səhhətinə vurulmuş zərərin gətirdiyi ziyan</p>
                 <p> • Tibbi xərclər</p>
+
+                <p >
+                        <a style="font-size: 30px; color: red;" href="./ferdi_auto_calc.php">
+                            временная ссылка на  fərdİ Avtomobil sığortanı hesabla
+                    </a>
+                </p>
             </div>
 
         </div>
