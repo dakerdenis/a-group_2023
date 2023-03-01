@@ -80,6 +80,7 @@ include './include/header.php';
             </div>
             <img src="./styles/imgs/ferdi_world.svg" alt="">
         </div>
+        
 
         <div class="ferdi__seyahet__content__additional">
             <p>A-QROUP Sığorta Şirkətinin şübhəsiz dəyərli göstəricilərindən biri də onun hər zaman Sizin yanınızda olmasıdır. Yer kürəsinin hətta ən uzaq nöqtəsində belə bizim Sığortalımız etibarlı əllərdədir!</p>
