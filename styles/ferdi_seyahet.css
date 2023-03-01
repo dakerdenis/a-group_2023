@@ -2,6 +2,7 @@
   padding-top: 140px;
   background-color: #009ca6;
   position: relative;
+  padding-bottom: 50px;
 }
 .ferdi_seyahet__page_name {
   color: #fff;
@@ -119,6 +120,22 @@
   line-height: 29px;
   letter-spacing: 0em;
   text-align: center;
+
+  margin-top: 49px;
 }
 .ferdi__seyahet__content__document {
+    margin: 0 auto;
+    width: 641px;
+    background-color: #ffffff;
+    padding: 9px 20px 13px  20px;
+    margin-top: 50px;
+}
+.ferdi__seyahet__content__document p {
+    font-family: "Roboto", sans-serif;
+font-size: 20px;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(87, 86, 86, 1);
 }
