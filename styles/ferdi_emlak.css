@@ -1,0 +1,48 @@
+.ferdi_emlak_container {
+    width: 100%;
+    padding-top: 120px;
+}
+.ferdi_emlak__page_name {
+}
+.ferdi_emlak__page_name img {
+    display: block;
+    position: absolute;
+    right: calc(50% - 73px);
+}
+.page__name_wrapper {
+}
+.page_name_block_emlak1 {
+    font-weight: 300;
+}
+
+.ferdi__emlak__name-desc {
+    margin-top: 25px;
+    width: 100%;
+    text-align: center;
+
+
+font-family: Roboto;
+font-size: 32px;
+font-weight: 300;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(0, 156, 166, 1);
+}
+.ferdi__emlak__name-desc span{
+
+}
+.ferdi__emlak__name-text {
+}
+.ferdi__emlak__content-container {
+}
+.ferdi__emlak__content_2block {
+}
+.ferdi__emlak__content__element {
+}
+.ferdi__emlak__element_name {
+}
+.ferdi__emlak__element__line {
+}
+.ferdi__emlak__element__text {
+}
