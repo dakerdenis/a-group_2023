@@ -17,10 +17,28 @@
 
 }
 .ferdi__seyahet__content__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1082px;
 }
 .ferdi__seyahet__content__element {
+    width: 564px;
+    height: 521px;
+background-color: #EFF5F7;
+
 }
+.ferdi__seyahet__content__element1{}
+.ferdi__seyahet__content__element2{}
 .ferdi__seyahet__content__element__text {
+    font-family: "Roboto", sans-serif;
+font-size: 20px;
+font-weight: 300;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(87, 86, 86, 1);
 }
 .ferdi__seyahet__content__desc {
 }
