@@ -107,19 +107,17 @@ include './include/header.php';
                     <div class="ferdi__content__element__back">
                         <div class="ferdi__emlak__element_name">
                             <p>
-                                <span>Nəyİ</span> sığortalamaq olar?
+                                <span>A-Qroup</span> aşağidakilari təmin edir:
                             </p>
                         </div>
 
                         <div class="ferdi__emlak__element__line"></div>
 
                         <div class="ferdi__emlak__element__text">
-                            <p>• Tikililər (bağ evləri, kotteclər və s.)</p>
-                            <p>• Mənzillər (daxili işləri nəzərə alaraq və almayaraq)</p>
-                            <p>• Daxili işləmə və otaq avadanlığı</p>
-                            <p>• Daşınan əmlakı (mebel; audio-, video-, məişət texnikası və s.)</p>
-                            <p>• Binadan istifadə zamanı üçüncü şəxslər qarşısında mülki məsuliyyət</p>
-                            <p>• Sənaye və kommersiya müəssisələri</p>
+                            <p>• Kompleks sığorta mühafizəsini</p>
+                            <p>• Etibarlı şirkətlərdə risklərin təkrarsığortalanması</p>
+                            <p>• Operativ xidmət</p>
+                            <p>• Şərtlər dəyişildikdə, Sığortalının maraqlarının nəzərə alınması</p>
                         </div>
                     </div>
 
@@ -130,23 +128,21 @@ include './include/header.php';
                     <div class="ferdi__content__element__back">
                         <div class="ferdi__emlak__element_name">
                             <p>
-                                <span>A-QROUP</span>-un şəhadətnaməsi sizin maliyyə maraqlarınızı aşağıdaki hallarda qoruya bilər:
+                                <span> A-Qroup</span> ilə əməkdaşlıq aşağidakilara
+                                zəmanətdir:
                             </p>
                         </div>
 
                         <div class="ferdi__emlak__element__line"></div>
 
                         <div class="ferdi__emlak__element__text">
-                            <p>• Yanğın, qaz partlayışı, ildırım vurması </p>
-                            <p>• Su şəbəkələrindən axan sudan zərər </p>
-                            <p>• Oğurluq, qarət </p>
-                            <p>• Su altında qalma </p>s
-                            <p>• Zəlzələ </p>
-                            <p>• Təbii fəlakətlər (fırtına, qasırğa, tufan, su basması, vulkan püskürməsi, dağ uçqunu, dolu və ya leysan ) </p>
-                            <p>• Qaz anbarlarının, qaz borularının, maşın və aparatlarının partlayışı </p>
-                            <p>• Pəncərə şüşələrinin, güzgülərin və vitrinlərin sınması </p>
-                            <p>• İdarə olunan uçan obyektlərin və onların qırıqlarının yerə düşməsi </p>
-                            <p>• Üçüncü şəxslərin cinayət əməlləri</p>
+
+                           <p>• Tikililər (bağ evləri, kotteclər və s.)  </p>
+                           <p>• Mənzillər (daxili işləri nəzərə alaraq və almayaraq)  </p>
+                           <p>• Daxili işləmə və otaq avadanlığı  </p> 
+                           <p>• Daşınan əmlakı (mebel; audio-, video-, məişət texnikası və s.) </p>
+                           <p>• Binadan istifadə zamanı üçüncü şəxslər qarşısında mülki məsuliyyət  </p>
+                           <p>• Sənaye və kommersiya müəssisələri  </p>
                         </div>
                     </div>
                     <img class="ferdi_emlak_img-sky" src="./styles/imgs/ferdi_emlak_sky.svg" alt="">
