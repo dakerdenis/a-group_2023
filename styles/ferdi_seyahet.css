@@ -1,6 +1,7 @@
 .ferdi_seyahet_container {
     padding-top: 140px;
     background-color: #009CA6;
+    position: relative;
 }
 .ferdi_seyahet__page_name {
     color: #fff;
@@ -16,19 +17,30 @@
     font-weight: 300;
 
 }
+.seyahet_palent{
+    display: block;
+    position: absolute;
+    top: 50px;
+}
 .ferdi__seyahet__content__container {
+
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
     max-width: 1168px;
     margin: 0 auto;
+    margin-top: 60px;
 }
 .ferdi__seyahet__content__element {
     width: 564px;
     height: 521px;
 background-color: #EFF5F7;
+position: relative;
 
+}
+.ferdi__seyahet__content_rect{
+    position: absolute;
 }
 .ferdi__seyahet__content__element1{
     padding: 21px 33px 0px 27px;

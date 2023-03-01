@@ -30,7 +30,7 @@ include './include/header.php';
                 </div>
 
             </div>
-            <img src="./styles/imgs/ferdi_seyahet_name.svg" alt="">
+            <img  src="./styles/imgs/ferdi_seyahet_name.svg" alt="">
         </div>
         <img class="seyahet_palent" src="./styles/imgs/seyahet__plane.svg" alt="">
         <div class="ferdi__seyahet__content__container">
@@ -59,7 +59,7 @@ include './include/header.php';
                     <p>• Maliyyə və hüquqi yardım</p>
                     <p>• Zərərçəkənin ailəsinin məlumatlandırılması</p>
                 </div>
-                <img src="./styles/imgs/ferdi_seyahet_rect.svg" alt="">
+                <img class="ferdi__seyahet__content_rect" src="./styles/imgs/ferdi_seyahet_rect.svg" alt="">
             </div>
             <!--------->
         </div>
