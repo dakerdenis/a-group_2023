@@ -1,96 +1,127 @@
 .ferdi_seyahet_container {
-    padding-top: 140px;
-    background-color: #009CA6;
-    position: relative;
+  padding-top: 140px;
+  background-color: #009ca6;
+  position: relative;
 }
 .ferdi_seyahet__page_name {
-    color: #fff;
+  color: #fff;
 }
-.ferdi_seyahet__page_name img{
-    position: absolute;
-    left: calc(50% - 109px);
+.ferdi_seyahet__page_name img {
+  position: absolute;
+  left: calc(50% - 109px);
 }
-.page_name_block_ferdi_seyahet p{
-    color: #fff;
+.page_name_block_ferdi_seyahet p {
+  color: #fff;
 }
-.page_name_block1 p{
-    font-weight: 300;
-
+.page_name_block1 p {
+  font-weight: 300;
 }
-.seyahet_palent{
-    display: block;
-    position: absolute;
-    top: 50px;
+.seyahet_palent {
+  display: block;
+  position: absolute;
+  top: 50px;
 }
 .ferdi__seyahet__content__container {
-
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    max-width: 1168px;
-    margin: 0 auto;
-    margin-top: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1168px;
+  margin: 0 auto;
+  margin-top: 60px;
 }
 .ferdi__seyahet__content__element {
-    width: 564px;
-    height: 521px;
-    background-color: #EFF5F7;
-position: relative;
-z-index: 1;
+  width: 564px;
+  height: 521px;
+  background-color: #eff5f7;
+  position: relative;
+  z-index: 1;
 }
 
-.ferdi__seyahet__content__element1{
-    padding: 21px 33px 0px 27px;
+.ferdi__seyahet__content__element1 {
+  padding: 21px 33px 0px 27px;
 }
-.ferdi__seyahet__content__element2{
-
-
+.ferdi__seyahet__content__element2 {
 }
-.ferdi__seyahet__content__element_back{
-    padding: 21px 74px 0px 54px;
-    width: 100%;
-    height: 100%;
-    background-color: #EFF5F7;
+.ferdi__seyahet__content__element_back {
+  padding: 21px 74px 0px 54px;
+  width: 100%;
+  height: 100%;
+  background-color: #eff5f7;
 }
-.ferdi__seyahet__content_rect{
-    display: block;
-    position: absolute;
-    right: -72px;
-    top: 56%;
-    z-index: -2;
+.ferdi__seyahet__content_rect {
+  display: block;
+  position: absolute;
+  right: -72px;
+  top: 56%;
+  z-index: -2;
 }
 .ferdi__seyahet__content__element__text {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(87, 86, 86, 1);
+}
+.ferdi__seyahet__content__desc {
+  width: 1168px;
+    position: relative;
+  margin: 0 auto;
+  margin-top: 46px;
+z-index: 1;
+}
+.ferdi__seyahet__content__desc__back{
+    padding: 30px 18px 33px 18px;
+    width: 100%;
+    height: 100%;
+    background-color: #eff5f7;
+}
+.ferdi__seyahet__content__desc-name {
+  font-family: "Roboto", sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(87, 86, 86, 1);
+  text-transform: uppercase;
+
+}
+.ferdi__seyahet__content__desc-line {
+    width: 139px;
+    margin:  0 auto;
+    height: 2px;
+    background-color: rgba(188, 26, 26, 1);
+    margin-top: 10px;
+}
+.ferdi__seyahet__content__desc_text {
     font-family: "Roboto", sans-serif;
 font-size: 20px;
 font-weight: 300;
 line-height: 35px;
 letter-spacing: 0em;
-text-align: left;
-color: rgba(87, 86, 86, 1);
-}
-.ferdi__seyahet__content__desc {
+text-align: center;
 
-    width: 1168px;
-    padding: 30px 18px 33px 18px;
-    margin: 0 auto;
-    margin-top: 46px;
-    background-color: #EFF5F7;
 }
-.ferdi__seyahet__content__desc-name {
-    font-family: "Roboto", sans-serif;
-font-size: 26px;
-font-weight: 500;
-line-height: 30px;
-letter-spacing: 0em;
-text-align: left;
-    color: rgba(87, 86, 86, 1);
-}
-.ferdi__seyahet__content__desc-line {
-}
-.ferdi__seyahet__content__desc_text {
+.ferdi__world{
+    position: absolute;
+    z-index: -1;
+    bottom: -125px;
+    left: -105px;
 }
 .ferdi__seyahet__content__additional {
+    margin: 0 auto;
+    width: 914px;
+    color: rgba(255, 255, 255, 1);
+    font-family: "Roboto", sans-serif;
+font-size: 20px;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+
 }
 .ferdi__seyahet__content__document {
 }
