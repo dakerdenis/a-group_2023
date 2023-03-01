@@ -1,46 +1,81 @@
 .ferdi_emlak_container {
-    width: 100%;
-    padding-top: 120px;
+  width: 100%;
+  padding-top: 120px;
+  background-color: #eaeaea;
 }
 .ferdi_emlak__page_name {
 }
 .ferdi_emlak__page_name img {
-    display: block;
-    position: absolute;
-    right: calc(50% - 73px);
+  display: block;
+  position: absolute;
+  right: calc(50% - 73px);
 }
 .page__name_wrapper {
 }
 .page_name_block_emlak1 {
-    font-weight: 300;
+  font-weight: 300;
 }
 
 .ferdi__emlak__name-desc {
-    margin-top: 25px;
-    width: 100%;
-    text-align: center;
+  margin-top: 25px;
+  width: 100%;
+  text-align: center;
 
-
-font-family: Roboto;
-font-size: 32px;
-font-weight: 300;
-line-height: 38px;
-letter-spacing: 0em;
-text-align: center;
-color: rgba(0, 156, 166, 1);
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(0, 156, 166, 1);
 }
-.ferdi__emlak__name-desc span{
-    font-weight: 700;
+.ferdi__emlak__name-desc span {
+  font-weight: 700;
 }
 .ferdi__emlak__name-text {
+  margin-top: 11px;
+  width: 100%;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 23px;
+  letter-spacing: 0em;
+
+  color: rgba(87, 86, 86, 1);
 }
 .ferdi__emlak__content-container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  max-width: 1185px;
+  margin: 0 auto;
 }
 .ferdi__emlak__content_2block {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 .ferdi__emlak__content__element {
+    width: 564px;
+    height: 621px;
+    background-color: #fff;
+    padding: 26px 53px 0px 35px;
 }
 .ferdi__emlak__element_name {
+    min-height: 93px;
+    font-family: "Roboto", sans-serif;
+font-size: 26px;
+font-weight: 300;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color:rgba(87, 86, 86, 1) ;
+}
+.ferdi__emlak__element_name span{
+    font-weight: 500;
+    color: rgba(188, 26, 26, 1);
 }
 .ferdi__emlak__element__line {
 }

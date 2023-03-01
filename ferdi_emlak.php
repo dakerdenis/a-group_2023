@@ -49,14 +49,14 @@ include './include/header.php';
         <div class="ferdi__emlak__content-container">
             <!------2 block with content------>
             <div class="ferdi__emlak__content_2block">
-                <!------------------->
+                <!-------1------------>
                 <div class="ferdi__emlak__content__element">
                     <div class="ferdi__emlak__element_name">
                         <p>
                             <span>Nəyİ</span> sığortalamaq olar?
                         </p>
                     </div>
-                    
+
                     <div class="ferdi__emlak__element__line"></div>
 
                     <div class="ferdi__emlak__element__text">
@@ -65,9 +65,29 @@ include './include/header.php';
                         <p>• Daxili işləmə və otaq avadanlığı</p>
                         <p>• Daşınan əmlakı (mebel; audio-, video-, məişət texnikası və s.)</p>
                         <p>• Binadan istifadə zamanı üçüncü şəxslər qarşısında mülki məsuliyyət</p>
-                        <p>• Sənaye və kommersiya müəssisələri</p>                        
+                        <p>• Sənaye və kommersiya müəssisələri</p>
                     </div>
                     <img src="./styles/imgs/ferdi_emlak.svg" alt="">
+                </div>
+                <!---------2---------->
+                <div class="ferdi__emlak__content__element">
+                    <div class="ferdi__emlak__element_name">
+                        <p>
+                            <span>Nəyİ</span> sığortalamaq olar?
+                        </p>
+                    </div>
+
+                    <div class="ferdi__emlak__element__line"></div>
+
+                    <div class="ferdi__emlak__element__text">
+                        <p>• Tikililər (bağ evləri, kotteclər və s.)</p>
+                        <p>• Mənzillər (daxili işləri nəzərə alaraq və almayaraq)</p>
+                        <p>• Daxili işləmə və otaq avadanlığı</p>
+                        <p>• Daşınan əmlakı (mebel; audio-, video-, məişət texnikası və s.)</p>
+                        <p>• Binadan istifadə zamanı üçüncü şəxslər qarşısında mülki məsuliyyət</p>
+                        <p>• Sənaye və kommersiya müəssisələri</p>
+                    </div>
+                    <img src="./styles/imgs/red_rectangle_emlak.svg" alt="">
                 </div>
             </div>
         </div>
