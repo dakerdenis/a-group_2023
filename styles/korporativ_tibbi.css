@@ -1,15 +1,44 @@
 .korporativ__tibbi__container {
-    margin-top: 120px;
+  margin-top: 120px;
 }
 .korporativ__tibbi__page_name {
+}
+.korporativ__tibbi__page_name img {
+  position: absolute;
+  left: calc(50% - 0px);
 }
 .page__name_wrapper {
 }
 .page_name_block1 {
-    text-transform: uppercase;
-    font-weight: 300;
+  text-transform: uppercase;
+  font-weight: 300;
 }
 .page_name_block2 {
 }
 .page_name_block3 {
+}
+
+.korporativ__tibbi__desc {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  max-width: 920px;
+  margin: 0 auto;
+  color: rgba(87, 86, 86, 1);
+  margin-top: 30px;
+}
+.korporativ__tibbi__additional_name{
+    margin-top: 15px;
+    font-size: 34px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: rgba(87, 86, 86, 1);
+}
+.korporativ__tibbi__additional_name span{
+    color:rgba(188, 26, 26, 1) ;
+    font-weight: 700;
 }

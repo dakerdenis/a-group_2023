@@ -33,7 +33,15 @@ include './include/header.php';
             <img src="./styles/imgs/korporativ_tibbi_line.svg" alt="">
         </div>
 
-
+    <div class="korporativ__tibbi__desc">
+        <p>
+        Artıq 200-dən çox tanınmış beynəlxalq və yerli şirkət, səfirlik və banklar bizi seçiblər. Müasir dünyada yüksək ixtisaslı kadrların cəlb edilməsi və saxlanması üçün vacib stimullardan biri tibbi sığortadır. Çoxsaylı araşdırmalar göstərdi ki, bir şirkət seçərkən paketdə könüllü tibbi sığorta (KTS) varlığı vacib amildir.
+        </p>
+    </div>
+    
+    <div class="korporativ__tibbi__additional_name">
+        <p> <span>KTS</span>-in ÜSTÜNLÜKLƏRİ:</p>
+    </div>
 
     </div>
 
