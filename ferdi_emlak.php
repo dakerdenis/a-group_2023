@@ -77,6 +77,36 @@ include './include/header.php';
                     <div class="ferdi__content__element__back">
                         <div class="ferdi__emlak__element_name">
                             <p>
+                                <span>A-QROUP</span>-un şəhadətnaməsi sizin maliyyə maraqlarınızı aşağıdaki hallarda qoruya bilər:
+                            </p>
+                        </div>
+
+                        <div class="ferdi__emlak__element__line"></div>
+
+                        <div class="ferdi__emlak__element__text">
+                           <p>• Yanğın, qaz partlayışı, ildırım vurması </p>
+                           <p>• Su şəbəkələrindən axan sudan zərər </p>
+                           <p>• Oğurluq, qarət </p>
+                           <p>• Su altında qalma </p>
+                           <p>• Zəlzələ </p>
+                           <p>• Təbii fəlakətlər (fırtına, qasırğa, tufan, su basması, vulkan püskürməsi, dağ uçqunu, dolu və ya leysan ) </p>
+                           <p>• Qaz anbarlarının, qaz borularının, maşın və aparatlarının partlayışı </p>
+                           <p>• Pəncərə şüşələrinin, güzgülərin və vitrinlərin sınması </p>
+                           <p>• İdarə olunan uçan obyektlərin və onların qırıqlarının yerə düşməsi </p>
+                           <p>• Üçüncü şəxslərin cinayət əməlləri</p> 
+                        </div>
+                    </div>
+                    <img class="ferdi_emlak_img-rectangle" src="./styles/imgs/red_rectangle_emlak.svg" alt="">
+                </div>
+            </div>
+
+                        <!------2 block with content------>
+                        <div class="ferdi__emlak__content_2block">
+                <!-------1------------>
+                <div class="ferdi__emlak__content__element">
+                    <div class="ferdi__content__element__back">
+                        <div class="ferdi__emlak__element_name">
+                            <p>
                                 <span>Nəyİ</span> sığortalamaq olar?
                             </p>
                         </div>
@@ -90,6 +120,33 @@ include './include/header.php';
                             <p>• Daşınan əmlakı (mebel; audio-, video-, məişət texnikası və s.)</p>
                             <p>• Binadan istifadə zamanı üçüncü şəxslər qarşısında mülki məsuliyyət</p>
                             <p>• Sənaye və kommersiya müəssisələri</p>
+                        </div>
+                    </div>
+
+                    <img class="ferdi_emlak_img-circle" src="./styles/imgs/ferdi_emlak.svg" alt="">
+                </div>
+                <!---------2---------->
+                <div class="ferdi__emlak__content__element">
+                    <div class="ferdi__content__element__back">
+                        <div class="ferdi__emlak__element_name">
+                            <p>
+                                <span>A-QROUP</span>-un şəhadətnaməsi sizin maliyyə maraqlarınızı aşağıdaki hallarda qoruya bilər:
+                            </p>
+                        </div>
+
+                        <div class="ferdi__emlak__element__line"></div>
+
+                        <div class="ferdi__emlak__element__text">
+                           <p>• Yanğın, qaz partlayışı, ildırım vurması </p>
+                           <p>• Su şəbəkələrindən axan sudan zərər </p>
+                           <p>• Oğurluq, qarət </p>
+                           <p>• Su altında qalma </p>
+                           <p>• Zəlzələ </p>
+                           <p>• Təbii fəlakətlər (fırtına, qasırğa, tufan, su basması, vulkan püskürməsi, dağ uçqunu, dolu və ya leysan ) </p>
+                           <p>• Qaz anbarlarının, qaz borularının, maşın və aparatlarının partlayışı </p>
+                           <p>• Pəncərə şüşələrinin, güzgülərin və vitrinlərin sınması </p>
+                           <p>• İdarə olunan uçan obyektlərin və onların qırıqlarının yerə düşməsi </p>
+                           <p>• Üçüncü şəxslərin cinayət əməlləri</p> 
                         </div>
                     </div>
                     <img class="ferdi_emlak_img-rectangle" src="./styles/imgs/red_rectangle_emlak.svg" alt="">
