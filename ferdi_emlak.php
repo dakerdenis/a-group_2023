@@ -84,24 +84,24 @@ include './include/header.php';
                         <div class="ferdi__emlak__element__line"></div>
 
                         <div class="ferdi__emlak__element__text">
-                           <p>• Yanğın, qaz partlayışı, ildırım vurması </p>
-                           <p>• Su şəbəkələrindən axan sudan zərər </p>
-                           <p>• Oğurluq, qarət </p>
-                           <p>• Su altında qalma </p>
-                           <p>• Zəlzələ </p>
-                           <p>• Təbii fəlakətlər (fırtına, qasırğa, tufan, su basması, vulkan püskürməsi, dağ uçqunu, dolu və ya leysan ) </p>
-                           <p>• Qaz anbarlarının, qaz borularının, maşın və aparatlarının partlayışı </p>
-                           <p>• Pəncərə şüşələrinin, güzgülərin və vitrinlərin sınması </p>
-                           <p>• İdarə olunan uçan obyektlərin və onların qırıqlarının yerə düşməsi </p>
-                           <p>• Üçüncü şəxslərin cinayət əməlləri</p> 
+                            <p>• Yanğın, qaz partlayışı, ildırım vurması </p>
+                            <p>• Su şəbəkələrindən axan sudan zərər </p>
+                            <p>• Oğurluq, qarət </p>
+                            <p>• Su altında qalma </p>
+                            <p>• Zəlzələ </p>
+                            <p>• Təbii fəlakətlər (fırtına, qasırğa, tufan, su basması, vulkan püskürməsi, dağ uçqunu, dolu və ya leysan ) </p>
+                            <p>• Qaz anbarlarının, qaz borularının, maşın və aparatlarının partlayışı </p>
+                            <p>• Pəncərə şüşələrinin, güzgülərin və vitrinlərin sınması </p>
+                            <p>• İdarə olunan uçan obyektlərin və onların qırıqlarının yerə düşməsi </p>
+                            <p>• Üçüncü şəxslərin cinayət əməlləri</p>
                         </div>
                     </div>
                     <img class="ferdi_emlak_img-rectangle" src="./styles/imgs/red_rectangle_emlak.svg" alt="">
                 </div>
             </div>
 
-                        <!------2 block with content------>
-                        <div class="ferdi__emlak__content_2block">
+            <!------2 block with content------>
+            <div class="ferdi__emlak__content_2block ferdi__emlak__content_2block2">
                 <!-------1------------>
                 <div class="ferdi__emlak__content__element">
                     <div class="ferdi__content__element__back">
@@ -123,7 +123,7 @@ include './include/header.php';
                         </div>
                     </div>
 
-                    <img class="ferdi_emlak_img-circle" src="./styles/imgs/ferdi_emlak.svg" alt="">
+                    <img class="ferdi_emlak_img-good" src="./styles/imgs//ferdi_emlak_good.svg" alt="">
                 </div>
                 <!---------2---------->
                 <div class="ferdi__emlak__content__element">
@@ -137,19 +137,19 @@ include './include/header.php';
                         <div class="ferdi__emlak__element__line"></div>
 
                         <div class="ferdi__emlak__element__text">
-                           <p>• Yanğın, qaz partlayışı, ildırım vurması </p>
-                           <p>• Su şəbəkələrindən axan sudan zərər </p>
-                           <p>• Oğurluq, qarət </p>
-                           <p>• Su altında qalma </p>
-                           <p>• Zəlzələ </p>
-                           <p>• Təbii fəlakətlər (fırtına, qasırğa, tufan, su basması, vulkan püskürməsi, dağ uçqunu, dolu və ya leysan ) </p>
-                           <p>• Qaz anbarlarının, qaz borularının, maşın və aparatlarının partlayışı </p>
-                           <p>• Pəncərə şüşələrinin, güzgülərin və vitrinlərin sınması </p>
-                           <p>• İdarə olunan uçan obyektlərin və onların qırıqlarının yerə düşməsi </p>
-                           <p>• Üçüncü şəxslərin cinayət əməlləri</p> 
+                            <p>• Yanğın, qaz partlayışı, ildırım vurması </p>
+                            <p>• Su şəbəkələrindən axan sudan zərər </p>
+                            <p>• Oğurluq, qarət </p>
+                            <p>• Su altında qalma </p>s
+                            <p>• Zəlzələ </p>
+                            <p>• Təbii fəlakətlər (fırtına, qasırğa, tufan, su basması, vulkan püskürməsi, dağ uçqunu, dolu və ya leysan ) </p>
+                            <p>• Qaz anbarlarının, qaz borularının, maşın və aparatlarının partlayışı </p>
+                            <p>• Pəncərə şüşələrinin, güzgülərin və vitrinlərin sınması </p>
+                            <p>• İdarə olunan uçan obyektlərin və onların qırıqlarının yerə düşməsi </p>
+                            <p>• Üçüncü şəxslərin cinayət əməlləri</p>
                         </div>
                     </div>
-                    <img class="ferdi_emlak_img-rectangle" src="./styles/imgs/red_rectangle_emlak.svg" alt="">
+                    <img class="ferdi_emlak_img-sky" src="./styles/imgs/ferdi_emlak_sky.svg" alt="">
                 </div>
             </div>
         </div>

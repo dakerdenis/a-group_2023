@@ -121,3 +121,16 @@
     right: -70px;
     top: 35%;
 }
+.ferdi__emlak__content__element .ferdi_emlak_img-good{
+    left: -20px;
+    bottom: -20px;
+    z-index: 5;
+}
+.ferdi__emlak__content__element  .ferdi_emlak_img-sky{
+    z-index: 5;
+    right: -100px;
+    bottom: -100px;
+}
+.ferdi__emlak__content_2block2{
+    margin-bottom: 115px;
+}
