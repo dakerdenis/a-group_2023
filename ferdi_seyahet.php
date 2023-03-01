@@ -35,7 +35,7 @@ include './include/header.php';
         <img class="seyahet_palent" src="./styles/imgs/seyahet__plane.svg" alt="">
         <div class="ferdi__seyahet__content__container">
             <!--------->
-            <div class="ferdi__seyahet__content__element">
+            <div class="ferdi__seyahet__content__element ferdi__seyahet__content__element1">
                 <div class="ferdi__seyahet__content__element__text">
                     <p>Dincəlməyə və ya işçi səfərə gedən hər bir kəsə xəstələnmə
                         və travmalar zamanı, baqajın itirilməsi hallarında özünü lazımi dəstəklə
@@ -46,7 +46,7 @@ include './include/header.php';
                 </div>
             </div>
             <!--------->
-            <div class="ferdi__seyahet__content__element">
+            <div class="ferdi__seyahet__content__element ferdi__seyahet__content__element2">
                 <div class="ferdi__seyahet__content__element__text">
                     <p> Yerləşdiyiniz məkanın nə qədər uzaq məsafədə olmasından asılı olmayaraq, A-QROUP təcili yardım təşkil olunmasına zəmanət verir. Yalnız bir telefon nömrəsi Sizə, ilk baxışda çarəsiz görünən çətin vəziyyətdən çıxmağa kömək edər! Çətin vəziyyətdə mütləq yardım göstərəcək digər xidmətlər:</p>
                 </div>

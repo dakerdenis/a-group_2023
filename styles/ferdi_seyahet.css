@@ -21,7 +21,8 @@
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    max-width: 1082px;
+    max-width: 1168px;
+    margin: 0 auto;
 }
 .ferdi__seyahet__content__element {
     width: 564px;
@@ -29,8 +30,12 @@
 background-color: #EFF5F7;
 
 }
-.ferdi__seyahet__content__element1{}
-.ferdi__seyahet__content__element2{}
+.ferdi__seyahet__content__element1{
+    padding: 21px 33px 0px 27px;
+}
+.ferdi__seyahet__content__element2{
+    padding: 21px 74px 0px 54px;
+}
 .ferdi__seyahet__content__element__text {
     font-family: "Roboto", sans-serif;
 font-size: 20px;
