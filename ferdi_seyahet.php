@@ -30,7 +30,7 @@ include './include/header.php';
                 </div>
 
             </div>
-            <img  src="./styles/imgs/ferdi_seyahet_name.svg" alt="">
+            <img src="./styles/imgs/ferdi_seyahet_name.svg" alt="">
         </div>
         <img class="seyahet_palent" src="./styles/imgs/seyahet__plane.svg" alt="">
         <div class="ferdi__seyahet__content__container">
@@ -47,17 +47,19 @@ include './include/header.php';
             </div>
             <!--------->
             <div class="ferdi__seyahet__content__element ferdi__seyahet__content__element2">
-                <div class="ferdi__seyahet__content__element__text">
-                    <p> Yerləşdiyiniz məkanın nə qədər uzaq məsafədə olmasından asılı olmayaraq, A-QROUP təcili yardım təşkil olunmasına zəmanət verir. Yalnız bir telefon nömrəsi Sizə, ilk baxışda çarəsiz görünən çətin vəziyyətdən çıxmağa kömək edər! Çətin vəziyyətdə mütləq yardım göstərəcək digər xidmətlər:</p>
-                </div>
-                <div class="ferdi__seyahet__content__element__text">
-                    <p>• Təcili tibbi yardım</p>
-                    <p>• Tibbi repatriasiya</p>
-                    <p>• Sığortalının xəstəxanaya yerləşdirilməsi</p>
-                    <p>• Avtomobillə səyahət edənlərə texniki yardım</p>
-                    <p>• Tibbi və digər nəqliyyat</p>
-                    <p>• Maliyyə və hüquqi yardım</p>
-                    <p>• Zərərçəkənin ailəsinin məlumatlandırılması</p>
+                <div class="ferdi__seyahet__content__element__container">
+                    <div class="ferdi__seyahet__content__element__text">
+                        <p> Yerləşdiyiniz məkanın nə qədər uzaq məsafədə olmasından asılı olmayaraq, A-QROUP təcili yardım təşkil olunmasına zəmanət verir. Yalnız bir telefon nömrəsi Sizə, ilk baxışda çarəsiz görünən çətin vəziyyətdən çıxmağa kömək edər! Çətin vəziyyətdə mütləq yardım göstərəcək digər xidmətlər:</p>
+                    </div>
+                    <div class="ferdi__seyahet__content__element__text">
+                        <p>• Təcili tibbi yardım</p>
+                        <p>• Tibbi repatriasiya</p>
+                        <p>• Sığortalının xəstəxanaya yerləşdirilməsi</p>
+                        <p>• Avtomobillə səyahət edənlərə texniki yardım</p>
+                        <p>• Tibbi və digər nəqliyyat</p>
+                        <p>• Maliyyə və hüquqi yardım</p>
+                        <p>• Zərərçəkənin ailəsinin məlumatlandırılması</p>
+                    </div>
                 </div>
                 <img class="ferdi__seyahet__content_rect" src="./styles/imgs/ferdi_seyahet_rect.svg" alt="">
             </div>

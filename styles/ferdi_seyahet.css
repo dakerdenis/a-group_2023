@@ -41,12 +41,16 @@ position: relative;
 }
 .ferdi__seyahet__content_rect{
     position: absolute;
+    right: -62px;
+    top: 56%;
+    z-index: -2;
 }
 .ferdi__seyahet__content__element1{
     padding: 21px 33px 0px 27px;
 }
 .ferdi__seyahet__content__element2{
     padding: 21px 74px 0px 54px;
+    z-index: 1;
 }
 .ferdi__seyahet__content__element__text {
     font-family: "Roboto", sans-serif;
