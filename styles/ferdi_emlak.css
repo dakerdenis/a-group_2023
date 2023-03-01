@@ -30,7 +30,7 @@ text-align: center;
 color: rgba(0, 156, 166, 1);
 }
 .ferdi__emlak__name-desc span{
-
+    font-weight: 700;
 }
 .ferdi__emlak__name-text {
 }
