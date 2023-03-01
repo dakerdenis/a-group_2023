@@ -70,15 +70,15 @@ include './include/header.php';
 
         <div class="ferdi__seyahet__content__desc">
             <div class="ferdi__seyahet__content__desc__back">
-            <div class="ferdi__seyahet__content__desc-name">
-                <p>Frequent Traveler</p>
-            </div>
-            <div class="ferdi__seyahet__content__desc-line"></div>
-            <div class="ferdi__seyahet__content__desc_text">
-                <p>
-                    A-Qroup Sığorta şirkəti “Frequent Traveler” - bonus hesablama proqramına start verdi. A-Qroup-un müştərisi olmaq yalnız rahat deyil həm də sərfəli oldu. Artıq A-Qroup-dan səyahət sığortası sifariş edən Sığortalının bonus hesabına sığorta məbləğindən asılı olaraq ballar əlavə olunacaq. Misal üçün, 30 000 USD məbləğində səyahət sığortası əldə edən Sığortalının bonus hesabına hər səyahət gününə 6 bal yazılacaq. Ballar Sığortalıya bonus hesablama proqramının şərtlərinə əsasən onlardan gələcəkdə istifadə etmək imkanı verir. Kifayət qədər bal yığan Sığortalı onları yeni sığorta polisi əldə edərkən istifadə edə bilər. Misal üçün, A-Qroup-dan 7 günlük səyahət sığortası bonus olaraq almaq üçün cəmi 300 bal toplamaq kifayətdir. A-Qroup-un bonus hesablama proqramı şirkətə növbəti müraciətlərdə birbaşa faydadır. Sığortalı yığılmış balları haqqında məlumatı sığorta polisi əldə edərkən eləcə də istənilən vaxt sığorta şirkəti ilə əlaqə saxlayaraq öyrənə bilər.
-                </p>
-            </div>
+                <div class="ferdi__seyahet__content__desc-name">
+                    <p>Frequent Traveler</p>
+                </div>
+                <div class="ferdi__seyahet__content__desc-line"></div>
+                <div class="ferdi__seyahet__content__desc_text">
+                    <p>
+                        A-Qroup Sığorta şirkəti “Frequent Traveler” - bonus hesablama proqramına start verdi. A-Qroup-un müştərisi olmaq yalnız rahat deyil həm də sərfəli oldu. Artıq A-Qroup-dan səyahət sığortası sifariş edən Sığortalının bonus hesabına sığorta məbləğindən asılı olaraq ballar əlavə olunacaq. Misal üçün, 30 000 USD məbləğində səyahət sığortası əldə edən Sığortalının bonus hesabına hər səyahət gününə 6 bal yazılacaq. Ballar Sığortalıya bonus hesablama proqramının şərtlərinə əsasən onlardan gələcəkdə istifadə etmək imkanı verir. Kifayət qədər bal yığan Sığortalı onları yeni sığorta polisi əldə edərkən istifadə edə bilər. Misal üçün, A-Qroup-dan 7 günlük səyahət sığortası bonus olaraq almaq üçün cəmi 300 bal toplamaq kifayətdir. A-Qroup-un bonus hesablama proqramı şirkətə növbəti müraciətlərdə birbaşa faydadır. Sığortalı yığılmış balları haqqında məlumatı sığorta polisi əldə edərkən eləcə də istənilən vaxt sığorta şirkəti ilə əlaqə saxlayaraq öyrənə bilər.
+                    </p>
+                </div>
             </div>
             <img class="ferdi__world" src="./styles/imgs/ferdi_world.svg" alt="">
         </div>
