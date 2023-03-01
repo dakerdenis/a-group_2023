@@ -43,6 +43,7 @@
   letter-spacing: 0em;
 
   color: rgba(87, 86, 86, 1);
+  margin-bottom: 62px;
 }
 .ferdi__emlak__content-container {
   display: flex;
@@ -52,32 +53,71 @@
   margin: 0 auto;
 }
 .ferdi__emlak__content_2block {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 .ferdi__emlak__content__element {
-    width: 564px;
-    height: 621px;
+  width: 564px;
+  height: 621px;
+
+  margin-bottom: 73px;
+  position: relative;
+
+  z-index: 1;
+}
+.ferdi__content__element__back{
+    width: 100%;
+    height: 100%;
     background-color: #fff;
     padding: 26px 53px 0px 35px;
 }
 .ferdi__emlak__element_name {
-    min-height: 93px;
-    font-family: "Roboto", sans-serif;
-font-size: 26px;
-font-weight: 300;
-line-height: 30px;
-letter-spacing: 0em;
-text-align: left;
-color:rgba(87, 86, 86, 1) ;
+  min-height: 93px;
+  font-family: "Roboto", sans-serif;
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(87, 86, 86, 1);
 }
-.ferdi__emlak__element_name span{
-    font-weight: 500;
-    color: rgba(188, 26, 26, 1);
+.ferdi__emlak__element_name span {
+  font-weight: 500;
+  color: rgba(188, 26, 26, 1);
+  text-transform: uppercase;
 }
 .ferdi__emlak__element__line {
+  width: 139px;
+  margin: 0 auto;
+  height: 2px;
+  background-color: rgba(0, 156, 166, 1);
+  margin-top: 9px;
 }
 .ferdi__emlak__element__text {
+    max-width: 340px;
+  margin-top: 23px;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(87, 86, 86, 1);
+}
+.ferdi__emlak__element__text p{
+    margin-bottom: 10px;
+}
+.ferdi__emlak__content__element img {
+    position: absolute; 
+    z-index: -2;
+}
+.ferdi_emlak_img-circle{
+    right: -54px;
+    bottom: -54px;
+}
+.ferdi_emlak_img-rectangle{
+    right: -70px;
+    top: 35%;
 }
