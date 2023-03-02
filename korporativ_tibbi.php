@@ -86,6 +86,28 @@ include './include/header.php';
             </div>
         </div>
 
+
+
+        <div class="korporativ__tibbi__pakets">
+            <p>Korporativ müştərilər üçün əlverişli tibbi sığorta <span>paketlərİ:</span></p>
+        </div>
+
+
+        <div class="korporativ__tibbi__pakets__wrapper">
+                                <!----->
+            <div class="korporativ__tibbi__pakets__element">
+                <div class="korporativ__tibbi__pakets__element_wrapper">
+                    <!----->
+                    <div class="korporativ__tibbi__pakets__element_image">
+                        <img src="./styles/imgs/korporativ_pakert1.png" alt="">
+                    </div>
+                    <div class="korporativ__tibbi__pakets__element_name">
+                        <p>FORS-MAJOR EX</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 
     <?php

@@ -79,6 +79,35 @@
 }
 
 .korporativ__tibbi__desc__additional-list {
+  display: flex;
+  width: 756px;
+  justify-content: space-between;
+  margin: 0 auto;
 }
 .korporativ__tibbi__desc__additional-list_element {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(87, 86, 86, 1);
+}
+.korporativ__tibbi__pakets {
+  margin: 0 auto;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(87, 86, 86, 1);
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+.korporativ__tibbi__pakets span{
+  color: rgba(188, 26, 26, 1);
+  font-weight: 500;
+  text-transform: uppercase;
 }
