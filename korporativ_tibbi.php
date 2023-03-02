@@ -129,8 +129,77 @@ include './include/header.php';
                 </div>
             </div>
             <!------------------------------>
+            <div class="korporativ__tibbi__pakets__element">
+                <div class="korporativ__tibbi__pakets__element_wrapper">
+                    <!----->
+                    <div class="korporativ__tibbi__pakets__element_image">
+                        <img src="./styles/imgs/korporativ_pakert1.svg" alt="">
+                    </div>
+                    <div class="korporativ__tibbi__palets__element__content_wrapper">
+                        <div class="korporativ__tibbi__pakets__element_name">
+                            <p>AMBULANCE</p>
+                        </div>
+                        <div class="korporativ__tibbi__pakets__element_content">
+                            <div class="korporativ__tibbi__pakets__element_content-text">
+                                <p>
+                                    Bu xidmət istirahət və ya bayram günlərində xüsusilə vacib və ehtiyac duyulan 24 saat 7 gün ərzində Təcili Tibbi Yardım göstərilməsini təmin edir. Xəstəliklər, bədbəxt hadisələr, travmalar, yanıqlar, zəhərlənmələr, yüksək temperatur və başqa təxirə ...
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="korporativ__tibbi__pakets__element_content__showmore">
+                            <a href="#">
+                                <p>DAHA ÇOX</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!------------------------------>
+            <div class="korporativ__tibbi__pakets__element">
+                <div class="korporativ__tibbi__pakets__element_wrapper">
+                    <!----->
+                    <div class="korporativ__tibbi__pakets__element_image">
+                        <img src="./styles/imgs/korporativ_pakert1.svg" alt="">
+                    </div>
+                    <div class="korporativ__tibbi__palets__element__content_wrapper">
+                        <div class="korporativ__tibbi__pakets__element_name">
+                            <p>AMBULANCE EX</p>
+                        </div>
+                        <div class="korporativ__tibbi__pakets__element_content">
+                            <div class="korporativ__tibbi__pakets__element_content-text">
+                                <p>
+                                    AMBULANCE EX tibbi sığorta proqramı korporativ müştərilər üçün genişlənmiş və sərfəli bir seçimdir. Bu sığorta məhsulu illik 5 000 Azn məbləğində tibbi təminatı nəzərdə tutur. Bu xidmət istirahət və ya bayram günlərində xüsusilə vacib və ehtiyac duyulan 24 saat 7 gün ərzində ...
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="korporativ__tibbi__pakets__element_content__showmore">
+                            <a href="#">
+                                <p>DAHA ÇOX</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!------------------------------>
         </div>
 
+
+
+        <div class="korporativ__tibbi__document">
+            <p>
+                A-Qroup tibbi xidmətin keyfiyyətini də nəzarət edir.
+            </p>
+
+            <a href="#">
+                <img src="./styles/imgs/korporativ_doc.svg" alt="">
+                <p>
+                    HAMİLƏLİK VƏ DOĞUŞAYARDIMLA BAĞLI MÜAILİCƏ ALMAQ ÜÇÜN ƏRİZƏ (167 KB, DOC)
+                </p>
+            </a>
+            
+        </div>
     </div>
 
     <?php

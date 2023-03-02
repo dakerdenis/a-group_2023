@@ -118,6 +118,7 @@
   justify-content: space-between;
   width: 1280px;
   margin: 0 auto;
+  margin-bottom: 47px;
 }
 .korporativ__tibbi__pakets__element {
   height: 590px;
@@ -190,4 +191,18 @@ line-height: 22px;
 letter-spacing: 0em;
 text-align: left;
 color: #fff;
+}
+.korporativ__tibbi__pakets__wrapper .korporativ__tibbi__pakets__element:nth-child(2){
+  background: linear-gradient(180deg, #90C3CB 0%, #DEEBEE 100%);
+
+}
+.korporativ__tibbi__pakets__wrapper .korporativ__tibbi__pakets__element:nth-child(2) .korporativ__tibbi__pakets__element_content__showmore a{
+  background: #92C4CC;
+
+}
+.korporativ__tibbi__pakets__wrapper .korporativ__tibbi__pakets__element:nth-child(3){
+  background: linear-gradient(180deg, #E9D1A5 0%, #F8EFE0 100%);
+}
+.korporativ__tibbi__pakets__wrapper .korporativ__tibbi__pakets__element:nth-child(3) .korporativ__tibbi__pakets__element_content__showmore a{
+  background: #E9D1A5;
 }
