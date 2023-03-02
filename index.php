@@ -33,7 +33,7 @@
                                                      </a>
 
                                                      <div class="button__circle">
-                                                        
+
                                                      </div>
 
                                                      <img class="button__vector" src="./styles/imgs/Vector_button.svg" alt="">
@@ -242,12 +242,57 @@
                  </div>
                  <div class="main__clients__wrapper">
 
-
+                     <div class="swiper1 mySwiper1">
+                         <div class="swiper-wrapper1">
+                             <div class="swiper-slide1">Slide 1</div>
+                             <div class="swiper-slide1">Slide 2</div>
+                             <div class="swiper-slide1">Slide 3</div>
+                             <div class="swiper-slide1">Slide 4</div>
+                             <div class="swiper-slide1">Slide 5</div>
+                             <div class="swiper-slide1">Slide 6</div>
+                             <div class="swiper-slide1">Slide 7</div>
+                             <div class="swiper-slide1">Slide 8</div>
+                             <div class="swiper-slide1">Slide 9</div>
+                         </div>
+                     </div>
                  </div>
 
              </div>
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 
+<!-- Initialize Swiper -->
+<script>
+    var swiper1 = new Swiper(".mySwiper", {
+        slidesPerView: 1,
+        spaceBetween: 0,
+        loop: true,
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+    });
+</script>
 
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper2 = new Swiper(".swiper1", {
+      watchSlidesProgress: false,
+      slidesPerView: 3,
+      speed:2000,
+      loop: true,
+      autoplay: {
+        delay: 0,
+        disableOnInteraction: false,
+        pauseOnMouseEnter: true,
+      },
+    });
+  </script>
+  
              <!---footer---->
              <?php include './include/footer.php' ?>
 

@@ -17,6 +17,9 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"
     />
+      <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   
@@ -40,4 +43,11 @@
       <link rel="stylesheet" href="./styles/about.css">
       <!---maliye.php----->
       <link rel="stylesheet" href="./styles/maliye.php">
+
+
+
+
+
+
+      
 </head>
