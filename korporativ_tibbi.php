@@ -99,30 +99,32 @@ include './include/header.php';
                 <div class="korporativ__tibbi__pakets__element_wrapper">
                     <!----->
                     <div class="korporativ__tibbi__pakets__element_image">
-                        <img src="./styles/imgs/korporativ_pakert1.png" alt="">
+                        <img src="./styles/imgs/korporativ_pakert1.svg" alt="">
                     </div>
-                    <div class="korporativ__tibbi__pakets__element_name">
-                        <p>FORS-MAJOR EX</p>
-                    </div>
-                    <div class="korporativ__tibbi__pakets__element_content">
-                        <div class="korporativ__tibbi__pakets__element_content-text">
-                            <p>
-                                Bizi artıq ***-dən çox Sığortalı, tanınmış beynəlxalq və yerli şirkətlər, səfirliklər və banklar seçiblər
-                            </p>
+                    <div class="korporativ__tibbi__palets__element__content_wrapper">
+                        <div class="korporativ__tibbi__pakets__element_name">
+                            <p>FORS-MAJOR EX</p>
                         </div>
-                        <div class="korporativ__tibbi__pakets__element_content-list">
-                            <p>• 24/7 Təcili Tibbi yardım </p>
-                            <p>• Təcili Cərrahi Müdaxilə </p>
-                            <p>• Təxirə salınmaz Hospitalizasiya </p>
-                            <p>• Təcili Stomatoloji yardım </p>
-                            <p>• Təcili Peyvənd </p>
+                        <div class="korporativ__tibbi__pakets__element_content">
+                            <div class="korporativ__tibbi__pakets__element_content-text">
+                                <p>
+                                    Bizi artıq ***-dən çox Sığortalı, tanınmış beynəlxalq və yerli şirkətlər, səfirliklər və banklar seçiblər
+                                </p>
+                            </div>
+                            <div class="korporativ__tibbi__pakets__element_content-list">
+                                <p>• 24/7 Təcili Tibbi yardım </p>
+                                <p>• Təcili Cərrahi Müdaxilə </p>
+                                <p>• Təxirə salınmaz Hospitalizasiya </p>
+                                <p>• Təcili Stomatoloji yardım </p>
+                                <p>• Təcili Peyvənd </p>
+                            </div>
                         </div>
-                    </div>
 
-                    <div class="korporativ__tibbi__pakets__element_content__showmore">
-                        <a href="#">
-                            <p>DAHA ÇOX</p>
-                        </a>
+                        <div class="korporativ__tibbi__pakets__element_content__showmore">
+                            <a href="#">
+                                <p>DAHA ÇOX</p>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
