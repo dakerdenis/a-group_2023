@@ -106,12 +106,11 @@
   margin-top: 35px;
   margin-bottom: 35px;
 }
-.korporativ__tibbi__pakets span{
+.korporativ__tibbi__pakets span {
   color: rgba(188, 26, 26, 1);
   font-weight: 500;
   text-transform: uppercase;
 }
-
 
 .korporativ__tibbi__pakets__wrapper {
   display: flex;
@@ -121,16 +120,14 @@
   margin: 0 auto;
 }
 .korporativ__tibbi__pakets__element {
-  height:590px;
+  height: 590px;
   width: 400px;
-  background: linear-gradient(180deg, #DE937B 0%, #F2D6CA 100%);
-
+  background: linear-gradient(180deg, #de937b 0%, #f2d6ca 100%);
 }
 .korporativ__tibbi__pakets__element_wrapper {
   width: 100%;
   height: 100%;
-  padding: 40px 12px 15px 12px;
-
+  padding: 40px 13px 13px 12px;
 
   display: flex;
   align-items: center;
@@ -138,10 +135,10 @@
   justify-content: space-between;
 }
 .korporativ__tibbi__pakets__element_image {
-  height: 49%;
+  height: 50%;
 }
-.korporativ__tibbi__palets__element__content_wrapper{
-  height: 49%;
+.korporativ__tibbi__palets__element__content_wrapper {
+  height: 50%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -150,20 +147,47 @@
   width: 100%;
   text-align: center;
 
-
   font-family: Oswald;
-font-size: 32px;
-font-weight: 500;
-line-height: 47px;
-letter-spacing: 0em;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: 0em;
 
-color: rgba(87, 86, 86, 1);
+  color: rgba(87, 86, 86, 1);
 }
 .korporativ__tibbi__pakets__element_content {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(87, 86, 86, 1);
 }
 .korporativ__tibbi__pakets__element_content-text {
 }
 .korporativ__tibbi__pakets__element_content-list {
 }
 .korporativ__tibbi__pakets__element_content__showmore {
+  width: 100%;
+display: flex;
+justify-content: flex-end;
+}
+.korporativ__tibbi__pakets__element_content__showmore a {
+  display: block;
+  width: 105px;
+  height: 30px;
+  background: #DF947C;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: "Roboto", sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
 }
