@@ -277,17 +277,28 @@ body {
 
 .about__block__name {
   margin-top: 20px;
+  position: relative;
+  height: 115px;
+  background-color: green;
+
 }
 
 .about__block__name p {
   font-family: "Oswald", sans-serif;
   color: rgba(87, 86, 86, 1);
   font-weight: 400;
-  font-size: 60px;
+  font-size: 40px;
   line-height: 120%;
-  margin-top: 20px;
-}
+  margin-top: 8px;
 
+  position: absolute;
+  left: 41%;
+  bottom: 0;
+}
+.about__block__name img{
+  position: absolute;
+  left: 38%;
+}
 .about__block__content__wrapper {
   display: flex;
   width: 1348px;
@@ -645,12 +656,7 @@ text-align: left;
   .about__block__name img {
     transform: scale(0.9);
   }
-  .about__block__name  p {
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 59.28px;
-    text-align: center;
-  }
+
   .about__block__content__wrapper{
     width: 1030px;
     margin-bottom: 39px;
@@ -748,77 +754,7 @@ width: 282.75px;
   }
 }
 
-@media only screen and (max-width: 1380px) {
-  .mobile__text___text p {
-    font-size: 19px;
-    line-height: 32px;
-  }
 
-  .mobile__text__name {
-    font-size: 47px;
-    line-height: 62px;
-  }
-
-  .mobile__links__block a:first-child {
-    margin-right: 30px;
-    overflow: hidden;
-  }
-
-  .mobile__links__block a img {
-    width: 204px;
-    height: 59.5px;
-  }
-
-  .mobile__images__block {
-    width: 54%;
-  }
-
-  .about__block__name p {
-    font-size: 35px;
-  }
-
-  .about__element__name {
-    font-size: 24px;
-    line-height: 20px;
-  }
-
-  .about__element__desc {
-    font-size: 18px;
-  }
-
-  .mobile__mobile__block {
-    right: 20%;
-    height: 64%;
-    width: 64%;
-  }
-
-  .__desc__wrapper__name p {
-    font-size: 40px;
-    line-height: 70px;
-  }
-
-  .__desc__wrapper__desc p {
-    font-size: 20px;
-    line-height: 37px;
-  }
-
-  .__desc__wrapper__link a {
-    font-size: 20px;
-  }
-
-  .main__slider__block {
-    height: calc(100vh - 55px);
-    margin-top: 55px;
-  }
-
-  .about__block__name img {
-    width: 20%;
-  }
-
-  .main__mobile__block {
-    height: 620px;
-  }
-}
 
 @media only screen and (max-width: 1285px) {
   .__desc__wrapper__name p {
