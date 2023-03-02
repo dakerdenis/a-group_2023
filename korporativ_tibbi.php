@@ -62,6 +62,30 @@ include './include/header.php';
             <p>• Sağlam Həyat Tərzinin təşviqi </p>
         </div>
 
+        <div class="korporativ__tibbi__desc_additional">
+            <p>
+                Hər bir <span>A-QROUP</span> şəhadətnaməsi unikaldır. Hər bir şirkət üçün müştərinin fəaliyyət xüsusiyyətlərinin, onun tələbatlarının, arzularının və büdcə imkanlarının nəzərə alınması ilə fərdi proqram hazırlanır. Müştəri aşağıda göstərilən xidmətlər kompleksindən istifadə edərək, ona uyğun tibbi sığorta planını tərtib edə bilər:
+            </p>
+        </div>
+
+
+
+        <div class="korporativ__tibbi__desc__additional-list">
+            <div class="korporativ__tibbi__desc__additional-list_element">
+                <p>• Təcili yardım </p>
+                <p>• Ambulator yardım </p>
+                <p>• Stasionar yardım </p>
+                <p>• Stomatoloji yardım </p>
+                <p>• Dərman təminatı </p>
+            </div>
+            <div class="korporativ__tibbi__desc__additional-list_element">
+                <p>• Vaksinasiya və vitaminizasiya </p>
+                <p>• Tibbi evakuasiya </p>
+                <p>• Hamiləliyin təqibi </p>
+                <p>• Xaricdə müalicə </p>
+            </div>
+        </div>
+
     </div>
 
     <?php
