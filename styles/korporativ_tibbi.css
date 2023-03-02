@@ -171,40 +171,46 @@
 }
 .korporativ__tibbi__pakets__element_content__showmore {
   width: 100%;
-display: flex;
-justify-content: flex-end;
+  display: flex;
+  justify-content: flex-end;
 }
 .korporativ__tibbi__pakets__element_content__showmore a {
   display: block;
   width: 105px;
   height: 30px;
-  background: #DF947C;
+  background: #df947c;
   border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
 
   font-family: "Roboto", sans-serif;
-font-size: 14px;
-font-weight: 500;
-line-height: 22px;
-letter-spacing: 0em;
-text-align: left;
-color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fff;
 }
-.korporativ__tibbi__pakets__wrapper .korporativ__tibbi__pakets__element:nth-child(2){
-  background: linear-gradient(180deg, #90C3CB 0%, #DEEBEE 100%);
-
+.korporativ__tibbi__pakets__wrapper
+  .korporativ__tibbi__pakets__element:nth-child(2) {
+  background: linear-gradient(180deg, #90c3cb 0%, #deebee 100%);
 }
-.korporativ__tibbi__pakets__wrapper .korporativ__tibbi__pakets__element:nth-child(2) .korporativ__tibbi__pakets__element_content__showmore a{
-  background: #92C4CC;
-
+.korporativ__tibbi__pakets__wrapper
+  .korporativ__tibbi__pakets__element:nth-child(2)
+  .korporativ__tibbi__pakets__element_content__showmore
+  a {
+  background: #92c4cc;
 }
-.korporativ__tibbi__pakets__wrapper .korporativ__tibbi__pakets__element:nth-child(3){
-  background: linear-gradient(180deg, #E9D1A5 0%, #F8EFE0 100%);
+.korporativ__tibbi__pakets__wrapper
+  .korporativ__tibbi__pakets__element:nth-child(3) {
+  background: linear-gradient(180deg, #e9d1a5 0%, #f8efe0 100%);
 }
-.korporativ__tibbi__pakets__wrapper .korporativ__tibbi__pakets__element:nth-child(3) .korporativ__tibbi__pakets__element_content__showmore a{
-  background: #E9D1A5;
+.korporativ__tibbi__pakets__wrapper
+  .korporativ__tibbi__pakets__element:nth-child(3)
+  .korporativ__tibbi__pakets__element_content__showmore
+  a {
+  background: #e9d1a5;
 }
 
 .korporativ__tibbi__document {
@@ -214,10 +220,30 @@ color: #fff;
 }
 .korporativ__tibbi__document p {
   font-family: "Roboto", sans-serif;
-font-size: 24px;
-font-weight: 300;
-line-height: 25px;
-letter-spacing: 0em;
-color: rgba(188, 26, 26, 1);
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 25px;
+  letter-spacing: 0em;
+  color: rgba(188, 26, 26, 1);
+}
+.korporativ__tibbi__document a {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+}
+.korporativ__tibbi__document a p {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: rgba(87, 86, 86, 1);
+  margin-left: 10px;
 
 }

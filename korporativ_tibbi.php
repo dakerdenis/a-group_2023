@@ -191,14 +191,17 @@ include './include/header.php';
             <p>
                 A-Qroup tibbi xidmətin keyfiyyətini də nəzarət edir.
             </p>
+            
+
+
 
             <a href="#">
                 <img src="./styles/imgs/korporativ_doc.svg" alt="">
                 <p>
-                    HAMİLƏLİK VƏ DOĞUŞAYARDIMLA BAĞLI MÜAILİCƏ ALMAQ ÜÇÜN ƏRİZƏ (167 KB, DOC)
+                Hami̇ləli̇k və doğuşayardimla bağli müaili̇cə almaq üçün əri̇zə (167 kb, doc)
                 </p>
             </a>
-            
+
         </div>
     </div>
 
