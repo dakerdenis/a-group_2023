@@ -41,6 +41,8 @@ include './include/header.php';
 
         <div class="korporativ__tibbi__additional_name">
             <p> <span>KTS</span>-in ÜSTÜNLÜKLƏRİ:</p>
+
+            <img src="./" alt="">
         </div>
 
         <div class="korporativ__tibbi__content">
