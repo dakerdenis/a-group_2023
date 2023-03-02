@@ -71,7 +71,7 @@
              </div>
              <!---about__block---->
              <div class="main__ablout__block">
-                 <div class="about__block__name">
+                 <div class="about__block__name1 about__block__name_animation">
                      <img src="./styles/imgs/about_name.svg" alt="">
                      <p>NƏ ÜÇÜN SEÇİLİR</p>
                  </div>
@@ -237,7 +237,7 @@
              <!--------------->
              <!---our__clients__block---->
              <div class="main__clients__block">
-                 <div class="main__clients__name">
+                 <div class="main__clients__name about__block__name_animation">
                      <p>A-QROUP<span>-UN</span> MÜŞTƏRİLƏRİ</p>
                  </div>
                  <div class="main__clients__wrapper">

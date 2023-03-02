@@ -275,15 +275,15 @@ body {
   font-size: 20px;
 }
 
-.about__block__name {
+.about__block__name1 {
   margin-top: 20px;
   position: relative;
   height: 115px;
-  background-color: green;
+
 
 }
 
-.about__block__name p {
+.about__block__name1 p {
   font-family: "Oswald", sans-serif;
   color: rgba(87, 86, 86, 1);
   font-weight: 400;
@@ -294,10 +294,14 @@ body {
   position: absolute;
   left: 41%;
   bottom: 0;
+
+
 }
-.about__block__name img{
+.about__block__name1 img{
   position: absolute;
   left: 38%;
+
+
 }
 .about__block__content__wrapper {
   display: flex;
@@ -308,6 +312,36 @@ body {
   margin-top: 2.7em;
   margin-bottom: 4em;
 }
+.about__block__name_animation.active1 p{
+
+  -webkit-animation: ease-out mymove2 1s alternate;
+  -moz-animation: ease-out mymove2 1s alternate;
+ animation: ease-out mymove2 1s alternate;
+}
+.about__block__name_animation.active1 img{
+
+  -webkit-animation: ease-out mymove2 1s alternate;
+  -moz-animation: ease-out mymove2 1s alternate;
+ animation: ease-out mymove2 1s alternate;
+}
+@keyframes mymove2 {
+  0%{
+    transform: translateY(200px);
+    opacity: 0;
+    color: rgba(255, 255, 255, 0);
+  }
+
+  80%{
+    opacity: 1;
+    color: rgba(87, 86, 86, 0.534);
+    transform: translateY(0px);
+  }
+  100%{
+    opacity: 1;
+    color: rgba(87, 86, 86, 1);
+    transform: translateY(0px);
+}}
+
 
 .about__content__element {
   width: 33.3333%;
@@ -488,6 +522,7 @@ body {
 .main__clients__name {
   width: 100%;
   text-align: center;
+  position: relative;
 }
 
 .main__clients__name p {
@@ -496,6 +531,8 @@ body {
   font-weight: 500;
   line-height: 59px;
   letter-spacing: 0em;
+  position: absolute;
+  left: 36%;
 }
 
 .main__clients__name span {
