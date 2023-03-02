@@ -206,3 +206,18 @@ color: #fff;
 .korporativ__tibbi__pakets__wrapper .korporativ__tibbi__pakets__element:nth-child(3) .korporativ__tibbi__pakets__element_content__showmore a{
   background: #E9D1A5;
 }
+
+.korporativ__tibbi__document {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 65px;
+}
+.korporativ__tibbi__document p {
+  font-family: "Roboto", sans-serif;
+font-size: 24px;
+font-weight: 300;
+line-height: 25px;
+letter-spacing: 0em;
+color: rgba(188, 26, 26, 1);
+
+}
