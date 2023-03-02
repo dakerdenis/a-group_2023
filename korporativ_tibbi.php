@@ -94,7 +94,7 @@ include './include/header.php';
 
 
         <div class="korporativ__tibbi__pakets__wrapper">
-                                <!----->
+            <!------------------------------>
             <div class="korporativ__tibbi__pakets__element">
                 <div class="korporativ__tibbi__pakets__element_wrapper">
                     <!----->
@@ -104,8 +104,29 @@ include './include/header.php';
                     <div class="korporativ__tibbi__pakets__element_name">
                         <p>FORS-MAJOR EX</p>
                     </div>
+                    <div class="korporativ__tibbi__pakets__element_content">
+                        <div class="korporativ__tibbi__pakets__element_content-text">
+                            <p>
+                                Bizi artıq ***-dən çox Sığortalı, tanınmış beynəlxalq və yerli şirkətlər, səfirliklər və banklar seçiblər
+                            </p>
+                        </div>
+                        <div class="korporativ__tibbi__pakets__element_content-list">
+                            <p>• 24/7 Təcili Tibbi yardım </p>
+                            <p>• Təcili Cərrahi Müdaxilə </p>
+                            <p>• Təxirə salınmaz Hospitalizasiya </p>
+                            <p>• Təcili Stomatoloji yardım </p>
+                            <p>• Təcili Peyvənd </p>
+                        </div>
+                    </div>
+
+                    <div class="korporativ__tibbi__pakets__element_content__showmore">
+                        <a href="#">
+                            <p>DAHA ÇOX</p>
+                        </a>
+                    </div>
                 </div>
             </div>
+            <!------------------------------>
         </div>
 
     </div>
