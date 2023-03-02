@@ -524,6 +524,50 @@ body {
   text-align: center;
   position: relative;
 }
+.main__clients__name.active1 p{
+
+  -webkit-animation: ease-out mymove3 1s alternate;
+  -moz-animation: ease-out mymove3 1s alternate;
+ animation: ease-out mymove3 1s alternate;
+}
+.main__clients__name.active1 img{
+
+  -webkit-animation: ease-out mymove3 1s alternate;
+  -moz-animation: ease-out mymove3 1s alternate;
+ animation: ease-out mymove3 1s alternate;
+}
+@keyframes mymove3 {
+  0%{
+    transform: translateY(200px);
+    opacity: 0;
+    color: rgba(255, 255, 255, 0);
+  }
+
+  80%{
+    opacity: 1;
+    color: rgba(255, 255, 255, 0.534);
+    transform: translateY(0px);
+  }
+  100%{
+    opacity: 1;
+    color: rgb(255, 255, 255);
+    transform: translateY(0px);
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .main__clients__name p {
   font-family: "Oswald", sans-serif;

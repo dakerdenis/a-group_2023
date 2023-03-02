@@ -175,25 +175,6 @@ function reveal() {
  window.addEventListener("scroll", reveal);
 
 
- function reveal2() {
-   var reveals = document.querySelectorAll(".about__block__name_animation2");
- 
-   for (var i = 0; i < reveals.length; i++) {
-     var windowHeight = window.innerHeight;
-     var elementTop = reveals[i].getBoundingClientRect().top;
-     var elementVisible = 0;
- 
-     if (elementTop < windowHeight - elementVisible) {
-       reveals[i].classList.add("active2");
-     } else {
-       reveals[i].classList.remove("active2");
-     }
-   }
- }
- 
- window.addEventListener("scroll", reveal);
-
-
 
 
 
