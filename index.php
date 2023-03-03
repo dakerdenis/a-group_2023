@@ -291,6 +291,21 @@
                                          <img src="./styles/imgs/client_logo.png" alt="">
                                      </div>
                                  </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
                              </div>
                          </div>
                      </div>
@@ -298,6 +313,21 @@
                      <div class="main__clients__wrapper__container2">
                          <div class="swiper mySwiper3">
                              <div class="swiper-wrapper">
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
                                  <div class="swiper-slide">
                                      <div class="client__slide__image">
                                          <img src="./styles/imgs/client_logo.png" alt="">
@@ -384,6 +414,7 @@
                          delay: 0,
                          disableOnInteraction: false,
                          reverseDirection: true,
+                         pauseOnMouseEnter: true
                      },
                      freeMode: true,
                      speed: 5000,
@@ -415,26 +446,33 @@
                      loop: true,
                      autoplay: {
                          delay: 0,
-                         disableOnInteraction: false
+                         disableOnInteraction: false,
+                         pauseOnMouseEnter: true
                      },
                      freeMode: true,
                      speed: 5000,
                      freeModeMomentum: false,
-                 
-                  breakpoints: {
-                     640: {
-                         slidesPerView: 2,
-                         spaceBetween: 20,
+
+                     breakpoints: {
+                         640: {
+                             slidesPerView: 2,
+                             spaceBetween: 20,
+                         },
+                         768: {
+                             slidesPerView: 4,
+                             spaceBetween: 40,
+                         },
+                         1024: {
+                             slidesPerView: 6,
+                             spaceBetween: 50,
+                         },
                      },
-                     768: {
-                         slidesPerView: 4,
-                         spaceBetween: 40,
-                     },
-                     1024: {
-                         slidesPerView: 6,
-                         spaceBetween: 50,
-                     },
-                 },
+                 });
+
+                 $(".swiper").hover(function() {
+                     (this).swiper.autoplay.stop();
+                 }, function() {
+                     (this).swiper.autoplay.start();
                  });
              </script>
 
