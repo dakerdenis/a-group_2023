@@ -306,6 +306,26 @@
                                          <img src="./styles/imgs/client_logo.png" alt="">
                                      </div>
                                  </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
                              </div>
                          </div>
                      </div>
