@@ -21,7 +21,7 @@ include './include/header.php';
                 <div class="about__page__information__name">
                 <div class="page__name_wrapper">
                     <div class="page_name_block1">
-                    Şirkət
+                    Şirkət &nbsp;
                     </div>
                     <div class="page_name_block2">
                     haqqında
