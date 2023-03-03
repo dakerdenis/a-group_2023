@@ -557,7 +557,7 @@ body {
 
 .main__clients__name p {
   font-family: "Oswald", sans-serif;
-  font-size: 64px;
+  font-size: 46px;
   font-weight: 500;
   line-height: 59px;
   letter-spacing: 0em;
@@ -566,7 +566,7 @@ body {
 }
 
 .main__clients__name span {
-  font-size: 40px;
+  font-size: 36px;
 }
 
 .main__clients__wrapper {

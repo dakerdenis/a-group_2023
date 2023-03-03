@@ -238,7 +238,7 @@
              <!---our__clients__block---->
              <div class="main__clients__block">
                  <div class="main__clients__name about__block__name_animation">
-                     <p>A-QROUP<span>-UN</span> MÜŞTƏRİLƏRİ</p>
+                     <p><img src="./styles/imgs/main_page_clients.svg" alt=""><span>-UN</span> MÜŞTƏRİLƏRİ</p>
                  </div>
                  <div class="main__clients__wrapper">
 
