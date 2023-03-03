@@ -30,9 +30,17 @@ include './include/header.php';
             <!-------------------->
             <div class="maliye__page__content">
                 <div class="tab">
-                    <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">London</button>
-                    <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-                    <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+                    <button class="tablinks" onclick="openCity(event, '2021')" id="defaultOpen">2021</button>
+                    <button class="tablinks" onclick="openCity(event, '2020')">2020</button>
+                    <button class="tablinks" onclick="openCity(event, '2019')">2019</button>
+                    <button class="tablinks" onclick="openCity(event, '2018')">2018</button>
+                    <button class="tablinks" onclick="openCity(event, '2017')">2017</button>
+                    <button class="tablinks" onclick="openCity(event, '2016')">2016</button>
+                    <button class="tablinks" onclick="openCity(event, '2015')">2015</button>
+                    <button class="tablinks" onclick="openCity(event, '2014')">2014</button>
+                    <button class="tablinks" onclick="openCity(event, '2013')">2013</button>
+                    <button class="tablinks" onclick="openCity(event, '2012')">2012</button>
+                    <button class="tablinks" onclick="openCity(event, '2011')">2011</button>
                 </div>
 
 
