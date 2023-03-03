@@ -242,57 +242,202 @@
                  </div>
                  <div class="main__clients__wrapper">
 
-                     <div class="swiper1 mySwiper1">
-                         <div class="swiper-wrapper1">
-                             <div class="swiper-slide1">Slide 1</div>
-                             <div class="swiper-slide1">Slide 2</div>
-                             <div class="swiper-slide1">Slide 3</div>
-                             <div class="swiper-slide1">Slide 4</div>
-                             <div class="swiper-slide1">Slide 5</div>
-                             <div class="swiper-slide1">Slide 6</div>
-                             <div class="swiper-slide1">Slide 7</div>
-                             <div class="swiper-slide1">Slide 8</div>
-                             <div class="swiper-slide1">Slide 9</div>
+
+                     <div class="main__clients__wrapper__container1">
+                         <div class="swiper mySwiper2">
+                             <div class="swiper-wrapper">
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                             </div>
                          </div>
                      </div>
+
+                     <div class="main__clients__wrapper__container2">
+                         <div class="swiper mySwiper3">
+                             <div class="swiper-wrapper">
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                                 <div class="swiper-slide">
+                                     <div class="client__slide__image">
+                                         <img src="./styles/imgs/client_logo.png" alt="">
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+
+
                  </div>
 
              </div>
-<!-- Swiper JS -->
-<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+             <!-- Swiper JS -->
+             <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 
-<!-- Initialize Swiper -->
-<script>
-    var swiper1 = new Swiper(".mySwiper", {
-        slidesPerView: 1,
-        spaceBetween: 0,
-        loop: true,
-        pagination: {
-            el: ".swiper-pagination",
-            clickable: true,
-        },
-        navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
-        },
-    });
-</script>
+             <!-- Initialize Swiper -->
+             <script>
+                 var swiper1 = new Swiper(".mySwiper", {
+                     slidesPerView: 1,
+                     spaceBetween: 0,
+                     loop: true,
+                     pagination: {
+                         el: ".swiper-pagination",
+                         clickable: true,
+                     },
+                     navigation: {
+                         nextEl: ".swiper-button-next",
+                         prevEl: ".swiper-button-prev",
+                     },
+                 });
+             </script>
 
-  <!-- Initialize Swiper -->
-  <script>
-    var swiper2 = new Swiper(".swiper1", {
-      watchSlidesProgress: false,
-      slidesPerView: 3,
-      speed:2000,
-      loop: true,
-      autoplay: {
-        delay: 0,
-        disableOnInteraction: false,
-        pauseOnMouseEnter: true,
-      },
-    });
-  </script>
-  
+             <!-- Initialize Swiper -->
+             <script>
+                 var swiper2 = new Swiper(".mySwiper2", {
+                     loop: true,
+                     freeMode: true,
+                     spaceBetween: 7,
+
+
+                     loop: true,
+                     autoplay: {
+                         delay: 0,
+                         disableOnInteraction: false,
+                         reverseDirection: true,
+                     },
+                     freeMode: true,
+                     speed: 5000,
+                     freeModeMomentum: false,
+                     breakpoints: {
+                         640: {
+                             slidesPerView: 2,
+                             spaceBetween: 20,
+                         },
+                         768: {
+                             slidesPerView: 4,
+                             spaceBetween: 40,
+                         },
+                         1024: {
+                             slidesPerView: 6,
+                             spaceBetween: 50,
+                         },
+                     },
+                 });
+             </script>
+             <script>
+                 var swiper3 = new Swiper(".mySwiper3", {
+
+                     loop: true,
+                     freeMode: true,
+                     spaceBetween: 7,
+
+
+                     loop: true,
+                     autoplay: {
+                         delay: 0,
+                         disableOnInteraction: false
+                     },
+                     freeMode: true,
+                     speed: 5000,
+                     freeModeMomentum: false,
+                 
+                  breakpoints: {
+                     640: {
+                         slidesPerView: 2,
+                         spaceBetween: 20,
+                     },
+                     768: {
+                         slidesPerView: 4,
+                         spaceBetween: 40,
+                     },
+                     1024: {
+                         slidesPerView: 6,
+                         spaceBetween: 50,
+                     },
+                 },
+                 });
+             </script>
+
              <!---footer---->
              <?php include './include/footer.php' ?>
 
