@@ -102,21 +102,23 @@ include './include/header.php';
                         <img src="./styles/imgs/korporativ_pakert1.svg" alt="">
                     </div>
                     <div class="korporativ__tibbi__palets__element__content_wrapper">
-                        <div class="korporativ__tibbi__pakets__element_name">
-                            <p>FORS-MAJOR EX</p>
-                        </div>
-                        <div class="korporativ__tibbi__pakets__element_content">
-                            <div class="korporativ__tibbi__pakets__element_content-text">
-                                <p>
-                                    Bizi artıq ***-dən çox Sığortalı, tanınmış beynəlxalq və yerli şirkətlər, səfirliklər və banklar seçiblər
-                                </p>
+                        <div class="korporativ__tibbi__pakets__element__content__flex">
+                            <div class="korporativ__tibbi__pakets__element_name">
+                                <p>FORS-MAJOR </p>
                             </div>
-                            <div class="korporativ__tibbi__pakets__element_content-list">
-                                <p>• 24/7 Təcili Tibbi yardım </p>
-                                <p>• Təcili Cərrahi Müdaxilə </p>
-                                <p>• Təxirə salınmaz Hospitalizasiya </p>
-                                <p>• Təcili Stomatoloji yardım </p>
-                                <p>• Təcili Peyvənd </p>
+                            <div class="korporativ__tibbi__pakets__element_content">
+                                <div class="korporativ__tibbi__pakets__element_content-text">
+                                    <p>
+                                        Bizi artıq ***-dən çox Sığortalı, tanınmış beynəlxalq və yerli şirkətlər, səfirliklər və banklar seçiblər
+                                    </p>
+                                </div>
+                                <div class="korporativ__tibbi__pakets__element_content-list">
+                                    <p>• 24/7 Təcili Tibbi yardım </p>
+                                    <p>• Təcili Cərrahi Müdaxilə </p>
+                                    <p>• Təxirə salınmaz Hospitalizasiya </p>
+                                    <p>• Təcili Stomatoloji yardım </p>
+                                    <p>• Təcili Peyvənd </p>
+                                </div>
                             </div>
                         </div>
 
@@ -125,9 +127,11 @@ include './include/header.php';
                                 <p>DAHA ÇOX</p>
                             </a>
                         </div>
+
                     </div>
                 </div>
             </div>
+            <!------------------------------>
             <!------------------------------>
             <div class="korporativ__tibbi__pakets__element">
                 <div class="korporativ__tibbi__pakets__element_wrapper">
@@ -136,14 +140,23 @@ include './include/header.php';
                         <img src="./styles/imgs/korporativ_pakert1.svg" alt="">
                     </div>
                     <div class="korporativ__tibbi__palets__element__content_wrapper">
-                        <div class="korporativ__tibbi__pakets__element_name">
-                            <p>AMBULANCE</p>
-                        </div>
-                        <div class="korporativ__tibbi__pakets__element_content">
-                            <div class="korporativ__tibbi__pakets__element_content-text">
-                                <p>
-                                    Bu xidmət istirahət və ya bayram günlərində xüsusilə vacib və ehtiyac duyulan 24 saat 7 gün ərzində Təcili Tibbi Yardım göstərilməsini təmin edir. Xəstəliklər, bədbəxt hadisələr, travmalar, yanıqlar, zəhərlənmələr, yüksək temperatur və başqa təxirə ...
-                                </p>
+                        <div class="korporativ__tibbi__pakets__element__content__flex">
+                            <div class="korporativ__tibbi__pakets__element_name">
+                                <p>FORS-MAJOR </p>
+                            </div>
+                            <div class="korporativ__tibbi__pakets__element_content">
+                                <div class="korporativ__tibbi__pakets__element_content-text">
+                                    <p>
+                                        Bizi artıq ***-dən çox Sığortalı, tanınmış beynəlxalq və yerli şirkətlər, səfirliklər və banklar seçiblər
+                                    </p>
+                                </div>
+                                <div class="korporativ__tibbi__pakets__element_content-list">
+                                    <p>• 24/7 Təcili Tibbi yardım </p>
+                                    <p>• Təcili Cərrahi Müdaxilə </p>
+                                    <p>• Təxirə salınmaz Hospitalizasiya </p>
+                                    <p>• Təcili Stomatoloji yardım </p>
+                                    <p>• Təcili Peyvənd </p>
+                                </div>
                             </div>
                         </div>
 
@@ -152,9 +165,11 @@ include './include/header.php';
                                 <p>DAHA ÇOX</p>
                             </a>
                         </div>
+
                     </div>
                 </div>
             </div>
+            <!------------------------------>
             <!------------------------------>
             <div class="korporativ__tibbi__pakets__element">
                 <div class="korporativ__tibbi__pakets__element_wrapper">
@@ -163,14 +178,23 @@ include './include/header.php';
                         <img src="./styles/imgs/korporativ_pakert1.svg" alt="">
                     </div>
                     <div class="korporativ__tibbi__palets__element__content_wrapper">
-                        <div class="korporativ__tibbi__pakets__element_name">
-                            <p>AMBULANCE EX</p>
-                        </div>
-                        <div class="korporativ__tibbi__pakets__element_content">
-                            <div class="korporativ__tibbi__pakets__element_content-text">
-                                <p>
-                                    AMBULANCE EX tibbi sığorta proqramı korporativ müştərilər üçün genişlənmiş və sərfəli bir seçimdir. Bu sığorta məhsulu illik 5 000 Azn məbləğində tibbi təminatı nəzərdə tutur. Bu xidmət istirahət və ya bayram günlərində xüsusilə vacib və ehtiyac duyulan 24 saat 7 gün ərzində ...
-                                </p>
+                        <div class="korporativ__tibbi__pakets__element__content__flex">
+                            <div class="korporativ__tibbi__pakets__element_name">
+                                <p>FORS-MAJOR </p>
+                            </div>
+                            <div class="korporativ__tibbi__pakets__element_content">
+                                <div class="korporativ__tibbi__pakets__element_content-text">
+                                    <p>
+                                        Bizi artıq ***-dən çox Sığortalı, tanınmış beynəlxalq və yerli şirkətlər, səfirliklər və banklar seçiblər
+                                    </p>
+                                </div>
+                                <div class="korporativ__tibbi__pakets__element_content-list">
+                                    <p>• 24/7 Təcili Tibbi yardım </p>
+                                    <p>• Təcili Cərrahi Müdaxilə </p>
+                                    <p>• Təxirə salınmaz Hospitalizasiya </p>
+                                    <p>• Təcili Stomatoloji yardım </p>
+                                    <p>• Təcili Peyvənd </p>
+                                </div>
                             </div>
                         </div>
 
@@ -179,6 +203,45 @@ include './include/header.php';
                                 <p>DAHA ÇOX</p>
                             </a>
                         </div>
+
+                    </div>
+                </div>
+            </div>
+            <!------------------------------>
+             <!------------------------------>
+             <div class="korporativ__tibbi__pakets__element">
+                <div class="korporativ__tibbi__pakets__element_wrapper">
+                    <!----->
+                    <div class="korporativ__tibbi__pakets__element_image">
+                        <img src="./styles/imgs/korporativ_pakert1.svg" alt="">
+                    </div>
+                    <div class="korporativ__tibbi__palets__element__content_wrapper">
+                        <div class="korporativ__tibbi__pakets__element__content__flex">
+                            <div class="korporativ__tibbi__pakets__element_name">
+                                <p>FORS-MAJOR </p>
+                            </div>
+                            <div class="korporativ__tibbi__pakets__element_content">
+                                <div class="korporativ__tibbi__pakets__element_content-text">
+                                    <p>
+                                        Bizi artıq ***-dən çox Sığortalı, tanınmış beynəlxalq və yerli şirkətlər, səfirliklər və banklar seçiblər
+                                    </p>
+                                </div>
+                                <div class="korporativ__tibbi__pakets__element_content-list">
+                                    <p>• 24/7 Təcili Tibbi yardım </p>
+                                    <p>• Təcili Cərrahi Müdaxilə </p>
+                                    <p>• Təxirə salınmaz Hospitalizasiya </p>
+                                    <p>• Təcili Stomatoloji yardım </p>
+                                    <p>• Təcili Peyvənd </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="korporativ__tibbi__pakets__element_content__showmore">
+                            <a href="#">
+                                <p>DAHA ÇOX</p>
+                            </a>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -191,14 +254,14 @@ include './include/header.php';
             <p>
                 A-Qroup tibbi xidmətin keyfiyyətini də nəzarət edir.
             </p>
-            
+
 
 
 
             <a href="#">
                 <img src="./styles/imgs/korporativ_doc.svg" alt="">
                 <p>
-                Hami̇ləli̇k və doğuşayardimla bağli müaili̇cə almaq üçün əri̇zə (167 kb, doc)
+                    Hami̇ləli̇k və doğuşayardimla bağli müaili̇cə almaq üçün əri̇zə (167 kb, doc)
                 </p>
             </a>
 

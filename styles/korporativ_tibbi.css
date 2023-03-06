@@ -121,8 +121,8 @@
   margin-bottom: 47px;
 }
 .korporativ__tibbi__pakets__element {
-  height: 590px;
-  width: 400px;
+  height: 615px;
+  width: 290px;
   background: linear-gradient(180deg, #de937b 0%, #f2d6ca 100%);
 }
 .korporativ__tibbi__pakets__element_wrapper {
@@ -133,16 +133,33 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  justify-content: space-between;
+
 }
 .korporativ__tibbi__pakets__element_image {
-  height: 50%;
+  width: 100%;
+  height: 172px;
+  height: 30%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.korporativ__tibbi__pakets__element_image img 
+{
+  width: 100%;
+  height: 171px;
+  width: 180px;
 }
 .korporativ__tibbi__palets__element__content_wrapper {
-  height: 50%;
+  height: 70%;
+
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+}
+.korporativ__tibbi__pakets__element__content__flex{
+  margin-top: 29px;
+
 }
 .korporativ__tibbi__pakets__element_name {
   width: 100%;
@@ -155,6 +172,7 @@
   letter-spacing: 0em;
 
   color: rgba(87, 86, 86, 1);
+  margin-bottom: 14px;
 }
 .korporativ__tibbi__pakets__element_content {
   font-family: "Roboto", sans-serif;

@@ -1,0 +1,50 @@
+.maliye__page__container {
+}
+.maliye__page__wrapper {
+  margin-top: 80px;
+}
+.maliye__page_name {
+    position: relative;
+    height: 100%;
+}
+.page__name_wrapper {
+    font-family: "Roboto", sans-serif;
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 54px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.maliye_page_name_img{
+    display: block;
+    position: absolute;
+    bottom: -13px;
+    left:calc(50% - 34px);
+}
+.page_name_block1 {
+}
+.page_name_block2 {
+}
+.maliye__page__content {
+    width: 100%;
+    margin-top: 75px;
+}
+.tab {
+    display: flex;
+    width: 1105px;
+    margin: 0 auto;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.tablinks{
+    width:  85px;
+    height: 33px;
+}
+.maliye__page__content__container{
+    width: 100%;
+    background-color: green;
+    height: 150px;
+    max-width: 1105px;
+    margin:  0 auto;
+}

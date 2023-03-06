@@ -221,10 +221,12 @@ text-align: left;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  transition: ease-in-out 0.5s;
 }
 
 .tab button.active {
   background-color: #bc1a1a;
+  transform: scale(1.15);
 }
 
 .tablinks {
@@ -235,7 +237,7 @@ text-align: left;
   letter-spacing: 0em;
   text-align: center;
   color: #fff;
-  background-color: #009ca6;
+  background-color: #C4C4C4;
   width: 100%;
   padding: 3px 0px;
   border-radius: 9px;

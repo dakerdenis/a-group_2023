@@ -3,7 +3,11 @@ $title_name = "MALİYYƏ GÖSTƏRİCİLƏRİ";
 include './include/header.php';
 
 ?>
-
+<style>
+    <?php
+    include './styles/maliye.css';
+    ?>
+</style>
 
 
 <div class="main__wrapper">
@@ -17,14 +21,14 @@ include './include/header.php';
                 <!------>
                 <div class="page__name_wrapper">
                     <div class="page_name_block1">
-                        <p>MALİYYƏ </p>
+                        <p>Maliyyə &nbsp;</p>
                     </div>
                     <div class="page_name_block2">
-                        <p>GÖSTƏRİCİLƏRİ</p>
+                        <p>Göstəriciləri</p>
                     </div>
                 </div>
                 <!------->
-                <img src="./styles/imgs/maliye_blue.svg" alt="">
+                <img class="maliye_page_name_img" src="./styles/imgs/maliye_blue.svg" alt="">
             </div>
 
             <!-------------------->
@@ -43,20 +47,51 @@ include './include/header.php';
                     <button class="tablinks" onclick="openCity(event, '2011')">2011</button>
                 </div>
 
-
-                <div id="London" class="tabcontent">
-                    <h3>London</h3>
-                    <p>London is the capital city of England.</p>
-                </div>
-
-                <div id="Paris" class="tabcontent">
-                    <h3>Paris</h3>
-                    <p>Paris is the capital of France.</p>
-                </div>
-
-                <div id="Tokyo" class="tabcontent">
-                    <h3>Tokyo</h3>
-                    <p>Tokyo is the capital of Japan.</p>
+                <div class="maliye__page__content__container">
+                    <div id="2021" class="tabcontent">
+                        <h3>2021</h3>
+                        <p>London is the capital city of England.</p>
+                    </div>
+                    <div id="2020" class="tabcontent">
+                        <h3>2020</h3>
+                        <p>Paris is the capital of France.</p>
+                    </div>
+                    <div id="2019" class="tabcontent">
+                        <h3>2019</h3>
+                        <p>Tokyo is the capital of Japan.</p>
+                    </div>
+                    <div id="2018" class="tabcontent">
+                        <h3>2018</h3>
+                        <p>Tokyo is the capital of Japan.</p>
+                    </div>
+                    <div id="2017" class="tabcontent">
+                        <h3>2017</h3>
+                        <p>Tokyo is the capital of Japan.</p>
+                    </div>
+                    <div id="2016" class="tabcontent">
+                        <h3>2016</h3>
+                        <p>Tokyo is the capital of Japan.</p>
+                    </div>
+                    <div id="2015" class="tabcontent">
+                        <h3>2015</h3>
+                        <p>Tokyo is the capital of Japan.</p>
+                    </div>
+                    <div id="2014" class="tabcontent">
+                        <h3>2014</h3>
+                        <p>Tokyo is the capital of Japan.</p>
+                    </div>
+                    <div id="2013" class="tabcontent">
+                        <h3>2013</h3>
+                        <p>Tokyo is the capital of Japan.</p>
+                    </div>
+                    <div id="2012" class="tabcontent">
+                        <h3>2012</h3>
+                        <p>Tokyo is the capital of Japan.</p>
+                    </div>
+                    <div id="2011" class="tabcontent">
+                        <h3>2011</h3>
+                        <p>Tokyo is the capital of Japan.</p>
+                    </div>
                 </div>
 
 
@@ -66,34 +101,24 @@ include './include/header.php';
 
 
     <script>
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
+        function openCity(evt, cityName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(cityName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
 
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
-</script>
+        // Get the element with id="defaultOpen" and click on it
+        document.getElementById("defaultOpen").click();
+    </script>
 
     <?php
     include './include/footer.php';
     ?>
-
-
-
-
-
-
-
-
-
-
