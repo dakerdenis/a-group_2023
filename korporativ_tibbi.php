@@ -142,7 +142,7 @@ include './include/header.php';
                     <div class="korporativ__tibbi__palets__element__content_wrapper">
                         <div class="korporativ__tibbi__pakets__element__content__flex">
                             <div class="korporativ__tibbi__pakets__element_name">
-                                <p>FORS-MAJOR </p>
+                                <p>FORS-MAJOR EX</p>
                             </div>
                             <div class="korporativ__tibbi__pakets__element_content">
                                 <div class="korporativ__tibbi__pakets__element_content-text">
@@ -156,6 +156,13 @@ include './include/header.php';
                                     <p>• Təxirə salınmaz Hospitalizasiya </p>
                                     <p>• Təcili Stomatoloji yardım </p>
                                     <p>• Təcili Peyvənd </p>
+                                </div>
+                                <br>
+
+                                <div class="korporativ__tibbi__pakets__element_content-text">
+                                    <p>
+                                        Bu paketin əsas üstünlüyü səhhətinizdə ən ehtimal oluna ...
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -180,20 +187,14 @@ include './include/header.php';
                     <div class="korporativ__tibbi__palets__element__content_wrapper">
                         <div class="korporativ__tibbi__pakets__element__content__flex">
                             <div class="korporativ__tibbi__pakets__element_name">
-                                <p>FORS-MAJOR </p>
+                                <p>AMBULANCE </p>
                             </div>
                             <div class="korporativ__tibbi__pakets__element_content">
                                 <div class="korporativ__tibbi__pakets__element_content-text">
                                     <p>
-                                        Bizi artıq ***-dən çox Sığortalı, tanınmış beynəlxalq və yerli şirkətlər, səfirliklər və banklar seçiblər
+                                    Bu xidmət istirahət və ya bayram günlərində xüsusilə vacib və ehtiyac duyulan 24 saat 7 gün ərzində Təcili Tibbi Yardım göstərilməsini təmin edir. Xəstəliklər, bədbəxt hadisələr, travmalar, yanıqlar, zəhərlənmələr, yüksək temperatur və başqa təxirə salınmaz tibbi müdaxiləyə ehtiyac duyulan hallarda (təcili tibbi yardım briqadasının çağırıldığı yerdə) 
+A-Qroup-un Sığortalısı ...
                                     </p>
-                                </div>
-                                <div class="korporativ__tibbi__pakets__element_content-list">
-                                    <p>• 24/7 Təcili Tibbi yardım </p>
-                                    <p>• Təcili Cərrahi Müdaxilə </p>
-                                    <p>• Təxirə salınmaz Hospitalizasiya </p>
-                                    <p>• Təcili Stomatoloji yardım </p>
-                                    <p>• Təcili Peyvənd </p>
                                 </div>
                             </div>
                         </div>
@@ -208,8 +209,8 @@ include './include/header.php';
                 </div>
             </div>
             <!------------------------------>
-             <!------------------------------>
-             <div class="korporativ__tibbi__pakets__element">
+            <!------------------------------>
+            <div class="korporativ__tibbi__pakets__element">
                 <div class="korporativ__tibbi__pakets__element_wrapper">
                     <!----->
                     <div class="korporativ__tibbi__pakets__element_image">
@@ -218,21 +219,15 @@ include './include/header.php';
                     <div class="korporativ__tibbi__palets__element__content_wrapper">
                         <div class="korporativ__tibbi__pakets__element__content__flex">
                             <div class="korporativ__tibbi__pakets__element_name">
-                                <p>FORS-MAJOR </p>
+                                <p>AMBULANCE EX</p>
                             </div>
                             <div class="korporativ__tibbi__pakets__element_content">
                                 <div class="korporativ__tibbi__pakets__element_content-text">
                                     <p>
-                                        Bizi artıq ***-dən çox Sığortalı, tanınmış beynəlxalq və yerli şirkətlər, səfirliklər və banklar seçiblər
+                                    AMBULANCE EX tibbi sığorta proqramı korporativ müştərilər üçün genişlənmiş və sərfəli bir seçimdir. Bu sığorta məhsulu illik 5 000 Azn məbləğində tibbi təminatı nəzərdə tutur. Bu xidmət istirahət və ya bayram günlərində xüsusilə vacib və ehtiyac duyulan 24 saat 7 gün ərzində Təcili Tibbi Yardım göstərilməsini təmin edir. Bu paketin əsas üstünlüyü səhhətinizdə ən ehtimal oluna bilən xəstəliklərin aşkar olunmasını mümkün edən geniş Check-Up-dır:
                                     </p>
                                 </div>
-                                <div class="korporativ__tibbi__pakets__element_content-list">
-                                    <p>• 24/7 Təcili Tibbi yardım </p>
-                                    <p>• Təcili Cərrahi Müdaxilə </p>
-                                    <p>• Təxirə salınmaz Hospitalizasiya </p>
-                                    <p>• Təcili Stomatoloji yardım </p>
-                                    <p>• Təcili Peyvənd </p>
-                                </div>
+
                             </div>
                         </div>
 

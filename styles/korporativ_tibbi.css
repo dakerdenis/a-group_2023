@@ -182,6 +182,8 @@
   letter-spacing: 0em;
   text-align: left;
   color: rgba(87, 86, 86, 1);
+  max-height: 279px;
+  overflow: hidden;
 }
 .korporativ__tibbi__pakets__element_content-text {
 }
@@ -229,6 +231,18 @@
   .korporativ__tibbi__pakets__element_content__showmore
   a {
   background: #e9d1a5;
+}
+
+.korporativ__tibbi__pakets__wrapper
+  .korporativ__tibbi__pakets__element:nth-child(4) {
+    background: linear-gradient(180deg, #FFF3E5 0%, #FFFBF7 100%);
+
+}
+.korporativ__tibbi__pakets__wrapper
+  .korporativ__tibbi__pakets__element:nth-child(4)
+  .korporativ__tibbi__pakets__element_content__showmore
+  a {
+  background: rgba(237, 217, 180, 1);
 }
 
 .korporativ__tibbi__document {
