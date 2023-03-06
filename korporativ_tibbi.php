@@ -261,6 +261,11 @@ A-Qroup-un Sığortalısı ...
             </a>
 
         </div>
+
+        <div style="width: 100%; text-align: center;">
+            <a style="font-size: 24px; color: red;" href="./korporativ_tibbi_calc.php">Временная ссылка korporativ_tibbi_calc</a>
+                    <br>
+        </div>
     </div>
 
     <?php
