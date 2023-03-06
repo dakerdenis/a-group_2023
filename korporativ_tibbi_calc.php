@@ -6,10 +6,10 @@ include './include/header.php';
 
 <style>
     <?php
-    include './styles/korporativ_tibbi.css';
+    include './styles/korporat_tibbi_calc.css';
     ?>
 </style>
-
+s
 
 
 <div class="main__wrapper">
@@ -19,9 +19,9 @@ include './include/header.php';
     <div class="korporativ__tibbi__calc">
          <br><br><br><br><br><br><br><br><br><br>
 
-        <div class="korporativ__tibbi__page_name">
+        <div class="korporativ__tibbi__calc__page_name">
             <div class="page__name_wrapper">
-                <div class="page_name_block1 ">
+                <div class="page_name_block1 page_name_block1_korporate">
                     <p>Korporatİv &nbsp;</p>
                 </div>
                 <div class="page_name_block2 ">

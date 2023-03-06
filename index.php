@@ -227,7 +227,7 @@
                              </div>
                              <!-----mobile------>
                              <div class="mobile__mobile__block">
-                                 <img src="./styles/imgs/1.png" alt="">
+                                 <img style="width: 388px; height: 599px;" src="./styles/imgs/1.gif" alt="">
                              </div>
                          </div>
                      </div>
