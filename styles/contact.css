@@ -224,10 +224,7 @@ text-align: left;
   transition: ease-in-out 0.5s;
 }
 
-.tab button.active {
-  background-color: #bc1a1a;
-  transform: scale(1.15);
-}
+
 
 .tablinks {
   font-family: "Roboto", sans-serif;
@@ -248,6 +245,11 @@ line-height: 19px;
 letter-spacing: 0em;
 
 margin-bottom: 10px;
+transition: ease-in 0.3s;
+}
+.tab button.active {
+  background-color: #bc1a1a;
+  transform: scale(1.15);
 }
 
 .contact__page__map__map {

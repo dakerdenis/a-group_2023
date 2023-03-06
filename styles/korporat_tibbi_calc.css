@@ -3,6 +3,9 @@
     text-transform: uppercase;
     font-weight: 300;
 }
+.korporativ__tibbi__calc__page_name{
+    position: relative;
+}
 .korporativ__tibbi__calc__page_name img{
     display: block;
     position: absolute;

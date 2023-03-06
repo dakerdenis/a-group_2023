@@ -52,46 +52,6 @@ include './include/header.php';
                         <h3>2021</h3>
                         <p>London is the capital city of England.</p>
                     </div>
-                    <div id="2020" class="tabcontent">
-                        <h3>2020</h3>
-                        <p>Paris is the capital of France.</p>
-                    </div>
-                    <div id="2019" class="tabcontent">
-                        <h3>2019</h3>
-                        <p>Tokyo is the capital of Japan.</p>
-                    </div>
-                    <div id="2018" class="tabcontent">
-                        <h3>2018</h3>
-                        <p>Tokyo is the capital of Japan.</p>
-                    </div>
-                    <div id="2017" class="tabcontent">
-                        <h3>2017</h3>
-                        <p>Tokyo is the capital of Japan.</p>
-                    </div>
-                    <div id="2016" class="tabcontent">
-                        <h3>2016</h3>
-                        <p>Tokyo is the capital of Japan.</p>
-                    </div>
-                    <div id="2015" class="tabcontent">
-                        <h3>2015</h3>
-                        <p>Tokyo is the capital of Japan.</p>
-                    </div>
-                    <div id="2014" class="tabcontent">
-                        <h3>2014</h3>
-                        <p>Tokyo is the capital of Japan.</p>
-                    </div>
-                    <div id="2013" class="tabcontent">
-                        <h3>2013</h3>
-                        <p>Tokyo is the capital of Japan.</p>
-                    </div>
-                    <div id="2012" class="tabcontent">
-                        <h3>2012</h3>
-                        <p>Tokyo is the capital of Japan.</p>
-                    </div>
-                    <div id="2011" class="tabcontent">
-                        <h3>2011</h3>
-                        <p>Tokyo is the capital of Japan.</p>
-                    </div>
                 </div>
 
 
