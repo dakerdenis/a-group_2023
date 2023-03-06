@@ -23,7 +23,7 @@ include './include/header.php';
                     Fərdi
                 </div>
                 <div class="page_name_block2">
-                Avtomobil &nbsp;
+                    Avtomobil &nbsp;
                 </div>
                 <div class="page_name_block3">
                     Sığortası
@@ -189,14 +189,14 @@ include './include/header.php';
                 <p> • Əmlakın məhvi və ya zədələnməsi nəticəsində vurulmuş birbaşa həqiqi ziyan</p>
                 <p>• Üçüncü şəxslərin həyat və səhhətinə vurulmuş zərərin gətirdiyi ziyan</p>
                 <p> • Tibbi xərclər</p>
-
-                <p >
-                        <a style="font-size: 30px; color: red;" href="./ferdi_auto_calc.php">
-                            временная ссылка на  fərdİ Avtomobil sığortanı hesabla
-                    </a>
-                </p>
             </div>
 
+            <div class="ferdi__auto__calc__link">
+                <a href="./ferdi_auto_calc.php">
+                    <p>POLİS QİYMƏTİNİ
+                        HESABLAMAQ VƏ ALMAQ</p>
+                </a>
+            </div>
         </div>
     </div>
 

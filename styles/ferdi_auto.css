@@ -5,9 +5,9 @@
   position: relative;
   margin-bottom: 50px;
 }
-.page_name_block1_auto{
-    font-weight: 300;
-    text-transform: uppercase;
+.page_name_block1_auto {
+  font-weight: 300;
+  text-transform: uppercase;
 }
 .ferdi_auto_name .page_name_block2 {
   margin-left: 10px;
@@ -47,14 +47,14 @@
   text-align: center;
   color: rgba(87, 86, 86, 1);
 }
-.ferdi__auto__desc_name_color{
-    margin-top: 16px;
+.ferdi__auto__desc_name_color {
+  margin-top: 16px;
 }
 .ferdi__auto__desc_name_color p span {
   color: rgba(0, 156, 166, 1);
 }
-.ferdi__auto__desc_name_color p{
-    text-transform: uppercase;
+.ferdi__auto__desc_name_color p {
+  text-transform: uppercase;
 }
 .ferdi__auto__desc_text {
   font-family: "Roboto", sans-serif;
@@ -66,195 +66,222 @@
   position: relative;
 }
 .ferdi__auto__desc_text img {
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 .ferdi__auto__desc_container {
-    max-width: 920px;
-    margin: 0 auto;
-    text-align: left;
-    padding-left: 60px;
+  max-width: 920px;
+  margin: 0 auto;
+  text-align: left;
+  padding-left: 60px;
 }
-.ferdi__auto__desc_text_center{
-    width: 100%;
-    position: relative;
+.ferdi__auto__desc_text_center {
+  width: 100%;
+  position: relative;
 }
-.ferdi__auto__desc_text_center_container{
-    text-align: center;
-    font-family: "Roboto", sans-serif;
-    font-size: 20px;
-    font-weight: 300;
-    line-height: 23px;
-    letter-spacing: 0em;
-    text-align: center;
-    max-width: 920px;
-    margin: 0 auto;
-    margin-bottom: 15px;
-
+.ferdi__auto__desc_text_center_container {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: center;
+  max-width: 920px;
+  margin: 0 auto;
+  margin-bottom: 15px;
 }
 .ferdi__auto__desc_text_center img {
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 15%;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 15%;
 }
 
-.ferdi__auto__desc_text_center_container p:first-child{
-    margin-bottom: 20px;
+.ferdi__auto__desc_text_center_container p:first-child {
+  margin-bottom: 20px;
 }
-.ferdi__auto__desc_container  p:before {
-    content: "";
-    width: 4px;
-    height: 4px;
-    border-radius: 50%;
-    background-color: rgba(87, 86, 86, 1);
-    display: inline-block;
-    margin-right: 10px;
-    margin-bottom: 5px;
+.ferdi__auto__desc_container p:before {
+  content: "";
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: rgba(87, 86, 86, 1);
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 5px;
 }
 .ferdi__auto__desc_container p {
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 .ferdi__auto__images {
-    width: 100%;
-    margin-top: 30px;
-    margin-bottom: 70px;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 70px;
 }
 .ferdi__auto__images__wrapper {
-    max-width: 1280px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+  max-width: 1280px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 
-    margin:  0 auto;
+  margin: 0 auto;
 }
 .ferdi__auto__images__element {
-    width: 290px;
-    height: 615px;
-    padding: 37px 8px;
-    background: linear-gradient(180deg, #DE937B 0%, #F2D6CA 100%);
-    color:  rgba(87, 86, 86, 1) ;
-    text-align: center;
-    position: relative;
+  width: 290px;
+  height: 615px;
+  padding: 37px 8px;
+  background: linear-gradient(180deg, #de937b 0%, #f2d6ca 100%);
+  color: rgba(87, 86, 86, 1);
+  text-align: center;
+  position: relative;
 }
 .ferdi_auto__images__image {
 }
 .ferdi__auto__images__name {
-
-    font-family: Oswald;
-font-size: 32px;
-font-weight: 500;
-line-height: 47px;
-letter-spacing: 0em;
-text-align: center;
-margin-top: 30px;
+  font-family: Oswald;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 47px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-top: 30px;
 }
 .ferdi__auto__images__desc {
-    font-family: "Roboto", sans-serif;
-font-size: 16px;
-font-weight: 300;
-line-height: 22px;
-letter-spacing: 0em;
-text-align: left;
-margin-top: 23px;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 23px;
 }
 .ferdi__auto__images__more {
-
-    position: absolute;
-    bottom: 13px;
-    text-align: right;
-    right: 8px;
+  position: absolute;
+  bottom: 13px;
+  text-align: right;
+  right: 8px;
 }
 .ferdi__auto__images__more a {
-    display: block;
-    align-items: center;
-    justify-content: center;
-    height: 30px;
-width: 105px;
-background: #DF957D;
-border-radius: 10px;
-font-family: "Roboto", sans-serif;
-font-size: 14px;
-font-weight: 500;
-line-height: 30px;
-letter-spacing: 0em;
-text-align: center;
-color: rgba(87, 86, 86, 1);
+  display: block;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  width: 105px;
+  background: #df957d;
+  border-radius: 10px;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(87, 86, 86, 1);
+}
+.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(2) {
+  background: linear-gradient(180deg, #ecd8b3 0%, #f8efe0 100%);
+}
+.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(3) {
+  background: linear-gradient(180deg, #a5cdd4 0%, #deebee 100%);
+}
+.ferdi__auto__images__wrapper
+  .ferdi__auto__images__element:nth-child(3)
+  .ferdi__auto__images__name {
+  text-transform: uppercase;
+}
+.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(4) {
+  background: linear-gradient(180deg, #fff3e5 0%, #fffbf7 100%);
+}
+.ferdi__auto__images__wrapper
+  .ferdi__auto__images__element:nth-child(4)
+  .ferdi__auto__images__more
+  a {
+  background: #fff4e6;
+}
 
-}
-.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(2){
-    background: linear-gradient(180deg, #ECD8B3 0%, #F8EFE0 100%);
-}
-.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(3){
-    background: linear-gradient(180deg, #A5CDD4 0%, #DEEBEE 100%);
-}
-.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(3) .ferdi__auto__images__name{
-    text-transform: uppercase;
-}
-.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(4){
-    background: linear-gradient(180deg, #FFF3E5 0%, #FFFBF7 100%);
-}
-.ferdi__auto__images__wrapper .ferdi__auto__images__element:nth-child(4) .ferdi__auto__images__more a{
-    background: #FFF4E6;
+.ferdi__auto__additional_desc {
+  max-width: 840px;
+  margin: 0 auto;
 }
 
-.ferdi__auto__additional_desc{
-    max-width: 840px;
-    margin: 0 auto;
+.ferdi__auto__additional_desc p:nth-child(1) {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(188, 26, 26, 1);
+  margin-top: 30px;
 }
+.ferdi__auto__additional_desc p:nth-child(2) {
+  display: block;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(87, 86, 86, 1);
 
-.ferdi__auto__additional_desc p:nth-child(1){
-    font-family: "Roboto", sans-serif;
-font-size: 20px;
-font-weight: 700;
-line-height: 22px;
-letter-spacing: 0em;
-text-align: center;
-color:  rgba(188, 26, 26, 1);
-margin-top: 30px;
+  margin-top: 30px;
 }
-.ferdi__auto__additional_desc p:nth-child(2){
-    display: block;
-    font-family: "Roboto", sans-serif;
-font-size: 20px;
-font-weight: 300;
-line-height: 23px;
-letter-spacing: 0em;
-text-align: center;
-color: rgba(87, 86, 86, 1);
-
-
-margin-top: 30px;
+.ferdi__auto__additional_desc p:nth-child(3) {
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 23px;
+  letter-spacing: 0em;
+  margin-top: 20px;
+  color: rgba(87, 86, 86, 1);
 }
-.ferdi__auto__additional_desc p:nth-child(3){
-    text-align: left;
-    font-family: "Roboto", sans-serif;
-font-size: 20px;
-font-weight: 300;
-line-height: 23px;
-letter-spacing: 0em;
-margin-top: 20px;
-color: rgba(87, 86, 86, 1);
+.ferdi__auto__additional_desc p:nth-child(4) {
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 23px;
+  letter-spacing: 0em;
+  margin-top: 10px;
+  color: rgba(87, 86, 86, 1);
 }
-.ferdi__auto__additional_desc p:nth-child(4){
-    text-align: left;
-    font-family: "Roboto", sans-serif;
-    font-size: 20px;
-    font-weight: 300;
-    line-height: 23px;
-    letter-spacing: 0em;
-    margin-top: 10px;
-    color: rgba(87, 86, 86, 1);
+.ferdi__auto__additional_desc p:nth-child(5) {
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 23px;
+  letter-spacing: 0em;
+  margin-top: 10px;
+  color: rgba(87, 86, 86, 1);
 }
-.ferdi__auto__additional_desc p:nth-child(5){
-    text-align: left;
-    font-family: "Roboto", sans-serif;
-    font-size: 20px;
-    font-weight: 300;
-    line-height: 23px;
-    letter-spacing: 0em;
-    margin-top: 10px;
-    color: rgba(87, 86, 86, 1);
+.ferdi__auto__calc__link {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.ferdi__auto__calc__link a {
+  display: block;
+  background-color: #bc1a1a;
+  width: 179px;
+  height: 50px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ferdi__auto__calc__link a p {
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
 }
