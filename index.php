@@ -227,7 +227,10 @@
                              </div>
                              <!-----mobile------>
                              <div class="mobile__mobile__block">
-                                 <img style="width: 388px; height: 599px;" src="./styles/imgs/1.gif" alt="">
+                                 <div class="mobile__mobile__block_wrapper">
+                                     <img class="mobile__mobile__block_img1" src="./styles/imgs/phone.png" alt="">
+                                     <img class="mobile__mobile__block_img2" src="./styles/imgs/1.gif" alt="">
+                                 </div>
                              </div>
                          </div>
                      </div>

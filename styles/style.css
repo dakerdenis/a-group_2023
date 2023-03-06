@@ -456,11 +456,12 @@ body {
 
 .mobile__text___text p {
   font-family: "Roboto", sans-serif;
-  font-size: 36px;
+  font-size: 24px;
   font-weight: 300;
-  line-height: 42px;
+  line-height: 40px;
   letter-spacing: 0em;
   text-align: left;
+  
 }
 
 .mobile__links__block a:nth-child(2) {
@@ -500,12 +501,30 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  height: 676.5910034179688px;
-  width: 629px;
+  height: 621px;
+  width: 455px;
+  left: 10%;
 }
+.mobile__mobile__block_wrapper{
+  width: 100%;
+  height: 100%;
+  position: relative;
 
-.mobile__mobile__block img {}
+}
+.mobile__mobile__block_img1 {
+  position: absolute;
+  z-index: 1;
+  width: 455px;
+  height: 621px;
 
+}
+.mobile__mobile__block_img2 {
+  position: absolute;
+  z-index: -1;
+  left: 7%;
+  width: 395.5px;
+  top: 4%;
+}
 /**********Стили раздела наши клиенты************************/
 /**********Стили раздела наши клиенты************************/
 .main__clients__block {
