@@ -37,11 +37,27 @@ include './header.php';
                     </div>
 
                     <div class="login__form__input__wrapper">
-                        
+                        <div class="login__form__input__block">
+                            <input type="text">
+                        </div>
+
+                        <div class="login__form__input__block">
+                            <input type="text">
+                        </div>
+
+                        <div class="login__form__input__block">
+                            <input type="text">
+                        </div>
+                    </div>
+
+                    <div class="login__form__login__button">
+                        <button>Göndər</button>
                     </div>
                 </form>
             </div>
         </div>
+        <!----->
+
     </div>
 
 

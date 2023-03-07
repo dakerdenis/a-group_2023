@@ -1,0 +1,32 @@
+.login__page__container {
+    width: 100%;
+    height: 100vh;
+    background-color: #90C3CB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+.login__page__login_form {
+    width: 535px;
+    height: 393px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.login__page__login__wrapper {
+}
+.login__page__form {
+}
+.login__form__name {
+}
+.login__form__name__desc {
+}
+.login__form__desc {
+}
+.login__form__input__wrapper {
+}
+.login__form__input__block {
+}
+.login__form__login__button {
+}
