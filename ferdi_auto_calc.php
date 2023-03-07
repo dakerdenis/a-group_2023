@@ -33,9 +33,10 @@ include './include/header.php';
                     </div>
                     <div class="page_name_block4 page_name_block_tibbi_calc">
                         <p>Hesabla</p>
+                        <img src="./styles/imgs/tibbi_blue.svg" alt="">
                     </div>
                 </div>
-                <img src="./styles/imgs/tibbi_blue.svg" alt="">
+
             </div>
 
 
@@ -44,8 +45,8 @@ include './include/header.php';
                     <p>
                         <img src="./styles/imgs/alert-circle.svg" alt="">
                     </p>
-                    <p>Qeyd edilən sığorta tarifləri dəyəri 100 000 AZN-dək olan avtomobillər üçün nəzərdə tutulub.Dəyəri 100 000 AZN-dən yüksək 
-olan avtomobillərin sığorta haqqının hesablanması üçün zəhmət olmasa *0909 nömrəsi ilə əlaqə saxlayaraq  məlumat alın.</p>
+                    <p>Qeyd edilən sığorta tarifləri dəyəri 100 000 AZN-dək olan avtomobillər üçün nəzərdə tutulub.Dəyəri 100 000 AZN-dən yüksək
+                        olan avtomobillərin sığorta haqqının hesablanması üçün zəhmət olmasa *0909 nömrəsi ilə əlaqə saxlayaraq məlumat alın.</p>
                 </div>
             </div>
 

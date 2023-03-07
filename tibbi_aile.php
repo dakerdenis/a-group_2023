@@ -31,9 +31,10 @@ include './include/header.php';
                     </div>
                     <div class="page_name_block4 page_name_block_tibbi_calc">
                         <p>Hesabla</p>
+                        <img src="./styles/imgs/tibbi_blue.svg" alt="">
                     </div>
                 </div>
-                <img src="./styles/imgs/tibbi_blue.svg" alt="">
+                
             </div>
 
 

@@ -117,6 +117,7 @@ margin-top: 10px;
   }
 .page_name_block_tibbi{
   margin: 0;
+  position: relative;
 }
 .page_name_block_tibbi1{
   font-weight: 300;

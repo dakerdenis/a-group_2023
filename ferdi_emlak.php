@@ -24,13 +24,14 @@ include './include/header.php';
                 </div>
                 <div class="page_name_block2 ">
                     <p>Əmlak &nbsp;</p>
+                    <img src="./styles/imgs/ferdi_emlak_red.svg" alt="">
                 </div>
                 <div class="page_name_block3 ">
                     <p>Sığorta</p>
                 </div>
 
             </div>
-            <img src="./styles/imgs/ferdi_emlak_red.svg" alt="">
+            
         </div>
 
         <div class="ferdi__emlak__name-desc">

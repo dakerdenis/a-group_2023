@@ -11,10 +11,15 @@
 }
 .ferdi_auto_name .page_name_block2 {
   margin-left: 10px;
+  position: relative;
+}
+.ferdi_auto_name .page_name_block2 img{
+
 }
 .ferdi_auto_name img {
-  position: absolute;
-  left: calc(50% - 150px);
+position: absolute;
+    left: calc(50% - 129px);
+    bottom: -17px;
 }
 .ferdi__auto__desc_container_main {
   width: 100%;

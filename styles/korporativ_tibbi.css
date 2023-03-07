@@ -5,7 +5,8 @@
 }
 .korporativ__tibbi__page_name img {
   position: absolute;
-  left: calc(50% - 0px);
+  left: calc(50% - 70px);
+  bottom: -10px;
 }
 .page__name_wrapper {
 }
@@ -14,6 +15,7 @@
   font-weight: 300;
 }
 .page_name_block2 {
+  position: relative;
 }
 .page_name_block3 {
 }

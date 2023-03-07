@@ -3,6 +3,12 @@ $title_name = "FAQ";
 include './include/header.php';
 
 ?>
+<style>
+    <?php
+    include './styles/faq.css';
+    ?>
+</style>
+
 
 
 

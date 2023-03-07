@@ -24,12 +24,13 @@ include './include/header.php';
                 </div>
                 <div class="page_name_block2">
                     Avtomobil &nbsp;
+                    <img src="./styles/imgs/vector_auto.svg" alt="">
                 </div>
                 <div class="page_name_block3">
                     Sığortası
                 </div>
             </div>
-            <img src="./styles/imgs/vector_auto.svg" alt="">
+
         </div>
 
         <div class="ferdi__auto__desc_container_main">

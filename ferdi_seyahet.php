@@ -24,13 +24,14 @@ include './include/header.php';
                 </div>
                 <div class="page_name_block2 page_name_block_ferdi_seyahet">
                     <p>Səyahət &nbsp;</p>
+                    <img src="./styles/imgs/ferdi_seyahet_name.svg" alt="">
                 </div>
                 <div class="page_name_block3 page_name_block_ferdi_seyahet">
                     <p>Sığortası</p>
                 </div>
 
             </div>
-            <img src="./styles/imgs/ferdi_seyahet_name.svg" alt="">
+           
         </div>
         <img class="seyahet_palent" src="./styles/imgs/seyahet__plane.svg" alt="">
         <div class="ferdi__seyahet__content__container">

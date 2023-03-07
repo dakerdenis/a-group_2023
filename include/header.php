@@ -37,12 +37,8 @@
 
       <!---complaints styles--->
       <link rel="stylesheet" href="./styles/complaints.css">
-      <!--FAQ page    faq.php--->
-      <link rel="stylesheet" href="./styles/faq.css">
       <!---about.php-->
       <link rel="stylesheet" href="./styles/about.css">
-      <!---maliye.php----->
-      <link rel="stylesheet" href="./styles/maliye.php">
 
 
 

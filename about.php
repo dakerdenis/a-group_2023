@@ -19,15 +19,16 @@ include './include/header.php';
             <div class="about__page__information">
                 <!------>
                 <div class="about__page__information__name">
-                <div class="page__name_wrapper">
-                    <div class="page_name_block1">
-                    Şirkət &nbsp;
+                    <div class="page__name_wrapper">
+                        <div class="page_name_block1">
+                            Şirkət &nbsp;
+                        </div>
+                        <div class="page_name_block2">
+                            <p>haqqında</p>
+                            <img src="./styles/imgs/about_red.svg" alt="">
+                        </div>
                     </div>
-                    <div class="page_name_block2">
-                    haqqında
-                    </div>
-                </div>
-                    <img src="./styles/imgs/about_red.svg" alt="">
+
                 </div>
                 <!----->
                 <div class="about__page__information__content">
@@ -48,11 +49,11 @@ include './include/header.php';
             <div class="about__page__chef">
                 <!----chefs----->
                 <div class="about__page__chef__name">
-                <div class="page__name_wrapper">
-                    <div class="page_name_block1">
-                    Rəhbərlik
+                    <div class="page__name_wrapper">
+                        <div class="page_name_block1">
+                            Rəhbərlik
+                        </div>
                     </div>
-                </div>
                     <img src="./styles/imgs/chef_blue.svg" alt="">
                 </div>
                 <div class="about__page__chef__container">

@@ -2,7 +2,9 @@
     background: #009CA6;
 }
 .polis__count__name img {
-    right: calc(50% - 363px);
+    right: calc(50% - 94px);
+    bottom: -10px;
+
 }
 .polis__count__desc_block{
     max-width: 926px;

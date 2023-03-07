@@ -9,7 +9,8 @@
 }
 .ferdi_seyahet__page_name img {
   position: absolute;
-  left: calc(50% - 109px);
+  left: calc(50% - 92px);
+  bottom: -20px;
 }
 .page_name_block_ferdi_seyahet p {
   color: #fff;
@@ -31,6 +32,7 @@
   margin: 0 auto;
   margin-top: 60px;
 }
+
 .ferdi__seyahet__content__element {
   width: 564px;
   height: 521px;

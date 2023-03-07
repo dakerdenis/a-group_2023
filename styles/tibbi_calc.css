@@ -10,7 +10,7 @@
 }
 .polis__count__name img {
   position: absolute;
-  right: calc(50% - 310px);
+  right: calc(50% - 97px);
 }
 .page_name_block_tibbi_calc {
   margin-right: 10px;
@@ -31,6 +31,7 @@
 .page_name_block3 {
 }
 .page_name_block4 {
+  position: relative;
 }
 
 .polis__count__desc {

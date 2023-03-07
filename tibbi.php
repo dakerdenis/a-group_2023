@@ -24,13 +24,14 @@ include './include/header.php';
                 </div>
                 <div class="page_name_block2 page_name_block_tibbi">
                     <p>Tibbi &nbsp;</p>
+                    <img src="./styles/imgs/complaints_red.svg" alt="">
                 </div>
                 <div class="page_name_block3 ">
                     <p>Sığorta</p>
                 </div>
 
             </div>
-            <img src="./styles/imgs/complaints_red.svg" alt="">
+
         </div>
 
         <div class="medical__blocks__wrapper">
