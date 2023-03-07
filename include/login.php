@@ -67,7 +67,7 @@ include './header.php';
         <img src="../styles/imgs/login_image1.svg" alt="" class="top__image1">
 
         <!---фотки снизу-->
-        <img src="../styles/imgs/login_eblan.png" alt="" class="bottom__image1">
+        <img src="../styles/imgs/login_car.png" alt="" class="bottom__image1">
     </div>
 
 
