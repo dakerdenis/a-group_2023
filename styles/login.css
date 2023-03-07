@@ -1,14 +1,4 @@
-.login__page__container {
-  width: 100%;
-  height: 100vh;
-  background-color: #E8D0A4;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
 
-  position: relative;
-}
 .login__page__login_form {
   width: 535px;
   height: 393px;
@@ -96,30 +86,69 @@ letter-spacing: 0em;
 color: rgba(255, 255, 255, 1);
 }
 /***************ANIMATION*********************/
+.login__page__container {
+    width: 100%;
+    height: 100vh;
+    background-color: #E8D0A4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  
+    position: relative;
+
+
+
+    -webkit-animation: ease-out background_animation 0.3s  alternate forwards;
+    -moz-animation: ease-out background_animation 0.3s  alternate forwards;
+    animation: ease-out background_animation 0.3s  alternate forwards;
+    animation-delay: 3s; 
+  }
 .top__image1{
     display: block;
     position: absolute;
     top: 0;
     right: 0;
+    width: 293px;
+    height: 195px;
 
-    -webkit-animation: ease-out login_image1 0.3s  alternate forwards;
-    -moz-animation: ease-out login_image1 0.3s  alternate forwards;
-    animation: ease-out login_image1 0.3s  alternate forwards;
+    background-image: url('../styles/imgs/login_image1.svg');
+    background-position: center;
+    background-size: cover;
+
+
+    -webkit-animation: ease-out login_image_top1 0.3s  alternate forwards;
+    -moz-animation: ease-out login_image_top1 0.3s  alternate forwards;
+    animation: ease-out login_image_top1 0.3s  alternate forwards;
     animation-delay: 3s; 
 }
+
 .bottom__image1{
     position: absolute;
     bottom: 39px;
     left: 40px;
-
 }
 
-
-@keyframes login_image1{
+@keyframes background_animation {
     0%{
-        transform: scale(1,1);
+        background-color: #E8D0A4;
     }
     100%{
-        transform: scale(1, -1);
+        background-color: rgba(254, 234, 211, 1);
+    }
+}
+@keyframes login_image_top1{
+    0%{
+        transform: scale(1,1);
+
+    }
+    50%{
+        transform: scale(1,0);
+        background-image: url('../styles/imgs/login_top.svg');
+        
+    }
+    100%{
+        transform: scale(1, 1);
+        background-image: url('../styles/imgs/login_top.svg');
     }
 }

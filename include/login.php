@@ -64,10 +64,21 @@ include './header.php';
 
 
         <!--фотки сверху---->
-        <img src="../styles/imgs/login_image1.svg" alt="" class="top__image1">
+        <div class="top__image1">
+
+        </div>
+       
+
+
+        
+        
 
         <!---фотки снизу-->
         <img src="../styles/imgs/login_car.png" alt="" class="bottom__image1">
+
+        <div class="bottom_image1">
+
+        </div>
     </div>
 
 
