@@ -15,6 +15,8 @@ include './header.php';
 <div class="main__wrapper">
 
     <div class="login__page__container">
+
+
         <!---->
         <div class="login__page__login_form">
             <div class="login__page__login__wrapper">
@@ -58,6 +60,14 @@ include './header.php';
         </div>
         <!----->
 
+
+
+
+        <!--фотки сверху---->
+        <img src="../styles/imgs/login_image1.svg" alt="" class="top__image1">
+
+        <!---фотки снизу-->
+        <img src="../styles/imgs/login_eblan.png" alt="" class="bottom__image1">
     </div>
 
 
