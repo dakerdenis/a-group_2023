@@ -38,15 +38,15 @@ include './header.php';
 
                     <div class="login__form__input__wrapper">
                         <div class="login__form__input__block">
-                            <input type="text">
+                            <input placeholder="Sığorta nömrəsi" type="text">
                         </div>
 
                         <div class="login__form__input__block">
-                            <input type="text">
+                            <input placeholder="FİN kod" type="text">
                         </div>
 
                         <div class="login__form__input__block">
-                            <input type="text">
+                            <input placeholder="Mobil nömrə" type="text">
                         </div>
                     </div>
 
