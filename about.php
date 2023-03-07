@@ -3,6 +3,12 @@ $title_name = "Şirkət haqqında";
 include './include/header.php';
 
 ?>
+<style>
+    <?php
+    include './styles/about.css';
+    ?>
+</style>
+
 
 
 
@@ -51,10 +57,11 @@ include './include/header.php';
                 <div class="about__page__chef__name">
                     <div class="page__name_wrapper">
                         <div class="page_name_block1">
-                            Rəhbərlik
+                            <p>Rəhbərlik</p>
+                            <img src="./styles/imgs/chef_blue.svg" alt="">
                         </div>
                     </div>
-                    <img src="./styles/imgs/chef_blue.svg" alt="">
+
                 </div>
                 <div class="about__page__chef__container">
                     <div class="about__page__chef__wrapper">

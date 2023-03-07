@@ -3,6 +3,13 @@ $title_name = "Şikayətlər";
 include './include/header.php';
 
 ?>
+<style>
+    <?php
+    include './styles/complaints.css';
+    ?>
+</style>
+
+
 
 
 
@@ -24,13 +31,11 @@ include './include/header.php';
                     <p>yətin</p>
                 </div>
                 <div class="page_name_block3">
-                    <p>Veril</p>
-                </div>
-                <div class="page_name_block4">
-                    <p>məsi</p>
+                    <p>Verilməsi</p>
+                    <img src="./styles/imgs/complaints_red.svg" alt="">
                 </div>
             </div>
-            <img src="./styles/imgs/complaints_red.svg" alt="">
+
         </div>
 
         <div class="compliants__desc_text">

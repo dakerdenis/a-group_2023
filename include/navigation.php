@@ -381,7 +381,7 @@
         </div>
         <!----login link---->
         <div class="navigation__login">
-            <a href="#">
+            <a href="./include/login.php">
                 <div class="login__link__text">
                     Şəxsi Kabinet
                 </div>

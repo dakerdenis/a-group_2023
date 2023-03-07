@@ -5,6 +5,11 @@ include './include/header.php';
 ?>
 
 
+<style>
+    <?php
+    include './styles/contact.css';
+    ?>
+</style>
 
 
 

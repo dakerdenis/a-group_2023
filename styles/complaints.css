@@ -10,6 +10,9 @@
 .complaints__name .page_name_block2{
   margin-right: 10px;
 }
+.complaints__name .page_name_block3{
+position: relative;
+}
 .complaints__name p {
   font-family: "Roboto", sans-serif;
   color: rgba(87, 86, 86, 1);

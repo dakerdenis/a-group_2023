@@ -30,20 +30,5 @@
     <link rel="stylesheet" href="./styles/footer.css">
     <link rel="stylesheet" href="./styles/swiper.css">
     <!---all styles---->
-    <link rel="stylesheet" href="./styles/style.css">
-
-    <!--contact page styles--->
-    <link rel="stylesheet" href="./styles/contact.css">
-
-      <!---complaints styles--->
-      <link rel="stylesheet" href="./styles/complaints.css">
-      <!---about.php-->
-      <link rel="stylesheet" href="./styles/about.css">
-
-
-
-
-
-
-      
+    <link rel="stylesheet" href="./styles/style.css">      
 </head>
