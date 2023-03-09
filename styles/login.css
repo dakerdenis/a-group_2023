@@ -96,13 +96,15 @@ color: rgba(255, 255, 255, 1);
     overflow: hidden;
   
     position: relative;
-
+    z-index: -1;
 
 
     -webkit-animation: ease-out background_animation 0.3s  alternate forwards;
     -moz-animation: ease-out background_animation 0.3s  alternate forwards;
     animation: ease-out background_animation 0.3s  alternate forwards;
     animation-delay: 3s; 
+
+
   }
 .top__image1{
     display: block;
@@ -111,6 +113,7 @@ color: rgba(255, 255, 255, 1);
     right: 0;
     width: 293px;
     height: 195px;
+    z-index: 1;
 
     background-image: url('../styles/imgs/login_image1.svg');
     background-position: center;
@@ -123,10 +126,26 @@ color: rgba(255, 255, 255, 1);
     animation-delay: 3s; 
 }
 
-.bottom__image1{
+.bottom_image1{
     position: absolute;
     bottom: 39px;
     left: 40px;
+    z-index: 1;
+
+
+
+    background-image: url('../styles/imgs/login_car.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 269px;
+    width: 500px;
+
+
+    -webkit-animation: ease-out animation_botom 0.3s  alternate forwards;
+    -moz-animation: ease-out animation_botom 0.3s  alternate forwards;
+    animation: ease-out animation_botom 0.3s  alternate forwards;
+    animation-delay: 3s; 
 }
 
 @keyframes background_animation {
@@ -137,6 +156,8 @@ color: rgba(255, 255, 255, 1);
         background-color: rgba(254, 234, 211, 1);
     }
 }
+
+
 @keyframes login_image_top1{
     0%{
         transform: scale(1,1);
@@ -151,4 +172,13 @@ color: rgba(255, 255, 255, 1);
         transform: scale(1, 1);
         background-image: url('../styles/imgs/login_top.svg');
     }
+}
+
+@keyframes animation_botom {
+  0%{
+    background-image: url('../styles/imgs/login_car.png');
+  }
+  100%{
+    background-image: url('../styles/imgs/login_home.png');
+  }
 }

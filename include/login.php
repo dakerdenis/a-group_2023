@@ -74,8 +74,6 @@ include './header.php';
         
 
         <!---фотки снизу-->
-        <img src="../styles/imgs/login_car.png" alt="" class="bottom__image1">
-
         <div class="bottom_image1">
 
         </div>
