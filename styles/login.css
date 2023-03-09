@@ -186,15 +186,16 @@ color: rgba(255, 255, 255, 1);
   }
   50%{
     top: 0;
-    right: 40%;
+    right: initial;
+    left: 30%;
     transform: scale(0,1);
     background-image: url('../styles/imgs/login_top_image3.svg');
   }
   100%{
     top: 0;
-    left: initial;
     left: 0;
-    transform: scale(1,1);
+
+    transform: scale(1,1) ;
     background-image: url('../styles/imgs/login_top_image3.svg');
   }
 }
