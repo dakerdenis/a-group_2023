@@ -86,19 +86,7 @@ include './header.php';
 
 <script>
     var top_image = document.querySelector(".top__image1");
-    //   const top_image_animation = [
-    //       {transform:"scale(1,1)"},
-    //       {transform:"scale(1,-1)"},
-    //   ];
-    //   const top_image_timing = {
-    //       duration: 300,
-    //       iterations:1
-    //   };
     function change_top_image() {
-        //        top_image.style.animationDirection = "alternate";
-        //       top_image.style.animationFillMode= "forwards";
-        //        top_image.animate(top_image_animation, top_image_timing);
-        //       top_image.style.background = "url('../styles/imgs/login_top.svg')";
         top_image.style.animationName = "login_image_top1";
     };
 
