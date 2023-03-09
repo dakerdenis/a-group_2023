@@ -120,10 +120,10 @@ color: rgba(255, 255, 255, 1);
     background-size: cover;
 
 
-    -webkit-animation: ease-out login_image_top1 0.3s  alternate forwards;
-    -moz-animation: ease-out login_image_top1 0.3s  alternate forwards;
-    animation: ease-out login_image_top1 0.3s  alternate forwards;
-    animation-delay: 5s; 
+    -webkit-animation: ease-out  0.3s  alternate forwards;
+    -moz-animation: ease-out  0.3s  alternate forwards;
+    animation: ease-out  0.3s  alternate forwards;
+    animation-delay: 2s; 
 }
 
 .bottom_image1{
@@ -176,6 +176,23 @@ color: rgba(255, 255, 255, 1);
         transform: scale(1, 1);
         background-image: url('../styles/imgs/login_top.svg');
     }
+}
+@keyframes login_image_top1-2{
+  0%{
+    transform: scale(1, 1);
+    top: 0;
+    right: 0;
+  }
+  50%{
+    top: 0;
+    right: 50%;
+    transform: scale(0,1);
+  }
+  100%{
+    top: 0;
+    left: initial;
+    left: 0;
+  }
 }
 
 @keyframes animation_botom {
