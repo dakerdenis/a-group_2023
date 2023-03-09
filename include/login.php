@@ -91,6 +91,14 @@ include './header.php';
     };
 
     setTimeout(change_top_image, 3000);
+
+
+    function change_top_image3() {
+        top_image.style.animationDuration = "0.5s";
+        top_image.style.animationName = "login_image_top1-2";
+    };
+
+    setTimeout(change_top_image3, 6000);
 </script>
 
 </body>
