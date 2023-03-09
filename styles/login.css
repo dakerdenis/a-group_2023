@@ -99,10 +99,10 @@ color: rgba(255, 255, 255, 1);
     z-index: -1;
 
 
-    -webkit-animation: ease-out background_animation 0.3s  alternate forwards;
-    -moz-animation: ease-out background_animation 0.3s  alternate forwards;
-    animation: ease-out background_animation 0.3s  alternate forwards;
-    animation-delay: 3s; 
+    -webkit-animation: steps(1, end)  background_animation 6s  alternate forwards;
+    -moz-animation: steps(1, end) background_animation 6s  alternate forwards;
+    animation: steps(1, end) background_animation 6s  alternate forwards;
+    animation-delay: 2s; 
 
 
   }
@@ -123,7 +123,7 @@ color: rgba(255, 255, 255, 1);
     -webkit-animation: ease-out login_image_top1 0.3s  alternate forwards;
     -moz-animation: ease-out login_image_top1 0.3s  alternate forwards;
     animation: ease-out login_image_top1 0.3s  alternate forwards;
-    animation-delay: 3s; 
+    animation-delay: 5s; 
 }
 
 .bottom_image1{
@@ -145,15 +145,19 @@ color: rgba(255, 255, 255, 1);
     -webkit-animation: ease-out animation_botom 0.3s  alternate forwards;
     -moz-animation: ease-out animation_botom 0.3s  alternate forwards;
     animation: ease-out animation_botom 0.3s  alternate forwards;
-    animation-delay: 3s; 
+    animation-delay: 5s; 
 }
 
 @keyframes background_animation {
     0%{
         background-color: #E8D0A4;
     }
+    50%{
+      background-color: rgba(254, 234, 211, 1);
+      
+    }
     100%{
-        background-color: rgba(254, 234, 211, 1);
+      background-color: rgba(144, 195, 203, 1);
     }
 }
 
