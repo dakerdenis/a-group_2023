@@ -84,6 +84,19 @@ include './header.php';
 <script src="./js/script.js"></script>
 <!------->
 
+<script>
+    var top_image = document.getElementsByClassName('top__image1');
+    const top_image_animation = [
+        
+    ]
+
+    function change_top_image(){
+        top_image.animate(top_image_animation, top_image_timing)
+    };
+
+    setTimeout(change_top_image,1000);
+</script>
+
 </body>
 
 </html>
