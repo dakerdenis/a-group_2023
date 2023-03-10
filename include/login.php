@@ -91,9 +91,9 @@ include './header.php';
     bottom_image.style.backgroundImage="url('../styles/imgs/login_car.png')"; 
     top_image.style.backgroundImage="url('../styles/imgs/login_image1.svg')"; 
 
-    
-    function change_top_image() {
 
+    function change_top_image() {
+        bottom_image.style.animationName = "animation_botom";
         top_image.style.animationName = "login_image_top1";
     };
 
