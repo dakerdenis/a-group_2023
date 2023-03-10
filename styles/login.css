@@ -164,6 +164,16 @@ color: rgba(255, 255, 255, 1);
 }
 }
 
+@keyframes background_animation3 {
+
+  0%{
+    background-color: #90C3CB;
+  }
+  50%{
+    background-color: rgba(215, 125, 99, 1);
+  }
+  }
+
 @keyframes login_image_top1{
     0%{
         transform: scale(1,1);
@@ -198,8 +208,24 @@ color: rgba(255, 255, 255, 1);
     left: 0;
     right: initial;
     transform: scale(1,1) ;
+    
     background-image: url('../styles/imgs/login_top_image3.svg');
   }
+}
+
+@keyframes top_animation3 {
+  0%{
+
+
+
+    background-image: url('../styles/imgs/login_top_image3.svg');
+}
+100%{
+
+
+
+    background-image: url('../styles/imgs/top_image_4.png');
+}
 }
 
 @keyframes animation_botom {
@@ -253,3 +279,69 @@ color: rgba(255, 255, 255, 1);
     right: 40px;
   }
 }
+
+
+@keyframes animation_botom3 {
+
+  0%{
+    background-image: url('../styles/imgs/bottom_image3.png');
+    transform: scale(1);
+    bottom: 39px;
+    left: initial;
+    right: 40px;
+  }
+  20%{
+    background-image: url('../styles/imgs/bottom_image3.png');
+    transform: scale(0.5);
+    bottom: 39px;
+    left: initial;
+    right: 40px;
+  }
+  40%{
+    background-image: url('../styles/imgs/bottom_image3.png');
+    transform: scale(0);
+    bottom: 39px;
+    left: initial;
+    right: 40px;
+  }
+  60%{
+    background-image: url('../styles/imgs/botom_image4.png');
+    transform: scale(0.5);
+    bottom: 39px;
+    left: initial;
+    right: 85px;
+
+    width: 256px;
+    height: 325px;
+  }
+  80%{
+    background-image: url('../styles/imgs/botom_image4.png');
+    transform: scale(0.5);
+    bottom: 39px;
+    left: initial;
+    right: 85px;
+
+    width: 256px;
+    height: 325px;
+  }
+  100%{
+    background-image: url('../styles/imgs/botom_image4.png');
+    transform: scale(1);
+    bottom: 39px;
+    left: initial;
+    right: 85px;
+
+    width: 256px;
+    height: 325px;
+  }
+}
+
+
+
+
+
+
+
+
+
+

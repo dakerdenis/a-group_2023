@@ -117,7 +117,31 @@ include './header.php';
     };
 
     setTimeout(animation2, 6000);
+
+
     function animation3() {
+        bottom_image.style.animationName = "animation_botom3"
+        bottom_image.style.animationName = "2s";
+
+        background.style.animationName = "background_animation2";
+        background.style.backgroundColor = "rgba(215, 125, 99, 1)";
+
+
+
+
+        top_image.style.top = "0"; 
+        top_image.style.left = "0"; 
+        top_image.style.right = "initial"; 
+
+        top_image.style.width = "297px";
+        top_image.style.height = "244px";
+        top_image.style.backgroundPosition = "center";
+        top_image.style.backgroundSize = "contain";
+        top_image.style.backgroundRepeat = "no-repeat";
+
+        
+        top_image.style.animationDuration = "1s";
+        top_image.style.animationName = "top_animation3";
 
     }
     setTimeout(animation3, 9000);

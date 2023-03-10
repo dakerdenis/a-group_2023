@@ -31,8 +31,28 @@ include './include/header.php';
                 </div>
 
             </div>
-           
+
         </div>
+
+
+        <div class="ferdi__plane__container">
+            <div class="box">
+                <div class="plane">
+                    <img src="./styles/imgs/plane.png" alt="plane">
+                </div>
+                <div class="clouds">
+                    <img src="https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Cloud-PNG/Clouds_PNG_Transparent_Clip_Art_Image.png?m=1507172105" alt="red">
+                    <img src="https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Cloud-PNG/Realistic_Cloud_PNG_Clip_Art_Transparent_Image.png?m=1507172105" alt="yellow">
+                    <img src="https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Cloud-PNG/Cloud_Clip_Art_PNG_Image.png?m=1507172105" alt="green">
+                    <img src="https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Cloud-PNG/Clouds_PNG_Transparent_Clip_Art_Image.png?m=1507172105" alt="blue">
+                    <img src="https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Cloud-PNG/Cloud_Clip_Art_PNG_Image.png?m=1507172105" alt="purple">
+                </div>
+            </div>
+        </div>
+
+
+
+
         <img class="seyahet_palent" src="./styles/imgs/seyahet__plane.svg" alt="">
         <div class="ferdi__seyahet__content__container">
             <!--------->
