@@ -86,7 +86,14 @@ include './header.php';
 
 <script>
     var top_image = document.querySelector(".top__image1");
+    var bottom_image = document.querySelector(".bottom_image1");
+
+    bottom_image.style.backgroundImage="url('../styles/imgs/login_car.png')"; 
+    top_image.style.backgroundImage="url('../styles/imgs/login_image1.svg')"; 
+
+    
     function change_top_image() {
+
         top_image.style.animationName = "login_image_top1";
     };
 
@@ -94,6 +101,7 @@ include './header.php';
 
 
     function change_top_image3() {
+        top_image.style.backgroundImage="url('../styles/imgs/login_top_image2.svg')"; 
         top_image.style.animationDuration = "0.5s";
         top_image.style.animationName = "login_image_top1-2";
     };

@@ -115,7 +115,7 @@ color: rgba(255, 255, 255, 1);
     height: 195px;
     z-index: 1;
 
-    background-image: url('../styles/imgs/login_image1.svg');
+    background-image: ;
     background-position: center;
     background-size: cover;
 
@@ -165,7 +165,7 @@ color: rgba(255, 255, 255, 1);
 @keyframes login_image_top1{
     0%{
         transform: scale(1,1);
-
+        background-image: url('../styles/imgs/login_image1.svg');
     }
     50%{
         transform: scale(1,0);
@@ -189,12 +189,12 @@ color: rgba(255, 255, 255, 1);
     right: initial;
     left: 30%;
     transform: scale(0,1);
-    background-image: url('../styles/imgs/login_top_image3.svg');
+    background-image: url('../styles/imgs/login_top_image2.svg');
   }
   100%{
     top: 0;
     left: 0;
-
+    right: initial;
     transform: scale(1,1) ;
     background-image: url('../styles/imgs/login_top_image3.svg');
   }
