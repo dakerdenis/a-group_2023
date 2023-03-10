@@ -210,3 +210,46 @@ color: rgba(255, 255, 255, 1);
     background-image: url('../styles/imgs/login_home.png');
   }
 }
+
+@keyframes animation_botom2 {
+  0%{
+    transform: scale(1);
+    bottom: 39px;
+    left: 40px;
+  }
+  15%{
+      
+    transform: scale(0.5);
+    bottom: 39px;
+    left: 40px;
+  
+  }
+  33%{
+    transform: scale(0);
+    opacity: 0;
+    bottom: 39px;
+    left: 40px;
+  
+  }
+  66%{
+    background-image: url('../styles/imgs/bottom_image3.png');
+    transform: scale(0);
+    bottom: 39px;
+    left: initial;
+    right: 40px;
+  }
+  75%{
+    background-image: url('../styles/imgs/bottom_image3.png');
+    transform: scale(0.5);
+    bottom: 39px;
+    left: initial;
+    right: 40px;
+  }
+  100%{
+    background-image: url('../styles/imgs/bottom_image3.png');
+    transform: scale(1);
+    bottom: 39px;
+    left: initial;
+    right: 40px;
+  }
+}

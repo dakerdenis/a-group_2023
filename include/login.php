@@ -110,9 +110,19 @@ include './header.php';
 
         background.style.animationName = "background_animation2"
         background.style.backgroundColor = "#90C3CB"
+        
+        bottom_image.style.animationName = "animation_botom2"
+        bottom_image.style.animationName = "2s";
+
     };
 
     setTimeout(animation2, 6000);
+    function animation3() {
+
+    }
+    setTimeout(animation3, 9000);
+
+
 </script>
 
 </body>
