@@ -100,7 +100,7 @@ include './header.php';
         background.style.animationName = "background_animation"
     };
 
-    setTimeout(animation1, 3000);
+    setTimeout(animation1, 7000);
 
 
     function animation2() {
@@ -116,7 +116,7 @@ include './header.php';
 
     };
 
-    setTimeout(animation2, 6000);
+    setTimeout(animation2, 14000);
 
 
     function animation3() {
@@ -144,7 +144,7 @@ include './header.php';
         top_image.style.animationName = "top_animation3";
 
     }
-    setTimeout(animation3, 9000);
+    setTimeout(animation3, 21000);
 
 
 </script>
