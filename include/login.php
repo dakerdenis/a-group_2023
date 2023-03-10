@@ -87,26 +87,32 @@ include './header.php';
 <script>
     var top_image = document.querySelector(".top__image1");
     var bottom_image = document.querySelector(".bottom_image1");
+    var background = document.querySelector(".login__page__container");
+
 
     bottom_image.style.backgroundImage="url('../styles/imgs/login_car.png')"; 
     top_image.style.backgroundImage="url('../styles/imgs/login_image1.svg')"; 
+    background.style.backgroundColor = "#E8D0A4"
 
-
-    function change_top_image() {
+    function animation1() {
         bottom_image.style.animationName = "animation_botom";
         top_image.style.animationName = "login_image_top1";
+        background.style.animationName = "background_animation"
     };
 
-    setTimeout(change_top_image, 3000);
+    setTimeout(animation1, 3000);
 
 
-    function change_top_image3() {
+    function animation2() {
         top_image.style.backgroundImage="url('../styles/imgs/login_top_image2.svg')"; 
         top_image.style.animationDuration = "0.5s";
         top_image.style.animationName = "login_image_top1-2";
+
+        background.style.animationName = "background_animation2"
+        background.style.backgroundColor = "#90C3CB"
     };
 
-    setTimeout(change_top_image3, 6000);
+    setTimeout(animation2, 6000);
 </script>
 
 </body>
