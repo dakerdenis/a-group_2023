@@ -24,11 +24,12 @@ include './include/header.php';
                         <p>Maliyyə &nbsp;</p>
                     </div>
                     <div class="page_name_block2">
-                        <p>Göstəriciləri</p>
+                        <p>göstəriciləri</p>
+                        <img class="maliye_page_name_img" src="./styles/imgs/maliye_blue.svg" alt="">
                     </div>
                 </div>
                 <!------->
-                <img class="maliye_page_name_img" src="./styles/imgs/maliye_blue.svg" alt="">
+
             </div>
 
             <!-------------------->
@@ -49,8 +50,123 @@ include './include/header.php';
 
                 <div class="maliye__page__content__container">
                     <div id="2021" class="tabcontent">
-                        <h3>2021</h3>
-                        <p>London is the capital city of England.</p>
+                        <div class="tabcontent__container">
+                            <div class="tabcontennt__wrapper">
+
+                                <a class="tabcontent___element">
+                                    <div class="tabcontent___element__image">
+                                        <img src="./styles/imgs/pdf.svg" alt="">
+                                    </div>
+                                    <div class="tabcontent___element__name">
+                                        <p>Maliyyə vəziyyəti (balans) haqqında hesabat - 2020
+                                        </p>
+                                    </div>
+                                    <div class="tabcontent___element__size">
+                                        <p>(131 kb, PDF)</p>
+                                    </div>
+                                </a>
+
+                                <a class="tabcontent___element">
+                                    <div class="tabcontent___element__image">
+                                        <img src="./styles/imgs/pdf.svg" alt="">
+                                    </div>
+                                    <div class="tabcontent___element__name">
+                                        <p>Maliyyə vəziyyəti (balans) haqqında hesabat - 2020
+                                        </p>
+                                    </div>
+                                    <div class="tabcontent___element__size">
+                                        <p>(131 kb, PDF)</p>
+                                    </div>
+                                </a>
+
+                                <a class="tabcontent___element">
+                                    <div class="tabcontent___element__image">
+                                        <img src="./styles/imgs/pdf.svg" alt="">
+                                    </div>
+                                    <div class="tabcontent___element__name">
+                                        <p>Maliyyə vəziyyəti (balans) haqqında hesabat - 2020
+                                        </p>
+                                    </div>
+                                    <div class="tabcontent___element__size">
+                                        <p>(131 kb, PDF)</p>
+                                    </div>
+                                </a>
+                                <a class="tabcontent___element">
+                                    <div class="tabcontent___element__image">
+                                        <img src="./styles/imgs/pdf.svg" alt="">
+                                    </div>
+                                    <div class="tabcontent___element__name">
+                                        <p>Maliyyə vəziyyəti (balans) haqqında hesabat - 2020
+                                        </p>
+                                    </div>
+                                    <div class="tabcontent___element__size">
+                                        <p>(131 kb, PDF)</p>
+                                    </div>
+                                </a>
+                                <a class="tabcontent___element">
+                                    <div class="tabcontent___element__image">
+                                        <img src="./styles/imgs/pdf.svg" alt="">
+                                    </div>
+                                    <div class="tabcontent___element__name">
+                                        <p>Maliyyə vəziyyəti (balans) haqqında hesabat - 2020
+                                        </p>
+                                    </div>
+                                    <div class="tabcontent___element__size">
+                                        <p>(131 kb, PDF)</p>
+                                    </div>
+                                </a>
+                                <a class="tabcontent___element">
+                                    <div class="tabcontent___element__image">
+                                        <img src="./styles/imgs/pdf.svg" alt="">
+                                    </div>
+                                    <div class="tabcontent___element__name">
+                                        <p>Maliyyə vəziyyəti (balans) haqqında hesabat - 2020
+                                        </p>
+                                    </div>
+                                    <div class="tabcontent___element__size">
+                                        <p>(131 kb, PDF)</p>
+                                    </div>
+                                </a>
+                                <a class="tabcontent___element">
+                                    <div class="tabcontent___element__image">
+                                        <img src="./styles/imgs/pdf.svg" alt="">
+                                    </div>
+                                    <div class="tabcontent___element__name">
+                                        <p>Maliyyə vəziyyəti (balans) haqqında hesabat - 2020
+                                        </p>
+                                    </div>
+                                    <div class="tabcontent___element__size">
+                                        <p>(131 kb, PDF)</p>
+                                    </div>
+                                </a>
+                                <a class="tabcontent___element">
+                                    <div class="tabcontent___element__image">
+                                        <img src="./styles/imgs/pdf.svg" alt="">
+                                    </div>
+                                    <div class="tabcontent___element__name">
+                                        <p>Maliyyə vəziyyəti (balans) haqqında hesabat - 2020
+                                        </p>
+                                    </div>
+                                    <div class="tabcontent___element__size">
+                                        <p>(131 kb, PDF)</p>
+                                    </div>
+                                </a>
+                                <a class="tabcontent___element">
+                                    <div class="tabcontent___element__image">
+                                        <img src="./styles/imgs/pdf.svg" alt="">
+                                    </div>
+                                    <div class="tabcontent___element__name">
+                                        <p>Maliyyə vəziyyəti (balans) haqqında hesabat - 2020
+                                        </p>
+                                    </div>
+                                    <div class="tabcontent___element__size">
+                                        <p>(131 kb, PDF)</p>
+                                    </div>
+                                </a>
+
+
+                            </div>
+                        </div>
                     </div>
                     <div id="2020" class="tabcontent">
                         <h3>2020</h3>
@@ -92,7 +208,38 @@ include './include/header.php';
                         <h3>2011</h3>
                         <p>Tokyo is the capital of Japan.</p>
                     </div>
+
+
                 </div>
+                <img class="maliye__svg" src="./styles/imgs/maliye.svg" alt="">
+
+                <div class="maliye__page_name maliye__page_name2">
+                    <!------>
+                    <div class="page__name_wrapper">
+                        <div class="page_name_block1">
+                            <p>Sığorta &nbsp;</p>
+                        </div>
+
+                        <div class="page_name_block2">
+                            <p>qaydaları</p>
+                            <img class="maliye_page_name_img" src="./styles/imgs/maliye_blue.svg" alt="">
+                        </div>
+                    </div>
+                    <!------->
+                </div>
+
+                <div class="maliye__page__documents">
+                    <div class="maliye__page__documents__wrapper">
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                            Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+                    </div>
+                </div>
+
 
 
             </div>
