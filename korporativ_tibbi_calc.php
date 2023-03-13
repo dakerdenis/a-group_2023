@@ -643,6 +643,78 @@ s
                     </div>
                 </div>
 
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc korporativ__input__desc_select5">
+                        <p>
+                        Əgər sığortalanmışdırsa, müddəti və sığorta şirkətini göstərin
+                        </p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="|">
+                    </div>
+                </div>
+
+
+
+                
+                <div class="korporativ__input__container korporativ__input__container4">
+                    <div class="korporativ__input__desc">
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block4">
+                        <p>
+                        Ərizəçi bu anketdə göstərdiyi bütün məlumatların bu anketin doldurulduğu vaxtdan sığorta təminatının başlama tarixinə qədər hər hansı bir dəyişikliyi haqda dərhal Sığortaçıya bildirilməsini təmin etməlidir.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc korporativ__input__desc_select5">
+                        <p>
+                       Ərizəçinin adı
+                        </p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="Ərizəçinin adı">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc korporativ__input__desc_select5">
+                        <p>
+                        Vəzifə
+                        </p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="Vəzifə">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc korporativ__input__desc_select5">
+                        <p>
+                        Əlaqə nömrəsi
+                        </p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="Əlaqə nömrəsi">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc korporativ__input__desc_select5">
+                        <p>
+                        Email ünvanı
+                        </p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="Email ünvanı">
+                    </div>
+                </div>
+
+        
+                <div class="korporativ__tibbi__button">
+                    <button>Sifariş et</button>
+                </div>
 
 
 

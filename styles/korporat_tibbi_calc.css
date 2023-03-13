@@ -175,3 +175,33 @@ color: rgba(121, 121, 121, 1);
 .korporativ__input__desc_select5 p {
     padding-top: 0;
 }
+.korporativ__input__block4 p{
+     max-width: 540px;
+     text-align: left;
+}
+.korporativ__input__container4{
+    margin-top: 25px;
+}
+.korporativ__tibbi__button{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.korporativ__tibbi__button button{
+    height: 36px;
+width: 136px;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 8px;
+background: #8D8D8D;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: right;
+color: rgba(255, 255, 255, 1);
+}
