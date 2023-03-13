@@ -411,12 +411,238 @@ s
 
                 <div class="korporativ__input__container">
                     <div class="korporativ__input__desc">
-                        <p>İşçilər</p>
+                        <p>Sürücülər</p>
                     </div>
                     <div class="korporativ__input__block">
                         <input type="text" placeholder="0">
                     </div>
                 </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>Mühəfizəçilər</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>Fəhlələr</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>Digər</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                    </div>
+                    <div class="korporativ__input__block">
+                        <p>
+                        Sığorta olunacaq işçilərin yaş hüdudu
+                        </p>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>25-dən aşağı</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>25 - 35 arasında</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>35 - 45 arasında</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>45 - 60 arasında</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>60 yaşdan yuxarı</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                    </div>
+                    <div class="korporativ__input__block">
+                        <p>
+                        Ailə üzvləri
+                        </p>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>Böyüklərin sayı</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>Uşaqların sayı</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                    </div>
+                    <div class="korporativ__input__block">
+                        <p>
+                        Yaşa görə uşaqların sayı
+                        </p>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>1-dən az</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>1 - 3 arasında</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>3 - 7 arasında</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>7 - 14 arasında</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="0">
+                    </div>
+                </div>
+
+
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select korporativ__input__desc_select5">
+                        <p>
+                        Şirkətiniz yeni qəbul olunacaq işçilər üçün işə qəbul olunma tibbi müayinəsini təmin edirmi?
+                        </p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select2">
+                        <input type="radio" id="sigorta41" name="sigorta4" value="Bəli">
+                        <label for="sigorta41">Bəli</label>
+
+                        <input type="radio" id="sigorta42" name="sigorta4" value="Xeyr">
+                        <label for="sigorta42">Xeyr</label>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc korporativ__input__desc_select5">
+                        <p>
+                        Əgər sığortalanmışdırsa, müddəti və sığorta şirkətinin adını qeyd edəsiniz
+                        </p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="|">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select korporativ__input__desc_select5">
+                        <p>
+                        Əvvəl işçiləriniz sığortalanıbmı?
+                        </p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select2">
+                        <input type="radio" id="sigorta51" name="sigorta5" value="Bəli">
+                        <label for="sigorta51">Bəli</label>
+
+                        <input type="radio" id="sigorta52" name="sigorta5" value="Xeyr">
+                        <label for="sigorta52">Xeyr</label>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc korporativ__input__desc_select5">
+                        <p>
+                        Əgər sığortalanmışdırsa, müddəti və sığorta şirkətini göstərin
+                        </p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="|">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select korporativ__input__desc_select5">
+                        <p>
+                        Ərizəçiyə əvvəllər bu növ sığorta üzrə keçmişdə sığortalamadan imtina edilmişdirmi?
+                        </p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select2">
+                        <input type="radio" id="sigorta61" name="sigorta6" value="Bəli">
+                        <label for="sigorta61">Bəli</label>
+
+                        <input type="radio" id="sigorta62" name="sigorta6" value="Xeyr">
+                        <label for="sigorta62">Xeyr</label>
+                    </div>
+                </div>
+
 
 
 

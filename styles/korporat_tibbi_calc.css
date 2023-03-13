@@ -48,12 +48,12 @@
   flex-direction: row-reverse;
 }
 .korporativ__input__desc p {
-
+    max-width: 340px;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
   letter-spacing: 0em;
-  text-align: left;
+  text-align: right;
   color: rgba(121, 121, 121, 1);
 }
 .korporativ__input__block {
@@ -168,4 +168,10 @@ color: rgba(121, 121, 121, 1);
 .korporativ__input__block_select4 label {
     width: 156px;
     height: 27px;
+}
+.korporativ__input__desc_select5{
+    padding-top: 0;
+}
+.korporativ__input__desc_select5 p {
+    padding-top: 0;
 }
