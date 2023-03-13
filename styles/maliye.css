@@ -127,20 +127,27 @@ background: #C4C4C4;
 }
 
 .maliye__page_name2{
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .maliye__page__documents {
     width: 1100px;
     margin: 0 auto;
+    margin-top: 50px;
 }
 .maliye__page__documents__wrapper {
     width: 100%;
     display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
 }
 .maliye__page__documents__element {
+    margin-top: 15px;
+    cursor: pointer;
     display: flex;
     align-items: center;
 
+    width: 40%;
 }
 .maliye__page__documents__element img{
     width: 36.6px;
@@ -151,5 +158,10 @@ background: #C4C4C4;
     font-style: 16px;
     font-weight: 400;
     max-width: 510px;
-    text-transform: lowercase;
+    margin-left: 19px;
+    line-height: 18.75px;
+    color: rgba(87, 86, 86, 1);
+}
+.maliye__page__documents__element  p  span{
+    color: rgba(121, 121, 121, 1);
 }

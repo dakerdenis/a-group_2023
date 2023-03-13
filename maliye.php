@@ -234,7 +234,125 @@ include './include/header.php';
                         <a class="maliye__page__documents__element">
                             <img src="./styles/imgs/pdf.svg" alt="">
                             <p>
-                            Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
+                            </p>
+                        </a>
+                        <a class="maliye__page__documents__element">
+                            <img src="./styles/imgs/pdf.svg" alt="">
+                            <p>
+                                Fi̇zi̇ki̇ şəxslərə təqdi̇m edi̇lən avtomobi̇l nəqli̇yyati vasi̇tələri̇ni̇n tam siğortasi üzrə siğorta <span>(131 kb, pdf)</span>
                             </p>
                         </a>
                     </div>
