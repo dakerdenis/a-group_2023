@@ -54,7 +54,78 @@ s
                     </div>
                 </div>
 
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>Şirkətin fəaliyyəti</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="Şirkətin fəaliyyəti">
+                    </div>
+                </div>
 
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>Tələb olunan sığorta müddəti:</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <p>Başlanğıc tarixi</p>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p></p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="date" placeholder="Başlanğıc tarixi">
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p></p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <p>Bitmə tarixi</p>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p></p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="date" placeholder="Bitmə tarixi">
+                    </div>
+                </div>
+
+
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select">
+                        <p>Sığorta proqramı</p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select">
+                        <input type="radio" id="standart" name="program" value="Sığorta proqramı STANDART">
+                        <label for="standart">Sığorta proqramı STANDART</label>
+
+                        <input type="radio" id="fergli" name="program" value="Sığorta programı FƏRGLİ">
+                        <label for="fergli">Sığorta programı FƏRGLİ</label>
+
+                    </div>
+                </div>
+
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                    </div>
+                    <div class="korporativ__input__block">
+                        <p>
+                        Tələb olunan Sığorta Əhatəsi
+
+                        </p>
+                    </div>
+                </div>
 
             </form>
         </div>
