@@ -77,7 +77,12 @@ background: #C4C4C4;
  .maliye__svg{
     position: absolute;
     right: -40px;
-    top: 30%;
+    top: 12%;
+}
+.maliye_circle{
+    left: -80.2px;
+    top: 10%;
+    position: absolute;
 }
 .tabcontent {
     width: 100%;

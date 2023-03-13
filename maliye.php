@@ -357,7 +357,9 @@ include './include/header.php';
 
                 <img class="maliye_red" src="./styles/imgs/maliye_red.svg" alt="">
 
+
             </div>
+            <img class="maliye_circle" src="./styles/imgs/maliye_circle.svg" alt="">
         </div>
     </div>
 
