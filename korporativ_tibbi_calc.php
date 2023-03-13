@@ -156,19 +156,68 @@ s
 
                 <div class="korporativ__input__container korporativ__input__container_select">
                     <div class="korporativ__input__desc korporativ__input__desc_select">
-                        <p>FORS-MAJOR
-</p>
+                        <p>FORS-MAJOR</p>
                     </div>
                     <div class="korporativ__input__block korporativ__input__block_select2">
-                        <input type="radio" id="ambulance21" name="ambulance2" value="Bəli">
-                        <label for="ambulance21">Bəli</label>
+                        <input type="radio" id="ambulance31" name="ambulance3" value="Bəli">
+                        <label for="ambulance31">Bəli</label>
 
-                        <input type="radio" id="ambulance22" name="ambulance2" value="Xeyr">
-                        <label for="ambulance22">Xeyr</label>
+                        <input type="radio" id="ambulance32" name="ambulance3" value="Xeyr">
+                        <label for="ambulance32">Xeyr</label>
                     </div>
                 </div>
 
 
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select">
+                        <p>FORS-MAJOR EX</p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select2">
+                        <input type="radio" id="ambulance41" name="ambulance4" value="Bəli">
+                        <label for="ambulance41">Bəli</label>
+
+                        <input type="radio" id="ambulance42" name="ambulance4" value="Xeyr">
+                        <label for="ambulance42">Xeyr</label>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                    </div>
+                    <div class="korporativ__input__block">
+                        <p>
+                            Stomatologiya
+                        </p>
+                    </div>
+                </div>
+
+
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select">
+                        <p>Təcili diş müalicəsi</p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select2">
+                        <input type="radio" id="stomatolog11" name="stomatolog1" value="Bəli">
+                        <label for="stomatolog11">Bəli</label>
+
+                        <input type="radio" id="stomatolog12" name="stomatolog1" value="Xeyr">
+                        <label for="stomatolog12">Xeyr</label>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select">
+                        <p>Terapevtik diş baxımı</p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select2">
+                        <input type="radio" id="stomatolog11" name="stomatolog1" value="Bəli">
+                        <label for="stomatolog11">Bəli</label>
+
+                        <input type="radio" id="stomatolog12" name="stomatolog1" value="Xeyr">
+                        <label for="stomatolog12">Xeyr</label>
+                    </div>
+                </div>
 
 
             </form>
