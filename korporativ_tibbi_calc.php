@@ -17,7 +17,7 @@ s
     include './include/navigation.php';
     ?>
     <div class="korporativ__tibbi__calc">
-         <br><br><br><br><br><br><br><br><br><br>
+
 
         <div class="korporativ__tibbi__calc__page_name">
             <div class="page__name_wrapper">
@@ -32,9 +32,31 @@ s
                 </div>
                 <div class="page_name_block4 ">
                     <p>hesabla</p>
+                    <img src="./styles/imgs/korporate_tibbi_calc.svg" alt="">
                 </div>
             </div>
-            <img src="./styles/imgs/korporate_tibbi_calc.svg" alt="">
+
+        </div>
+
+
+
+
+
+        <div class="korporativ__form__container">
+            <form action="" class="korporativ__form">
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                        <p>Şirkətin adı</p>
+                    </div>
+                    <div class="korporativ__input__block">
+                        <input type="text" placeholder="Şirkətin adı">
+                    </div>
+                </div>
+
+
+
+            </form>
         </div>
     </div>
 
