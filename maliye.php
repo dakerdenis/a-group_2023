@@ -222,13 +222,16 @@ include './include/header.php';
 
                         <div class="page_name_block2">
                             <p>qaydaları</p>
-                            <img class="maliye_page_name_img" src="./styles/imgs/maliye_blue.svg" alt="">
+                            <img class="maliye_page_name_img" src="./styles/imgs/sigorta_rule.svg" alt="">
                         </div>
                     </div>
                     <!------->
                 </div>
 
                 <div class="maliye__page__documents">
+
+
+
                     <div class="maliye__page__documents__wrapper">
 
                         <a class="maliye__page__documents__element">
@@ -352,7 +355,7 @@ include './include/header.php';
                     </div>
                 </div>
 
-
+                <img class="maliye_red" src="./styles/imgs/maliye_red.svg" alt="">
 
             </div>
         </div>
