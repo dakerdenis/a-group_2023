@@ -211,14 +211,74 @@ s
                         <p>Terapevtik diş baxımı</p>
                     </div>
                     <div class="korporativ__input__block korporativ__input__block_select2">
-                        <input type="radio" id="stomatolog11" name="stomatolog1" value="Bəli">
-                        <label for="stomatolog11">Bəli</label>
+                        <input type="radio" id="stomatolog21" name="stomatolog2" value="Bəli">
+                        <label for="stomatolog21">Bəli</label>
 
-                        <input type="radio" id="stomatolog12" name="stomatolog1" value="Xeyr">
-                        <label for="stomatolog12">Xeyr</label>
+                        <input type="radio" id="stomatolog22" name="stomatolog2" value="Xeyr">
+                        <label for="stomatolog22">Xeyr</label>
                     </div>
                 </div>
 
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                    </div>
+                    <div class="korporativ__input__block">
+                        <p>
+                        Akusherlik baxımı
+                        </p>
+                    </div>
+                </div>
+
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select">
+                        <p></p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select">
+                        <input type="radio" id="akusher1" name="akusher" value="Sığorta proqramı STANDART">
+                        <label for="akusher1">Gözləmə müddəti ilə</label>
+
+                        <input type="radio" id="akusher2" name="akusher" value="Sığorta programı FƏRGLİ">
+                        <label for="akusher2">Gözləmə müddəti olmadan</label>
+
+                        <input type="radio" id="akusher3" name="akusher" value="Sığorta programı FƏRGLİ">
+                        <label for="akusher3">Daxil deyil</label>
+
+                    </div>
+                </div>
+
+
+
+                <div class="korporativ__input__container">
+                    <div class="korporativ__input__desc">
+                    </div>
+                    <div class="korporativ__input__block">
+                        <p>
+                        Alt həddə tabe olan ambulator dərmanlar
+                        </p>
+                    </div>
+                </div>
+
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select">
+                        <p>Akusherlik baxımı</p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select korporativ__input__block_select3">
+                        <input type="radio" id="akusher21" name="akusher2" value="100 AZN">
+                        <label for="akusher21">100 AZN</label>
+
+                        <input type="radio" id="akusher22" name="akusher2" value="300 AZN">
+                        <label for="akusher22">300 AZN</label>
+
+                        <input type="radio" id="akusher23" name="akusher2" value="500 AZN">
+                        <label for="akusher23">500 AZN</label>
+
+                        <input type="radio" id="akusher24" name="akusher2" value="Digər">
+                        <label for="akusher24">Digər</label>
+
+                    </div>
+                </div>
 
             </form>
         </div>

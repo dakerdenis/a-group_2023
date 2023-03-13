@@ -161,3 +161,7 @@ color: rgba(121, 121, 121, 1);
     border-color: rgba(188, 26, 26, 1);
     color: #fff;
   }
+.korporativ__input__block_select3 label{
+    width: 93px;
+    height: 27px;
+}
