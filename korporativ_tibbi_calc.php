@@ -121,11 +121,55 @@ s
                     </div>
                     <div class="korporativ__input__block">
                         <p>
-                        Tələb olunan Sığorta Əhatəsi
+                            Tələb olunan Sığorta Əhatəsi
 
                         </p>
                     </div>
                 </div>
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select">
+                        <p>AMBULANCE</p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select2">
+                        <input type="radio" id="ambulance11" name="ambulance1" value="Bəli">
+                        <label for="ambulance11">Bəli</label>
+
+                        <input type="radio" id="ambulance12" name="ambulance1" value="Xeyr">
+                        <label for="ambulance12">Xeyr</label>
+                    </div>
+                </div>
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select">
+                        <p>AMBULANCE EX</p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select2">
+                        <input type="radio" id="ambulance21" name="ambulance2" value="Bəli">
+                        <label for="ambulance21">Bəli</label>
+
+                        <input type="radio" id="ambulance22" name="ambulance2" value="Xeyr">
+                        <label for="ambulance22">Xeyr</label>
+                    </div>
+                </div>
+
+
+                <div class="korporativ__input__container korporativ__input__container_select">
+                    <div class="korporativ__input__desc korporativ__input__desc_select">
+                        <p>FORS-MAJOR
+</p>
+                    </div>
+                    <div class="korporativ__input__block korporativ__input__block_select2">
+                        <input type="radio" id="ambulance21" name="ambulance2" value="Bəli">
+                        <label for="ambulance21">Bəli</label>
+
+                        <input type="radio" id="ambulance22" name="ambulance2" value="Xeyr">
+                        <label for="ambulance22">Xeyr</label>
+                    </div>
+                </div>
+
+
+
 
             </form>
         </div>
