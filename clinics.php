@@ -15,7 +15,20 @@ include './include/header.php';
     include './include/navigation.php';
     ?>
     <div class="clinics__page__container">
-        <br><br><br><br><br><br><br><br>
+    <div class="clinics__page_name">
+                <!------>
+                <div class="page__name_wrapper">
+                    <div class="page_name_block1">
+                        <p>Maliyyə &nbsp;</p>
+                    </div>
+                    <div class="page_name_block2">
+                        <p>göstəriciləri</p>
+                        <img class="maliye_page_name_img" src="./styles/imgs/maliye_blue.svg" alt="">
+                    </div>
+                </div>
+                <!------->
+
+            </div>
 
         <div class="clinics__page__wrapper">
             <!-------->
@@ -50,6 +63,7 @@ include './include/header.php';
                     </div>
 
                     <div class="clinics__search__result__wrapper">
+
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
@@ -58,15 +72,144 @@ include './include/header.php';
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                Tel: (012) 445 17 17, 445 18 18
+                                    Tel: (012) 445 17 17, 445 18 18
                                 </p>
                             </div>
+                        </div>
 
+
+                        <div class="clinics__result__element">
+                            <div class="clinics__element__name">
+                                <p>
+                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                </p>
+                            </div>
+                            <div class="clinics__element__adress">
+                                <p>
+                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                </p>
+                            </div>
+                            <div class="clinics__element__number">
+                                <p>
+                                    Tel: (012) 445 17 17, 445 18 18
+                                </p>
+                            </div>
+                        </div>
+
+
+                        <div class="clinics__result__element">
+                            <div class="clinics__element__name">
+                                <p>
+                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                </p>
+                            </div>
+                            <div class="clinics__element__adress">
+                                <p>
+                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                </p>
+                            </div>
+                            <div class="clinics__element__number">
+                                <p>
+                                    Tel: (012) 445 17 17, 445 18 18
+                                </p>
+                            </div>
+                        </div>
+
+
+                        <div class="clinics__result__element">
+                            <div class="clinics__element__name">
+                                <p>
+                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                </p>
+                            </div>
+                            <div class="clinics__element__adress">
+                                <p>
+                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                </p>
+                            </div>
+                            <div class="clinics__element__number">
+                                <p>
+                                    Tel: (012) 445 17 17, 445 18 18
+                                </p>
+                            </div>
+                        </div>
+
+
+                        <div class="clinics__result__element">
+                            <div class="clinics__element__name">
+                                <p>
+                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                </p>
+                            </div>
+                            <div class="clinics__element__adress">
+                                <p>
+                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                </p>
+                            </div>
+                            <div class="clinics__element__number">
+                                <p>
+                                    Tel: (012) 445 17 17, 445 18 18
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="clinics__result__element">
+                            <div class="clinics__element__name">
+                                <p>
+                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                </p>
+                            </div>
+                            <div class="clinics__element__adress">
+                                <p>
+                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                </p>
+                            </div>
+                            <div class="clinics__element__number">
+                                <p>
+                                    Tel: (012) 445 17 17, 445 18 18
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="clinics__result__element">
+                            <div class="clinics__element__name">
+                                <p>
+                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                </p>
+                            </div>
+                            <div class="clinics__element__adress">
+                                <p>
+                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                </p>
+                            </div>
+                            <div class="clinics__element__number">
+                                <p>
+                                    Tel: (012) 445 17 17, 445 18 18
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="clinics__result__element">
+                            <div class="clinics__element__name">
+                                <p>
+                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                </p>
+                            </div>
+                            <div class="clinics__element__adress">
+                                <p>
+                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                </p>
+                            </div>
+                            <div class="clinics__element__number">
+                                <p>
+                                    Tel: (012) 445 17 17, 445 18 18
+                                </p>
+                            </div>
                         </div>
 
 
