@@ -1,5 +1,5 @@
 .clinics__page__container {
-    margin-top: 50px;
+    padding-top: 120px;
 }
 .clinics__page_name {
 }
@@ -19,10 +19,42 @@
 .maliye_page_name_img {
 }
 .clinics__page__wrapper {
+    width:1200px;
+    margin: 0 auto;
+    background-color: rgb(110, 110, 110);
+    margin-top: 82px;
 }
 .tab {
+    width: 800px;
+    margin: 0 auto;
+    position: relative;
+    height: 50px;
+    background-color: #e3e3e3;
 }
 .tablinks {
+position: absolute;
+width: 218px;
+height: 40px;
+border-radius: 14px;
+background-color: rgba(196, 196, 196, 1);
+
+font-family: "Oswald", sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+    text-align: center;
+    color: #fff;
+
+}
+.tablinks:nth-child(1){
+    left: 0;
+}
+.tablinks:nth-child(2){
+    left: calc(50% - 50.45px);
+}
+.tablinks:nth-child(3){
+    right: 0;
 }
 .clinics__page__content {
 }
