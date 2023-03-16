@@ -20,7 +20,7 @@ include './include/header.php';
             <div class="page__name_wrapper">
                 <div class="page_name_block1">
                     <p>Klinikalar, &nbsp;</p>
-                      
+
                 </div>
                 <div class="page_name_block2">
                     <p>apteklər &nbsp;</p>
@@ -71,93 +71,17 @@ include './include/header.php';
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                    Tel: (012) 445 17 17, 445 18 18
-                                </p>
-                            </div>
-                        </div>
-
-
-                        <div class="clinics__result__element">
-                            <div class="clinics__element__name">
-                                <p>
-                                    Əhmədli Tibb Mərkəzi (EskulapMed)
-                                </p>
-                            </div>
-                            <div class="clinics__element__adress">
-                                <p>
-                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
-                                </p>
-                            </div>
-                            <div class="clinics__element__number">
-                                <p>
-                                    Tel: (012) 445 17 17, 445 18 18
-                                </p>
-                            </div>
-                        </div>
-
-
-                        <div class="clinics__result__element">
-                            <div class="clinics__element__name">
-                                <p>
-                                    Əhmədli Tibb Mərkəzi (EskulapMed)
-                                </p>
-                            </div>
-                            <div class="clinics__element__adress">
-                                <p>
-                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
-                                </p>
-                            </div>
-                            <div class="clinics__element__number">
-                                <p>
-                                    Tel: (012) 445 17 17, 445 18 18
-                                </p>
-                            </div>
-                        </div>
-
-
-                        <div class="clinics__result__element">
-                            <div class="clinics__element__name">
-                                <p>
-                                    Əhmədli Tibb Mərkəzi (EskulapMed)
-                                </p>
-                            </div>
-                            <div class="clinics__element__adress">
-                                <p>
-                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
-                                </p>
-                            </div>
-                            <div class="clinics__element__number">
-                                <p>
-                                    Tel: (012) 445 17 17, 445 18 18
-                                </p>
-                            </div>
-                        </div>
-
-
-                        <div class="clinics__result__element">
-                            <div class="clinics__element__name">
-                                <p>
-                                    Əhmədli Tibb Mərkəzi (EskulapMed)
-                                </p>
-                            </div>
-                            <div class="clinics__element__adress">
-                                <p>
-                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
-                                </p>
-                            </div>
-                            <div class="clinics__element__number">
-                                <p>
-                                    Tel: (012) 445 17 17, 445 18 18
+                                Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
@@ -165,17 +89,17 @@ include './include/header.php';
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                    Tel: (012) 445 17 17, 445 18 18
+                                Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
@@ -183,39 +107,71 @@ include './include/header.php';
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                    Tel: (012) 445 17 17, 445 18 18
+                                Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
-
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                    Əhmədli Tibb Mərkəzi (EskulapMed)
+                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
+                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                    Tel: (012) 445 17 17, 445 18 18
+                                Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
-
+                        <div class="clinics__result__element">
+                            <div class="clinics__element__name">
+                                <p>
+                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
+                                </p>
+                            </div>
+                            <div class="clinics__element__adress">
+                                <p>
+                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
+                                </p>
+                            </div>
+                            <div class="clinics__element__number">
+                                <p>
+                                Tel: (012) 538 66 60/62, 409 99 44
+                                </p>
+                            </div>
+                        </div>
+                        <div class="clinics__result__element">
+                            <div class="clinics__element__name">
+                                <p>
+                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
+                                </p>
+                            </div>
+                            <div class="clinics__element__adress">
+                                <p>
+                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
+                                </p>
+                            </div>
+                            <div class="clinics__element__number">
+                                <p>
+                                Tel: (012) 538 66 60/62, 409 99 44
+                                </p>
+                            </div>
+                        </div>
 
 
                     </div>
@@ -240,7 +196,23 @@ include './include/header.php';
                     </div>
 
                     <div class="clinics__search__result__wrapper">
-
+                    <div class="clinics__result__element">
+                            <div class="clinics__element__name">
+                                <p>
+                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
+                                </p>
+                            </div>
+                            <div class="clinics__element__adress">
+                                <p>
+                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
+                                </p>
+                            </div>
+                            <div class="clinics__element__number">
+                                <p>
+                                Tel: (012) 538 66 60/62, 409 99 44
+                                </p>
+                            </div>
+                        </div>
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
@@ -394,8 +366,8 @@ include './include/header.php';
                     </div>
                 </div>
                 <!---------------------------------->
-                                <!---------------------------------->
-                                <div id="optika" class="tabcontent">
+                <!---------------------------------->
+                <div id="optika" class="tabcontent">
                     <!----SEARH FORM------>
                     <div class="clinics__search__block">
                         <form class="search_form__container">
