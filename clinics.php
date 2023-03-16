@@ -386,23 +386,6 @@ include './include/header.php';
 
                     <div class="clinics__search__result__wrapper">
 
-                        <div class="clinics__result__element">
-                            <div class="clinics__element__name">
-                                <p>
-                                    Əhmədli Tibb Mərkəzi (EskulapMed)
-                                </p>
-                            </div>
-                            <div class="clinics__element__adress">
-                                <p>
-                                    Bakı şəh., Lökbatan, Bünyatzadə küç., 3;
-                                </p>
-                            </div>
-                            <div class="clinics__element__number">
-                                <p>
-                                    Tel: (012) 445 17 17, 445 18 18
-                                </p>
-                            </div>
-                        </div>
 
 
                         <div class="clinics__result__element">
