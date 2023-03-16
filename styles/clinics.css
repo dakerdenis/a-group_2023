@@ -50,10 +50,8 @@ letter-spacing: 0em;
 
 }
 .tablinks:hover{
-    background-color: rgba(188, 26, 26, 1);
-    color: #fff;
-    font-family: "Oswald", sans-serif;
-transform: scale(1.1);
+
+
 }
 .tablinks:nth-child(1){
     left: 0;
@@ -64,7 +62,19 @@ transform: scale(1.1);
 .tablinks:nth-child(3){
     right: 0;
 }
+.tab button:hover{
+    background-color: rgba(188, 26, 26, 1);
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+}
+.tab button.active {
+    background-color: rgba(188, 26, 26, 1);
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+transform: scale(1.1);
+  }
 .clinics__page__content {
+    width: 100%;
 }
 .tabcontent {
 }
@@ -86,9 +96,20 @@ transform: scale(1.1);
 }
 .clinics__element__number {
 }
+
+
 .clinics__svg {
+    position: absolute;
+    top: 20%;
+    right: -60px;
 }
 .clinics_red {
+    position: absolute;
+    bottom: 20%;
+    left: -60px;
 }
 .clinics_circle {
+    position: absolute;
+    top: 10%;
+    left: -70px;
 }
