@@ -21,15 +21,15 @@
 .clinics__page__wrapper {
     width:1200px;
     margin: 0 auto;
-    background-color: rgb(110, 110, 110);
+
     margin-top: 82px;
 }
 .tab {
-    width: 800px;
+    width: 850px;
     margin: 0 auto;
     position: relative;
     height: 50px;
-    background-color: #e3e3e3;
+
 }
 .tablinks {
 position: absolute;
@@ -46,12 +46,20 @@ letter-spacing: 0em;
     text-align: center;
     color: #fff;
 
+    transition: ease-in 0.5s;
+
+}
+.tablinks:hover{
+    background-color: rgba(188, 26, 26, 1);
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+transform: scale(1.1);
 }
 .tablinks:nth-child(1){
     left: 0;
 }
 .tablinks:nth-child(2){
-    left: calc(50% - 50.45px);
+    left: calc(50% - 109px);
 }
 .tablinks:nth-child(3){
     right: 0;
