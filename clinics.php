@@ -15,6 +15,8 @@ include './include/header.php';
     include './include/navigation.php';
     ?>
     <div class="clinics__page__container">
+        <br><br><br><br><br><br><br><br>
+
         <div class="clinics__page__wrapper">
             <!-------->
 
@@ -29,10 +31,36 @@ include './include/header.php';
 
 
             <div class="clinics__page__content">
-                <!----SEARH FORM------>
-                <div class="clinics__search__block">
+<!---------------------------------->
+                <div id="klinika" class="tabcontent">
+                    <!----SEARH FORM------>
+                    <div class="clinics__search__block">
+                        <form class="search_form__container">
+                            <div class="search_form__block">
+                                <img src="./styles/imgs/search.svg" alt="">
+                                <input type="text">
+                            </div>
 
+                            <div class="search_form_button">
+                                <button>
+                                    <img src="./styles/imgs/search_arrow.svg" alt="">
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+
+                    <div class="clinics__search__result__wrapper">
+                        <div class="cinics__result__element">
+
+                        </div>
+                    </div>
                 </div>
+                <!---------------------------------->
+
+
+
+
+
             </div>
 
 
@@ -42,7 +70,7 @@ include './include/header.php';
             <img class="clinics_circle" src="./styles/imgs/maliye_circle.svg" alt="">
         </div>
     </div>
-    
+
     <script>
         function openCity(evt, cityName) {
             var i, tabcontent, tablinks;
