@@ -15,20 +15,24 @@ include './include/header.php';
     include './include/navigation.php';
     ?>
     <div class="clinics__page__container">
-    <div class="clinics__page_name">
-                <!------>
-                <div class="page__name_wrapper">
-                    <div class="page_name_block1">
-                        <p>Maliyyə &nbsp;</p>
-                    </div>
-                    <div class="page_name_block2">
-                        <p>göstəriciləri</p>
-                        <img class="maliye_page_name_img" src="./styles/imgs/maliye_blue.svg" alt="">
-                    </div>
+        <div class="clinics__page_name">
+            <!------>
+            <div class="page__name_wrapper">
+                <div class="page_name_block1">
+                    <p>Klinikalar, &nbsp;</p>
+                      
                 </div>
-                <!------->
-
+                <div class="page_name_block2">
+                    <p>apteklər &nbsp;</p>
+                </div>
+                <div class="page_name_block3">
+                    <p>və optikalar</p>
+                    <img class="maliye_page_name_img" src="./styles/imgs/clinics.svg" alt="">
+                </div>
             </div>
+            <!------->
+
+        </div>
 
         <div class="clinics__page__wrapper">
             <!-------->
