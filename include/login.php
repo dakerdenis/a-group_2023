@@ -40,21 +40,22 @@ include './header.php';
 
                     <div class="login__form__input__wrapper">
                         <div class="login__form__input__block">
-                            <input placeholder="Sığorta nömrəsi" type="text">
+                            <input id="insurance_number" placeholder="Sığorta nömrəsi" type="text">
                         </div>
 
                         <div class="login__form__input__block">
-                            <input placeholder="FİN kod" type="text">
+                            <input id="fin_code" placeholder="FİN kod" type="text">
                         </div>
 
                         <div class="login__form__input__block">
-                            <input placeholder="Mobil nömrə" type="text">
+                            <input id="mobile_number" placeholder="Mobil nömrə" type="text">
                         </div>
                     </div>
 
                     <div class="login__form__login__button">
-                        <button>Göndər</button>
+                        <button type="submit">Göndər</button>
                     </div>
+                    
                 </form>
             </div>
         </div>
@@ -90,8 +91,8 @@ include './header.php';
     var background = document.querySelector(".login__page__container");
 
 
-    bottom_image.style.backgroundImage="url('../styles/imgs/login_car.png')"; 
-    top_image.style.backgroundImage="url('../styles/imgs/login_image1.svg')"; 
+    bottom_image.style.backgroundImage = "url('../styles/imgs/login_car.png')";
+    top_image.style.backgroundImage = "url('../styles/imgs/login_image1.svg')";
     background.style.backgroundColor = "#E8D0A4"
 
     function animation1() {
@@ -104,13 +105,13 @@ include './header.php';
 
 
     function animation2() {
-        top_image.style.backgroundImage="url('../styles/imgs/login_top_image2.svg')"; 
+        top_image.style.backgroundImage = "url('../styles/imgs/login_top_image2.svg')";
         top_image.style.animationDuration = "0.5s";
         top_image.style.animationName = "login_image_top1-2";
 
         background.style.animationName = "background_animation2"
         background.style.backgroundColor = "#90C3CB"
-        
+
         bottom_image.style.animationName = "animation_botom2"
         bottom_image.style.animationName = "2s";
 
@@ -129,9 +130,9 @@ include './header.php';
 
 
 
-        top_image.style.top = "0"; 
-        top_image.style.left = "0"; 
-        top_image.style.right = "initial"; 
+        top_image.style.top = "0";
+        top_image.style.left = "0";
+        top_image.style.right = "initial";
 
         top_image.style.width = "297px";
         top_image.style.height = "244px";
@@ -139,14 +140,12 @@ include './header.php';
         top_image.style.backgroundSize = "contain";
         top_image.style.backgroundRepeat = "no-repeat";
 
-        
+
         top_image.style.animationDuration = "1s";
         top_image.style.animationName = "top_animation3";
 
     }
     setTimeout(animation3, 21000);
-
-
 </script>
 
 </body>

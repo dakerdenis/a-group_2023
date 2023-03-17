@@ -4,6 +4,7 @@
   height: 393px;
   background-color: #fff;
   border-radius: 20px;
+  z-index: 1;
 }
 .login__page__login__wrapper {
   width: 100%;
@@ -95,7 +96,7 @@ color: rgba(255, 255, 255, 1);
     overflow: hidden;
   
     position: relative;
-    z-index: -1;
+
 
 
     -webkit-animation: steps(1, end)   0.3s  alternate forwards;
