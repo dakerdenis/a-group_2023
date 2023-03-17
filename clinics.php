@@ -71,17 +71,17 @@ include './include/header.php';
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
+                                    Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
+                                    Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                Tel: (012) 538 66 60/62, 409 99 44
+                                    Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
@@ -89,17 +89,17 @@ include './include/header.php';
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
+                                    Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
+                                    Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                Tel: (012) 538 66 60/62, 409 99 44
+                                    Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
@@ -107,73 +107,78 @@ include './include/header.php';
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
+                                    Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
+                                    Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                Tel: (012) 538 66 60/62, 409 99 44
+                                    Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
+                                    Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
+                                    Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                Tel: (012) 538 66 60/62, 409 99 44
+                                    Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
+                                    Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
+                                    Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                Tel: (012) 538 66 60/62, 409 99 44
+                                    Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
                         <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
+                                    Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
+                                    Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                Tel: (012) 538 66 60/62, 409 99 44
+                                    Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
 
 
+                    </div>
+                    <div class="clinics__search__result__button">
+                        <button>
+                            DAHA ÇOX
+                        </button>
                     </div>
                 </div>
                 <!---------------------------------->
@@ -196,20 +201,20 @@ include './include/header.php';
                     </div>
 
                     <div class="clinics__search__result__wrapper">
-                    <div class="clinics__result__element">
+                        <div class="clinics__result__element">
                             <div class="clinics__element__name">
                                 <p>
-                                Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
+                                    Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı)
                                 </p>
                             </div>
                             <div class="clinics__element__adress">
                                 <p>
-                                Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
+                                    Bakı şəh., İsmayılbəy Qutqaşeni küç., 5;
                                 </p>
                             </div>
                             <div class="clinics__element__number">
                                 <p>
-                                Tel: (012) 538 66 60/62, 409 99 44
+                                    Tel: (012) 538 66 60/62, 409 99 44
                                 </p>
                             </div>
                         </div>
@@ -363,6 +368,11 @@ include './include/header.php';
 
 
 
+                    </div>
+                    <div class="clinics__search__result__button">
+                        <button>
+                            DAHA ÇOX
+                        </button>
                     </div>
                 </div>
                 <!---------------------------------->
@@ -519,6 +529,11 @@ include './include/header.php';
 
 
 
+                    </div>
+                    <div class="clinics__search__result__button">
+                        <button>
+                            DAHA ÇOX
+                        </button>
                     </div>
                 </div>
                 <!---------------------------------->
