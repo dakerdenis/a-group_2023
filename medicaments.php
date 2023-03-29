@@ -115,6 +115,8 @@ include './include/header.php';
 
 
             <img class="medicaments_svg" src="./styles/imgs/medicine_1.svg" alt="">
+            <img class="clinics_red" src="./styles/imgs/maliye_red.svg" alt="">
+            <img class="clinics_circle" src="./styles/imgs/maliye_circle.svg" alt="">
         </div>
     </div>
 

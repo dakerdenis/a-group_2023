@@ -26,3 +26,12 @@
     right: -25px;
     top: 50%;
 }
+.clinics_red{
+    left: -90px;
+}
+.clinics_circle{
+    left: initial;
+    top: initial;
+    bottom: 10%;
+    right: -80px;
+}
