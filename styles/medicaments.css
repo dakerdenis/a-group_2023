@@ -9,4 +9,20 @@
     letter-spacing: 0em;
     text-align: left;
 }
-
+.tab{
+    width: 550px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.tablinks:nth-child(2){
+    left: initial;
+}
+.tablinks{
+    position: initial;
+}
+.medicaments_svg{
+    position: absolute;
+    right: -25px;
+    top: 50%;
+}

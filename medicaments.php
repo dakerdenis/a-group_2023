@@ -64,7 +64,7 @@ include './include/header.php';
                     </div>
 
                     <div class="clinics__search__result__wrapper">
-
+                            Medicaments
 
                     </div>
                     <div class="clinics__search__result__button">
@@ -94,7 +94,7 @@ include './include/header.php';
 
                     <div class="clinics__search__result__wrapper">
 
-
+                    Medicaments 2
 
                     </div>
                     <div class="clinics__search__result__button">
@@ -114,9 +114,7 @@ include './include/header.php';
 
 
 
-            <img class="clinics__svg" src="./styles/imgs/maliye.svg" alt="">
-            <img class="clinics_red" src="./styles/imgs/maliye_red.svg" alt="">
-            <img class="clinics_circle" src="./styles/imgs/maliye_circle.svg" alt="">
+            <img class="medicaments_svg" src="./styles/imgs/medicine_1.svg" alt="">
         </div>
     </div>
 
