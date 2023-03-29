@@ -136,7 +136,7 @@ position: absolute;
 }
 .ferdi__auto__images__element {
   width: 290px;
-  height: 615px;
+  min-height: 615px;
   padding: 37px 8px;
   background: linear-gradient(180deg, #de937b 0%, #f2d6ca 100%);
   color: rgba(87, 86, 86, 1);
@@ -147,12 +147,16 @@ position: absolute;
 }
 .ferdi__auto__images__name {
   font-family: Oswald;
-  font-size: 32px;
+  font-size: 24px;
   font-weight: 500;
-  line-height: 47px;
+  line-height: 36px;
   letter-spacing: 0em;
   text-align: center;
-  margin-top: 30px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  justify-content: center;
 }
 .ferdi__auto__images__desc {
   font-family: "Roboto", sans-serif;
@@ -169,7 +173,7 @@ position: absolute;
   text-align: right;
   right: 8px;
 }
-.ferdi__auto__images__more a {
+.ferdi__auto__images__more button {
   display: block;
   align-items: center;
   justify-content: center;
@@ -289,4 +293,8 @@ position: absolute;
   letter-spacing: 0em;
   text-align: center;
   color: rgba(255, 255, 255, 1);
+}
+#more{
+  display: none;
+
 }

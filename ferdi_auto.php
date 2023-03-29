@@ -44,22 +44,24 @@ include './include/header.php';
 
             <!---ferdi avto text---->
             <div class="ferdi__auto__desc_text_center">
+
+
                 <div class="ferdi__auto__desc_text_center_container">
                     <p> KASKO - avtomobil sığortasının ən populyar və actual növlərindən biridir.</p>
-                    <p> A-Qroup aşağıdakı hallarda sığortalanmış avtomobilin və ya onun ayrı-ayrı detallarının,
-                        hissələrinin zədələnməsi, tam məhvi v ə ya itkisi nəticəsində yaranmış ziyanı ödəməyə təminat verir:</p>
+                    <p> Aşağıdakı risklər nəticəsində sığortalanmış avtomobilə dəyə bilən zərərlərdən sığorta təminatı verilir:</p>
                 </div>
                 <img src="./styles/imgs/ferdi_auto_rect.svg" alt="">
             </div>
 
             <div class="ferdi__auto__desc_text">
                 <div class="ferdi__auto__desc_container">
-                    <p>Qəza (toqquşma, qarşılaşma zədəsi, çevrilmə, yuvarlanma)</p>
-                    <p>Yanğın, öz-özünə alışma</p>
-                    <p>Şüşələrin sınması</p>
-                    <p>Təbii fəlakətlər</p>
-                    <p>Nəqliyyat vasitəsinin qaçırılması, qaçırılma vaxtı baş verən zədələr və üçüncü şəxslərin digər qeyri qanuni hərəkətləri</p>
-                    <p>Daşların, əşyaların, uçan aparatların düşməsi və digər bədbəxt hadisələr</p>
+                    <p>Avtonəqliyyat hadisəsi</p>
+                    <p>Atılmış və ya düşmüş əşya</p>
+                    <p>Üçüncü şəxsin qanunazidd hərəkəti</p>
+                    <p>Oğurluq, quldurluq, qaçırma və soyğunçuluq</p>
+                    <p>Yanğın və partlayış</p>
+                    <p>Təbii fəlakət</p>
+                    <p>Heyvanların hərəkəti</p>
                 </div>
             </div>
 
@@ -83,7 +85,7 @@ include './include/header.php';
                     <p>DYP-də sənədləşmə</p>
                     <p>Sığorta hadisəsi zamanı MediClub-dan Təcili Tibbi yardım xidməti</p>
                     <p>Pulsuz evakuasiya xidməti</p>
-                    <p>Hissə-hissə ödəmə imkanı</p>
+                    <p>Sığorta haqqının hissəli şəklində ödəmə imkanı</p>
                     <p>Təklif olunan servis mərkəzlərində yüksək keyfiyyətin mövcudluğu</p>
                 </div>
                 <img src="./styles/imgs/ferdi_auto_circle.svg" alt="">
@@ -97,16 +99,26 @@ include './include/header.php';
                             <img src="./styles/imgs/ferdi_auto.png" alt="">
                         </div>
                         <div class="ferdi__auto__images__name">
-                            <p>GÖYDƏNDÜŞMƏ</p>
+                            <p>“GÖYDƏNDÜŞMƏ”
+                                KASKO MƏHSULU</p>
                         </div>
                         <div class="ferdi__auto__images__desc">
-                            <p>Avtomobilin dəyərinin İldə cəmi 1%-ni ödəməklə A-Qroup Sığorta Şirkətinin müştəriləri öz nəqliyyat vasitələrini onların günahından baş verməyən bütün hadisələrdən qoruya bilərlər:
-                                yol-nəqliyyat-hadisələri, atılmış və ya düşmüş əşya nəticəsində zədələr, ücüncü şəxsin qeyri-qanuni hərəkəti, oğurluq, qacirma və başqa gözlənilməyən hadisələr.</p>
+                            <p>Avtomobilin dəyərinin cəmi 1%-ni (rəsmi servisdə təmir təminatı ilə 1.5%-ni) ödəməklə A-Qroup-un müştəriləri öz nəqliyyat vasitələrini onların günahından baş verməyən aşağıdakı hadisələrdən qoruya bilərlər: </p>
+
+                            <p> • Atılmış və ya düşmüş əşya;</p>
+                            <p> • Üçüncü şəxsin qanunazidd hərəkəti (üçüncü şəxsin təqsiri nəticəsində baş verən yol nəqliyyat hadisələri daxil olmaqla);</p>
+                            <span id="dots">&nbsp;</span>
+                            <span id="more">
+                            <p> • Oğurluq, quldurluq, qaçırma və soyğunçuluq;</p>
+                            <p> • Yanğın və partlayış;</p>
+                            <p> • Heyvanların hərəkəti.</p>
+                            <p>
+                            Məhsul bazar dəyəri 25 000 AZN-dən 80 000 AZN-dək olan və istehsal ili 2010 ildən yuxarı olan avtomobillər üzrə təqdim olunur.
+                            </p>
+                            </span>
                         </div>
                         <div class="ferdi__auto__images__more">
-                            <a href="#">
-                                <p>DAHA ÇOX</p>
-                            </a>
+                            <button onclick="myFunction()" id="myBtn">DAHA ÇOX</button>
                         </div>
                     </div>
 
@@ -148,8 +160,10 @@ include './include/header.php';
                             <img src="./styles/imgs/ferdi_auto.png" alt="">
                         </div>
                         <div class="ferdi__auto__images__name">
-                            <p>RADİUS-dan ENDİRİM
-                                YIĞIM KARTINI</p>
+                            <p>
+                                RADİUS TƏKƏR MƏRKƏZİNDƏ
+                                A-QROUPDAN 15%ENDİRİM
+                            </p>
                         </div>
                         <div class="ferdi__auto__images__desc">
                             <p>
@@ -201,6 +215,24 @@ include './include/header.php';
         </div>
     </div>
 
+
+    <script>
+        function myFunction() {
+            var dots = document.getElementById("dots");
+            var moreText = document.getElementById("more");
+            var btnText = document.getElementById("myBtn");
+
+            if (dots.style.display === "none") {
+                dots.style.display = "inline";
+                btnText.innerHTML = "DAHA ÇOX";
+                moreText.style.display = "none";
+            } else {
+                dots.style.display = "none";
+                btnText.innerHTML = "DAHA AZ";
+                moreText.style.display = "inline";
+            }
+        }
+    </script>
     <?php
     include './include/footer.php';
     ?>
