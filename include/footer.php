@@ -31,7 +31,7 @@
                     <div class="footer__block__info_block_elements">
 
                         <a href="./clinics.php">Klinikalar, Apteklər və optikalar</a>
-                        <a href="#">Dərmanlarin axtarişi</a>
+                        <a href="./medicaments.php">Dərmanlarin axtarişi</a>
                         <a href="#"> Xəbərlər </a>
                         <a href="./contact.php"> Əlaqə </a>
                         <a href="./complaints.php"> Şikayətlər </a>
