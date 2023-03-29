@@ -104,14 +104,15 @@ include './include/header.php';
                         </div>
                         <div class="ferdi__auto__images__desc">
                             <p>Avtomobilin dəyərinin cəmi 1%-ni (rəsmi servisdə təmir təminatı ilə 1.5%-ni) ödəməklə A-Qroup-un müştəriləri öz nəqliyyat vasitələrini onların günahından baş verməyən aşağıdakı hadisələrdən qoruya bilərlər: </p>
-
-                            <p> • Atılmış və ya düşmüş əşya;</p>
-                            <p> • Üçüncü şəxsin qanunazidd hərəkəti (üçüncü şəxsin təqsiri nəticəsində baş verən yol nəqliyyat hadisələri daxil olmaqla);</p>
+                <br>
+                            <p> &nbsp; • Atılmış və ya düşmüş əşya;</p>
                             <span id="dots">&nbsp;</span>
                             <span id="more">
-                            <p> • Oğurluq, quldurluq, qaçırma və soyğunçuluq;</p>
-                            <p> • Yanğın və partlayış;</p>
-                            <p> • Heyvanların hərəkəti.</p>
+                            <p>&nbsp; • Üçüncü şəxsin qanunazidd hərəkəti (üçüncü şəxsin təqsiri nəticəsində baş verən yol nəqliyyat hadisələri daxil olmaqla);</p>
+
+                            <p>&nbsp; • Oğurluq, quldurluq, qaçırma və soyğunçuluq;</p>
+                            <p>&nbsp; • Yanğın və partlayış;</p>
+                            <p>&nbsp; • Heyvanların hərəkəti.</p>
                             <p>
                             Məhsul bazar dəyəri 25 000 AZN-dən 80 000 AZN-dək olan və istehsal ili 2010 ildən yuxarı olan avtomobillər üzrə təqdim olunur.
                             </p>
@@ -147,9 +148,9 @@ include './include/header.php';
                             <p>möhtəşən FİTNES
                                 mərkəzlərində endİrİm</p>
                         </div>
-                        <div class="ferdi__auto__images__desc">
-                            <p>A-Qroup-dan KASKO əldə etməklə Hyatt Regency, Port Baku, Boulevard Hotel, Fairmont Hotel kimi otellərdə olan ən möhtəşən FİTNES mərkəzlərinin illik abunə haqlarına
-                                45%-dək ENDİRİM əldə etmək mümkündür.</p>
+                        <div class="ferdi__auto__images__desc ferdi__auto__images__desc3">
+                            <p>A-Qroup-dan KASKO əldə etməklə Hyatt Regency, Port Baku, Boulevard Hotel, Fairmont Hotel kimi otellərdə olan ən möhtəşən FİTNES mərkəzlərinin illik abunə haqlarına 
+45%-dək ENDİRİM əldə etmək mümkündür.</p>
                         </div>
 
                     </div>

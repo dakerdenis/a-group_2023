@@ -136,8 +136,8 @@ position: absolute;
 }
 .ferdi__auto__images__element {
   width: 290px;
-  min-height: 615px;
-  padding: 37px 8px;
+  min-height: 600px;
+  padding: 37px 15px;
   background: linear-gradient(180deg, #de937b 0%, #f2d6ca 100%);
   color: rgba(87, 86, 86, 1);
   text-align: center;
@@ -166,6 +166,15 @@ position: absolute;
   letter-spacing: 0em;
   text-align: left;
   margin-top: 23px;
+}
+.ferdi__auto__images__desc3 p {
+  font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 300;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 .ferdi__auto__images__more {
   position: absolute;
