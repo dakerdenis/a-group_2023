@@ -104,18 +104,18 @@ include './include/header.php';
                         </div>
                         <div class="ferdi__auto__images__desc">
                             <p>Avtomobilin dəyərinin cəmi 1%-ni (rəsmi servisdə təmir təminatı ilə 1.5%-ni) ödəməklə A-Qroup-un müştəriləri öz nəqliyyat vasitələrini onların günahından baş verməyən aşağıdakı hadisələrdən qoruya bilərlər: </p>
-                <br>
+                            <br>
                             <p> &nbsp; • Atılmış və ya düşmüş əşya;</p>
                             <span id="dots">&nbsp;</span>
                             <span id="more">
-                            <p>&nbsp; • Üçüncü şəxsin qanunazidd hərəkəti (üçüncü şəxsin təqsiri nəticəsində baş verən yol nəqliyyat hadisələri daxil olmaqla);</p>
+                                <p>&nbsp; • Üçüncü şəxsin qanunazidd hərəkəti (üçüncü şəxsin təqsiri nəticəsində baş verən yol nəqliyyat hadisələri daxil olmaqla);</p>
 
-                            <p>&nbsp; • Oğurluq, quldurluq, qaçırma və soyğunçuluq;</p>
-                            <p>&nbsp; • Yanğın və partlayış;</p>
-                            <p>&nbsp; • Heyvanların hərəkəti.</p>
-                            <p>
-                            Məhsul bazar dəyəri 25 000 AZN-dən 80 000 AZN-dək olan və istehsal ili 2010 ildən yuxarı olan avtomobillər üzrə təqdim olunur.
-                            </p>
+                                <p>&nbsp; • Oğurluq, quldurluq, qaçırma və soyğunçuluq;</p>
+                                <p>&nbsp; • Yanğın və partlayış;</p>
+                                <p>&nbsp; • Heyvanların hərəkəti.</p>
+                                <p>
+                                    Məhsul bazar dəyəri 25 000 AZN-dən 80 000 AZN-dək olan və istehsal ili 2010 ildən yuxarı olan avtomobillər üzrə təqdim olunur.
+                                </p>
                             </span>
                         </div>
                         <div class="ferdi__auto__images__more">
@@ -149,8 +149,8 @@ include './include/header.php';
                                 mərkəzlərində endİrİm</p>
                         </div>
                         <div class="ferdi__auto__images__desc ferdi__auto__images__desc3">
-                            <p>A-Qroup-dan KASKO əldə etməklə Hyatt Regency, Port Baku, Boulevard Hotel, Fairmont Hotel kimi otellərdə olan ən möhtəşən FİTNES mərkəzlərinin illik abunə haqlarına 
-45%-dək ENDİRİM əldə etmək mümkündür.</p>
+                            <p>A-Qroup-dan KASKO əldə etməklə Hyatt Regency, Port Baku, Boulevard Hotel, Fairmont Hotel kimi otellərdə olan ən möhtəşən FİTNES mərkəzlərinin illik abunə haqlarına
+                                45%-dək ENDİRİM əldə etmək mümkündür.</p>
                         </div>
 
                     </div>
@@ -168,20 +168,30 @@ include './include/header.php';
                         </div>
                         <div class="ferdi__auto__images__desc">
                             <p>
-                                A-Qroup-dan 15% ENDİRİM
-                                A-Qroup-dan KASKO aldıqda Siz RADİUS təkər mərkəzindən hədiyyə olaraq ENDİRİM-YIĞIM KARTINI qazanırsınız. 15% ENDİRİM aşağıda qeyd olunan xidmətlərdən: <br>
-                                1.Yoxlanma <br>
-                                2.Şinlərin montajı <br>
-                                3.Razval <br>
-                                4.Şinlərin təmiri <br>
-                                5.Şin oteli <br>
-
+                                A-Qroup-dan KASKO aldıqda Siz RADİUS təkər mərkəzindən hədiyyə olaraq ENDİRİM-YIĞIM KARTINI qazanırsınız. 15% ENDİRİM aşağıda qeyd olunan xidmətlərə şamil edilir:
                             </p>
+                            <br>
+                            <span id="dots2">&nbsp;</span>
+                            <span id="more2">
+                                <p> • Yoxlanma </p>
+                                <p> • Şinlərin montajı </p>
+                                <p> • Razval </p>
+                                <p> • Şinlərin təmiri </p>
+                                <p> • Şin oteli </p>
+                                <p> • Disklərin təmiri </p>
+                                <p> • Disklərin rənglənməsi</p>
+                                <p> • Yağ servisi</p>
+                                <p> • Filtrasiya </p>
+                                <p> • Əyləc Sisteminin servisi </p>
+                                <p> • Akkumulyator servisi </p>
+                                <p> • Kondisioner servisi </p>
+                            </span>
+
+
+
                         </div>
                         <div class="ferdi__auto__images__more">
-                            <a href="#">
-                                <p>DAHA ÇOX</p>
-                            </a>
+                            <button onclick="myFunction2()" id="myBtn2">DAHA ÇOX</button>
                         </div>
 
                     </div>
@@ -220,6 +230,7 @@ include './include/header.php';
     <script>
         function myFunction() {
             var dots = document.getElementById("dots");
+            
             var moreText = document.getElementById("more");
             var btnText = document.getElementById("myBtn");
 
@@ -231,6 +242,22 @@ include './include/header.php';
                 dots.style.display = "none";
                 btnText.innerHTML = "DAHA AZ";
                 moreText.style.display = "inline";
+            }
+        }
+        function myFunction2() {
+            var dots2 = document.getElementById("dots2");
+            
+            var moreText2 = document.getElementById("more2");
+            var btnText2 = document.getElementById("myBtn2");
+
+            if (dots2.style.display === "none") {
+                dots2.style.display = "inline";
+                btnText2.innerHTML = "DAHA ÇOX";
+                moreText2.style.display = "none";
+            } else {
+                dots2.style.display = "none";
+                btnText2.innerHTML = "DAHA AZ";
+                moreText2.style.display = "inline";
             }
         }
     </script>
