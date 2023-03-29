@@ -23,8 +23,8 @@
 }
 .medicaments_svg{
     position: absolute;
-    right: -25px;
-    top: 50%;
+    right: 25px;
+    top: 450px;
 }
 .clinics_red{
     left: -90px;
