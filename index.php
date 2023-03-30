@@ -17,7 +17,7 @@
                              <div class="slider__content__wrapper">
                                 <!---slider text content ----->
                                 <div class="slider__content__text_">
-
+                                    asdasd
                                 </div>
                                 <!---slider image content--->
                                 <div class="slider__content__image_">
@@ -25,9 +25,7 @@
                                 </div>
                              </div>
                          </div>
-                         <div class="swiper-slide">
-                            SLide 2
-                         </div>
+                         <div class="swiper-slide">SLide 2</div>
                          <div class="swiper-slide">Slide 3</div>
 
                      </div>
