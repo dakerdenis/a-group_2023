@@ -15,7 +15,7 @@
                      <div class="swiper-wrapper">
                          <div class="swiper-slide">
                              <div class="slider__content__wrapper">
-                                <img class="slider__top__image" src="./styles/imgs/slider_circle.png" alt="">
+                                 <img class="slider__top__image" src="./styles/imgs/slider_circle.png" alt="">
                                  <!---slider text content ----->
                                  <div class="slider__content__text_">
                                      <div class="slider__content__text_name">
@@ -41,9 +41,11 @@
                                          </div>
                                      </div>
                                      <div class="slider__content__text_button">
-                                        <a href="#">
-                                            <p>ПОДРОБНО</p>
-                                        </a>
+                                         <a href="#">
+                                             <p>ПОДРОБНО</p>
+                                             <img class="slider_button_circle" src="./styles/imgs/slider_button_circle.svg" alt="">
+                                             <img class="slider_button_rectangle" src="./styles/imgs/slider_button_rectangle.svg" alt="">
+                                         </a>
                                      </div>
                                  </div>
                                  <!---slider image content--->
@@ -52,8 +54,74 @@
                                  </div>
                              </div>
                          </div>
-                         <div class="swiper-slide">SLide 2</div>
-                         <div class="swiper-slide">Slide 3</div>
+                         <div class="swiper-slide">
+                             <div class="slider__content__wrapper">
+                                 <img class="slider__top__image" src="./styles/imgs/slider_circle.png" alt="">
+                                 <!---slider text content ----->
+                                 <div class="slider__content__text_">
+                                     <div class="slider__content__text_name">
+                                         <p> 
+                                             СТРАХОВАНИЕ для <br> всей <span> СЕМЬИ</span>
+                                         </p>
+                                     </div>
+                                     <div class="slider__content__text_desc">
+                                         <p>Простой и доступный способ защиты своих родных от существенных финансовых затрат</p>
+                                     </div>
+                                     <div class="slider__content__text_list">
+                                         <div class="slider__content__text_list_element">
+                                             <span>✓</span>
+                                             <p>Доступная цена</p>
+                                         </div>
+                                         <div class="slider__content__text_list_element">
+                                             <span>✓</span>
+                                             <p>БЕСПЛАТНЫЙ Check Up</p>
+                                         </div>
+                                         <div class="slider__content__text_list_element">
+                                             <span>✓</span>
+                                             <p>Для взрослых и детей</p>
+                                         </div>
+                                     </div>
+                                     <div class="slider__content__text_button">
+                                         <a href="#">
+                                             <p>ПОДРОБНО</p>
+                                             <img class="slider_button_circle" src="./styles/imgs/slider_button_circle.svg" alt="">
+                                             <img class="slider_button_rectangle" src="./styles/imgs/slider_button_rectangle.svg" alt="">
+                                         </a>
+                                     </div>
+                                 </div>
+                                 <!---slider image content--->
+                                 <div class="slider__content__image_">
+                                     <img src="./styles/imgs/slider_image2.png" alt="">
+                                 </div>
+                             </div>
+                         </div>
+                         <div class="swiper-slide">
+                             <div class="slider__content__wrapper">
+                                 <img class="slider__top__image" src="./styles/imgs/slider_circle.png" alt="">
+                                 <!---slider text content ----->
+                                 <div class="slider__content__text_">
+                                     <div class="slider__content__text_name">
+                                         <p>
+                                         Страхование автомобиля    <br> <span>ЛЕГКО и БЫСТРО</span>
+                                         </p>
+                                     </div>
+                                     <div class="slider__content__text_desc">
+                                         <p>Оформите КАСКО онлайн всего за несколько минут. В зависимости от выбранной программы полис защитит Вас от крупных расходов на ремонт машины в различных обстоятельствах или возместит ущерб в случае полной гибели транспортного средства</p>
+                                     </div>
+                                     <div class="slider__content__text_button">
+                                         <a href="#">
+                                             <p>ПОДРОБНО</p>
+                                             <img class="slider_button_circle" src="./styles/imgs/slider_button_circle.svg" alt="">
+                                             <img class="slider_button_rectangle" src="./styles/imgs/slider_button_rectangle.svg" alt="">
+                                         </a>
+                                     </div>
+                                 </div>
+                                 <!---slider image content--->
+                                 <div class="slider__content__image_">
+                                     <img src="./styles/imgs/slider1.png" alt="">
+                                 </div>
+                             </div>
+                         </div>
 
                      </div>
                      <div class="swiper-button-next"></div>

@@ -193,6 +193,18 @@ margin-top: 14px;
    height: 50px;
    border-radius: 39px;
    background-color: rgba(188, 26, 26, 1);
+   overflow: hidden;
+   position: relative;
+}
+.slider_button_circle{
+  position: absolute;
+  left: 0;
+  bottom: 0px;
+}
+.slider_button_rectangle{
+  position: absolute;
+  right: 0px;
+  top: 10px;
 }
 .slider__content__text_button a p {
   font-family: "Roboto", sans-serif;
