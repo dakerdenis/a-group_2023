@@ -19,7 +19,7 @@ include './include/header.php';
     <div class="ferdi_emlak_container">
         <div class="ferdi_emlak__page_name">
             <div class="page__name_wrapper">
-                <div class="page_name_block1 page_name_block_emlak1">
+                <div class="page_name_block1 page_name_block_emlak1 page_name_block_red">
                     <p>FƏRDİ &nbsp;</p>
                 </div>
                 <div class="page_name_block2 ">

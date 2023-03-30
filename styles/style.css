@@ -720,6 +720,12 @@ a.youtubeurl:hover {
   opacity: 1;
   text-decoration: none;
 }
+.page_name_block_red p{
+  color: rgba(188, 26, 26, 1);
+}
+.page_name_block_red {
+  color: rgba(188, 26, 26, 1);
+}
 
 @media screen and (max-width: 1280px) {
   .screensize {

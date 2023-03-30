@@ -19,8 +19,10 @@ include './include/header.php';
 
         <div class="ferdi_auto_name">
             <div class="page__name_wrapper">
-                <div class="page_name_block1 page_name_block1_auto">
+                <div class="page_name_block1 page_name_block1_auto page_name_block_red">
+                    <p>
                     Fərdi
+                    </p>
                 </div>
                 <div class="page_name_block2">
                     Avtomobil &nbsp;

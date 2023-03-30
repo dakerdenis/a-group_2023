@@ -19,8 +19,7 @@
 }
 .page__name_wrapper {
 }
-.page_name_block1 {
-}
+
 .page_name_block-faq {
 }
 .page_name_block2 {
@@ -121,6 +120,7 @@ margin-top: 10px;
 }
 .page_name_block_tibbi1{
   font-weight: 300;
+  color:rgba(188, 26, 26, 1) ;
 }
 .medical__element__link {
   position: relative;
@@ -219,4 +219,7 @@ margin-top: 10px;
     position: absolute;
     right: -14px;
     bottom: 0px;
+  }
+  .page_name_block_red p{
+    color: rgba(188, 26, 26, 1);
   }

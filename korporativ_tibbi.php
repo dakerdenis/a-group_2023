@@ -19,7 +19,7 @@ include './include/header.php';
     <div class="korporativ__tibbi__container">
         <div class="korporativ__tibbi__page_name">
             <div class="page__name_wrapper">
-                <div class="page_name_block1 ">
+                <div class="page_name_block1 page_name_block_red">
                     <p>Korporatİv &nbsp;</p>
                 </div>
                 <div class="page_name_block2 ">

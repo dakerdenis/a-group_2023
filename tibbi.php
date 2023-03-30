@@ -19,7 +19,7 @@ include './include/header.php';
     <div class="medical_tibbi__page">
         <div class="medical_tibbi__page_name">
             <div class="page__name_wrapper">
-                <div class="page_name_block1 page_name_block_tibbi1">
+                <div class="page_name_block1 page_name_block_tibbi1 page_name_block_red">
                     <p>FƏRDİ &nbsp;</p>
                 </div>
                 <div class="page_name_block2 page_name_block_tibbi">
