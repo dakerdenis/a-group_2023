@@ -509,6 +509,7 @@ body {
   z-index: 1;
   width: 455px;
   height: 621px;
+  transform: scale(0.7);
 }
 .mobile__mobile__block_img2 {
   position: absolute;
@@ -516,6 +517,7 @@ body {
   left: 7%;
   width: 395.5px;
   top: 4%;
+  transform: scale(0.7);
 }
 /**********Стили раздела наши клиенты************************/
 /**********Стили раздела наши клиенты************************/

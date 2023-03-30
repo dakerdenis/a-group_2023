@@ -10,6 +10,14 @@
   flex-direction: column;
   justify-content: space-between;
   padding-bottom: 100px;
+  position: relative;
+}
+.contact__page__image_main{
+  position: absolute;
+  width: 462px;
+  height: 310px;
+  top: 0;
+  right: 0;
 }
 
 /********блок с приветствием **********/
@@ -52,8 +60,13 @@
 .contact__page__mainblock__image {
   position: absolute;
   right: 0;
-}
+  width: 462px;
+  height: 310px;
 
+}
+.contact__page__mainblock__image img {
+  width: 100%;
+}
 /***связь с нами и текст и соц сети*****/
 .contact__page__social__wrapper {
   position: relative;

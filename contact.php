@@ -22,9 +22,8 @@ include './include/header.php';
         <div class="contact__page__mainblock">
 
             <!--Главная картинка--->
-            <div class="contact__page__mainblock__image">
-                <img src="./styles/imgs/contact_img.svg" alt="">
-            </div>
+                <img class="contact__page__image_main" src="./styles/imgs/contact_img.svg" alt="">
+
 
             <!---блок с приветствием --->
             <div class="contact__page__mainblock__hello">

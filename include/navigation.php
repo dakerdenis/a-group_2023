@@ -274,7 +274,7 @@
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
-                                        <p>Tikinti-montaj Risklərin Sığortası</p>
+                                        <p>Podratçının Maşın və Avadanlıqların Sığortası</p>
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__desc">
@@ -295,7 +295,7 @@
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
-                                        <p>Tikinti-montaj Risklərin Sığortası</p>
+                                        <p>Digər növlər</p>
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__desc">
@@ -335,7 +335,7 @@
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
-                                        <p>Avtomobil sigorta</p>
+                                        <p>Daşınmaz əmlak</p>
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__desc">
@@ -356,7 +356,7 @@
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
-                                        <p>Tibbi sigorta</p>
+                                        <p>Daşınmaz Əmlak ilə Bağlı Məsuliyyət</p>
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__desc">
@@ -369,6 +369,26 @@
                                 </a>
                             </div>
                             <!----------------------------->
+                            <div class="dropdown__element">
+                                <a href="#" class="dropdown__element__wrapper">
+                                    <!----->
+                                    <div class="dropdown__element__image">
+                                        <img src="./styles/imgs/home.svg" alt="">
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__name">
+                                        <p>Avtonəqliyyat ilə Bağlı Məsuliyyət</p>
+                                    </div>
+                                    <!---->
+                                    <div class="dropdown__element__desc">
+                                        Lorem ipsum dolor sit amet consectur adispiscing elit
+                                    </div>
+                                    <!------->
+                                    <div class="dorpdown__element__arrow">
+                                        <img src="./styles/imgs/arrow_red.svg" alt="">
+                                    </div>
+                                </a>
+                            </div>
 
                         </div>
                     </div>
