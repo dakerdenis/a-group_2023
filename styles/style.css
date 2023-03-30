@@ -389,15 +389,14 @@ color:rgba(255, 255, 255, 1) ;
 /**********Стили раздела скачать мобилаьное приложение***********************/
 /**********Стили раздела скачать мобилаьное приложение***********************/
 .main__mobile__block {
-  font-size: 30px;
-  height: 768px;
+  height: 650px;
   width: 100%;
   background-color: white;
   overflow: hidden;
 }
 
 .mobile__block__wrapper {
-  width: 1620px;
+  width: 1230px;
   margin: 0 auto;
   height: 100%;
   display: flex;
@@ -409,24 +408,27 @@ color:rgba(255, 255, 255, 1) ;
   width: 40%;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+
   margin-top: 90px;
 }
+.mobile__text__name{
 
-.mobile__text__name {
+  height: 120px;
+  width: 600px;
+}
+.mobile__text__name p {
   font-family: "Oswald", sans-serif;
-  text-transform: uppercase;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 500;
-  line-height: 71px;
+  line-height: 59px;
   letter-spacing: 0em;
   text-align: left;
-  margin-bottom: 46px;
   color: rgba(87, 86, 86, 1);
+  text-transform: uppercase;
 }
 
-.mobile__text__name p:nth-child(1) {
-  color: rgba(173, 41, 41, 1);
+.mobile__text__name span {
+  color: rgba(188, 26, 26, 1);
 }
 
 .mobile__text___text {
@@ -441,7 +443,11 @@ color:rgba(255, 255, 255, 1) ;
   letter-spacing: 0em;
   text-align: left;
 }
-
+.mobile__links__block{
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+}
 .mobile__links__block a:nth-child(2) {
   margin-left: 1em;
 }
@@ -468,7 +474,7 @@ color:rgba(255, 255, 255, 1) ;
 .mobile__rectaangel__block {
   position: absolute;
   bottom: 29%;
-  right: 4%;
+  right: 5%;
   z-index: 1;
 }
 
@@ -479,29 +485,27 @@ color:rgba(255, 255, 255, 1) ;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  height: 621px;
-  width: 455px;
   left: 10%;
 }
 .mobile__mobile__block_wrapper {
-  width: 100%;
-  height: 100%;
+  width: 352px;
+  height: 473px;
   position: relative;
 }
 .mobile__mobile__block_img1 {
   position: absolute;
   z-index: 1;
-  width: 455px;
-  height: 621px;
-  transform: scale(0.7);
+  width: 100%;
+  height: auto;
+
 }
 .mobile__mobile__block_img2 {
   position: absolute;
   z-index: -1;
   left: 7%;
-  width: 395.5px;
+  width: 87%;
   top: 4%;
-  transform: scale(0.7);
+
 }
 /**********Стили раздела наши клиенты************************/
 /**********Стили раздела наши клиенты************************/

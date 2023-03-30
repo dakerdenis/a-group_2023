@@ -254,8 +254,9 @@
                      <div class="mobile__block__text__wrapper">
                          <!--------------->
                          <div class="mobile__text__name">
-                             <p>Friendly and helpful support</p>
-                             <p>when you need it</p>
+                                <p>
+                                <span>Friendly and helpful support</span> <br> when you need it
+                                </p>
                          </div>
                          <!--------------->
                          <div class="mobile__text___text">
