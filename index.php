@@ -15,14 +15,40 @@
                      <div class="swiper-wrapper">
                          <div class="swiper-slide">
                              <div class="slider__content__wrapper">
-                                <!---slider text content ----->
-                                <div class="slider__content__text_">
-                                    asdasd
-                                </div>
-                                <!---slider image content--->
-                                <div class="slider__content__image_">
-                                    
-                                </div>
+                                 <!---slider text content ----->
+                                 <div class="slider__content__text_">
+                                     <div class="slider__content__text_name">
+                                         <p>
+                                             Ваше <span>ЗДОРОВЬЕ</span> <br> наш <span>ПРИОРИТЕТ</span>
+                                         </p>
+                                     </div>
+                                     <div class="slider__content__text_desc">
+                                         <p>Охрана здоровья застрахованного, организация полноценной медицинской помощи было и остается главным направлением A-Qroup</p>
+                                     </div>
+                                     <div class="slider__content__text_list">
+                                         <div class="slider__content__text_list_element">
+                                             <span>✓</span>
+                                             <p>Доступная цена</p>
+                                         </div>
+                                         <div class="slider__content__text_list_element">
+                                             <span>✓</span>
+                                             <p>БЕСПЛАТНЫЙ Check Up</p>
+                                         </div>
+                                         <div class="slider__content__text_list_element">
+                                             <span>✓</span>
+                                             <p>Для взрослых и детей</p>
+                                         </div>
+                                     </div>
+                                     <div class="slider__content__text_button">
+                                        <a href="#">
+                                            <p>ПОДРОБНО</p>
+                                        </a>
+                                     </div>
+                                 </div>
+                                 <!---slider image content--->
+                                 <div class="slider__content__image_">
+                                     <img src="./styles/imgs/slider1.png" alt="">
+                                 </div>
                              </div>
                          </div>
                          <div class="swiper-slide">SLide 2</div>
