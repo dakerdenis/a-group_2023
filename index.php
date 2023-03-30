@@ -117,8 +117,8 @@
                                      </div>
                                  </div>
                                  <!---slider image content--->
-                                 <div class="slider__content__image_">
-                                     <img src="./styles/imgs/slider1.png" alt="">
+                                 <div class="slider__content__image_ slider__content__image_3">
+                                     <img src="./styles/imgs/slider__image3.png" alt="">
                                  </div>
                              </div>
                          </div>

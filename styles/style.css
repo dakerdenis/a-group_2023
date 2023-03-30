@@ -182,7 +182,7 @@ color:rgba(87, 86, 86, 1) ;
   margin-right: 10px;
 }
 .slider__content__text_button{
-margin-top: 14px;
+margin-top: 30px;
 }
 .slider__content__text_button a{
    display: block;
@@ -228,6 +228,10 @@ color:rgba(255, 255, 255, 1) ;
   width: 60%;
   right: 0;
   z-index: 0;
+  bottom: 0;
+}
+.slider__content__image_3{
+  height: 80%;
 }
 .slider__content__image_ img {
   height: 100%;
