@@ -144,7 +144,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                        <img src="./styles/imgs/korporate_emlake.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
@@ -165,7 +165,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                        <img src="./styles/imgs/korpORATIV_CAR.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
@@ -186,7 +186,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                        <img src="./styles/imgs/KORPORATIV_cargo.png" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
@@ -207,7 +207,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                        <img src="./styles/imgs/KORPORATIV_responsibility.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
@@ -228,7 +228,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                        <img src="./styles/imgs/KORPORATIV_sos.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
@@ -249,7 +249,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                        <img src="./styles/imgs/KORPORATIV_TIKINTI.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
@@ -270,7 +270,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                        <img src="./styles/imgs/KORPORATIV_tractor.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
@@ -291,7 +291,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/placeholder.svg" alt="">
+                                        <img src="./styles/imgs/KORPORATIV_protection.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
@@ -331,7 +331,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/car.svg" alt="">
+                                        <img src="./styles/imgs/home.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
@@ -352,7 +352,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/home.svg" alt="">
+                                        <img src="./styles/imgs/ICBARI2.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
@@ -373,7 +373,7 @@
                                 <a href="#" class="dropdown__element__wrapper">
                                     <!----->
                                     <div class="dropdown__element__image">
-                                        <img src="./styles/imgs/home.svg" alt="">
+                                        <img src="./styles/imgs/car.svg" alt="">
                                     </div>
                                     <!---->
                                     <div class="dropdown__element__name">
