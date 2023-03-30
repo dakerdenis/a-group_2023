@@ -131,9 +131,14 @@ body {
   height: 100%;
   position: relative;
 }
+.slider__top__image{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 .slider__content__text_ {
   position: absolute;
-  background-color: blue;
+
   min-height: 473px;
   width: 800px;
   z-index: 1;
@@ -176,7 +181,9 @@ color:rgba(87, 86, 86, 1) ;
   font-weight: 600;
   margin-right: 10px;
 }
-
+.slider__content__text_button{
+margin-top: 14px;
+}
 .slider__content__text_button a{
    display: block;
    display: flex;
@@ -194,12 +201,17 @@ font-weight: 600;
 line-height: 23px;
 letter-spacing: 0em;
 text-align: left;
+color:rgba(255, 255, 255, 1) ;
 
 }
 
+
+
+
+
 .slider__content__image_ {
   position: absolute;
-  background-color: rgba(0, 128, 0, 1);
+
   height: 100%;
   width: 60%;
   right: 0;
@@ -213,6 +225,7 @@ text-align: left;
   bottom: 0;
 }
 .slider__content__text_desc {
+  margin-top: 17px;
   font-family: "Roboto", sans-serif;
   font-size: 24px;
   font-weight: 300;

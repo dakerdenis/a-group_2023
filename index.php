@@ -15,6 +15,7 @@
                      <div class="swiper-wrapper">
                          <div class="swiper-slide">
                              <div class="slider__content__wrapper">
+                                <img class="slider__top__image" src="./styles/imgs/slider_circle.png" alt="">
                                  <!---slider text content ----->
                                  <div class="slider__content__text_">
                                      <div class="slider__content__text_name">
@@ -28,15 +29,15 @@
                                      <div class="slider__content__text_list">
                                          <div class="slider__content__text_list_element">
                                              <span>✓</span>
-                                             <p>Доступная цена</p>
+                                             <p>Широкая сеть лучших частных клиник</p>
                                          </div>
                                          <div class="slider__content__text_list_element">
                                              <span>✓</span>
-                                             <p>БЕСПЛАТНЫЙ Check Up</p>
+                                             <p>Эксклюзивное право работы с MediClub</p>
                                          </div>
                                          <div class="slider__content__text_list_element">
                                              <span>✓</span>
-                                             <p>Для взрослых и детей</p>
+                                             <p>Современный контакт-центр (24/7)</p>
                                          </div>
                                      </div>
                                      <div class="slider__content__text_button">
