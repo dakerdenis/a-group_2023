@@ -20,7 +20,7 @@
                                  <div class="slider__content__text_">
                                      <div class="slider__content__text_name">
                                          <p>
-                                             Ваше <span>ЗДОРОВЬЕ</span> <br> наш <span>ПРИОРИТЕТ</span>
+                                             Ваше <span>ЗДОРОВЬЕ</span> <br> наш ПРИОРИТЕТ
                                          </p>
                                      </div>
                                      <div class="slider__content__text_desc">
